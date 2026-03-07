@@ -32,10 +32,6 @@ Thumbs.db
 logs/
 
 # Project data artifacts (generated)
-data/processed_chunks/
-data/synthetic_pairs/
-data/splits/
-
 # Training / retrieval artifacts
 models/
 checkpoints/
