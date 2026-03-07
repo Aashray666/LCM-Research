@@ -1,0 +1,916 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="vms370854" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Vet Med Sci</journal-id><journal-id journal-id-type="iso-abbrev">Vet Med Sci</journal-id><journal-id journal-id-type="pmc-domain-id">3144</journal-id><journal-id journal-id-type="pmc-domain">vetmedsci</journal-id><journal-id journal-id-type="publisher-id">VMS3</journal-id><journal-title-group><journal-title>Veterinary Medicine and Science</journal-title></journal-title-group><issn pub-type="epub">2053-1095</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12961356</article-id><article-id pub-id-type="pmcid-ver">PMC12961356.1</article-id><article-id pub-id-type="pmcaid">12961356</article-id><article-id pub-id-type="pmcaiid">12961356</article-id><article-id pub-id-type="pmid">41782495</article-id><article-id pub-id-type="doi">10.1002/vms3.70854</article-id><article-id pub-id-type="publisher-id">VMS370854</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject><subj-group subj-group-type="heading"><subject>Equine</subject></subj-group></subj-group></article-categories><title-group><article-title>Survey on Faecal Microbiota Transplantation and Probiotic Use in Equine Practice in France and Belgium</article-title></title-group><contrib-group><contrib id="vms370854-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Loublier</surname><given-names initials="C">Clémence</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8442-2766</contrib-id><xref rid="vms370854-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="vms370854-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>cloublier@uliege.be</email></address></contrib><contrib id="vms370854-cr-0002" contrib-type="author"><name name-style="western"><surname>Taminiau</surname><given-names initials="B">Bernard</given-names></name><xref rid="vms370854-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="vms370854-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="vms370854-cr-0003" contrib-type="author"><name name-style="western"><surname>Seidel</surname><given-names initials="L">Laurence</given-names></name><xref rid="vms370854-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="vms370854-cr-0004" contrib-type="author"><name name-style="western"><surname>Moula</surname><given-names initials="N">Nassim</given-names></name><xref rid="vms370854-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="vms370854-cr-0005" contrib-type="author"><name name-style="western"><surname>Tano</surname><given-names initials="C">Colombe</given-names></name><xref rid="vms370854-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="vms370854-cr-0006" contrib-type="author"><name name-style="western"><surname>Cesarini</surname><given-names initials="C">Carla</given-names></name><xref rid="vms370854-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="vms370854-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="vms370854-cr-0007" contrib-type="author"><name name-style="western"><surname>Costa</surname><given-names initials="M">Marcio</given-names></name><xref rid="vms370854-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="vms370854-cr-0008" contrib-type="author"><name name-style="western"><surname>Lecoq</surname><given-names initials="L">Laureline</given-names></name><xref rid="vms370854-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="vms370854-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="vms370854-cr-0009" contrib-type="author"><name name-style="western"><surname>Daube</surname><given-names initials="G">Georges</given-names></name><xref rid="vms370854-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="vms370854-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="vms370854-cr-0010" contrib-type="author"><name name-style="western"><surname>Amory</surname><given-names initials="H">Hélène</given-names></name><xref rid="vms370854-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="vms370854-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="vms370854-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Equine Clinical Department</named-content>
+<named-content content-type="organisation-division">Faculty of Veterinary Medicine</named-content>
+<institution>University of Liège</institution>
+<city>Liège</city>
+<country country="BE">Belgium</country>
+</aff><aff id="vms370854-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Fundamental and Applied Research for Animals &amp; Health (FARAH)</named-content>
+<named-content content-type="organisation-division">Faculty of Veterinary Medicine</named-content>
+<institution>University of Liège</institution>
+<city>Liège</city>
+<country country="BE">Belgium</country>
+</aff><aff id="vms370854-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Food Sciences—Microbiology</named-content>
+<named-content content-type="organisation-division">Faculty of Veterinary Medicine</named-content>
+<institution>University of Liege</institution>
+<city>Liège</city>
+<country country="BE">Belgium</country>
+</aff><aff id="vms370854-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Biostatistics and Research Method Center (B‐STAT)</named-content>
+<institution>CHU‐ULiège</institution>
+<city>Liège</city>
+<country country="BE">Belgium</country>
+</aff><aff id="vms370854-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">GIGA Animal Facilities</named-content>
+<institution>University of Liège</institution>
+<city>Liège</city>
+<country country="BE">Belgium</country>
+</aff><aff id="vms370854-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Veterinary Biomedicine</named-content>
+<institution>University of Montreal</institution>
+<city>Saint‐Hyacinthe</city>
+<named-content content-type="country-part">Quebec</named-content>
+<country country="CA">Canada</country>
+</aff><pub-date pub-type="epub"><day>05</day><month>3</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2026</year></pub-date><volume>12</volume><issue seq="520">2</issue><issue-id pub-id-type="pmc-issue-id">506510</issue-id><issue-id pub-id-type="doi">10.1002/vms3.v12.2</issue-id><elocation-id>e70854</elocation-id><history><date date-type="rev-recd"><day>04</day><month>12</month><year>2025</year></date><date date-type="received"><day>22</day><month>7</month><year>2025</year></date><date date-type="accepted"><day>10</day><month>1</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>05</day><month>03</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>06</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-06 08:25:13.253"><day>06</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Veterinary Medicine and Science</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="VMS3-12-e70854.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:VMS3-12-e70854.pdf"/><abstract><title>ABSTRACT</title><sec id="vms370854-sec-0010"><title>Background</title><p>Faecal microbiota transplantation (FMT) and probiotics are used in equine practice. Understanding veterinarians’ perceptions and practices is crucial for effective implementation.</p></sec><sec id="vms370854-sec-0020"><title>Objective</title><p>(1) Evaluate the prevalence, usage patterns and perceived effectiveness of probiotics and FMT among equine veterinarians in France and Belgium. (2) Assess their knowledge, practices and influencing factors across demographics and settings. (3) Explore links between FMT protocols and treatment satisfaction.</p></sec><sec id="vms370854-sec-0030"><title>Study Design</title><p>Cross‐sectional survey.</p></sec><sec id="vms370854-sec-0040"><title>Methods</title><p>An online survey collected demographic data and responses on the use of probiotics and FMT. Analyses included descriptive statistics, chi‐square tests and logistic regression models.</p></sec><sec id="vms370854-sec-0050"><title>Results</title><p>Ninety‐six equine veterinarians participated, practicing in Belgium (52.1%), France (39.6%) or both (8.3%). Probiotic use was reported by 82.1%, more frequent in field than clinical practice (odds ratio [OR] = 3.61, 95% CI [1.09, 12.02], <italic toggle="yes">p</italic> = 0.036) and in France than Belgium (OR = 5.08, 95% CI [1.44, 17.94], <italic toggle="yes">p</italic> = 0.012). Probiotics were used for chronic diarrhoea (88.0%), acute diarrhoea (67.6%) and inflammatory bowel diseases (45.9%). Most veterinarians (83.3%) defined probiotics well, but 16.7% misidentified non‐probiotic products. FMT was used by 76.0%, mainly occasionally and therapeutically, more in clinical than field practice (OR = 4.79, 95% CI [1.03, 22.27], <italic toggle="yes">p</italic> = 0.046). In theory, 58.3% prioritized infection‐free donors, but only 22.5% tested donors before FMT, mostly using coprology (93.8%). Those who tested donors reported higher perceived efficacy (<italic toggle="yes">p</italic> = 0.0029).</p></sec><sec id="vms370854-sec-0060"><title>Main Limitations</title><p>Potential selection bias, as participation was voluntary. Generalizability might be limited by focus on France and Belgium. Sample size, while informative, should be expanded.</p></sec><sec id="vms370854-sec-0070"><title>Conclusion</title><p>Probiotics and FMT were commonly used therapeutically by equine veterinarians in France and Belgium. Although probiotic use was widespread, some misunderstandings remained. FMT protocols varied, with donor faeces often untested. Treatment satisfaction was generally positive but estimated success rates varied. Standardized FMT protocols are needed to improve outcomes and consistency.</p></sec></abstract><abstract id="vms370854-abs-0001" abstract-type="graphical"><p>A survey of 96 equine veterinarians in France and Belgium revealed widespread therapeutic use of probiotics (82.1%) and faecal microbiota transplantation (76.0%). Knowledge gaps persisted, with 16.7% misidentifying non‐probiotic products and only 22.5% performing donor testing before FMT. Donor screening was associated with higher perceived efficacy, highlighting the need for clearer definitions and standardized FMT protocols to improve safety and treatment consistency. 
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="VMS3-12-e70854-g001.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="vms370854-kwd-0001">faecal microbiota transplantation (FMT)</kwd><kwd id="vms370854-kwd-0002">horse</kwd><kwd id="vms370854-kwd-0003">microbiome</kwd><kwd id="vms370854-kwd-0004">prebiotics</kwd><kwd id="vms370854-kwd-0005">questionnaire</kwd><kwd id="vms370854-kwd-0006">transfaunation</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Fonds De La Recherche Scientifique ‐ FNRS</institution><institution-id institution-id-type="doi">10.13039/501100002661</institution-id></institution-wrap>
+</funding-source><award-id>40005849</award-id></award-group></funding-group><counts><fig-count count="2"/><table-count count="5"/><page-count count="13"/><word-count count="8443"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:05.03.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="vms370854-sec-0080"><label>1</label><title>Introduction</title><p>The gastrointestinal (GI) tract harbours a complex and diverse microbiota, including bacteria, fungi and viruses, which play a fundamental role in maintaining digestive and overall health (Kamada et al. <xref rid="vms370854-bib-0022" ref-type="bibr">2013</xref>; Van Den Abbeele et al. <xref rid="vms370854-bib-0045" ref-type="bibr">2011</xref>). In horses, disruptions to this microbial balance, known as dysbiosis, have been associated with factors such as antimicrobial use, sudden change of diet, transportation, hospitalization, fasting and both GI and non‐GI diseases in horses (Costa et al. <xref rid="vms370854-bib-0011" ref-type="bibr">2012</xref>, <xref rid="vms370854-bib-0012" ref-type="bibr">2015</xref>; Fernandes et al. <xref rid="vms370854-bib-0018" ref-type="bibr">2014</xref>; Loublier et al. <xref rid="vms370854-bib-0025" ref-type="bibr">2025</xref>; Salem et al. <xref rid="vms370854-bib-0035" ref-type="bibr">2019</xref>; Schoster et al. <xref rid="vms370854-bib-0036" ref-type="bibr">2017</xref>; Steelman et al. <xref rid="vms370854-bib-0040" ref-type="bibr">2012</xref>; Theelen et al. <xref rid="vms370854-bib-0043" ref-type="bibr">2021</xref>; Weese et al. <xref rid="vms370854-bib-0049" ref-type="bibr">2015</xref>). Given its crucial role, modulation of the equine GI microbiota has garnered interest as a potential prophylactic and therapeutic strategy (Mullen et al. <xref rid="vms370854-bib-0030" ref-type="bibr">2018</xref>).</p><p>Probiotics, defined as live microorganisms that confer health benefits when administered in adequate amounts, have been widely studied in human medicine for conditions such as antibiotic‐associated diarrhoea, depressive symptoms (at least two weeks of anhedonia, apathy, depressed mood, and psychomotor slowing) and colorectal cancer (Hill et al. <xref rid="vms370854-bib-0019" ref-type="bibr">2014</xref>). However, their efficacy in equine medicine remains uncertain and appears to depend on factors such as the specific probiotic strain, dosage and host response (Desrochers et al. <xref rid="vms370854-bib-0014" ref-type="bibr">2005</xref>; Schoster et al. <xref rid="vms370854-bib-0037" ref-type="bibr">2014</xref>; Weese and Rousseau <xref rid="vms370854-bib-0050" ref-type="bibr">2005</xref>).</p><p>Faecal microbiota transplantation (FMT), another microbiota‐targeted therapy, aims to restore microbial balance by transferring faecal material from a healthy donor to a recipient. Although FMT has been well‐documented in human medicine, particularly for the treatment of recurrent <italic toggle="yes">Clostridioides difficile</italic> infections, its use in equine medicine remains less established (Baunwall et al. <xref rid="vms370854-bib-0002" ref-type="bibr">2021</xref>; Cammarota et al. <xref rid="vms370854-bib-0010" ref-type="bibr">2019</xref>; Quraishi et al. <xref rid="vms370854-bib-0033" ref-type="bibr">2017</xref>). Current literature presents conflicting results regarding its prophylactic and therapeutic benefits, with variations in preparation methods, donor selection and administration protocols potentially influencing treatment outcomes (Costa et al. <xref rid="vms370854-bib-0013" ref-type="bibr">2021</xref>; Feary and Hassel <xref rid="vms370854-bib-0017" ref-type="bibr">2006</xref>; Kinoshita et al. <xref rid="vms370854-bib-0023" ref-type="bibr">2022</xref>; Laustsen et al. <xref rid="vms370854-bib-0024" ref-type="bibr">2021</xref>; McKinney et al. <xref rid="vms370854-bib-0028" ref-type="bibr">2021</xref>, <xref rid="vms370854-bib-0029" ref-type="bibr">2020</xref>; Mullen et al. <xref rid="vms370854-bib-0030" ref-type="bibr">2018</xref>; Pietro et al. <xref rid="vms370854-bib-0032" ref-type="bibr">2023</xref>). Unlike human medicine, where consensus guidelines exist for FMT, equine FMT lacks standardized, evidence‐based assessments (Cammarota et al. <xref rid="vms370854-bib-0010" ref-type="bibr">2019</xref>). To the author's knowledge, only few studies exist regarding FMT quality assessment, and guidelines based only on personal experiences have been suggested (Loublier et al. <xref rid="vms370854-bib-0026" ref-type="bibr">2023</xref>; McKinney et al. <xref rid="vms370854-bib-0029" ref-type="bibr">2020</xref>; Mullen et al. <xref rid="vms370854-bib-0030" ref-type="bibr">2018</xref>; Pietro et al. <xref rid="vms370854-bib-0032" ref-type="bibr">2023</xref>).</p><p>Despite the growing interest in probiotics and FMT in equine medicine, comprehensive data on their usage, prevalence, application patterns and perceived effectiveness among veterinarians remain scarce. Such information is critical for developing evidence‐based guidelines for microbiota‐targeted therapies in horses.</p><p>This study aimed to evaluate the use, prevalence and perceived effectiveness of probiotics and FMT among equine veterinarians in France and Belgium. It also examined veterinarians’ knowledge, clinical practices and the factors influencing the adoption of these therapies across various demographics and practice settings. Emphasis was placed on FMT protocols to assess their role in treatment outcomes. We hypothesized that the adoption of probiotic and FMT therapies is influenced by factors such as clinical experience, access to specialized training and type of practice. We also anticipated that both therapies would be widely used, but with differing levels of perceived effectiveness, and that specific FMT protocols could be associated with improved treatment outcomes.</p></sec><sec id="vms370854-sec-0090"><label>2</label><title>Materials and Methods</title><sec id="vms370854-sec-0100"><label>2.1</label><title>Survey Conception</title><p>An online questionnaire in French was developed using Google Forms (Supporting Information <xref rid="vms370854-supinfo-0001" ref-type="">1</xref>). The survey comprised 35 questions, including multiple‐choice, single‐choice and short open‐ended questions. Open‐ended responses were manually analyzed by a single observer (CL) and categorized based on synonyms or conceptual equivalence to guarantee comprehensive inclusion of all responses. The survey was designed with the objective to assess veterinarians’ understanding and application of probiotic and FMT in their equine medicine practice, as well as their perception on these treatments’ effectiveness. For that purpose, the questionnaire was structured into the two following sections: (1) demographic information (gender, age, duration of equine medicine practice, country of practice, work structure, level of specialization) and (2) probiotic and FMT use (veterinarians’ knowledge, usage patterns, selection criteria for FMT donors and recipients, FMT procedure practices and opinions on FMT efficacy).</p></sec><sec id="vms370854-sec-0110"><label>2.2</label><title>Survey Distribution</title><p>The questionnaire targeted veterinarians practicing equine medicine in France and Belgium. The survey was distributed through several channels. It was featured in the November 2022 newsletter of the AVEF (French Equine Veterinary Association), emailed to veterinarians registered in the French and French‐speaking Belgian veterinary orders in December 2022 and published twice on the French veterinary online platform Vetofocus (June and November 2022). Between June 2022 and December 2022, it was also broadcast on the social network Facebook in a dedicated group of equine veterinarians and on SurveyCircle, a questionnaire platform. The questionnaire was available for responses until January 2023.</p></sec><sec id="vms370854-sec-0120"><label>2.3</label><title>Statistical Analysis</title><p>Descriptive statistics were presented as frequency tables. Logistic (ordinal) regression models were employed to analyse the use of probiotic and FMT as well as to evaluate knowledge levels. Odds ratios (ORs) with 95% confidence intervals were reported. Firth's correction was applied where necessary to address convergence issues. Multivariate models were also constructed. The association between FMT efficacy and various parameters was assessed using chi‐square tests. Statistical significance was set at <italic toggle="yes">p</italic> &lt; 0.05. All analyses were performed using SAS version 9.4.</p></sec></sec><sec id="vms370854-sec-0130"><label>3</label><title>Results</title><sec id="vms370854-sec-0140"><label>3.1</label><title>Description of the Responding Veterinarians</title><p>We received 102 answers to the questionnaire but 6 were excluded because the veterinarians were not practicing in Belgium or France. Therefore, the questionnaire responses from 96 equine veterinarians were used in the study (Table <xref rid="vms370854-tbl-0001" ref-type="table">1</xref>). Most of the responders were women (66.3% women, 33.7% men) and were less than 35 years old (42.9%), followed by those between 35 and 55 years old (32.9%) and those older than 55 years old (24.3%). Approximately half of the respondents (57.3%) had less than 10 years of experience in veterinary practice. The respondents were predominantly practicing in Belgium (52.1% in Belgium), whereas 39.6% were practicing in France, and 8.3% in both countries. Most respondents worked in the field (73.1%), whereas 19.4% worked in clinics, and 7.5% worked in both types of practices. Only 6.3% were board‐certified from the European College of Equine Internal Medicine (ECEIM) or of Veterinary Surgery (ECVS), or from the American College of Veterinary Internal Medicine (ACVIM). The number of responses to each survey question may differ slightly, as participation in individual items was not mandatory.</p><table-wrap position="float" id="vms370854-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Table describing the demographic characteristics of responding veterinarians.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Variables</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th><th align="center" rowspan="1" colspan="1">%</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Gender (<italic toggle="yes">n</italic> = 80)</bold>
+</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Female</td><td align="center" rowspan="1" colspan="1">53</td><td align="center" rowspan="1" colspan="1">66.3</td></tr><tr><td align="left" rowspan="1" colspan="1">Male</td><td align="center" rowspan="1" colspan="1">27</td><td align="center" rowspan="1" colspan="1">33.7</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Age group (<italic toggle="yes">n</italic> = 70)</bold>
+</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">23–35 years</td><td align="center" rowspan="1" colspan="1">30</td><td align="center" rowspan="1" colspan="1">42.9</td></tr><tr><td align="left" rowspan="1" colspan="1">35–55 years</td><td align="center" rowspan="1" colspan="1">23</td><td align="center" rowspan="1" colspan="1">32.9</td></tr><tr><td align="left" rowspan="1" colspan="1">&gt;55 years</td><td align="center" rowspan="1" colspan="1">17</td><td align="center" rowspan="1" colspan="1">24.3</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Veterinary practice experience (<italic toggle="yes">n</italic> = 96)</bold>
+</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&lt;10 years</td><td align="center" rowspan="1" colspan="1">55</td><td align="center" rowspan="1" colspan="1">57.3</td></tr><tr><td align="left" rowspan="1" colspan="1">&gt;10 years</td><td align="center" rowspan="1" colspan="1">41</td><td align="center" rowspan="1" colspan="1">42.7</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Practice location (<italic toggle="yes">n</italic> = 96)</bold>
+</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Belgium</td><td align="center" rowspan="1" colspan="1">50</td><td align="center" rowspan="1" colspan="1">52.1</td></tr><tr><td align="left" rowspan="1" colspan="1">France</td><td align="center" rowspan="1" colspan="1">38</td><td align="center" rowspan="1" colspan="1">39.6</td></tr><tr><td align="left" rowspan="1" colspan="1">Belgium, France</td><td align="center" rowspan="1" colspan="1">8</td><td align="center" rowspan="1" colspan="1">8.3</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Specialization (<italic toggle="yes">n</italic> = 96)</bold>
+</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">No specialization</td><td align="center" rowspan="1" colspan="1">90</td><td align="center" rowspan="1" colspan="1">93.8</td></tr><tr><td align="left" rowspan="1" colspan="1">Specialized</td><td align="center" rowspan="1" colspan="1">6</td><td align="center" rowspan="1" colspan="1">6.3</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>College type (among specialized, <italic toggle="yes">n</italic> = 6)</bold>
+</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Internal medicine (ECEIM/ACVIM)<xref rid="vms370854-tbl1-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">83.3</td></tr><tr><td align="left" rowspan="1" colspan="1">Surgery (ECVS)</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">16.7</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Practice type (<italic toggle="yes">n</italic> = 93)</bold>
+</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Field</td><td align="center" rowspan="1" colspan="1">68</td><td align="center" rowspan="1" colspan="1">73.1</td></tr><tr><td align="left" rowspan="1" colspan="1">Clinic</td><td align="center" rowspan="1" colspan="1">18</td><td align="center" rowspan="1" colspan="1">19.4</td></tr><tr><td align="left" rowspan="1" colspan="1">Both field and clinic</td><td align="center" rowspan="1" colspan="1">7</td><td align="center" rowspan="1" colspan="1">7.5</td></tr></tbody></table><table-wrap-foot><fn id="vms370854-tbl1-note-0001"><p>Abbreviations: ACVIM, American College of Veterinary Internal Medicine; ECEIM, European College of Equine Internal Medicine; ECVS, European College of Veterinary Surgeons.</p></fn><fn id="vms370854-tbl1-note-0002"><label>
+<sup>a</sup>
+</label><p>ECEIM: <italic toggle="yes">n</italic> = 4; ACVIM: <italic toggle="yes">n</italic> = 1 combined with ECEIM.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="vms370854-sec-0150"><label>3.2</label><title>Use and Knowledge of Probiotic</title><p>Among the 96 responding veterinarians, 82.1% reported using probiotics (Table <xref rid="vms370854-tbl-0002" ref-type="table">2</xref>). Most of them were female (69.4%) and under 35 years old (42.3%). The majority had less than 10 years of veterinary practice (60.3%). Participants were distributed equally between France and Belgium. A large majority were not specialized (93.6%) and primarily worked in field practice (76.6%) (Supporting Information <xref rid="vms370854-supinfo-0001" ref-type="">2</xref>). Univariate analysis indicated higher probiotic usage rates among those working in the field than in clinic (OR = 3.61, 95% CI [1.09, 12.02], <italic toggle="yes">p</italic> = 0.036) and in France than in Belgium (OR = 5.08, 95% CI [1.44, 17.94], <italic toggle="yes">p</italic> = 0.012). Multivariate models confirmed their dominant use in France (OR = 10.41, 95% CI [2.03, 53.48], <italic toggle="yes">p</italic> = 0.0050) and an increased use in field only (OR = 4.37, 95% CI [1.20, 15.87], <italic toggle="yes">p</italic> = 0.026). Among the respondents, 97.4% used probiotic for therapeutic purposes, whereas 66.2% used them for prophylaxis, and 63.6% for both purposes. For therapeutic purposes (multiple choices possible), most veterinarians (88.0%) used probiotics to treat chronic diarrhoea, 67.6% for acute diarrhoea, 45.9% for inflammatory bowel diseases (IBDs) and a small number (5.4%) for other conditions such as behavioural abnormalities, laminitis, dermatological diseases and weight loss. Among veterinarians using probiotics for prophylactic purposes, 82.3% combined them with antibiotics, 49.0% with dietary changes and one veterinarian combined them with transport. Veterinarians were asked to name the probiotics they used in practice to indirectly evaluate their understanding of the definition of a probiotic (Table <xref rid="vms370854-tbl-0003" ref-type="table">3</xref>). Sixty‐six veterinarians answered this question. The main probiotics quoted were primarily Bo Yeas Act Ultra (34.8%), Florequin (34.8%), Flore process (31.8%). The others were used by less than 15% of veterinarians. However, among the sixty‐six respondents, 11 (16.7%) wrongly named at least one product as probiotics in their list, as they confused them with prebiotic, postbiotic or phytotherapeutic products. Overall, 55 (83.3%) veterinarians quoted true probiotics (Table <xref rid="vms370854-tbl-0002" ref-type="table">2</xref>). Knowledge of probiotic names was significantly better in veterinarians practicing in France (OR = 7.11, 95% CI [1.56, 32.49], <italic toggle="yes">p</italic> = 0.011) than those practicing in Belgium when tested with univariate analysis, but not when tested using a multivariate model. Veterinarians aged 35–55 years old had better knowledge than those aged more than 55 years old (OR = 55.80, 95% CI [1.95, 1597], <italic toggle="yes">p</italic> = 0.040) when tested using a univariate as well as a multivariate model.</p><table-wrap position="float" id="vms370854-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Table describing the probiotic usage patterns among responding veterinarians.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Variables</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic>
+</th><th align="center" rowspan="1" colspan="1">%</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Probiotic use</bold> (<italic toggle="yes">n</italic> = 95)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">17</td><td align="center" rowspan="1" colspan="1">17.9</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">78</td><td align="center" rowspan="1" colspan="1">82.1</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Purpose of probiotics use</bold> (<italic toggle="yes">n</italic> = 77)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Prophylaxis only</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">2.6</td></tr><tr><td align="left" rowspan="1" colspan="1">Therapy only</td><td align="center" rowspan="1" colspan="1">26</td><td align="center" rowspan="1" colspan="1">33.8</td></tr><tr><td align="left" rowspan="1" colspan="1">Prophylaxis + Therapy</td><td align="center" rowspan="1" colspan="1">49</td><td align="center" rowspan="1" colspan="1">63.6</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Use for prophylaxis</bold> (<italic toggle="yes">n</italic> = 77)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">26</td><td align="center" rowspan="1" colspan="1">33.8</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">51</td><td align="center" rowspan="1" colspan="1">66.2</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Prophylactic context</bold> (<italic toggle="yes">n</italic> = 51)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Antibiotic</td><td align="center" rowspan="1" colspan="1">26</td><td align="center" rowspan="1" colspan="1">51.0</td></tr><tr><td align="left" rowspan="1" colspan="1">Dietary changes</td><td align="center" rowspan="1" colspan="1">9</td><td align="center" rowspan="1" colspan="1">17.6</td></tr><tr><td align="left" rowspan="1" colspan="1">Antibiotic and dietary changes</td><td align="center" rowspan="1" colspan="1">15</td><td align="center" rowspan="1" colspan="1">29.4</td></tr><tr><td align="left" rowspan="1" colspan="1">Antibiotic, diet and transport</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">2.0</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Use for therapy</bold> (<italic toggle="yes">n</italic> = 77)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">2.6</td></tr><tr><td align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">75</td><td align="center" rowspan="1" colspan="1">97.4</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Therapeutic applications</bold>
+</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">For chronic diarrhoea (<italic toggle="yes">n</italic> = 75)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">9</td><td align="center" rowspan="1" colspan="1">12.0</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">66</td><td align="center" rowspan="1" colspan="1">88.0</td></tr><tr><td align="left" rowspan="1" colspan="1">For acute diarrhoea (<italic toggle="yes">n</italic> = 74)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">24</td><td align="center" rowspan="1" colspan="1">32.4</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">50</td><td align="center" rowspan="1" colspan="1">67.6</td></tr><tr><td align="left" rowspan="1" colspan="1">For IBD (<italic toggle="yes">n</italic> = 74)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">40</td><td align="center" rowspan="1" colspan="1">54.1</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">34</td><td align="center" rowspan="1" colspan="1">45.9</td></tr><tr><td align="left" rowspan="1" colspan="1">For other conditions (<italic toggle="yes">n</italic> = 74)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1">70</td><td align="center" rowspan="1" colspan="1">94.6</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">5.4</td></tr><tr><td style="padding-left:15%" align="left" rowspan="1" colspan="1">‐ Behaviour/dermatology</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1.4</td></tr><tr><td style="padding-left:15%" align="left" rowspan="1" colspan="1">‐ Laminitis</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">1.4</td></tr><tr><td style="padding-left:15%" align="left" rowspan="1" colspan="1">‐ Weight loss</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">2.7</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Knowledge assessment</bold> (<italic toggle="yes">n</italic> = 66)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Misclassified at least one product</td><td align="center" rowspan="1" colspan="1">11</td><td align="center" rowspan="1" colspan="1">16.7</td></tr><tr><td align="left" rowspan="1" colspan="1">Correctly identified probiotics</td><td align="center" rowspan="1" colspan="1">55</td><td align="center" rowspan="1" colspan="1">83.3</td></tr></tbody></table><table-wrap-foot><fn id="vms370854-tbl2-note-0001"><p>Abbreviation: IBD, inflammatory bowel disease.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="vms370854-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Table describing the list of reported probiotic products among responding veterinarians: key components and classification validation.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Commercial name</th><th align="center" rowspan="1" colspan="1">Key components</th><th align="center" rowspan="1" colspan="1">True probiotics?</th><th align="center" rowspan="1" colspan="1">Number of users (<italic toggle="yes">n</italic>, %)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Bentovet plus</bold>
+</td><td align="center" rowspan="1" colspan="1">Glycerine, dextrose, beet molasses, yeasts products, various salts and organic acids. No live microorganisms</td><td align="center" rowspan="1" colspan="1">
+<bold>No</bold>
+</td><td align="center" rowspan="1" colspan="1">1 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Bo Yeas Act Ultra</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">Saccharomyces cerevisiae</italic> (MUCL 52946), <italic toggle="yes">Saccharomyces cerevisiae</italic> (NCYC Sc 47) 1.056 × 10<sup>12</sup> CFU/kg, <italic toggle="yes">Saccharomyces cerevisiae</italic> (MUCL 39885) 3 × 10<sup>9</sup> CFU/kg)</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">23 (34.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>De Groene Os Ultimaflor</bold>
+</td><td align="center" rowspan="1" colspan="1">Inactivated yeast, <italic toggle="yes">Saccharomyces cerevisiae</italic> 3 × 10<sup>9</sup> CFU/g</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">1 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Dia gest Phytovet</bold>
+</td><td align="center" rowspan="1" colspan="1">Carob flour, dextrose, sucrose, vitamin C. No live microorganisms</td><td align="center" rowspan="1" colspan="1">
+<bold>No</bold>
+</td><td align="center" rowspan="1" colspan="1">2 (3)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>EDHYA form</bold>
+</td><td align="center" rowspan="1" colspan="1">Barley germination. <italic toggle="yes">Lactobacillus buchneri</italic> and <italic toggle="yes">Pediococcus acidilactici</italic> 3 × 10<sup>8</sup>/g</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">5 (7.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Equi process</bold>
+</td><td align="center" rowspan="1" colspan="1">Products resulting from the germination and lactic fermentation of barley grains. Specific FAP process (assimilation factor process). No live microorganisms</td><td align="center" rowspan="1" colspan="1">
+<bold>No</bold>
+</td><td align="center" rowspan="1" colspan="1">2 (3)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Flore équilibre</bold>
+</td><td align="center" rowspan="1" colspan="1">Lactic acid bacteria (lactobacilli, bifidobacteria) 40 × 10<sup>9</sup> CFU/portion</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">5 (7.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Flore process</bold>
+</td><td align="center" rowspan="1" colspan="1">Barley germination and lactic fermentation. No live microorganisms</td><td align="center" rowspan="1" colspan="1">
+<bold>No</bold>
+</td><td align="center" rowspan="1" colspan="1">21 (31.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Flore Reverdy</bold>
+</td><td align="center" rowspan="1" colspan="1">Live yeasts (<italic toggle="yes">Saccharomyces cerevisiae</italic> strain Sc 47) 2.0 × 10<sup>9</sup> CFU, Bacterial assimilation factors from lactic fermentation, Fermented organic wholemeal bread</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">2 (3)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Florequin</bold>
+</td><td align="center" rowspan="1" colspan="1">Selected yeast products of <italic toggle="yes">Saccharomyces cerevisiae</italic> (2.5 × 10<sup>12</sup> CFU/portion) and <italic toggle="yes">Cyberlindnera jadinii</italic> (Yang)</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">23 (34.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Gastrophytum</bold>
+</td><td align="center" rowspan="1" colspan="1">Licorice, green clay, aloe vera. Herbal ingredients only</td><td align="center" rowspan="1" colspan="1">
+<bold>No</bold>
+</td><td align="center" rowspan="1" colspan="1">1 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Gutaphytum</bold>
+</td><td align="center" rowspan="1" colspan="1">Turmeric, star anise, feverfew, comfrey, lemon bal. Herbal ingredients only</td><td align="center" rowspan="1" colspan="1">
+<bold>No</bold>
+</td><td align="center" rowspan="1" colspan="1">1 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Levacarb liquid</bold>
+</td><td align="center" rowspan="1" colspan="1">Activated charcoal, bentonite, electrolytes. No live microorganisms</td><td align="center" rowspan="1" colspan="1">
+<bold>No</bold>
+</td><td align="center" rowspan="1" colspan="1">2 (3)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Levacarb powder</bold>
+</td><td align="center" rowspan="1" colspan="1">Yeast (name and quantity not described), activated charcoal, bentonite</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">1 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Multiphytum</bold>
+</td><td align="center" rowspan="1" colspan="1">Thyme, rosehip. Herbal ingredients only</td><td align="center" rowspan="1" colspan="1">
+<bold>No</bold>
+</td><td align="center" rowspan="1" colspan="1">1 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Natural Digest Natural Innov</bold>
+</td><td align="center" rowspan="1" colspan="1">Inactivated whole yeast (name and quantity not described), soluble fermentation solids from hydrolysed yeast, lithothamnium, extruded soybean, vegetable fat</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">1 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Norm Prozorb</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">Enterococcus faecium</italic> 1 × 10<sup>8</sup> CFU, montmorillonite, charcoal, various electrolytes</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">2 (3)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Postact process</bold>
+</td><td align="center" rowspan="1" colspan="1">Barley germination and lactic fermentation. Bentonite; no live microorganisms</td><td align="center" rowspan="1" colspan="1">
+<bold>No</bold>
+</td><td align="center" rowspan="1" colspan="1">8 (12.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Pro B flora Unika</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">Saccharomyces cerevisiae</italic> NCYCSC47 8 × 10<sup>8</sup> CFU Yeast (brewer's yeast); various prebiotics (chicory inulin; fructooligosaccharides)</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">2 (3)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Proferm horsevitality</bold>
+</td><td align="center" rowspan="1" colspan="1">100% spelt bran fermented with effective microorganisms (names and quantity not described)</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">5 (7.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Profix</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">Saccharomyces cerevisiae</italic> 4b 1702 (CNCM I‐4407) 1 × 10<sup>12</sup> CFU/kg, fructo‐oligosaccharides</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">1 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Promodulate</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">Saccharomyces cerevisiae</italic> 2.2 × 10<sup>11</sup> CFU, fructooligosaccharide 97.4%, electrolytes</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">2 (3)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Promodulate Equin</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">Saccharomyces cerevisiae</italic> 2.2 × 10<sup>11</sup> CFU, fructooligosaccharide (FOS) 97.4%, sodium chloride 0.3%, potassium chloride 0.1%</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">1 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Pro'Stimul</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<italic toggle="yes">Saccharomyces cerevisiae</italic> CNCM I‐4407: 200 × 10<sup>10</sup> CFU/kg, yeast cell walls</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">1 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Vediflore</bold>
+</td><td align="center" rowspan="1" colspan="1">Lactic ferments from cereals, inactivated yeast strain <italic toggle="yes">Saccharomyces cerevisiae</italic> (quantity not described), sorbitol and hydrogenated triglycerides of plant origin</td><td align="center" rowspan="1" colspan="1">
+<bold>Yes</bold>
+</td><td align="center" rowspan="1" colspan="1">3 (4.5)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="vms370854-sec-0160"><label>3.3</label><title>Use and Knowledge of FMT</title><p>Among the respondent veterinarians, 76.0% declared to have used FMT at least once (Supporting Information <xref rid="vms370854-supinfo-0001" ref-type="">3</xref>). The users were more frequently those practicing in France than in Belgium (OR = 4.61, 95% CI [1.54, 13.76], <italic toggle="yes">p</italic> = 0.0061), and with less than 10 years of experience as compared with those with more years of experience (OR = 2.65, 95% CI [1.01, 6.94], <italic toggle="yes">p</italic> = 0.047) and practicing in a clinic rather than in the field only (OR = 4.79, 95% CI [1.03, 22.27], <italic toggle="yes">p</italic> = 0.046). Among the FMT users, only one (1.4%) used it for prophylactic purposes when using antibiotics, whereas all (100%) used it for therapeutic purposes. None used it exclusively for prophylaxis. FMT was used to treat (multiple choices possible) chronic diarrhoea (87.7%), acute diarrhoea (56.2%), IBD (24.7%), and other causes such as weight loss or intoxication (4.1%). Among the veterinarians who had never used FMT (24%), the main reason reported was a perceived lack of need (52.2%), followed by a lack of evidence‐based information on its use (30.4%), difficulties in communicating with owners (13.0%), the time‐consuming aspect of the procedure (8.7%) or challenges in finding a suitable donor (8.7%). Of the 73 veterinarians practicing FMT, 67.1% used it occasionally (one patient every 1 or 2 years), 27.4% moderately frequently (one patient every 3 months), and 5.5% frequently (several patients per month) (Figure <xref rid="vms370854-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="FIGURE" id="vms370854-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Nested box describing the responses of veterinarians concerning faecal microbiota transplantation (FMT).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="VMS3-12-e70854-g002.jpg"/></fig><p>The question on self‐assessment of knowledge concerning FMT showed that 64.2% estimated to have basic knowledge, 22.1% had in‐depth knowledge, and 13.7% had only heard about it. Their knowledge in the field came primarily from bibliography (59.6%), followed by conferences (53.2%), veterinary studies (43.6%) and, finally, work‐related discussions (37.2%). The self‐evaluation of FMT knowledge was higher in veterinarians working in France than in Belgium (OR = 2.90, 95% CI [1.21, 6.97], <italic toggle="yes">p</italic> = 0.017 based on univariate and multivariate analysis). The self‐evaluation of FMT knowledge was not statistically associated with the specialization status, the gender or the type of practice. However, trends were observed (specialization OR = 4.31, 95% CI [0.83, 22.47], <italic toggle="yes">p</italic> = 0.083, women gender OR = 2.56, 95% CI [0.95, 6.91], <italic toggle="yes">p</italic> = 0.064 and working in clinical practice OR = 2.58, 95% CI [1.00, 6.70], <italic toggle="yes">p</italic> = 0.051). A statistically significant association was observed between the level of knowledge about FMT and the frequency of its use (<italic toggle="yes">p</italic> &lt; 0.001). Respondents with in‐depth knowledge were associated with moderate use (12/21, 57.1%), whereas those with basic knowledge were associated with occasional (41/61, 67.2%) and moderate use (8/61, 13.1%). Notably, individuals who had just heard of FMT reported no use at all (100%) (Table <xref rid="vms370854-tbl-0004" ref-type="table">4</xref>) (<italic toggle="yes">p </italic>&lt; 0.001).</p><table-wrap position="float" id="vms370854-tbl-0004" content-type="TABLE" orientation="portrait"><label>TABLE 4</label><caption><p>Table describing the frequency of faecal microbiota transplantation (FMT) use according to self‐reported knowledge level.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr><th rowspan="2" align="left" colspan="1">FMT knowledge</th><th colspan="4" style="border-bottom:solid 1px #000000" align="center" rowspan="1">FMT frequency use</th><th rowspan="2" align="center" colspan="1">Total</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" rowspan="1" colspan="1">No</th><th align="center" rowspan="1" colspan="1">Occasional</th><th align="center" rowspan="1" colspan="1">Moderate</th><th align="center" rowspan="1" colspan="1">Frequently</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Just heard</td><td align="center" rowspan="1" colspan="1">13</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">13 (13.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Basic</td><td align="center" rowspan="1" colspan="1">9</td><td align="center" rowspan="1" colspan="1">41</td><td align="center" rowspan="1" colspan="1">8</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1">61 (64.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">In‐depth</td><td align="center" rowspan="1" colspan="1">0</td><td align="center" rowspan="1" colspan="1">8</td><td align="center" rowspan="1" colspan="1">12</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">21 (22.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Total (<italic toggle="yes">n</italic>/%)</td><td align="center" rowspan="1" colspan="1">22 (23.2)</td><td align="center" rowspan="1" colspan="1">49 (51.6)</td><td align="center" rowspan="1" colspan="1">20 (21.1)</td><td align="center" rowspan="1" colspan="1">4 (4.2)</td><td align="center" rowspan="1" colspan="1">95 (100)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>When veterinarians were asked about the theoretical criteria for selecting the FMT donors, the primary concern was ensuring the absence of infections, verified through negative coprology and screenings for equine infectious anaemia, <italic toggle="yes">Salmonella</italic> spp., <italic toggle="yes">Clostridium</italic> spp. (<italic toggle="yes">C. difficile</italic> and <italic toggle="yes">C. perfringens</italic>) and Coronavirus, a criterion cited by 58.3% of respondents. Additionally, 51.4% considered selecting donors from the same location as the recipient, whereas 33.3% prioritized donors that had not undergone treatments in the past 6 months or more. Other factors included a forage‐based diet (27.8%) and using the mother as the donor for foals (15.3%). Notably, 11.1% of veterinarians reported having no specific criteria for donor selection. Among veterinarians using FMT, there was no significant association between their self‐reported level of FMT knowledge and their theoretical answers regarding the performance of donor testing (<italic toggle="yes">p</italic> = 0.12).</p></sec><sec id="vms370854-sec-0170"><label>3.4</label><title>FMT Procedure in Practice (Table <xref rid="vms370854-tbl-0005" ref-type="table">5</xref>)</title><p>Key methodological aspects of FMT application among surveyed veterinarians are summarized in Table <xref rid="vms370854-tbl-0005" ref-type="table">5</xref>. Approximately one‐fifth (16/72, 22.5%) of respondents conducted donor screening, most commonly utilizing coprology, with fewer performing blood, bacterial, or viral tests. FMT was administered across all age categories, with a notable prevalence in adult horses aged 5–20 years. Rectal fecal collection and manual mixing with warm water were the predominant approaches, and filtration was typically performed using fabric or sieves. Administration was almost exclusively via nasogastric intubation, most often delivered once daily over three days. Fees for the procedure most ranged from 25 up to 100 euros. Use of additives such as bicarbonate, or pre‐infusion storage of fecal material, was rare. Importantly, donor testing was significantly associated with greater perceived clinical efficacy (<italic toggle="yes">p</italic> = 0.0029). Selecting donors with a forage diet or not filtering the FMT before administration tended to be more commonly used in the positive perception group, but results were not significantly different (<italic toggle="yes">p</italic> = 0.061 and 0.064, respectively) (Supporting information 4).</p><table-wrap position="float" id="vms370854-tbl-0005" content-type="TABLE" orientation="portrait"><label>TABLE 5</label><caption><p>Table describing veterinarians’ responses regarding the faecal microbiota transplantation (FMT) performed in their practice.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Variable</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">N</italic>
+</th><th align="center" rowspan="1" colspan="1">Number (%)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Donor tests</td><td align="center" rowspan="1" colspan="1">71</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">55 (77.5)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">16 (22.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Donor tests type</td><td align="center" rowspan="1" colspan="1">16</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Coprology</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">6 (37.5)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Bacterial testing</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">1 (6.3)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Coprology, bacterial testing</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">1 (6.3)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Blood analysis, coprology</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">6 (37.5)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Blood analysis, coprology, bacterial testing, viral testing</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">1 (6.3)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Coprology, bacterial testing, viral testing</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">1 (6.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Donor faecal collection</td><td align="center" rowspan="1" colspan="1">72</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Rectal collection</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">41 (56.9)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Warm feces from the ground</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">18 (25.0)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Warm feces from the ground, rectal collection</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">13 (18.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Donor faecal quantity</td><td align="center" rowspan="1" colspan="1">70</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">A Handful</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">24 (34.3)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Half a pile</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">13 (18.6)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">A Pile</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">24 (34.3)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Several piles</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">5 (7.1)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Variable quantity</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">4 (5.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Diluent type</td><td align="center" rowspan="1" colspan="1">71</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Water</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">63 (88.7)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Water and salt</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">8 (11.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Diluent temperature</td><td align="center" rowspan="1" colspan="1">71</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Cold (&lt;20°C)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">5 (7.0)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Warm (20–37°C)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">58 (81.7)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Hot temperature (&gt;37°C)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">2 (2.8)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Any temperature</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">6 (8.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Mixing type</td><td align="center" rowspan="1" colspan="1">71</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No mix</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">1 (1.4)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Manual (hand, spoon, hip)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">60 (84.5)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Mechanical (blender)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">10 (14.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Filtration use</td><td align="center" rowspan="1" colspan="1">71</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">14 (19.7)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">57 (80.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Filtration type</td><td align="center" rowspan="1" colspan="1">57</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Fabric</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">32 (56.1)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Sieve</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">18 (31.6)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Fabric or sieve</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">7 (12.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">After preparation</td><td align="center" rowspan="1" colspan="1">71</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Give it straight</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">67 (94.4)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Give it straight or store (4°C)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">3 (4.2)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Give it straight or store (−18°C)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">1 (1.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Bicarbonate additive</td><td align="center" rowspan="1" colspan="1">71</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">66 (93.0)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">5 (7.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Bicarbonate quantity (mg)</td><td align="center" rowspan="1" colspan="1">3</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">60</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">1 (33.3)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">4000</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">1 (33.3)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">60,000</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">1 (33.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Recipient age horse (multiple responses allowed)</td><td align="center" rowspan="1" colspan="1">72</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">&lt;1 year</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">5 (6.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">1–5 years</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">14 (19.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">5–20 years</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">21 (29.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">&gt;20 years</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">3 (4.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Not based on age</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">42 (58.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Recipient preparation</td><td align="center" rowspan="1" colspan="1">71</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">45 (63.4)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">26 (36.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Recipient preparation‐type</td><td align="center" rowspan="1" colspan="1">25</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Stop AB</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">2 (8.0%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Omeprazole</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">14 (56.0%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Omeprazole, stop AB</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">7 (28.0%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Fasting</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">2 (8.0%)</td></tr><tr><td align="left" rowspan="1" colspan="1">FMT transfer type</td><td align="center" rowspan="1" colspan="1">71</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Nasogastric</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">67 (94.4)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Nasogastric or oral</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">3 (4.2)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Nasogastric or rectally</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">1 (1.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">FMT daily frequency</td><td align="center" rowspan="1" colspan="1">71</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">1×/day</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">62 (87.3)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">2×/day</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">5 (7.0)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">3×/day</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">4 (5.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">FMT duration</td><td align="center" rowspan="1" colspan="1">71</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">For less 3 days</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">25 (35.2)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">For 3 days</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">26 (36.6)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Until symptoms end</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">20 (28.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">FMT price (euros)</td><td align="center" rowspan="1" colspan="1">72</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Free</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">4 (5.6)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">&lt;25</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">2 (2.8)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">25–50</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">48 (66.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">50–100</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">18 (25.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">FMT prophylaxis success satisfaction</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">60%–70% prophylaxis</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">1 (100.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">FMT therapy success satisfaction</td><td align="center" rowspan="1" colspan="1">72</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Little or not effective (&lt;40%)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">3 (4.2)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Random (50%–60%)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">24 (33.3)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Effective (&gt;60%)</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">45 (62.5)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec></sec><sec id="vms370854-sec-0180"><label>4</label><title>Discussion</title><p>This study provided valuable insights into the use of probiotics and FMT among equine veterinarians working in France and Belgium. The response rate from veterinarians working in Belgium represented around 15% of the French‐speaking Belgian equine veterinary population, ensuring robust representation (330 equine veterinarians recorded in the French‐speaking part of Belgium in 2022) (Belgian Order, personal communication, 2022). In contrast, the response rate of the equine veterinarians working in France was lower, accounting for approximately 1% of the national equine veterinary population (3314 equine veterinarians recorded in France in 2022) (French Order, personal communication, 2022). The gender distribution of respondents reflected the demographic composition of the equine veterinary profession in France, where women account for 58% of equine veterinarians (French Order, personal communication, 2022) and 30% in Belgium (Belgian Order, personal communication, 2022). Most respondents had not completed a specialization; among those board‐certified, ECEIM certification was most common, reflecting the medical focus of FMT use.</p><p>Probiotics were more widely used than FMT (82.1% vs. 76.0%), primarily for therapeutic purposes (97.4% for therapy vs. 66.2% for prophylaxis), especially in cases of chronic and acute diarrhoea, and to a lesser extent, IBD. Notably, a few veterinarians reported using probiotics for non‐GI conditions such as behavioural abnormalities, laminitis, dermatological diseases and weight loss, likely extrapolating from human medicine where ‘psychobiotic therapies’ have shown promise to modulate the gut–brain axis (Ribeiro et al. <xref rid="vms370854-bib-0034" ref-type="bibr">2022</xref>; Slykerman et al. <xref rid="vms370854-bib-0039" ref-type="bibr">2017</xref>; Sun et al. <xref rid="vms370854-bib-0041" ref-type="bibr">2022</xref>). Nevertheless, there is some evidence that the intestinal microbiota composition might play a role in equine behaviour (Destrez et al. <xref rid="vms370854-bib-0015" ref-type="bibr">2015</xref>; Mach et al. <xref rid="vms370854-bib-0027" ref-type="bibr">2020</xref>), but microbiota manipulation used to modulate their behaviour remains to be demonstrated.</p><p>The main use of probiotics for GI diseases aligns with published literature, though results remain controversial (Shaw and Stämpfli <xref rid="vms370854-bib-0038" ref-type="bibr">2018</xref>). For example, <italic toggle="yes">Saccharomyces boulardii</italic> has been shown to reduce diarrhoea duration in some studies (Desrochers et al. <xref rid="vms370854-bib-0014" ref-type="bibr">2005</xref>), but not in others (Boyle <xref rid="vms370854-bib-0008" ref-type="bibr">2021</xref>). Similarly, administration of <italic toggle="yes">Lactobacillus</italic> spp. and <italic toggle="yes">Bifidobacterium animalis</italic> lactis had minimal impact on clostridial shedding or faecal microbiota composition in a study performed in foals (Schoster et al. <xref rid="vms370854-bib-0037" ref-type="bibr">2014</xref>). Studies on postoperative colic patients and hospitalized horses have yielded controversial results regarding the impact of probiotics on <italic toggle="yes">Salmonella</italic> shedding and diarrhoea incidence (Parraga et al. <xref rid="vms370854-bib-0031" ref-type="bibr">1997</xref>; Ward et al. <xref rid="vms370854-bib-0046" ref-type="bibr">2004</xref>). Although some evidence supports their prophylactic use (Tanabe et al. <xref rid="vms370854-bib-0042" ref-type="bibr">2014</xref>), other studies found no significant benefit (John et al. <xref rid="vms370854-bib-0021" ref-type="bibr">2015</xref>). Moreover, an accurate assessment of the literature on probiotics is hindered by publication bias, which may lead to an overestimation of their efficacy (Weese <xref rid="vms370854-bib-0048" ref-type="bibr">2025</xref>). A recent study evaluating probiotic interventions for GI diseases in dogs and cats identified significant publication bias: abstracts reporting positive clinical outcomes were substantially more likely to be published (83% of published abstracts) compared to those reporting no beneficial effects (67% of unpublished abstracts). Such bias complicates the critical appraisal of the available evidence and poses challenges for the development of evidence‐based clinical guidelines. Research on non‐GI indications is limited, with only isolated reports of benefits in weight gain and diarrhoea reduction in foals (Yuyama <xref rid="vms370854-bib-0053" ref-type="bibr">2005</xref>).</p><p>In our study, most respondents using probiotics worked in field settings (OR = 3.61, 95% CI [1.09, 12.02], <italic toggle="yes">p</italic> = 0.036), whereas those using FMT were more frequently working in clinical settings (OR = 4.79, 95% CI [1.03, 22.27], <italic toggle="yes">p</italic> = 0.046), likely due to the easier administration of probiotics than FMT. Veterinarians working in France were more likely to use both probiotics (OR = 10.41, 95% CI [2.03, 53.48], <italic toggle="yes">p</italic> = 0.0050) and FMT (OR = 4.61, 95% CI [1.54, 13.76], <italic toggle="yes">p</italic> = 0.0061) than the veterinarians working in Belgium, though the reason for this difference remains unclear.</p><p>Many responding veterinarians demonstrated confusion regarding probiotic products, with 16.7% misidentifying non‐probiotic products as probiotics. Knowledge was significantly higher among veterinarians working in France (OR = 7.11, 95% CI [1.56, 32.49], <italic toggle="yes">p</italic> = 0.011) than in Belgium, with univariate analysis. This highlights the need for clearer definitions, improved education and more accurate product labelling. Multiple studies have documented inconsistencies in the labelling and content of commercial probiotic products, including omission of key information, mislabelling and inclusion of non‐probiotic or potentially pathogenic microorganisms (Berreta et al. <xref rid="vms370854-bib-0005" ref-type="bibr">2021</xref>; Schoster et al. <xref rid="vms370854-bib-0037" ref-type="bibr">2014</xref>). The clinical efficacy and safety of probiotics in horses remain insufficiently supported by robust data (Schoster et al. <xref rid="vms370854-bib-0037" ref-type="bibr">2014</xref>). Some strains, such as <italic toggle="yes">Lactobacillus pentosus</italic>, have been associated with adverse effects (Weese and Rousseau <xref rid="vms370854-bib-0050" ref-type="bibr">2005</xref>), and others may carry transferable antibiotic resistance genes (Weese <xref rid="vms370854-bib-0047" ref-type="bibr">2002</xref>). Although our survey did not specifically address adverse events, the literature underscores the need for more controlled studies to establish the safety and efficacy of those products.</p><p>Veterinarians of our study primarily gained knowledge on FMT from literature (59.6%), conferences (53.2%), veterinary studies (43.6%) and work‐related discussions (37.2%). Improved knowledge was associated with increased FMT acceptability (<italic toggle="yes">p</italic> &lt; 0.001). This observation has also been reported in human medicine, where individuals with knowledge of FMT demonstrated higher acceptability of undergoing the procedure (Benech et al. <xref rid="vms370854-bib-0004" ref-type="bibr">2022</xref>).</p><p>FMT was used by 76.0% of respondents, typically on an occasional basis (one patient every 1 or 2 years), mainly for diarrhoea and, to a lesser extent, IBD. Barriers to FMT use included perceived lack of necessity (52.2%), limited evidence‐based data (30.4%), communication challenges with owners (13.0%), time constraints (8.7%), and difficulty finding suitable donors (8.7%). All veterinarians used FMT therapeutically, with only one veterinarian reporting prophylactic use during antibiotic administration. The limited use of FMT for prophylaxis may be due to its more invasive and constraining nature compared to probiotics. The efficacy of FMT for prophylaxis remains unclear, with a recent study showing no significant benefit in preventing antibiotic‐induced dysbiosis (Kinoshita et al. <xref rid="vms370854-bib-0023" ref-type="bibr">2022</xref>). Moreover, the literature does not provide clear conclusions on FMT efficacy in diarrhoeic horses: Some studies failed to detect significant changes in the faecal microbiota after FMT, whereas others described trends toward increased alpha‐diversity and compositional similarity to healthy horses (Costa et al. <xref rid="vms370854-bib-0013" ref-type="bibr">2021</xref>; McKinney et al. <xref rid="vms370854-bib-0029" ref-type="bibr">2020</xref>). However, these studies are limited by the small sample sizes, the failure to control the cause of diarrhoea in naturally occurring cases, and the lack of control groups (Boucher et al. <xref rid="vms370854-bib-0007" ref-type="bibr">2024</xref>). FMT use was more common among veterinarians working in France, in clinical settings, and among those with less than 10 years of experience. Although FMT has been used ‘for decades’, the result of our study suggests a trend of increasing FMT use (Mullen et al. <xref rid="vms370854-bib-0030" ref-type="bibr">2018</xref>).</p><p>Although subjective and not scientifically tested, perceptions of FMT efficacy for therapeutic use were generally positive in our study, with 62.5% of veterinarians considering it effective (giving a success rate of more than 60%). However, around one‐third of the responders reported a random effectiveness (approximately 50% of success rate), and a few (3%) even reported a perception of low efficiency. In the literature, the efficacy of FMT in equine medicine is not conclusively established, with studies showing mixed outcomes (Costa et al. <xref rid="vms370854-bib-0013" ref-type="bibr">2021</xref>; McKinney et al. <xref rid="vms370854-bib-0029" ref-type="bibr">2020</xref>). In our study, when considering the criteria used for donors and receivers or the technique used to apply the FMT, the only variable significantly associated with an improved perception of efficiency by the veterinarian was pre‐FMT donor testing (<italic toggle="yes">p</italic> = 0.0029), supporting the need for systematic donor screening. A forage‐based donor diet showed a trend toward improved perception of efficiency (<italic toggle="yes">p</italic> = 0.061), though not statistically significant. Although this association did not reach statistical significance, it remains biologically plausible as forage‐based diets have been shown to have a positive impact on the equine intestinal microbiota by inducing a better stability of the microbiota and higher number of species compared to forage‐concentrate diet (Dougal et al. <xref rid="vms370854-bib-0016" ref-type="bibr">2014</xref>; Willing et al. <xref rid="vms370854-bib-0052" ref-type="bibr">2009</xref>). The selection of equine donors warrants further investigation.</p><p>Similarly, filtration exhibited a borderline trend (<italic toggle="yes">p</italic> = 0.064), potentially indicating that avoiding filtration during FMT preparation may preserve key microbial components adhered to the fibre and improve clinical responses. However, these observations should be interpreted cautiously due to the limited sample size, the subjective nature of collected data and the lack of statistical significance. Other factors, such as age of the receiver, donor selection and preparation protocols, were not significantly associated with effectiveness perception of the FMT, underscoring the need for controlled prospective studies. Most veterinarians rated their self‐evaluated knowledge of FMT as basic (64.2%), with only 22.1% reporting in‐depth knowledge. Clearly, the provision of evidence‐based proofs of efficacy and better information for veterinarians in this field could logically support wider use of this technique, which has been shown to be effective in the treatment of several diseases in human medicine (Baunwall et al. <xref rid="vms370854-bib-0002" ref-type="bibr">2021</xref>; Cammarota et al. <xref rid="vms370854-bib-0010" ref-type="bibr">2019</xref>; Ianiro et al. <xref rid="vms370854-bib-0020" ref-type="bibr">2018</xref>; Quraishi et al. <xref rid="vms370854-bib-0033" ref-type="bibr">2017</xref>).</p><p>Donor selection criteria varied among the responders in this study, with infection‐free status, geographic proximity and absence of recent medical treatments being the most commonly considered. However, 11.1% of respondents indicated that they do not use any donor selection criteria, highlighting concerns regarding knowledge gaps and the lack of consensus. Even if there is no published consensus on it, several studies recommend comprehensive screening of the donors prior to FMT, including physical examination, clinical history, vaccination and deworming status and infectious disease testing (e.g., PCR panels for Coronavirus, <italic toggle="yes">C. difficile</italic> toxins, <italic toggle="yes">C. perfringens</italic> antigens, <italic toggle="yes">Lawsonia intracellularis</italic>, <italic toggle="yes">Neorickettsia risticii</italic> and <italic toggle="yes">Salmonella</italic> spp.) (Mullen et al. <xref rid="vms370854-bib-0030" ref-type="bibr">2018</xref>). Geographical proximity between the donor and recipient, as well as a washout period and exclusion of disease within the previous 6–12 months, are also often advised (McKinney et al. <xref rid="vms370854-bib-0029" ref-type="bibr">2020</xref>; Mullen et al. <xref rid="vms370854-bib-0030" ref-type="bibr">2018</xref>; Tuniyazi et al. <xref rid="vms370854-bib-0044" ref-type="bibr">2023</xref>). Both healthy geriatric and young‐adult horses may serve as donors, with studies reporting the use of one to three donors, likely reflecting availability rather than an optimal number (McKinney et al. <xref rid="vms370854-bib-0029" ref-type="bibr">2020</xref>; Tuniyazi et al. <xref rid="vms370854-bib-0044" ref-type="bibr">2023</xref>). Despite clear recommendations in the literature for comprehensive pre‐FMT donor screening, only 22.5% of veterinarians reported performing such tests, highlighting a significant gap in best practices that may compromise the safety, consistency and reliability of treatment outcomes. Prices charged varied between 25–50 euros for 66.7% of FMT users, but the questionnaire did not specifically ask respondents to distinguish between veterinarian fees and additional laboratory costs; thus, the reported prices may not reflect all expenses incurred by the client.</p><p>Most veterinarians in the present study used fresh faeces collected rectally, diluted with warm water, mixed manually and filtered before administration via nasogastric tube, consistent with published protocols (Costa et al. <xref rid="vms370854-bib-0011" ref-type="bibr">2012</xref>; Mullen et al. <xref rid="vms370854-bib-0030" ref-type="bibr">2018</xref>). Rectal collection of fresh faeces from the donor is the most commonly used collecting method, though other methods, such as collecting warm faeces from the ground, using a faecal collector or administering frozen aliquots, have also been described (Mullen et al. <xref rid="vms370854-bib-0030" ref-type="bibr">2018</xref>; Tuniyazi et al. <xref rid="vms370854-bib-0044" ref-type="bibr">2023</xref>). Administration of caecal contents obtained immediately after euthanasia of a healthy donor has also been reported but was not mentioned by any of the respondents, likely due to practical challenges (Feary and Hassel <xref rid="vms370854-bib-0017" ref-type="bibr">2006</xref>; Mullen et al. <xref rid="vms370854-bib-0030" ref-type="bibr">2018</xref>). Mixing fresh stool with lukewarm water is a standard step, but the faeces‐to‐water ratio varies widely in the literature (e.g., 1 kg in 4 L, 1 kg in 5 L, 1.6 kg in 3.2 L, 500 g in 1 L or 300 g in 1 L) (Costa et al. <xref rid="vms370854-bib-0013" ref-type="bibr">2021</xref>; Kinoshita et al. <xref rid="vms370854-bib-0023" ref-type="bibr">2022</xref>; Loublier et al. <xref rid="vms370854-bib-0026" ref-type="bibr">2023</xref>; McKinney et al. <xref rid="vms370854-bib-0029" ref-type="bibr">2020</xref>; Pietro et al. <xref rid="vms370854-bib-0032" ref-type="bibr">2023</xref>). Such variations in preparation methods, diluent types and temperatures, mixing and filtration could impact the bacterial quality of the final sample, underscoring again the need for standardized FMT protocols (Loublier et al. <xref rid="vms370854-bib-0026" ref-type="bibr">2023</xref>; Pietro et al. <xref rid="vms370854-bib-0032" ref-type="bibr">2023</xref>). Interestingly, one veterinarian reported rectal administration of FMT. Although previously described, this route is discouraged in horses due to the long descending colon, which may impede transit of faecal material to the large colon and caecum (Brandt and Aroniadis <xref rid="vms370854-bib-0009" ref-type="bibr">2013</xref>). In the present study, the volume of faecal material collected from donors varied among practitioners (from a handful to a full pile), whereas the literature typically describes quantities ranging from 0.5 to 2 kg (Tuniyazi et al. <xref rid="vms370854-bib-0044" ref-type="bibr">2023</xref>). For reference, a single faecal pile from a 500 kg horse is estimated at 700 g to 1.8 kg, with total daily output ranging from 9 kg (stabled) to 23 kg (pasture‐kept) (Boscan et al. <xref rid="vms370854-bib-0006" ref-type="bibr">2006</xref>; Williams et al. <xref rid="vms370854-bib-0051" ref-type="bibr">2015</xref>). Frequency and duration of FMT administration used by the veterinarians of the present study also widely varied, with most practitioners administering it once daily (87.3%) for up to 3 days (71.4%), consistent with published regimens that range from a single dose to once or twice daily for 3–5 days (Bell et al. <xref rid="vms370854-bib-0003" ref-type="bibr">2024</xref>; Kinoshita et al. <xref rid="vms370854-bib-0023" ref-type="bibr">2022</xref>; Laustsen et al. <xref rid="vms370854-bib-0024" ref-type="bibr">2021</xref>; McKinney et al. <xref rid="vms370854-bib-0029" ref-type="bibr">2020</xref>; Pietro et al. <xref rid="vms370854-bib-0032" ref-type="bibr">2023</xref>). Most (58.3%) veterinarians did not restrict FMT to a specific recipient age, and literature supports its use in foals and geriatric horses (McKinney et al. <xref rid="vms370854-bib-0029" ref-type="bibr">2020</xref>; Mullen et al. <xref rid="vms370854-bib-0030" ref-type="bibr">2018</xref>). Some veterinarians did prepare the recipient horse before performing FMT (36.6%), and omeprazole use was frequent (84%), likely aiming to reduce gastric acidity and thereby improve bacterial viability (Mullen et al. <xref rid="vms370854-bib-0030" ref-type="bibr">2018</xref>). This approach finds some parallel in human medicine, where the peri‐interventional use of prokinetics and proton pump inhibitors (PPIs) has been reported for upper GI FMT delivery. However, consensus statement highlights that the beneficial effects of these medications remain unproven; moreover, due to their potential side effects and the capacity to alter gut microbiota, their use should be approached with caution (Cammarota et al. <xref rid="vms370854-bib-0010" ref-type="bibr">2019</xref>). This underscores the need for further research and careful consideration of recipient preparation protocols in both veterinary and human FMT practice. The findings of our study highlight the considerable diversity in FMT practices in equine medicine and underscore that variations in preparation methods, diluent types and filtration could impact the quality and safety of the final product, which reinforces the urgent need for standardized, evidence‐based protocols to ensure consistency and optimal clinical outcomes (Arantes et al. <xref rid="vms370854-bib-0001" ref-type="bibr">2025</xref>; Loublier et al. <xref rid="vms370854-bib-0026" ref-type="bibr">2023</xref>; Pietro et al. <xref rid="vms370854-bib-0032" ref-type="bibr">2023</xref>).</p><p>The main limitations of this study are potential selection bias, as participation was voluntary and may have attracted veterinarians with a particular interest in probiotics and FMT, and limited generalizability due to the focus on France and Belgium and a low response rate from France. Although the sample size provides valuable insights, a larger cohort would strengthen future conclusions. The cross‐sectional, self‐reported design may not fully reflect actual clinical practices, and accurate data such as donor age, number, clinical data of each treated case, effects of the treatments on clinical signs, ancillary examination results or intestinal microbiota were not collected, which made a rigorous scientific evaluation of the FMT efficiency impossible. Despite these limitations, this study demonstrated that probiotics and FMT are widely used for GI disorders, even though supporting evidence remains limited and conflicting. Future research should prioritize large controlled prospective studies to clarify the benefits and risks of these interventions and to develop standardized guidelines, ultimately improving care and outcomes for equine patients.</p></sec><sec id="vms370854-sec-0190"><label>5</label><title>Conclusions</title><p>This study highlights widespread use of probiotics and FMT among equine veterinarians in France and Belgium, with significant diversity in protocols and notable gaps in knowledge and best practices. Both interventions are commonly used mainly for therapeutic purposes for GI disorders, yet supporting evidence remains limited and inconsistent. Although veterinarians were aware of the importance of infectious disease testing, the majority did not perform any tests on FMT donors. This underscores an urgent need to standardize equine FMT protocols, not only to improve clinical outcomes but also to establish essential biosecurity measures. Addressing these gaps through improved education, clearer product definitions and robust clinical research is essential to support evidence‐based use and enhance the safety and effectiveness of these interventions for equine patients.</p></sec><sec id="vms370854-sec-0200"><title>Author Contributions</title><p>
+<bold>Clémence Loublier</bold>: conceptualization, investigation, funding acquisition, writing – original draft, methodology, visualization, writing – review and editing, project administration. <bold>Bernard Taminiau</bold>: writing – review and editing, conceptualization, methodology. <bold>Laurence Seidel</bold>: formal analysis, data curation, visualization, writing – review and editing. <bold>Nassim Moula</bold>: formal analysis, data curation, writing – review and editing. <bold>Colombe Tano</bold>: conceptualization, methodology, investigation, writing – review and editing. <bold>Carla Cesarini</bold>: conceptualization, writing – review and editing, methodology. <bold>Marcio Costa</bold>: writing – review and editing. <bold>Laureline Lecoq</bold>: writing – review and editing. <bold>Georges Daube</bold>: writing – review and editing. <bold>Hélène Amory</bold>: conceptualization, methodology, supervision, funding acquisition, project administration, writing – review and editing.</p></sec><sec id="vms370854-sec-0220"><title>Funding</title><p>Funding was provided by Fonds De La Recherche Scientifique—FNRS (Veterinary MD. PhD. VETE‐CCD) and Fonds Spéciaux de Recherche (project name: REPOOPULATE).</p></sec><sec id="vms370854-sec-0230"><title>Ethics Statement</title><p>The present study involved a survey distributed to veterinarians. All participants took part voluntarily, and responses were anonymous. According to local regulations and institutional policies, such surveys do not require formal ethical approval.</p></sec><sec sec-type="COI-statement" id="vms370854-sec-0240"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="vms370854-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="vms370854-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supporting Information 1</bold>: Survey (scripted method) distributed to veterinarians working in France and Belgium about the use of probiotics and faecal microbiota transplantation in equine practice.</p><p>
+<bold>Supporting Information 2</bold>: Table describing the veterinarian respondents in relation to probiotic use.</p><p>
+<bold>Supporting Information 3</bold>: Table describing the veterinarian respondents in relation to FMT use.</p><p>
+<bold>Supporting Information 4</bold>: Table describing factors influencing the effectiveness of faecal microbiota transplantation (FMT) in horses: a comparative analysis.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="VMS3-12-e70854-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="vms370854-sec-0210"><title>Acknowledgements</title><p>The authors would like to thank all the veterinarians who responded to our survey. We also gratefully acknowledge Dr. V. Delcenserie and Dr. F. Laforêt for their valuable input regarding the probiotic's topic.</p></ack><sec sec-type="data-availability" id="vms370854-sec-0260"><title>Data Availability Statement</title><p>The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.</p></sec><ref-list id="vms370854-bibl-0001"><title>References</title><ref id="vms370854-bib-0001"><mixed-citation publication-type="journal" id="vms370854-cite-0001">
+<string-name name-style="western">
+<surname>Arantes</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Di Pietro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ratté</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. G.</given-names>
+<surname>Arroyo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Leclère</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Costa</surname>
+</string-name>. <year>2025</year>. “<article-title>Changes in Bacterial Viability After Preparation and Storage of Fecal Microbiota Transplantation Solution Using Equine Feces</article-title>.” <source>Peer Journal</source>
+<volume>13</volume>: <elocation-id>e18860</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.7717/peerj.18860</pub-id><pub-id pub-id-type="pmcid">PMC11847485</pub-id><pub-id pub-id-type="pmid">39989751</pub-id></mixed-citation></ref><ref id="vms370854-bib-0002"><mixed-citation publication-type="journal" id="vms370854-cite-0002">
+<string-name name-style="western">
+<surname>Baunwall</surname>, <given-names>S. M. D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Terveer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Dahlerup</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>The Use of Faecal Microbiota Transplantation (FMT) in Europe: A Europe‐Wide Survey</article-title>.” <source>Lancet Regional Health—Europe</source>
+<volume>9</volume>: <elocation-id>100181</elocation-id>.<pub-id pub-id-type="pmid">34693388</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.lanepe.2021.100181</pub-id><pub-id pub-id-type="pmcid">PMC8513118</pub-id></mixed-citation></ref><ref id="vms370854-bib-0003"><mixed-citation publication-type="journal" id="vms370854-cite-0003">
+<string-name name-style="western">
+<surname>Bell</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. L.</given-names>
+<surname>Raidal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. S.</given-names>
+<surname>Cuming</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Trope</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K. J.</given-names>
+<surname>Hughes</surname>
+</string-name>. <year>2024</year>. “<article-title>Effects of Fecal Microbiota Transplantation on Clinical Outcomes and Fecal Microbiota of Foals With Diarrhea</article-title>.” <source>Veterinary Internal Medicine</source>
+<volume>38</volume>, no. <issue>5</issue>: <fpage>2718</fpage>–<lpage>2728</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jvim.17185</pub-id><pub-id pub-id-type="pmcid">PMC11423448</pub-id><pub-id pub-id-type="pmid">39266472</pub-id></mixed-citation></ref><ref id="vms370854-bib-0004"><mixed-citation publication-type="journal" id="vms370854-cite-0004">
+<string-name name-style="western">
+<surname>Benech</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Legendre</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Radoszycki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Varriale</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Sokol</surname>
+</string-name>. <year>2022</year>. “<article-title>Patient Knowledge of Gut Microbiota and Acceptability of Fecal Microbiota Transplantation in Various Diseases</article-title>.” <source>Neurogastroenterology &amp; Motility</source>
+<volume>34</volume>: <elocation-id>e14320</elocation-id>.<pub-id pub-id-type="pmid">35037353</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/nmo.14320</pub-id></mixed-citation></ref><ref id="vms370854-bib-0005"><mixed-citation publication-type="journal" id="vms370854-cite-0005">
+<string-name name-style="western">
+<surname>Berreta</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>Burbick</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Alexander</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Kogan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. J.</given-names>
+<surname>Kopper</surname>
+</string-name>. <year>2021</year>. “<article-title>Microbial Variability of Commercial Equine Probiotics</article-title>.” <source>Journal of Equine Veterinary Science</source>
+<volume>106</volume>: <elocation-id>103728</elocation-id>.<pub-id pub-id-type="pmid">34670695</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jevs.2021.103728</pub-id></mixed-citation></ref><ref id="vms370854-bib-0006"><mixed-citation publication-type="journal" id="vms370854-cite-0006">
+<string-name name-style="western">
+<surname>Boscan</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Van Hoogmoed</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. B.</given-names>
+<surname>Farver</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. R.</given-names>
+<surname>Snyder</surname>
+</string-name>. <year>2006</year>. “<article-title>Evaluation of the Effects of the Opioid Agonist Morphine on Gastrointestinal Tract Function in Horses</article-title>.” <source>American Journal of Animal and Veterinary Sciences</source>
+<volume>67</volume>, no. <issue>6</issue>: <fpage>992</fpage>–<lpage>997</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.2460/ajvr.67.6.992</pub-id><pub-id pub-id-type="pmid">16740092</pub-id></mixed-citation></ref><ref id="vms370854-bib-0007"><mixed-citation publication-type="journal" id="vms370854-cite-0007">
+<string-name name-style="western">
+<surname>Boucher</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Leduc</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Leclère</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Costa</surname>
+</string-name>. <year>2024</year>. “<article-title>Current Understanding of Equine Gut Dysbiosis and Microbiota Manipulation Techniques: Comparison With Current Knowledge in Other Species</article-title>.” <source>Animals</source>
+<volume>14</volume>, no. <issue>5</issue>: <fpage>758</fpage>.<pub-id pub-id-type="pmid">38473143</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ani14050758</pub-id><pub-id pub-id-type="pmcid">PMC10931082</pub-id></mixed-citation></ref><ref id="vms370854-bib-0008"><mixed-citation publication-type="journal" id="vms370854-cite-0008">
+<string-name name-style="western">
+<surname>Boyle</surname>, <given-names>A. G.</given-names>
+</string-name>
+<year>2021</year>. “<article-title>Respiratory Distress in the Adult and Foal</article-title>.” <source>Veterinary Clinics of North America: Equine Practice</source>
+<volume>37</volume>, no. <issue>2</issue>: <fpage>311</fpage>–<lpage>325</lpage>.<pub-id pub-id-type="pmid">34119402</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cveq.2021.04.005</pub-id></mixed-citation></ref><ref id="vms370854-bib-0009"><mixed-citation publication-type="journal" id="vms370854-cite-0009">
+<string-name name-style="western">
+<surname>Brandt</surname>, <given-names>L. J.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>O. C.</given-names>
+<surname>Aroniadis</surname>
+</string-name>. <year>2013</year>. “<article-title>An Overview of Fecal Microbiota Transplantation: Techniques, Indications, and Outcomes</article-title>.” <source>Gastrointestinal Endoscopy</source>
+<volume>78</volume>, no. <issue>2</issue>: <fpage>240</fpage>–<lpage>249</lpage>.<pub-id pub-id-type="pmid">23642791</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.gie.2013.03.1329</pub-id></mixed-citation></ref><ref id="vms370854-bib-0010"><mixed-citation publication-type="journal" id="vms370854-cite-0010">
+<string-name name-style="western">
+<surname>Cammarota</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Ianiro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. R.</given-names>
+<surname>Kelly</surname>
+</string-name>, et al. <year>2019</year>. “<article-title>International Consensus Conference on Stool Banking for Faecal Microbiota Transplantation in Clinical Practice</article-title>.” <source>Gut</source>
+<volume>68</volume>, no. <issue>12</issue>: <fpage>2111</fpage>–<lpage>2121</lpage>.<pub-id pub-id-type="pmid">31563878</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gutjnl-2019-319548</pub-id><pub-id pub-id-type="pmcid">PMC6872442</pub-id></mixed-citation></ref><ref id="vms370854-bib-0011"><mixed-citation publication-type="journal" id="vms370854-cite-0011">
+<string-name name-style="western">
+<surname>Costa</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. G.</given-names>
+<surname>Arroyo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Allen‐Vercoe</surname>
+</string-name>, et al. <year>2012</year>. “<article-title>Comparison of the Fecal Microbiota of Healthy Horses and Horses With Colitis by High Throughput Sequencing of the V3–V5 Region of the 16S rRNA Gene</article-title>.” <source>PLoS ONE</source>
+<volume>7</volume>, no. <issue>7</issue>: <elocation-id>e41484</elocation-id>.<pub-id pub-id-type="pmid">22859989</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0041484</pub-id><pub-id pub-id-type="pmcid">PMC3409227</pub-id></mixed-citation></ref><ref id="vms370854-bib-0012"><mixed-citation publication-type="journal" id="vms370854-cite-0012">
+<string-name name-style="western">
+<surname>Costa</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H. R.</given-names>
+<surname>Stämpfli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. G.</given-names>
+<surname>Arroyo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Allen‐Vercoe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. G.</given-names>
+<surname>Gomes</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Weese</surname>
+</string-name>. <year>2015</year>. “<article-title>Changes in the Equine Fecal Microbiota Associated With the Use of Systemic Antimicrobial Drugs</article-title>.” <source>BMC Veterinary Research</source>
+<volume>11</volume>, no. <issue>1</issue>: <fpage>19</fpage>.<pub-id pub-id-type="pmid">25644524</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12917-015-0335-7</pub-id><pub-id pub-id-type="pmcid">PMC4323147</pub-id></mixed-citation></ref><ref id="vms370854-bib-0013"><mixed-citation publication-type="journal" id="vms370854-cite-0013">
+<string-name name-style="western">
+<surname>Costa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Di Pietro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Bessegatto</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>Evaluation of Changes in Microbiota After Fecal Microbiota Transplantation in 6 Diarrheic Horses</article-title>.” <source>Canadian Veterinary Journal</source>
+<volume>62</volume>, no. <issue>10</issue>: <fpage>1123</fpage>–<lpage>1130</lpage>.<pub-id pub-id-type="pmcid">PMC8439339</pub-id><pub-id pub-id-type="pmid">34602643</pub-id></mixed-citation></ref><ref id="vms370854-bib-0014"><mixed-citation publication-type="journal" id="vms370854-cite-0014">
+<string-name name-style="western">
+<surname>Desrochers</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B. A.</given-names>
+<surname>Dolente</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. F.</given-names>
+<surname>Roy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Boston</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Carlisle</surname>
+</string-name>. <year>2005</year>. “<article-title>Efficacy of <italic toggle="yes">Saccharomyces boulardii</italic> for Treatment of Horses With Acute Enterocolitis</article-title>.” <source>Journal of the American Veterinary Medical Association</source>
+<volume>227</volume>, no. <issue>6</issue>: <fpage>954</fpage>–<lpage>959</lpage>.<pub-id pub-id-type="pmid">16190596</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2460/javma.2005.227.954</pub-id></mixed-citation></ref><ref id="vms370854-bib-0015"><mixed-citation publication-type="journal" id="vms370854-cite-0015">
+<string-name name-style="western">
+<surname>Destrez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Grimm</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Cézilly</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Julliand</surname>
+</string-name>. <year>2015</year>. “<article-title>Changes of the Hindgut Microbiota Due to High‐Starch Diet Can be Associated With Behavioral Stress Response in Horses</article-title>.” <source>Physiology &amp; Behavior</source>
+<volume>149</volume>: <fpage>159</fpage>–<lpage>164</lpage>.<pub-id pub-id-type="pmid">26048306</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.physbeh.2015.05.039</pub-id></mixed-citation></ref><ref id="vms370854-bib-0016"><mixed-citation publication-type="journal" id="vms370854-cite-0016">
+<string-name name-style="western">
+<surname>Dougal</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>de la Fuente</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. A.</given-names>
+<surname>Harris</surname>
+</string-name>, et al. <year>2014</year>. “<article-title>Characterisation of the Faecal Bacterial Community in Adult and Elderly Horses Fed a High Fibre, High Oil or High Starch Diet Using 454 Pyrosequencing</article-title>.” <source>PLoS ONE</source>
+<volume>9</volume>, no. <issue>2</issue>: <elocation-id>e87424</elocation-id>.<pub-id pub-id-type="pmid">24504261</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0087424</pub-id><pub-id pub-id-type="pmcid">PMC3913607</pub-id></mixed-citation></ref><ref id="vms370854-bib-0017"><mixed-citation publication-type="journal" id="vms370854-cite-0017">
+<string-name name-style="western">
+<surname>Feary</surname>, <given-names>D. J.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Hassel</surname>
+</string-name>. <year>2006</year>. “<article-title>Enteritis and Colitis in Horses</article-title>.” <source>Veterinary Clinics of North America: Equine Practice</source>
+<volume>22</volume>, no. <issue>2</issue>: <fpage>437</fpage>–<lpage>479</lpage>.<pub-id pub-id-type="pmid">16882483</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cveq.2006.03.008</pub-id></mixed-citation></ref><ref id="vms370854-bib-0018"><mixed-citation publication-type="journal" id="vms370854-cite-0018">
+<string-name name-style="western">
+<surname>Fernandes</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kittelmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. W.</given-names>
+<surname>Rogers</surname>
+</string-name>, et al. <year>2014</year>. “<article-title>Faecal Microbiota of Forage‐Fed Horses in New Zealand and the Population Dynamics of Microbial Communities Following Dietary Change. Forster RJ, editor</article-title>.” <source>PLoS ONE 9</source> no. 11: <elocation-id>e112846</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0112846</pub-id><pub-id pub-id-type="pmcid">PMC4226576</pub-id><pub-id pub-id-type="pmid">25383707</pub-id></mixed-citation></ref><ref id="vms370854-bib-0019"><mixed-citation publication-type="journal" id="vms370854-cite-0019">
+<string-name name-style="western">
+<surname>Hill</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Guarner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Reid</surname>
+</string-name>, et al. <year>2014</year>. “<article-title>The International Scientific Association for Probiotics and Prebiotics Consensus Statement on the Scope and Appropriate Use of the Term Probiotic</article-title>.” <source>Nature Reviews Gastroenterology &amp; Hepatology</source>
+<volume>11</volume>, no. <issue>8</issue>: <fpage>506</fpage>–<lpage>514</lpage>.<pub-id pub-id-type="pmid">24912386</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrgastro.2014.66</pub-id></mixed-citation></ref><ref id="vms370854-bib-0020"><mixed-citation publication-type="journal" id="vms370854-cite-0020">
+<string-name name-style="western">
+<surname>Ianiro</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Maida</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Burisch</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>Efficacy of Different Faecal Microbiota Transplantation Protocols for <italic toggle="yes">Clostridium difficile</italic> Infection: A Systematic Review and Meta‐Analysis</article-title>.” <source>UEG Journal</source>
+<volume>6</volume>, no. <issue>8</issue>: <fpage>1232</fpage>–<lpage>1244</lpage>.<pub-id pub-id-type="pmid">30288286</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/2050640618780762</pub-id><pub-id pub-id-type="pmcid">PMC6169051</pub-id></mixed-citation></ref><ref id="vms370854-bib-0021"><mixed-citation publication-type="journal" id="vms370854-cite-0021">
+<string-name name-style="western">
+<surname>John</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Roediger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Schroedl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Aldaher</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Vervuert</surname>
+</string-name>. <year>2015</year>. “<article-title>Development of Intestinal Microflora and Occurrence of Diarrhoea in Sucking Foals: Effects of <italic toggle="yes">Bacillus cereus</italic> Var. Toyoi Supplementation</article-title>.” <source>BMC Veterinary Research</source>
+<volume>11</volume>, no. <issue>1</issue>: <fpage>34</fpage>.<pub-id pub-id-type="pmid">25889817</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12917-015-0355-3</pub-id><pub-id pub-id-type="pmcid">PMC4333172</pub-id></mixed-citation></ref><ref id="vms370854-bib-0022"><mixed-citation publication-type="journal" id="vms370854-cite-0022">
+<string-name name-style="western">
+<surname>Kamada</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. U.</given-names>
+<surname>Seo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. Y.</given-names>
+<surname>Chen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Núñez</surname>
+</string-name>. <year>2013</year>. “<article-title>Role of the Gut Microbiota in Immunity and Inflammatory Disease</article-title>.” <source>Nature Reviews Immunology</source>
+<volume>13</volume>, no. <issue>5</issue>: <fpage>321</fpage>–<lpage>335</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nri3430</pub-id><pub-id pub-id-type="pmid">23618829</pub-id></mixed-citation></ref><ref id="vms370854-bib-0023"><mixed-citation publication-type="journal" id="vms370854-cite-0023">
+<string-name name-style="western">
+<surname>Kinoshita</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Niwa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Uchida‐Fujii</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Nukada</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Ueno</surname>
+</string-name>. <year>2022</year>. “<article-title>Simultaneous Daily Fecal Microbiota Transplantation Fails to Prevent Metronidazole‐Induced Dysbiosis of Equine Gut Microbiota</article-title>.” <source>Journal of Equine Veterinary Science</source>
+<volume>114</volume>: <elocation-id>104004</elocation-id>.<pub-id pub-id-type="pmid">35526726</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jevs.2022.104004</pub-id></mixed-citation></ref><ref id="vms370854-bib-0024"><mixed-citation publication-type="journal" id="vms370854-cite-0024">
+<string-name name-style="western">
+<surname>Laustsen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Edwards</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. D. A.</given-names>
+<surname>Hermes</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>Free Faecal Water: Analysis of Horse Faecal Microbiota and the Impact of Faecal Microbial Transplantation on Symptom Severity</article-title>.” <source>Animals : An Open Access Journal From MDPI</source>
+<volume>11</volume>, no. <issue>10</issue>: <fpage>2776</fpage>.<pub-id pub-id-type="pmid">34679798</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ani11102776</pub-id><pub-id pub-id-type="pmcid">PMC8533009</pub-id></mixed-citation></ref><ref id="vms370854-bib-0025"><mixed-citation publication-type="journal" id="vms370854-cite-0025">
+<string-name name-style="western">
+<surname>Loublier</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Costa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Taminiau</surname>
+</string-name>, et al. <year>2025</year>. “<article-title>Longitudinal Changes in Fecal Microbiota during Hospitalization in Horses With Different Types of Colic</article-title>.” <source>Veterinary Internal Medicine</source>
+<volume>39</volume>, no. <issue>2</issue>: <elocation-id>e70039</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jvim.70039</pub-id><pub-id pub-id-type="pmcid">PMC11884602</pub-id><pub-id pub-id-type="pmid">40048584</pub-id></mixed-citation></ref><ref id="vms370854-bib-0026"><mixed-citation publication-type="journal" id="vms370854-cite-0026">
+<string-name name-style="western">
+<surname>Loublier</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Taminiau</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Heinen</surname>
+</string-name>, et al. <year>2023</year>. “<article-title>Evaluation of Bacterial Composition and Viability of Equine Feces After Processing for Transplantation</article-title>.” <source>Microorganisms</source>
+<volume>11</volume>, no. <issue>2</issue>: <fpage>231</fpage>.<pub-id pub-id-type="pmid">36838196</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/microorganisms11020231</pub-id><pub-id pub-id-type="pmcid">PMC9966902</pub-id></mixed-citation></ref><ref id="vms370854-bib-0027"><mixed-citation publication-type="journal" id="vms370854-cite-0027">
+<string-name name-style="western">
+<surname>Mach</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ruet</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Clark</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>Priming for Welfare: Gut Microbiota Is Associated With Equitation Conditions and Behavior in Horse Athletes</article-title>.” <source>Scientific Reports</source>
+<volume>10</volume>, no. <issue>1</issue>: <fpage>8311</fpage>.<pub-id pub-id-type="pmid">32433513</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-020-65444-9</pub-id><pub-id pub-id-type="pmcid">PMC7239938</pub-id></mixed-citation></ref><ref id="vms370854-bib-0028"><mixed-citation publication-type="journal" id="vms370854-cite-0028">
+<string-name name-style="western">
+<surname>McKinney</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Bedenice</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. P.</given-names>
+<surname>Pacheco</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>Assessment of Clinical and Microbiota Responses to Fecal Microbial Transplantation in Adult Horses With Diarrhea</article-title>.” <source>PLoS ONE</source>
+<volume>16</volume>, no. <issue>1</issue>: <elocation-id>e0244381</elocation-id>.<pub-id pub-id-type="pmid">33444319</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0244381</pub-id><pub-id pub-id-type="pmcid">PMC7808643</pub-id></mixed-citation></ref><ref id="vms370854-bib-0029"><mixed-citation publication-type="journal" id="vms370854-cite-0029">
+<string-name name-style="western">
+<surname>McKinney</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B. C. M.</given-names>
+<surname>Oliveira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Bedenice</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>The Fecal Microbiota of Healthy Donor Horses and Geriatric Recipients Undergoing Fecal Microbial Transplantation for the Treatment of Diarrhea</article-title>.” <source>PLoS ONE</source>
+<volume>15</volume>, no. <issue>3</issue>: <elocation-id>e0230148</elocation-id>.<pub-id pub-id-type="pmid">32155205</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0230148</pub-id><pub-id pub-id-type="pmcid">PMC7064224</pub-id></mixed-citation></ref><ref id="vms370854-bib-0030"><mixed-citation publication-type="journal" id="vms370854-cite-0030">
+<string-name name-style="western">
+<surname>Mullen</surname>, <given-names>K. R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Yasuda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Divers</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Weese</surname>
+</string-name>. <year>2018</year>. “<article-title>Equine Faecal Microbiota Transplant: Current Knowledge, Proposed Guidelines and Future Directions</article-title>.” <source>Equine Veterinary Education</source>
+<volume>30</volume>, no. <issue>3</issue>: <fpage>151</fpage>–<lpage>160</lpage>.<pub-id pub-id-type="pmid">32313396</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/eve.12559</pub-id><pub-id pub-id-type="pmcid">PMC7159401</pub-id></mixed-citation></ref><ref id="vms370854-bib-0031"><mixed-citation publication-type="journal" id="vms370854-cite-0031">
+<string-name name-style="western">
+<surname>Parraga</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Spier</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Thurmond</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Hirsh</surname>
+</string-name>. <year>1997</year>. “<article-title>A Clinical Trial of Probiotic Administration for Prevention of <italic toggle="yes">Salmonella</italic> Shedding in the Postoperative Period in Horses With Colic</article-title>.” <source>Veterinary Internal Medicine</source>
+<volume>11</volume>, no. <issue>1</issue>: <fpage>36</fpage>–<lpage>41</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1939-1676.1997.tb00071.x</pub-id><pub-id pub-id-type="pmid">9132482</pub-id></mixed-citation></ref><ref id="vms370854-bib-0032"><mixed-citation publication-type="journal" id="vms370854-cite-0032">
+<string-name name-style="western">
+<surname>Pietro</surname>, <given-names>R. D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. G.</given-names>
+<surname>Arroyo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Leclere</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Costa</surname>
+</string-name>. <year>2023</year>. “<article-title>Effects of Concentrated Fecal Microbiota Transplant on the Equine Fecal Microbiota After Antibiotic‐Induced Dysbiosis</article-title>.” <source>Canadian Journal of Veterinary Research</source>
+<volume>87</volume>, no. <issue>2</issue>: <fpage>85</fpage>–<lpage>96</lpage>.<pub-id pub-id-type="pmid">37020579</pub-id>
+<pub-id pub-id-type="pmcid">PMC10069150</pub-id></mixed-citation></ref><ref id="vms370854-bib-0033"><mixed-citation publication-type="journal" id="vms370854-cite-0033">
+<string-name name-style="western">
+<surname>Quraishi</surname>, <given-names>M. N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Widlak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Bhala</surname>
+</string-name>, et al. <year>2017</year>. “<article-title>Systematic Review With Meta‐Analysis: The Efficacy of Faecal Microbiota Transplantation for the Treatment of Recurrent and Refractory <italic toggle="yes">Clostridium difficile</italic> Infection</article-title>.” <source>Alimentary Pharmacology &amp; Therapeutics</source>
+<volume>46</volume>, no. <issue>5</issue>: <fpage>479</fpage>–<lpage>493</lpage>.<pub-id pub-id-type="pmid">28707337</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/apt.14201</pub-id></mixed-citation></ref><ref id="vms370854-bib-0034"><mixed-citation publication-type="journal" id="vms370854-cite-0034">
+<string-name name-style="western">
+<surname>Ribeiro</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ferri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Clarke</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Cryan</surname>
+</string-name>. <year>2022</year>. “<article-title>Diet and the Microbiota–Gut–Brain‐Axis: A Primer for Clinical Nutrition</article-title>.” <source>Current Opinion in Clinical Nutrition &amp; Metabolic Care</source>
+<volume>25</volume>, no. <issue>6</issue>: <fpage>443</fpage>–<lpage>450</lpage>.<pub-id pub-id-type="pmid">36102353</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MCO.0000000000000874</pub-id><pub-id pub-id-type="pmcid">PMC9553262</pub-id></mixed-citation></ref><ref id="vms370854-bib-0035"><mixed-citation publication-type="journal" id="vms370854-cite-0035">
+<string-name name-style="western">
+<surname>Salem</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>T. W.</given-names>
+<surname>Maddox</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Antczak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Ketley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. J.</given-names>
+<surname>Williams</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. C.</given-names>
+<surname>Archer</surname>
+</string-name>. <year>2019</year>. “<article-title>Acute Changes in the Colonic Microbiota Are Associated With Large Intestinal Forms of Surgical Colic</article-title>.” <source>BMC Veterinary Research</source>
+<volume>15</volume>, no. <issue>1</issue>: <fpage>468</fpage>.<pub-id pub-id-type="pmid">31864369</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12917-019-2205-1</pub-id><pub-id pub-id-type="pmcid">PMC6925886</pub-id></mixed-citation></ref><ref id="vms370854-bib-0036"><mixed-citation publication-type="journal" id="vms370854-cite-0036">
+<string-name name-style="western">
+<surname>Schoster</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H. R.</given-names>
+<surname>Staempfli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. G.</given-names>
+<surname>Guardabassi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jalali</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Weese</surname>
+</string-name>. <year>2017</year>. “<article-title>Comparison of the Fecal Bacterial Microbiota of Healthy and Diarrheic Foals at Two and Four Weeks of Life</article-title>.” <source>BMC Veterinary Research</source>
+<volume>13</volume>, no. <issue>1</issue>: <fpage>144</fpage>.<pub-id pub-id-type="pmid">28558788</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12917-017-1064-x</pub-id><pub-id pub-id-type="pmcid">PMC5450145</pub-id></mixed-citation></ref><ref id="vms370854-bib-0037"><mixed-citation publication-type="journal" id="vms370854-cite-0037">
+<string-name name-style="western">
+<surname>Schoster</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Weese</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Guardabassi</surname>
+</string-name>. <year>2014</year>. “<article-title>Probiotic Use in Horses—What Is the Evidence for Their Clinical Efficacy?</article-title>” <source>Journal of Veterinary Internal Medicine</source>
+<volume>28</volume>, no. <issue>6</issue>: <fpage>1640</fpage>–<lpage>1652</lpage>.<pub-id pub-id-type="pmid">25231539</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jvim.12451</pub-id><pub-id pub-id-type="pmcid">PMC4895607</pub-id></mixed-citation></ref><ref id="vms370854-bib-0038"><mixed-citation publication-type="journal" id="vms370854-cite-0038">
+<string-name name-style="western">
+<surname>Shaw</surname>, <given-names>S. D.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Stämpfli</surname>
+</string-name>. <year>2018</year>. “<article-title>Diagnosis and Treatment of Undifferentiated and Infectious Acute Diarrhea in the Adult Horse</article-title>.” <source>Veterinary Clinics of North America: Equine Practice</source>
+<volume>34</volume>, no. <issue>1</issue>: <fpage>39</fpage>–<lpage>53</lpage>.<pub-id pub-id-type="pmid">29426709</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cveq.2017.11.002</pub-id><pub-id pub-id-type="pmcid">PMC7134835</pub-id></mixed-citation></ref><ref id="vms370854-bib-0039"><mixed-citation publication-type="journal" id="vms370854-cite-0039">
+<string-name name-style="western">
+<surname>Slykerman</surname>, <given-names>R. F.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Hood</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Wickens</surname>
+</string-name>, et al. <year>2017</year>. “<article-title>Effect of <italic toggle="yes">Lactobacillus rhamnosus</italic> HN001 in Pregnancy on Postpartum Symptoms of Depression and Anxiety: a Randomised Double‐Blind Placebo‐Controlled Trial</article-title>.” <source>EBioMedicine</source>
+<volume>24</volume>: <fpage>159</fpage>–<lpage>165</lpage>.<pub-id pub-id-type="pmid">28943228</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ebiom.2017.09.013</pub-id><pub-id pub-id-type="pmcid">PMC5652021</pub-id></mixed-citation></ref><ref id="vms370854-bib-0040"><mixed-citation publication-type="journal" id="vms370854-cite-0040">
+<string-name name-style="western">
+<surname>Steelman</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B. P.</given-names>
+<surname>Chowdhary</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Dowd</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Suchodolski</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Janečka</surname>
+</string-name>. <year>2012</year>. “<article-title>Pyrosequencing of 16S rRNA Genes in Fecal Samples Reveals High Diversity of Hindgut Microflora in Horses and Potential Links to Chronic Laminitis</article-title>.” <source>BMC Veterinary Research</source>
+<volume>8</volume>, no. <issue>1</issue>: <fpage>231</fpage>.<pub-id pub-id-type="pmid">23186268</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1746-6148-8-231</pub-id><pub-id pub-id-type="pmcid">PMC3538718</pub-id></mixed-citation></ref><ref id="vms370854-bib-0041"><mixed-citation publication-type="journal" id="vms370854-cite-0041">
+<string-name name-style="western">
+<surname>Sun</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Chang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zhang</surname>
+</string-name>. <year>2022</year>. “<article-title>The Prevention Effect of Probiotics Against Eczema in Children: An Update Systematic Review and Meta‐Analysis</article-title>.” <source>Journal of Dermatological Treatment</source>
+<volume>33</volume>, no. <issue>4</issue>: <fpage>1844</fpage>–<lpage>1854</lpage>.<pub-id pub-id-type="pmid">34006167</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/09546634.2021.1925077</pub-id></mixed-citation></ref><ref id="vms370854-bib-0042"><mixed-citation publication-type="journal" id="vms370854-cite-0042">
+<string-name name-style="western">
+<surname>Tanabe</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wasano</surname>
+</string-name>, et al. <year>2014</year>. “<article-title>Anti‐Inflammatory and Intestinal Barrier–Protective Activities of Commensal Lactobacilli and Bifidobacteria in Thoroughbreds: Role of Probiotics in Diarrhea Prevention in Neonatal Thoroughbreds</article-title>.” <source>Journal of Equine Science</source>
+<volume>25</volume>, no. <issue>2</issue>: <fpage>37</fpage>–<lpage>43</lpage>.<pub-id pub-id-type="pmid">25013357</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1294/jes.25.37</pub-id><pub-id pub-id-type="pmcid">PMC4090357</pub-id></mixed-citation></ref><ref id="vms370854-bib-0043"><mixed-citation publication-type="journal" id="vms370854-cite-0043">
+<string-name name-style="western">
+<surname>Theelen</surname>, <given-names>M. J. P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R. E. C.</given-names>
+<surname>Luiken</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Wagenaar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M. S.</given-names>
+<surname>van Oldruitenborgh‐Oosterbaan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. W. A.</given-names>
+<surname>Rossen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Zomer</surname>
+</string-name>. <year>2021</year>. “<article-title>The Equine Faecal Microbiota of Healthy Horses and Ponies in The Netherlands: Impact of Host and Environmental Factors</article-title>.” <source>Animals</source>
+<volume>11</volume>, no. <issue>6</issue>: <fpage>1762</fpage>.<pub-id pub-id-type="pmid">34204691</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ani11061762</pub-id><pub-id pub-id-type="pmcid">PMC8231505</pub-id></mixed-citation></ref><ref id="vms370854-bib-0044"><mixed-citation publication-type="journal" id="vms370854-cite-0044">
+<string-name name-style="western">
+<surname>Tuniyazi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Fu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Hu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Zhang</surname>
+</string-name>. <year>2023</year>. “<article-title>A Systematic Review of Current Applications of Fecal Microbiota Transplantation in Horses</article-title>.” <source>Animals</source>
+<volume>13</volume>, no. <issue>8</issue>: <fpage>1304</fpage>.<pub-id pub-id-type="pmid">37104445</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/vetsci10040290</pub-id><pub-id pub-id-type="pmcid">PMC10141098</pub-id></mixed-citation></ref><ref id="vms370854-bib-0045"><mixed-citation publication-type="journal" id="vms370854-cite-0045">
+<string-name name-style="western">
+<surname>Van Den Abbeele</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Gérard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Rabot</surname>
+</string-name>, et al. <year>2011</year>. “<article-title>Arabinoxylans and Inulin Differentially Modulate the Mucosal and Luminal Gut Microbiota and Mucin‐Degradation in Humanized Rats</article-title>.” <source>Environmental Microbiology</source>
+<volume>13</volume>, no. <issue>10</issue>: <fpage>2667</fpage>–<lpage>2680</lpage>.<pub-id pub-id-type="pmid">21883787</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1462-2920.2011.02533.x</pub-id></mixed-citation></ref><ref id="vms370854-bib-0046"><mixed-citation publication-type="journal" id="vms370854-cite-0046">
+<string-name name-style="western">
+<surname>Ward</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Alinovi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. L.</given-names>
+<surname>Couëtil</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. T.</given-names>
+<surname>Glickman</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. C.</given-names>
+<surname>Wu</surname>
+</string-name>. <year>2004</year>. “<article-title>A Randomized Clinical Trial Using Probiotics to Prevent Salmonella Fecal Shedding in Hospitalized Horses</article-title>.” <source>Journal of Equine Veterinary Science</source>
+<volume>24</volume>, no. <issue>6</issue>: <fpage>242</fpage>–<lpage>247</lpage>.</mixed-citation></ref><ref id="vms370854-bib-0047"><mixed-citation publication-type="journal" id="vms370854-cite-0047">
+<string-name name-style="western">
+<surname>Weese</surname>, <given-names>J. S.</given-names>
+</string-name>
+<year>2002</year>. “<article-title>Microbiologic Evaluation of Commercial Probiotics</article-title>.” <source>Journal of the American Veterinary Medical Association</source>
+<volume>220</volume>, no. <issue>6</issue>: <fpage>794</fpage>–<lpage>797</lpage>.<pub-id pub-id-type="pmid">11918274</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2460/javma.2002.220.794</pub-id></mixed-citation></ref><ref id="vms370854-bib-0048"><mixed-citation publication-type="journal" id="vms370854-cite-0048">
+<string-name name-style="western">
+<surname>Weese</surname>, <given-names>J. S.</given-names>
+</string-name>
+<year>2025</year>. “<article-title>Evaluation of Publication Bias in the Assessment of Probiotic Treatment for Gastrointestinal Disease in Dogs and Cats</article-title>.” <source>Canadian Veterinary Journal</source>
+<volume>66</volume>, no. <issue>3</issue>: <fpage>250</fpage>–<lpage>254</lpage>.<pub-id pub-id-type="pmcid">PMC11897921</pub-id><pub-id pub-id-type="pmid">40084240</pub-id></mixed-citation></ref><ref id="vms370854-bib-0049"><mixed-citation publication-type="journal" id="vms370854-cite-0049">
+<string-name name-style="western">
+<surname>Weese</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Holcombe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. M.</given-names>
+<surname>Embertson</surname>
+</string-name>, et al. <year>2015</year>. “<article-title>Changes in the Faecal Microbiota of Mares Precede the Development of Post Partum Colic</article-title>.” <source>Equine Veterinary Journal</source>
+<volume>47</volume>, no. <issue>6</issue>: <fpage>641</fpage>–<lpage>649</lpage>.<pub-id pub-id-type="pmid">25257320</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/evj.12361</pub-id></mixed-citation></ref><ref id="vms370854-bib-0050"><mixed-citation publication-type="journal" id="vms370854-cite-0050">
+<string-name name-style="western">
+<surname>Weese</surname>, <given-names>J. S.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rousseau</surname>
+</string-name>. <year>2005</year>. “<article-title>Evaluation of Lactobacillus Pentosus WE7 for Prevention of Diarrhea in Neonatal Foals</article-title>.” <source>Journal of the American Veterinary Medical Association</source>
+<volume>226</volume>, no. <issue>12</issue>: <fpage>2031</fpage>–<lpage>2034</lpage>.<pub-id pub-id-type="pmid">15989186</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2460/javma.2005.226.2031</pub-id></mixed-citation></ref><ref id="vms370854-bib-0051"><mixed-citation publication-type="journal" id="vms370854-cite-0051">
+<string-name name-style="western">
+<surname>Williams</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Horner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Orton</surname>
+</string-name>, et al. <year>2015</year>. “<article-title>Water Intake, Faecal Output and Intestinal Motility in Horses Moved From Pasture to a Stabled Management Regime With Controlled Exercise</article-title>.” <source>Equine Veterinary Journal</source>
+<volume>47</volume>, no. <issue>1</issue>: <fpage>96</fpage>–<lpage>100</lpage>.<pub-id pub-id-type="pmid">24528106</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/evj.12238</pub-id><pub-id pub-id-type="pmcid">PMC4303976</pub-id></mixed-citation></ref><ref id="vms370854-bib-0052"><mixed-citation publication-type="journal" id="vms370854-cite-0052">
+<string-name name-style="western">
+<surname>Willing</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vörös</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Roos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Jones</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Jansson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Lindberg</surname>
+</string-name>. <year>2009</year>. “<article-title>Changes in Faecal Bacteria Associated With Concentrate and Forage‐Only Diets Fed to Horses in Training</article-title>.” <source>Equine Veterinary Journal</source>
+<volume>41</volume>, no. <issue>9</issue>: <fpage>908</fpage>–<lpage>914</lpage>.<pub-id pub-id-type="pmid">20383990</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2746/042516409x447806</pub-id></mixed-citation></ref><ref id="vms370854-bib-0053"><mixed-citation publication-type="journal" id="vms370854-cite-0053">
+<string-name name-style="western">
+<surname>Yuyama</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Yusa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Takai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Tsubaki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Kado</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Morotomi</surname>
+</string-name>. <year>2004</year>. “<article-title>Evaluation of a Host‐Specific Lactobacillus Probiotic in Neonatal Foals</article-title>.” <source>The International Journal of Applied Research in Veterinary Medicine</source>
+<volume>2</volume>, no. <issue>1</issue>: <fpage>26</fpage>–<lpage>33</lpage>.</mixed-citation></ref></ref-list></back></article></pmc-articleset>

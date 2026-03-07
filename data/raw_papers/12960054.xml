@@ -1,0 +1,911 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="alz71226" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Alzheimers Dement</journal-id><journal-id journal-id-type="iso-abbrev">Alzheimers Dement</journal-id><journal-id journal-id-type="pmc-domain-id">4549</journal-id><journal-id journal-id-type="pmc-domain">alzdem</journal-id><journal-id journal-id-type="publisher-id">ALZ</journal-id><journal-title-group><journal-title>Alzheimer's &amp; Dementia</journal-title></journal-title-group><issn pub-type="ppub">1552-5260</issn><issn pub-type="epub">1552-5279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12960054</article-id><article-id pub-id-type="pmcid-ver">PMC12960054.1</article-id><article-id pub-id-type="pmcaid">12960054</article-id><article-id pub-id-type="pmcaiid">12960054</article-id><article-id pub-id-type="pmid">41781358</article-id><article-id pub-id-type="doi">10.1002/alz.71226</article-id><article-id pub-id-type="publisher-id">ALZ71226</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>The relationships between ethnoracial identity, Aβ positivity, <italic toggle="yes">APOE</italic>ε4, and medial temporal lobe tau PET</article-title><alt-title alt-title-type="left-running-head">WHEELER <sc>et al.</sc>
+</alt-title></title-group><contrib-group><contrib id="alz71226-cr-0001" contrib-type="author"><name name-style="western"><surname>Wheeler</surname><given-names initials="KV">Koral V.</given-names></name><xref rid="alz71226-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71226-cr-0002" contrib-type="author"><name name-style="western"><surname>Tennant</surname><given-names initials="VR">Victoria R.</given-names></name><xref rid="alz71226-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71226-cr-0003" contrib-type="author"><name name-style="western"><surname>Lee</surname><given-names initials="NN">Noelle N.</given-names></name><xref rid="alz71226-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71226-cr-0004" contrib-type="author"><name name-style="western"><surname>Hand</surname><given-names initials="MW">Maxwell W.</given-names></name><xref rid="alz71226-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71226-cr-0005" contrib-type="author"><name name-style="western"><surname>Ganesan</surname><given-names initials="S">Suchita</given-names></name><xref rid="alz71226-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71226-cr-0006" contrib-type="author"><name name-style="western"><surname>Walsh</surname><given-names initials="P">Patrick</given-names></name><xref rid="alz71226-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71226-cr-0007" contrib-type="author"><name name-style="western"><surname>Tubi</surname><given-names initials="M">Meral</given-names></name><xref rid="alz71226-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71226-cr-0008" contrib-type="author"><name name-style="western"><surname>Terner</surname><given-names initials="JA">Jamie A.</given-names></name><xref rid="alz71226-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71226-cr-0009" contrib-type="author"><name name-style="western"><surname>Hall</surname><given-names initials="B">Brandon</given-names></name><xref rid="alz71226-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71226-cr-0010" contrib-type="author"><name name-style="western"><surname>Davison</surname><given-names initials="M">Marylan</given-names></name><xref rid="alz71226-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71226-cr-0011" contrib-type="author"><name name-style="western"><surname>Toga</surname><given-names initials="AW">Arthur W.</given-names></name><xref rid="alz71226-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="alz71226-cr-0012" contrib-type="author"><name name-style="western"><surname>O'Bryant</surname><given-names initials="S">Sid</given-names></name><xref rid="alz71226-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="alz71226-cr-0013" contrib-type="author"><name name-style="western"><surname>Clark</surname><given-names initials="AL">Alexandra L.</given-names></name><xref rid="alz71226-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="alz71226-cr-0014" contrib-type="author"><name name-style="western"><surname>Yaffe</surname><given-names initials="K">Kristine</given-names></name><xref rid="alz71226-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="alz71226-cr-0015" contrib-type="author" corresp="yes"><name name-style="western"><surname>Braskie</surname><given-names initials="MN">Meredith N.</given-names></name><xref rid="alz71226-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>braskie@usc.edu</email></address></contrib><contrib id="alz71226-cr-0016" contrib-type="author"><collab collab-type="authors">for the HABS‐HD Study Team<contrib-group><contrib id="alz71226-cr-0017" contrib-type="author"><name name-style="western"><surname>Braskie</surname><given-names initials="M">Meredith</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0018" contrib-type="author"><name name-style="western"><surname>King</surname><given-names initials="K">Kevin</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0019" contrib-type="author"><name name-style="western"><surname>Hall</surname><given-names initials="JR">James R</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0020" contrib-type="author"><name name-style="western"><surname>Petersen</surname><given-names initials="M">Melissa</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0021" contrib-type="author"><name name-style="western"><surname>Palmer</surname><given-names initials="R">Raymond</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0022" contrib-type="author"><name name-style="western"><surname>Barber</surname><given-names initials="R">Robert</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0023" contrib-type="author"><name name-style="western"><surname>Shi</surname><given-names initials="Y">Yonggang</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0024" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="F">Fan</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0025" contrib-type="author"><name name-style="western"><surname>Nandy</surname><given-names initials="R">Rajesh</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0026" contrib-type="author"><name name-style="western"><surname>McColl</surname><given-names initials="R">Roderick</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0027" contrib-type="author"><name name-style="western"><surname>Mason</surname><given-names initials="D">David</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0028" contrib-type="author"><name name-style="western"><surname>Christian</surname><given-names initials="B">Bradley</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0029" contrib-type="author"><name name-style="western"><surname>Phillips</surname><given-names initials="N">Nicole</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0030" contrib-type="author"><name name-style="western"><surname>Large</surname><given-names initials="S">Stephanie</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0031" contrib-type="author"><name name-style="western"><surname>Lee</surname><given-names initials="J">Joe</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0032" contrib-type="author"><name name-style="western"><surname>Vardarajan</surname><given-names initials="B">Badri</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0033" contrib-type="author"><name name-style="western"><surname>Mindt</surname><given-names initials="MR">Monica Rivera</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0034" contrib-type="author"><name name-style="western"><surname>Cheema</surname><given-names initials="A">Amrita</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0035" contrib-type="author"><name name-style="western"><surname>Barnes</surname><given-names initials="L">Lisa</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0036" contrib-type="author"><name name-style="western"><surname>Mapstone</surname><given-names initials="M">Mark</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0037" contrib-type="author"><name name-style="western"><surname>Cohen</surname><given-names initials="A">Annie</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0038" contrib-type="author"><name name-style="western"><surname>Kind</surname><given-names initials="A">Amy</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0039" contrib-type="author"><name name-style="western"><surname>Okonkwo</surname><given-names initials="O">Ozioma</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0040" contrib-type="author"><name name-style="western"><surname>Vintimilla</surname><given-names initials="R">Raul</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0041" contrib-type="author"><name name-style="western"><surname>Zhou</surname><given-names initials="Z">Zhengyang</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0042" contrib-type="author"><name name-style="western"><surname>Donohue</surname><given-names initials="M">Michael</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0043" contrib-type="author"><name name-style="western"><surname>Raman</surname><given-names initials="R">Rema</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0044" contrib-type="author"><name name-style="western"><surname>Borzage</surname><given-names initials="M">Matthew</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0050" contrib-type="author"><name name-style="western"><surname>Mielke</surname><given-names initials="M">Michelle</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0045" contrib-type="author"><name name-style="western"><surname>Ances</surname><given-names initials="B">Beau</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0046" contrib-type="author"><name name-style="western"><surname>Babulal</surname><given-names initials="G">Ganesh</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0047" contrib-type="author"><name name-style="western"><surname>Llibre-Guerra</surname><given-names initials="J">Jorge</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0048" contrib-type="author"><name name-style="western"><surname>Hill</surname><given-names initials="C">Carl</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib><contrib id="alz71226-cr-0049" contrib-type="author"><name name-style="western"><surname>Vig</surname><given-names initials="R">Rocky</given-names></name><xref rid="alz71226-cr-0016" ref-type="contrib"/></contrib></contrib-group>
+</collab></contrib></contrib-group><aff id="alz71226-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Mark and Mary Stevens Neuroimaging and Informatics Institute</named-content>
+<named-content content-type="organisation-division">Keck School of Medicine</named-content>
+<institution>University of Southern California</institution>
+<city>Los Angeles</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71226-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>University of North Texas Health Science Center Fort Worth Texas USA</institution>
+<city>Fort Worth</city>
+<named-content content-type="country-part">Texas</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71226-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychology</named-content>
+<institution>University of Texas at Austin</institution>
+<city>Austin</city>
+<named-content content-type="country-part">Texas</named-content>
+<country country="US">USA</country>
+</aff><aff id="alz71226-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Psychiatry</named-content>
+<named-content content-type="organisation-division">Neurology, and Epidemiology and Biostatistics</named-content>
+<institution>University of California San Francisco School of Medicine</institution>
+<city>San Francisco</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Meredith N. Braskie, Neurology Department, USC Imaging Genetics Center, USC Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA.<break/> Email: <email>braskie@usc.edu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>3</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2026</year></pub-date><volume>22</volume><issue seq="130">3</issue><issue-id pub-id-type="pmc-issue-id">508699</issue-id><issue-id pub-id-type="doi">10.1002/alz.v22.3</issue-id><elocation-id>e71226</elocation-id><history><date date-type="rev-recd"><day>22</day><month>1</month><year>2026</year></date><date date-type="received"><day>11</day><month>8</month><year>2025</year></date><date date-type="accepted"><day>23</day><month>1</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>04</day><month>03</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>06</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-06 00:25:15.280"><day>06</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Alzheimer's &amp; Dementia</italic> published by Wiley Periodicals LLC on behalf of Alzheimer's Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALZ-22-e71226.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALZ-22-e71226.pdf"/><abstract><title>Abstract</title><sec id="alz71226-sec-0010"><title>INTRODUCTION</title><p>Clarifying relationships between amyloid, tau, and cognition is crucial to understanding dementia risk, but has been mainly performed in non‐Hispanic White (NHW) participants. It is unknown whether findings are generalizable to other ethnoracial groups.</p></sec><sec id="alz71226-sec-0020"><title>METHODS</title><p>We evaluated relationships between amyloid‐β (Aβ) positivity, apolipoprotein E allele (<italic toggle="yes">APOE)</italic> ε4, tau‐positron emission tomography (PET) <sup>18</sup>F‐PI‐2620, and cognitive performance in 1181 cognitively unimpaired (451 NHW, 353 Hispanic, and 377 Black) and 383 mild cognitively impaired (85 NHW, 129 Hispanic, and 169 Black) participants from the Health and Aging Brain Study‐Health Disparities.</p></sec><sec id="alz71226-sec-0030"><title>RESULTS</title><p>Black (<italic toggle="yes">β</italic> = 0.28, <italic toggle="yes">p</italic> &lt; 0.001) and Hispanic (<italic toggle="yes">β</italic> = 0.34, <italic toggle="yes">p</italic> &lt; 0.001) participants had higher medial temporal lobe (MTL) tau than NHW participants; however, findings were attenuated when accounting for choroid plexus off‐target binding. Hispanic participants showed higher tau in lateral temporal regions compared to NHW and Black participants; however, reducing meningeal off‐target binding through erosion demonstrated similar lateral temporal tau across groups.</p></sec><sec id="alz71226-sec-0040"><title>DISCUSSION</title><p>Factors other than amyloid and tau may impact cognition in Black participants. PI2620 off‐target ethnoracial differences should be investigated.</p></sec></abstract><abstract abstract-type="highlights"><title>Highlights</title><p>
+<list list-type="bullet" id="alz71226-list-0001"><list-item><p>Hispanic and Black participants showed higher medial temporal lobe (MTL) tau levels than non‐Hispanic White (NHW) participants.</p></list-item><list-item><p>The relationship between amyloid‐β (Aβ), MTL tau, and cognition differed in the Black cohort.</p></list-item><list-item><p>Choroid plexus off‐target binding partially contributed to MTL tau signal.</p></list-item><list-item><p>Lateral temporal tau was the same across groups upon removing meningeal binding.</p></list-item></list>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="alz71226-kwd-0001">amyloid‐beta positivity</kwd><kwd id="alz71226-kwd-0002">
+<italic toggle="yes">APOE</italic>ε4</kwd><kwd id="alz71226-kwd-0003">ethnoracial identity</kwd><kwd id="alz71226-kwd-0004">learning and memory performance</kwd><kwd id="alz71226-kwd-0005">medial temporal lobe</kwd><kwd id="alz71226-kwd-0006">tau PET imaging</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>National Institute on Aging of the National Institutes of Health</institution></institution-wrap>
+</funding-source><award-id>R01AG054073</award-id><award-id>R01AG058533</award-id><award-id>R01AG070862</award-id><award-id>P41EB015922</award-id><award-id>U19AG078109</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Office of The Director of the National Institutes of Health</institution></institution-wrap>
+</funding-source><award-id>S10OD032285</award-id></award-group></funding-group><counts><fig-count count="2"/><table-count count="4"/><page-count count="15"/><word-count count="10659"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:04.03.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="alz71226-cite-0001">
+<string-name name-style="western">
+<surname>Wheeler</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tennant</surname>
+<given-names>VR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>NN</given-names>
+</string-name>, et al. <article-title>The relationships between ethnoracial identity, Aβ positivity, <italic toggle="yes">APOE</italic>ε4, and medial temporal lobe tau PET</article-title>. <source>Alzheimer's Dement</source>. <year>2026</year>;<volume>22</volume>:<elocation-id>e71226</elocation-id>. <pub-id pub-id-type="doi">10.1002/alz.71226</pub-id>
+<pub-id pub-id-type="pmid">41781358</pub-id>
+<pub-id pub-id-type="pmcid">PMC12960054</pub-id></mixed-citation>
+</p><fn-group><fn id="alz71226-note-0001"><p>Data used in preparation of this article were obtained from the HABS‐HD database (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://apps.unthsc.edu/itr/researchers" ext-link-type="uri">https://apps.unthsc.edu/itr/researchers</ext-link>). HABS‐HD MPIs: Sid E O'Bryant, Kristine Yaffe, Arthur Toga, Robert Rissman, &amp; Leigh Johnson; and the HABS‐HD Investigators: Meredith Braskie, Kevin King, James R Hall, Melissa Petersen, Raymond Palmer, Robert Barber, Yonggang Shi, Fan Zhang, Rajesh Nandy, Roderick McColl, David Mason, Bradley Christian, Nicole Phillips, Stephanie Large, Joe Lee, Badri Vardarajan, Monica Rivera Mindt, Amrita Cheema, Lisa Barnes, Mark Mapstone, Annie Cohen, Amy Kind, Ozioma Okonkwo, Raul Vintimilla, Zhengyang Zhou, Michael Donohue, Rema Raman, Matthew Borzage, Michelle Mielke, Beau Ances, Ganesh Babulal, Jorge Llibre‐Guerra, Carl Hill and Rocky Vig. The consent is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.</p></fn></fn-group></notes></front><body><sec id="alz71226-sec-0050"><label>1</label><title>BACKGROUND</title><p>Alzheimer's disease (AD) is characterized by the aggregation of amyloid‐β (Aβ) plaques and neurofibrillary tau tangles that disrupt neuronal functioning and lead to cognitive decline. Non‐Hispanic Black (henceforth Black) and Hispanic/Latino(a) (henceforth Hispanic) older adults are at increased risk for AD and related dementias (ADRD) compared to non‐Hispanic White (henceforth NHW) older adults.<xref rid="alz71226-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="alz71226-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="alz71226-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Black and Hispanic older adults are more likely to be exposed to environmental and socioeconomic stressors across the life course, and experience higher rates of cardiometabolic conditions relative to NHW older adults. Greater exposure to these risk factors may contribute to disparities in brain aging and AD risk for racial/ethnically minoritized older adults.<xref rid="alz71226-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="alz71226-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz71226-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz71226-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Despite this, AD research overwhelmingly lacks diverse and representative study samples that vary in comorbidities,<xref rid="alz71226-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="alz71226-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="alz71226-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="alz71226-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> which limits generalizability of current AD research models. The lack of ethnically diverse research cohorts that resemble the general and at‐risk aging populations impedes the field's understanding of AD biomarkers, precision medicine diagnostics, and treatments.<xref rid="alz71226-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>
+</p><p>Although tau is closely correlated with cognition, only a few studies have investigated tau positron emission tomography (PET) in ethnically diverse cohorts, with divergent findings.<xref rid="alz71226-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="alz71226-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz71226-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> These mixed findings may be related to the small samples of Black participants, differences in the evaluated composite regions of interest, and PET off‐target binding.<xref rid="alz71226-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="alz71226-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="alz71226-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> Our lab recently found that a medial temporal lobe (MTL) tau cut‐point differentiated cognitively unimpaired (CU) from cognitively impaired Hispanic and NHW participants but not Black participants in the Health and Aging Brain Study‐Health Disparities (HABS‐HD) cohort, raising questions as to whether other factors are more correlated with cognitive impairment in Black participants than MTL tau.<xref rid="alz71226-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Our current study seeks to further investigate the associations between MTL tau and cognitive performance across ethnoracial groups during preclinical stages by analyzing the moderating effects of Aβ and apolipoprotein E allele (<italic toggle="yes">APOE</italic>ε4) positivity within CU and mild cognitively impaired (MCI) participants.</p><p>
+<italic toggle="yes">APOE</italic>ε4 is the strongest genetic AD risk factor, though this association has been most consistently found in NHW adults.<xref rid="alz71226-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<italic toggle="yes">APOE</italic>ε4 carriership is associated with higher rates of MTL tau accumulation, especially in Aβ‐positive participants,<xref rid="alz71226-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> and a stronger relationship between MTL tau and poorer memory performance.<xref rid="alz71226-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> However, the effect of <italic toggle="yes">APOE</italic>ε4 on AD risk varies by race/ethnicity, with some reports of Hispanic and Black participants showing weak or mixed associations between <italic toggle="yes">APOE</italic>ε4 and cognitive impairment compared to effects in NHW participants.<xref rid="alz71226-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz71226-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz71226-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz71226-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz71226-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> One study found no association between <italic toggle="yes">APOE</italic>ε4 positivity and MTL tau PET in Black participants; however, the sample was small.<xref rid="alz71226-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Little is known about the relationships between <italic toggle="yes">APOE</italic>ε4 and tau PET, the effect of <italic toggle="yes">APOE</italic>ε4 on the relationship between amyloid and tau PET, or the impact of <italic toggle="yes">APOE</italic>ε4 on tau PET and cognitive performance among Hispanic or Black participants.</p><p>In an HABS‐HD sample of NHW, Hispanic, and Black participants without dementia, we assessed MTL tau relationships within the overall cohort and across ethnoracial groups. We investigated whether ethnoracial group moderated the associations between (1) MTL tau and Aβ‐PET positivity, a measure of pathological brain amyloid‐beta accumulation, and (2) MTL tau PET and cognitive performance. To further explore our findings, we investigated whether Aβ positivity interacted with MTL tau on memory performance. We assessed whether ethnoracial group moderated the associations between <italic toggle="yes">APOE</italic>ε4 and MTL tau. We also tested whether <italic toggle="yes">APOE</italic>ε4 moderated the associations between MTL tau and Aβ positivity as well as cognitive performance across the ethnoracial groups. To evaluate whether these relationships extended to cortical regions outside of the MTL, we tested the same associations in distinct lateral temporal regions, and composite regions of the posterior cingulate and lateral parietal cortices.</p><p>We used a second‐generation tau PET radiotracer, <sup>18</sup>F‐PI‐2620 (PI‐2620) that has shown high selectivity for tau aggregates<xref rid="alz71226-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="alz71226-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="alz71226-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> and low off‐target binding to monoamine oxidase compared to <sup>18</sup>F‐flortaucipir.<xref rid="alz71226-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> We performed sensitivity analyses to (1) evaluate whether off‐target PET binding from the choroid plexus adjacent to the hippocampus affects MTL PET signal and (2) assess whether meningeal off‐target binding impacts lateral temporal signal.</p></sec><sec id="alz71226-sec-0060"><label>2</label><title>METHODS</title><p>Our study is a cross‐sectional analysis of data collected from the ongoing longitudinal HABS‐HD study which was approved at the University of North Texas Health Science Center (UNT HSC) and provides publicly available data through the UNT HSC's Institute for Translational Research. The primary objective of HABS‐HD is to examine associations between the onset and progression of ADRD, AD biomarkers, and relationships between AD and health, socioeconomic, environmental, and genetic factors in a racially/ethnically diverse cohort. An emphasis is placed on evaluating associations between health disparities and ADRD prevalence in NHW, Black, and Hispanic adults aged 30–90, although our current study includes only individuals who are aged 50 and older. An in‐depth description of the participant recruitment and HABS‐HD study methods has been previously published.<xref rid="alz71226-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> Participants provide blood samples, undergo neuroimaging scans, and complete clinical interviews and functional and neuropsychological assessments. Clinical information regarding history of hypertension, diabetes, dyslipidemia, and cardiovascular disease was gathered through medical interview and examination at research visits. Diagnoses were confirmed or made by a licensed practitioner (either a physician or nurse practitioner) after clinical evaluation.</p><boxed-text position="float" content-type="box" orientation="portrait"><sec id="alz71226-sec-0070"><title>RESEARCH IN CONTEXT</title><p>
+<list list-type="order" id="alz71226-list-0002"><list-item><p>
+<bold>Systematic review</bold>: The authors reviewed literature on PubMed. Most publications have investigated cognitive, amyloid, and tau positron emission tomography (PET) biomarkers by predominantly including highly‐educated NHW participants with low cardiometabolic risk. The ability to accurately generalize findings to ethnoracially‐diverse participants have been restricted.</p></list-item><list-item><p>
+<bold>Interpretation</bold>: Cognitively unimpaired (CU) Hispanic and Black participants show higher medial temporal lobe (MTL) tau levels than CU NHW participants even after controlling for choroid plexus off‐target binding. Amyloid‐β (Aβ) ‐positivity moderated MTL tau and cognitive relationships in NHW and Hispanic but not Black participants, suggesting that factors other than tau and amyloid may more strongly predict impairment in Black participants. Hispanic participants showed higher lateral temporal tau levels including in CU Aβ− cohorts; however, after reducing off‐target meningeal signal, lateral temporal tau levels were comparable across ethnoracial groups.</p></list-item><list-item><p>
+<bold>Future directions</bold>: Additional research is needed to evaluate the neurochemical and neuroanatomical contributors to ethnoracial differences in PET off‐target binding.</p></list-item></list>
+</p></sec></boxed-text><sec id="alz71226-sec-0080"><label>2.1</label><title>Participants</title><p>We examined 1181 CU and 383 MCI participants who participated in the HABS‐HD study between January 2020 and August 2024 and had usable tau and amyloid PET scans and clinical/cognitive data collected within 1 year of each other. Out of 2229 participants who had tau PET acquired during the time of the analysis, we excluded participants based on usability of tau PET data for the following reasons: 1 participant due to an acquisition error, 1 participant due to a scanner artifact, 2 participants due to anatomical abnormalities, 3 participants because of excessive motion, 7 participants with excessive signal spillover into the reference region, 11 participants because of failed reference region segmentations based on our quality control assessment for tau PET, and 37 participants because of failed MTL segmentations based on our quality control assessment. Of the remaining participants, 1661 participants were diagnosed as CU or MCI at baseline who had available clinical and cognitive data. Out of these 1661 participants, 1636 participants had amyloid PET scans that were acquired and analyzed. Participants were then eliminated based on the usability of amyloid PET data as follows: 1 participant due to an acquisition error, 2 participants due to a field of view error, 4 participants due to excessive motion, 6 participants due to anatomical abnormalities, 29 participants due to failed region of interest (ROI) segmentations based on our quality control assessment for amyloid PET, and 26 participants due to failed reference region segmentations based on our quality control assessment. Additionally, 4 participants were excluded because the time between clinical and amyloid, clinical and tau, or amyloid and tau PET visits exceeded 1 year. Our final sample included 451 NHW, 353 Hispanic, and 377 Black CU participants and 85 NHW, 129 Hispanic, and 169 Black MCI participants. Out of the Hispanic participants, 418 identified as Mexican American, 7 identified as Puerto Rican, 3 identified as Cuban, and 54 identified as another Hispanic subgroup. Table <xref rid="alz71226-tbl-0001" ref-type="table">1</xref> describes sample demographics.</p><table-wrap position="float" id="alz71226-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Demographics of study sample.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Characteristic</th><th align="left" rowspan="1" colspan="1">Non‐Hispanic White</th><th align="left" rowspan="1" colspan="1">Hispanic</th><th align="left" rowspan="1" colspan="1">Black</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Total participants</td><td align="left" rowspan="1" colspan="1">536</td><td align="left" rowspan="1" colspan="1">482</td><td align="left" rowspan="1" colspan="1">546</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td colspan="5" align="left" rowspan="1">
+<bold>Hispanic subgroups</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Mexican American</td><td align="char" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">418</td><td align="char" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Puerto Rican</td><td align="char" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">–</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Cuban</td><td align="char" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">3</td><td align="char" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Other subgroups</bold>
+</td><td align="char" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">54</td><td align="char" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">CU</td><td align="char" rowspan="1" colspan="1">451 (84%)</td><td align="char" rowspan="1" colspan="1">353 (73%)</td><td align="char" rowspan="1" colspan="1">377 (69%)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">MCI</td><td align="char" rowspan="1" colspan="1">85 (16%)</td><td align="char" rowspan="1" colspan="1">129 (27%)</td><td align="char" rowspan="1" colspan="1">169 (31%)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td colspan="5" align="left" rowspan="1">
+<bold>Aβ (<italic toggle="yes">n</italic>) %</bold>
+</td></tr><tr><td colspan="4" align="left" rowspan="1">CU</td><td rowspan="3" align="left" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Aβ positivity</td><td align="char" rowspan="1" colspan="1">105 (23%)</td><td align="char" rowspan="1" colspan="1">42 (12%)</td><td align="char" rowspan="1" colspan="1">48 (13%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Aβ negativity</td><td align="char" rowspan="1" colspan="1">346 (77%)</td><td align="char" rowspan="1" colspan="1">311 (88%)</td><td align="char" rowspan="1" colspan="1">329 (87%)</td></tr><tr><td colspan="4" align="left" rowspan="1">MCI</td><td rowspan="3" align="left" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Aβ positivity</td><td align="char" rowspan="1" colspan="1">31 (36%)</td><td align="char" rowspan="1" colspan="1">25 (19%)</td><td align="char" rowspan="1" colspan="1">24 (14%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Aβ negativity</td><td align="char" rowspan="1" colspan="1">54 (64%)</td><td align="char" rowspan="1" colspan="1">104 (81%)</td><td align="char" rowspan="1" colspan="1">145 (86%)</td></tr><tr><td colspan="5" align="left" rowspan="1">
+<bold>Age in years—mean (SD)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CU</td><td align="char" rowspan="1" colspan="1">69 (8)</td><td align="char" rowspan="1" colspan="1">63 (8)</td><td align="char" rowspan="1" colspan="1">62 (7)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">MCI</td><td align="char" rowspan="1" colspan="1">70 (9)</td><td align="char" rowspan="1" colspan="1">65 (9)</td><td align="char" rowspan="1" colspan="1">62 (7)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td colspan="5" align="left" rowspan="1">
+<bold>Sex (<italic toggle="yes">n</italic>) %</bold>
+</td></tr><tr><td colspan="4" align="left" rowspan="1">CU</td><td rowspan="3" align="left" colspan="1">0.004</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Female</td><td align="char" rowspan="1" colspan="1">274 (61%)</td><td align="char" rowspan="1" colspan="1">249 (71%)</td><td align="char" rowspan="1" colspan="1">263 (70%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Male</td><td align="char" rowspan="1" colspan="1">177 (39%)</td><td align="char" rowspan="1" colspan="1">104 (29%)</td><td align="char" rowspan="1" colspan="1">114 (30%)</td></tr><tr><td colspan="4" align="left" rowspan="1">MCI</td><td rowspan="3" align="left" colspan="1">0.073</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Female</td><td align="char" rowspan="1" colspan="1">44 (52%)</td><td align="char" rowspan="1" colspan="1">75(58%)</td><td align="char" rowspan="1" colspan="1">76 (45%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Male</td><td align="char" rowspan="1" colspan="1">41 (48%)</td><td align="char" rowspan="1" colspan="1">54(42%)</td><td align="char" rowspan="1" colspan="1">93 (55%)</td></tr><tr><td colspan="5" align="left" rowspan="1">
+<bold>
+<italic toggle="yes">APOE</italic>ε4 (<italic toggle="yes">n</italic>) %</bold>
+</td></tr><tr><td colspan="4" align="left" rowspan="1">CU</td><td rowspan="4" align="left" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Positive</td><td align="char" rowspan="1" colspan="1">122 (27%)</td><td align="char" rowspan="1" colspan="1">58 (16%)</td><td align="char" rowspan="1" colspan="1">112 (30%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Negative</td><td align="char" rowspan="1" colspan="1">298 (66%)</td><td align="char" rowspan="1" colspan="1">257 (73%)</td><td align="char" rowspan="1" colspan="1">184 (49%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="char" rowspan="1" colspan="1">31 (7%)</td><td align="char" rowspan="1" colspan="1">38 (11%)</td><td align="char" rowspan="1" colspan="1">81 (21%)</td></tr><tr><td colspan="4" align="left" rowspan="1">MCI</td><td rowspan="4" align="left" colspan="1">0.008</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Positive</td><td align="char" rowspan="1" colspan="1">25 (29%)</td><td align="char" rowspan="1" colspan="1">27 (21%)</td><td align="char" rowspan="1" colspan="1">58 (34%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Negative</td><td align="char" rowspan="1" colspan="1">51 (60%)</td><td align="char" rowspan="1" colspan="1">89 (69%)</td><td align="char" rowspan="1" colspan="1">81 (48%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="char" rowspan="1" colspan="1">9 (11%)</td><td align="char" rowspan="1" colspan="1">13 (10%)</td><td align="char" rowspan="1" colspan="1">30 (18%)</td></tr><tr><td colspan="5" align="left" rowspan="1">
+<bold>Cardiovascular disease (<italic toggle="yes">n</italic>) %</bold>
+</td></tr><tr><td colspan="4" align="left" rowspan="1">CU</td><td rowspan="3" align="left" colspan="1">0.542</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="char" rowspan="1" colspan="1">36 (8%)</td><td align="char" rowspan="1" colspan="1">22 (6%)</td><td align="char" rowspan="1" colspan="1">24 (6%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="char" rowspan="1" colspan="1">415 (92%)</td><td align="char" rowspan="1" colspan="1">331 (94%)</td><td align="char" rowspan="1" colspan="1">353 (94%)</td></tr><tr><td colspan="4" align="left" rowspan="1">MCI</td><td rowspan="3" align="left" colspan="1">0.093</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="char" rowspan="1" colspan="1">11 (13%)</td><td align="char" rowspan="1" colspan="1">6 (5%)</td><td align="char" rowspan="1" colspan="1">16 (9%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="char" rowspan="1" colspan="1">74 (87%)</td><td align="char" rowspan="1" colspan="1">123 (95%)</td><td align="char" rowspan="1" colspan="1">153 (91%)</td></tr><tr><td colspan="5" align="left" rowspan="1">
+<bold>Hypertension (<italic toggle="yes">n</italic>) %</bold>
+</td></tr><tr><td colspan="4" align="left" rowspan="1">CU</td><td rowspan="3" align="left" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="char" rowspan="1" colspan="1">265 (59%)</td><td align="char" rowspan="1" colspan="1">223 (63%)</td><td align="char" rowspan="1" colspan="1">307 (81%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="char" rowspan="1" colspan="1">186 (41%)</td><td align="char" rowspan="1" colspan="1">130 (37%)</td><td align="char" rowspan="1" colspan="1">70 (19%)</td></tr><tr><td colspan="4" align="left" rowspan="1">MCI</td><td rowspan="4" align="left" colspan="1">0.097</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="char" rowspan="1" colspan="1">55 (65%)</td><td align="char" rowspan="1" colspan="1">85 (66%)</td><td align="char" rowspan="1" colspan="1">127 (75%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="char" rowspan="1" colspan="1">30 (35%)</td><td align="char" rowspan="1" colspan="1">44 (34%)</td><td align="char" rowspan="1" colspan="1">41 (24%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="char" rowspan="1" colspan="1">0</td><td align="char" rowspan="1" colspan="1">0</td><td align="char" rowspan="1" colspan="1">1 (1%)</td></tr><tr><td colspan="5" align="left" rowspan="1">
+<bold>Dyslipidemia (<italic toggle="yes">n</italic>) %</bold>
+</td></tr><tr><td colspan="4" align="left" rowspan="1">CU</td><td rowspan="3" align="left" colspan="1">&lt;0.033</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="char" rowspan="1" colspan="1">313 (69%)</td><td align="char" rowspan="1" colspan="1">258 (73%)</td><td align="char" rowspan="1" colspan="1">242 (64%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="char" rowspan="1" colspan="1">138 (31%)</td><td align="char" rowspan="1" colspan="1">95 (27%)</td><td align="char" rowspan="1" colspan="1">135 (36%)</td></tr><tr><td colspan="4" align="left" rowspan="1">MCI</td><td rowspan="3" align="left" colspan="1">0.007</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="char" rowspan="1" colspan="1">57 (67%)</td><td align="char" rowspan="1" colspan="1">98 (76%)</td><td align="char" rowspan="1" colspan="1">99 (59%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="char" rowspan="1" colspan="1">28 (33%)</td><td align="char" rowspan="1" colspan="1">31 (24%)</td><td align="char" rowspan="1" colspan="1">70 (41%)</td></tr><tr><td colspan="5" align="left" rowspan="1">
+<bold>Diabetes (<italic toggle="yes">n</italic>) %</bold>
+</td></tr><tr><td colspan="4" align="left" rowspan="1">CU</td><td rowspan="4" align="left" colspan="1">&lt;0.001</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="char" rowspan="1" colspan="1">68 (15%)</td><td align="char" rowspan="1" colspan="1">127 (36%)</td><td align="char" rowspan="1" colspan="1">114 (30%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="char" rowspan="1" colspan="1">371 (82%)</td><td align="char" rowspan="1" colspan="1">218 (62%)</td><td align="char" rowspan="1" colspan="1">242 (64%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="char" rowspan="1" colspan="1">12 (3%)</td><td align="char" rowspan="1" colspan="1">8 (2%)</td><td align="char" rowspan="1" colspan="1">21 (6%)</td></tr><tr><td colspan="4" align="left" rowspan="1">MCI</td><td rowspan="4" align="left" colspan="1">0.054</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Yes</td><td align="char" rowspan="1" colspan="1">23 (27%)</td><td align="char" rowspan="1" colspan="1">55 (43%)</td><td align="char" rowspan="1" colspan="1">54 (32%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">No</td><td align="char" rowspan="1" colspan="1">60 (71%)</td><td align="char" rowspan="1" colspan="1">72 (56%)</td><td align="char" rowspan="1" colspan="1">107 (63%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Missing</td><td align="char" rowspan="1" colspan="1">2 (2%)</td><td align="char" rowspan="1" colspan="1">2 (1%)</td><td align="char" rowspan="1" colspan="1">8 (5%)</td></tr><tr><td colspan="5" align="left" rowspan="1">
+<bold>Education in years – mean (SD)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CU</td><td align="char" rowspan="1" colspan="1">16 (2)</td><td align="char" rowspan="1" colspan="1">12 (4)</td><td align="char" rowspan="1" colspan="1">15 (3)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">MCI</td><td align="char" rowspan="1" colspan="1">15 (3)</td><td align="char" rowspan="1" colspan="1">11 (4)</td><td align="char" rowspan="1" colspan="1">14 (2)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td colspan="5" align="left" rowspan="1">
+<bold>Income in US dollars – mean (SD)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">CU</td><td align="left" rowspan="1" colspan="1">100,238 (99,303)</td><td align="left" rowspan="1" colspan="1">52,944 (47,583)</td><td align="left" rowspan="1" colspan="1">85,441 (101,054)</td><td align="left" rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">MCI</td><td align="left" rowspan="1" colspan="1">71,958 (68,526)</td><td align="left" rowspan="1" colspan="1">46, 348 (52,112)</td><td align="left" rowspan="1" colspan="1">55,293 (59,124)</td><td align="left" rowspan="1" colspan="1">0.013</td></tr></tbody></table><table-wrap-foot><fn id="alz71226-tbl1-note-0002"><p>Abbreviations: Aβ, amyloid‐β; <italic toggle="yes">APOE</italic>ε4, apolipoprotein E allele; CU, cognitively unimpaired; MCI, mild cognitively impaired.</p></fn><fn id="alz71226-tbl1-note-0001"><p>
+<italic toggle="yes">p</italic> values demonstrate differences across ethnoracial groups.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz71226-sec-0090"><label>2.2</label><title>Cognitive diagnoses</title><p>Clinical interviews, Clinical Dementia Rating Scale (CDR) Sum of Boxes, and cognitive test performance were used to determine cognitive diagnoses. CU participants had a CDR Sum of Boxes score of 0 and cognitive test scores better than 1.5 standard deviations (SDs) below the mean while MCI participants had a CDR Sum of Boxes score between 0.5 and 2.0, and at least one cognitive test score fell at or below 1.5 SDs beneath z‐adjusted norms. Dementia patients were not included in the current study due to our interest in understanding early AD marker associations. Age, race/ethnicity, sex, and years of education were self‐reported at clinical visits.</p></sec><sec id="alz71226-sec-0100"><label>2.3</label><title>
+<italic toggle="yes">APOE</italic>ε4 genotyping</title><p>
+<italic toggle="yes">APOE</italic>ε4 genotyping was performed using TaqMan Genotyping Kits and variants were checked for Hardy Weinberg equilibrium. Participants who carried at least one <italic toggle="yes">APOE</italic>ε4 allele were categorized as <italic toggle="yes">APOE</italic>ε4 positive.</p></sec><sec id="alz71226-sec-0110"><label>2.4</label><title>Neuropsychological evaluation</title><p>All HABS‐HD study interviews and testing were conducted in either Spanish or English depending on participant preference. Participants completed a full neuropsychological battery. We focused on MTL‐dependent cognitive tests that measure episodic memory through immediate and delayed recall performance: Spanish English Verbal Learning Test (SEVLT) Trials 1–5 total, SEVLT 30‐min Delayed Recall total, and the Wechsler Memory Scale, third edition (WMS‐III) Logical Memory immediate and delayed story recall total. We calculated a z‐score memory composite that averaged the z‐scores for each of these tests. A Cronbach's alpha value of 0.90 was calculated indicating that all items reliably measured the memory construct.<xref rid="alz71226-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+</p></sec><sec id="alz71226-sec-0120"><label>2.5</label><title>Neuroimaging</title><p>All neuroimaging scans were acquired at the UNT HSC and stored in the Imaging &amp; Data Archive (IDA) maintained by the University of Southern California. Scans were downloaded from the IDA and processed at the University of Southern California.</p><sec id="alz71226-sec-0130"><label>2.5.1</label><title>MRI acquisition and processing</title><p>Participants were scanned on either a Siemens Magnetom Skyra 3T whole‐body MRI or Siemens Magnetom Vida 3T MRI located at the Institute for Translational Research at the University of North Texas. Within our sample, 51 participants were scanned on the Skyra, and 1513 participants were scanned on the Vida. For each participant, we acquired a T1‐weighted whole brain volumetric spoiled magnetization‐prepared rapid gradient (MPRAGE) scan (Skyra: repetition time [TR] = 2300 ms; echo time [TE] = 2.93 ms, 1.1 × 1.1 × 1.2 mm voxels; Vida: TR = 2300 ms, TE = 2.98 ms, 1.0 × 1.0 × 1.0 mm voxels; flip angle = 9 for Skyra and Vida).</p><p>We downloaded unprocessed MRI scans from the Laboratory of NeuroImaging IDA website. MRI images were bias corrected using the Advanced Normalization Tools (ANTS) with parameters of bspline‐fitting = [200], shrink factor = 1, and convergence = [50 × 50 × 45 × 40, 0]. The bias‐corrected images served as input for FreeSurfer version 5.3.0, which includes an additional bias‐correction step. FreeSurfer was used to parcellate and segment all cortical and subcortical regions of interest of the T1‐weighted volume scans.</p></sec><sec id="alz71226-sec-0140"><label>2.5.2</label><title>Tau PET acquisition and processing</title><p>Participants underwent tau PET imaging on one of two identical Siemens Biograph Vision 450 scanners located at the Institute for Translational Research at UNT. Participants were injected with a 5 mCi bolus ± 10% of PI‐2620. A CT scan was acquired for attenuation correction. Forty‐five to 75 min postinjection, a dynamic emission scan was acquired (six frames of 5 minutes each). The PET images were reconstructed after the 30‐min scan. Reconstruction was iterative (eight iterations; five subsets) with time of flight on, a grid of 440 × 440 × 119, zoom of 2, and an all‐pass filter on.</p><p>We downloaded unprocessed, reconstructed tau PET scans from the Laboratory of NeuroImaging IDA website. To correct for participant motion, all frames were co‐registered to the first frame using statistical parametric mapping (SPM) 12's reslice and realign tool followed by an averaging of motion‐corrected frames to create one 3D PET image. FreeSurfer version 5.3 was used to segment MRI T1‐weighted scans. Our study's primary focus was our standard MTL ROI (entorhinal cortex, hippocampus, and amygdala) as the site of early tau accumulation, including in CU individuals.<xref rid="alz71226-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> We performed a standardized uptake value ratio (SUVR) analysis using inferior cerebellar gray matter as a reference region, consistent with prior work.<xref rid="alz71226-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="alz71226-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Based on our reference region testing for PI‐2620,<xref rid="alz71226-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> and as detailed in our prior work,<xref rid="alz71226-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> we used the SUIT cerebellar atlas in Montreal Neurological Institute (MNI) space to exclude all cerebellar regions superior to the left and right Crus I lobule. The inferior cerebellum binary mask in MNI space was non‐linearly aligned to native T1 space for each participant and multiplied by the individual participants’ FreeSurfer‐derived cerebellar gray matter masks in T1 native space to derive each participant's native‐MR‐space reference region. After PET and T1‐weighted MR images were linearly co‐registered, all regions of interest were transformed to native PET space, where the SUVR analyses took place. During the quality control process, a final determination was made as to whether signal spillover was present in the inferior cerebellum and if there were more than four rows of voxels of contamination in the reference region, the scan was excluded. MTL SUVRs were calculated by dividing the mean raw MTL tau PET uptake values by the mean raw reference region PET uptake values to derive a mean SUVR for MTL tau.</p><p>Black participants may demonstrate higher tau PET signal unrelated to tau accumulation compared to NHW participants due to off‐target binding in the choroid plexus.<xref rid="alz71226-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> We tested whether neighboring off‐target signal affects the MTL tau PET levels across the ethnoracial groups. To do this, we extracted the Freesurfer‐derived choroid plexus segmentation, co‐registered it to native PET space and obtained the mean tau PET uptake values. We performed sensitivity testing by re‐evaluating all main statistical analyses while adjusting for choroid plexus SUVR.</p><p>We also assessed whether the results we found in the MTL would be reflected in more advanced stage tau regions of the brain. We tested these associations in separate lateral temporal regions including the fusiform, inferior temporal, middle temporal, and parahippocampal gyrus. We performed a sensitivity analysis to test whether off‐target signal from the meninges contributed to ethnoracial differences in lateral temporal tau by creating eroded lateral temporal regions for increased accuracy of SUVR calculations. These were created by eroding a full brain mask using FSL erode kernel sphere 3. The full brain mask was then multiplied by Freesurfer‐derived fusiform, inferior temporal, middle temporal, and parahippocampal masks, resulting in masks that excluded the voxels on the pial surface that were contiguous with the cerebral spinal fluid or meninges.</p><p>Lastly, we tested whether ethnoracial differences were observed in more advanced cortical regions, according to Braak and Braak staging, by using composite ROIs of the lateral parietal (a combination of the inferior parietal, superior parietal, and supramarginal) and posterior cingulate cortex regions (a combination of the isthmus cingulate and posterior cingulate). The same erosion method above was applied to the lateral parietal mask to create an eroded lateral parietal region to reduce inclusion of meningeal off‐target binding. In prior work from our lab, this eroded lateral parietal region removed signal that was likely adding statistical noise from off‐target contamination and modestly strengthened relationships between our lateral parietal ROI and age, cognitive status, and MTL tau signal.<xref rid="alz71226-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Same as for the MTL SUVRs, SUVRs for the distinct lateral temporal regions, lateral parietal, and posterior cingulate were calculated by dividing each of the mean raw tau PET regional signal by the mean raw reference region PET signal.</p></sec><sec id="alz71226-sec-0150"><label>2.5.3</label><title>Amyloid PET acquisition and processing</title><p>Participants underwent amyloid PET imaging using the Siemens Biograph Vision 450 whole‐body PET/CT scanners that were also used for the tau PET scans, using the ADNI3 protocol for florbetaben (Neuraceq) scans. Per the scanning protocol, participants were injected with an 8.1 mCi bolus ± 10% florbetaben. A low‐dose CT scan was acquired for attenuation correction. Ninety minutes after bolus injection, a dynamic emission scan was acquired (four 5‐min frames). Reconstruction was performed using the same parameters as listed for the Siemens Biograph Vision 450 scanner above for PI‐2620.</p><p>We downloaded unprocessed, reconstructed amyloid PET scans from the Laboratory of NeuroImaging IDA website. Scans were first motion corrected by co‐registering each frame in a scan to the participant's first frame using SPM 12′s re‐slice and realign functions. Frames were then averaged and consistent with the ADNI3 analysis protocol for florbetaben, scans were resampled to a voxel size of 1.5 mm and smoothed with a kernel of 6.5 mm in‐plane and 5.5 mm through‐plane to an apparent resolution of ∼8 mm. FreeSurfer version 5.3.0 was used to segment each participant's MRI T1‐weighted scan into frontal, lateral parietal, anterior/posterior cingulate, and lateral temporal ROIs as described in the ADNI3 protocols for florbetaben<xref rid="alz71226-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> and florbetapir.<xref rid="alz71226-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> We also used FreeSurfer to delineate the whole cerebellum reference region for florbetaben. Each participant's PET scan was linearly co‐registered to the T1‐weighted MR images (6 degrees of freedom) using a mutual information cost function. The inverse coregistration matrices were applied to the ROIs and reference regions to bring them into native PET image space, where our analyses were performed. We calculated a global summary of amyloid PET SUVR by calculating the mean of the frontal, lateral parietal, anterior/posterior cingulate, and lateral temporal SUVRs. For the purposes of this study, participants were categorized as Aβ+ (global SUVR at least 1.08) or Aβ− (below 1.08) consistent with ADNI3 guidelines for florbetaben.<xref rid="alz71226-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> Since the Aβ positivity rates of the study were at 18%, we tested that the ADNI3 amyloid positivity cutoff was not too high to use with this cohort by performing a Gaussian mixture model analysis. Our results showed that the estimated cutoff value was close to the ADNI3 cutoff value indicating that the use of this cutoff value was appropriate for our cohort. Methods for this process are specified in the <xref rid="alz71226-supinfo-0001" ref-type="">Supporting Information S1</xref> section. Density curves of global amyloid SUVRs are presented in Figure <xref rid="alz71226-supinfo-0001" ref-type="">S1</xref>.</p></sec></sec><sec id="alz71226-sec-0160"><label>2.6</label><title>Statistical analysis</title><p>All statistical analyses and data visualizations were conducted using R studio version 2023.06.2+561. To reduce the influence of data outliers, robust regression models were used to investigate associations involving ethnoracial group, Aβ positivity, mean MTL tau SUVR, <italic toggle="yes">APOE</italic>ε4, and memory performance. Robust regressions were also used to assess the separate relationships between ethnoracial group, Aβ positivity, cognitive performance and mean lateral temporal regions, the lateral parietal composite and posterior cingulate composite SUVRs. Covariates included were age, sex, years of education, and Aβ positivity. We performed false discovery rate (FDR) adjustments for multiple comparisons when necessary, with the statistical significance after correction at <italic toggle="yes">p</italic> &lt; 0.05. Robust regression results are presented as standardized beta estimates, confidence intervals, and <italic toggle="yes">p</italic> values.</p></sec></sec><sec id="alz71226-sec-0170"><label>3</label><title>RESULTS</title><sec id="alz71226-sec-0180"><label>3.1</label><title>Sample characteristics</title><p>As presented in Table <xref rid="alz71226-tbl-0001" ref-type="table">1</xref>, we used analyses of variance (ANOVAs) to compare differences among ethnoracial groups in mean age, education, and annual household income. Chi‐squared tests of independence were used to assess differences in cognitive diagnosis, Aβ positivity, sex, <italic toggle="yes">APOE</italic>ε4 positivity, cardiovascular disease, hypertension, dyslipidemia, and type 2 diabetes diagnoses across ethnoracial groups.</p><p>To ensure that results were not confounded by group differences in disease progression, we performed 1‐to‐1 matching of NHW and Black pairs and NHW and Hispanic pairs on age (±3‐year difference), gender, education in years, and cognitive diagnosis. We re‐performed all main analyses using these matched groups. Methods and results for these analyses are separately presented in the <xref rid="alz71226-supinfo-0001" ref-type="">Supporting Information S2</xref> section.</p></sec><sec id="alz71226-sec-0190"><label>3.2</label><title>MTL tau levels differed across racial/ethnic groups</title><p>We evaluated MTL tau levels (using our standard MTL regions: entorhinal cortex, hippocampus, and amygdala) among ethnoracial groups using robust regression analyses controlling for age, sex, education, and Aβ positivity.</p><p>In the combined CU and MCI cohort, Hispanic (<italic toggle="yes">β</italic> = 0.34, 95% CI [0.23, 0.44], <italic toggle="yes">p</italic> &lt; 0.001) and Black (<italic toggle="yes">β</italic> = 0.28, 95% CI [0.19, 0.38], <italic toggle="yes">p</italic> &lt; 0.001) participants had higher MTL tau PET signal than NHW participants. Stratified by cognitive diagnosis, CU Hispanic (<italic toggle="yes">β</italic> = 0.35, 95% CI [0.24,0.46], <italic toggle="yes">p</italic> &lt; 0.001) and Black (<italic toggle="yes">β</italic> = 0.32, 95% CI [0.21,0.43], <italic toggle="yes">p</italic> &lt; 0.001) participants also had higher MTL tau PET SUVR than CU NHW participants but this difference was not observed in MCI participants (0.12 &lt; <italic toggle="yes">β</italic> &lt; 0.21, <italic toggle="yes">p</italic> &gt; 0.159) (Table <xref rid="alz71226-supinfo-0001" ref-type="">S1</xref>). Cognitive diagnosis significantly moderated the relationship between MTL tau and ethnoracial group in which NHW participants showed significantly higher levels of MTL tau associated with MCI compared to Black participants (<italic toggle="yes">β</italic> = −0.31, 95% CI [−0.57, −0.06], <italic toggle="yes">p </italic>= 0.017).</p><p>We then investigated Aβ associations with MTL tau levels across ethnoracial groups. In CU participants, ethnoracial group did not moderate the association between Aβ positivity and MTL tau between either CU NHW and Hispanic participants (<italic toggle="yes">β</italic> = −0.13, 95% CI [−0.54, 0.28], <italic toggle="yes">p </italic>= 0.530) or CU NHW and Black participants (<italic toggle="yes">β</italic> = 0.05, 95% CI [−0.39, 0.49], <italic toggle="yes">p </italic>= 0.834) (Table <xref rid="alz71226-supinfo-0001" ref-type="">S2</xref>). Likewise, within the MCI cohort, ethnoracial group did not moderate the associations between MTL tau and Aβ positivity between either NHW and Black participants (<italic toggle="yes">β</italic> = −0.88, 95% CI [−1.88, 0.12], <italic toggle="yes">p </italic>= 0.084) or NHW and Hispanic participants (<italic toggle="yes">β</italic> = −0.53, 95% CI [−1.40, 0.35], <italic toggle="yes">p </italic>= 0.239). Table <xref rid="alz71226-tbl-0002" ref-type="table">2</xref> provides a summary of mean MTL tau SUVRs across the groups. Figure <xref rid="alz71226-fig-0001" ref-type="fig">1</xref> illustrates boxplots of the predicted MTL tau levels by ethnoracial group and Aβ positivity status controlling for age, sex, and education.</p><table-wrap position="float" id="alz71226-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>MTL tau SUVRs across ethnoracial groups by cognitive diagnosis and Aβ+ positivity.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Cognitive diagnosis</th><th align="left" rowspan="1" colspan="1">Aβ+ status</th><th align="left" rowspan="1" colspan="1">Hispanic</th><th align="left" rowspan="1" colspan="1">Black</th><th align="left" rowspan="1" colspan="1">NHW</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Total CU–mean (SD)</td><td align="left" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">1.129 (0.103)</td><td align="left" rowspan="1" colspan="1">1.129 (0.120)</td><td align="left" rowspan="1" colspan="1">1.122 (0.136)</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Aβ−</td><td align="char" rowspan="1" colspan="1">1.125<xref rid="alz71226-tbl2-note-0003" ref-type="table-fn">
+<sup>*</sup>
+</xref> (0.097)</td><td align="left" rowspan="1" colspan="1">1.117 (0.107)</td><td align="left" rowspan="1" colspan="1">1.103 (0.122)</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Aβ+</td><td align="char" rowspan="1" colspan="1">1.152 (0.140)</td><td align="left" rowspan="1" colspan="1">1.209 (0.164)</td><td align="left" rowspan="1" colspan="1">1.188 (0.157)</td></tr><tr><td align="left" rowspan="1" colspan="1">Total MCI–mean (SD)</td><td align="left" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">1.159 (0.162)</td><td align="left" rowspan="1" colspan="1">1.134 (0.146)</td><td align="left" rowspan="1" colspan="1">1.182 (0.178)</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Aβ−</td><td align="char" rowspan="1" colspan="1">1.122 (0.115)</td><td align="left" rowspan="1" colspan="1">1.116 (0.111)</td><td align="left" rowspan="1" colspan="1">1.100 (0.093)</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Aβ+</td><td align="char" rowspan="1" colspan="1">1.315 (0.227)</td><td align="left" rowspan="1" colspan="1">1.240 (0.255)</td><td align="left" rowspan="1" colspan="1">1.325 (0.201)</td></tr></tbody></table><table-wrap-foot><fn id="alz71226-tbl2-note-0001"><p>Table of mean and standard deviations of MTL tau SUVRs by cognitive diagnosis and Aβ positivity across ethnoracial groups.</p></fn><fn id="alz71226-tbl2-note-0002"><p>Abbreviations: Aβ, amyloid‐β; CU, cognitively unimpaired; MCI, mild cognitively impaired; MTL, medial temporal lobe; NHW, non‐Hispanic White; SUVR, standardized uptake value ratio.</p></fn><fn id="alz71226-tbl2-note-0003"><label>*</label><p>Indicates a statistically different MTL tau mean compared to the NHW group.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><fig position="float" fig-type="FIGURE" id="alz71226-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Predicted tau MTL levels by ethnoracial group and Aβ positivity. Boxplots of predicted MTL tau SUVRs by ethnoracial group and Aβ positivity status show that in Aβ− participants, Black (<italic toggle="yes">β</italic> = 0.28, 95% CI [0.18, 0.38], <italic toggle="yes">p</italic> &lt; 0.001) and Hispanic (<italic toggle="yes">β</italic> = 0.34, 95% CI [0.24, 0.45], <italic toggle="yes">p</italic> &lt; 0.001) participants showed higher MTL tau levels than NHW participants while all Aβ+ ethnoracial groups showed similar MTL tau levels (0.26 &lt; <italic toggle="yes">β</italic> &lt; 0.06 <italic toggle="yes">p</italic> &gt; 0.185). Aβ, amyloid‐β; CI, confidence interval; MTL, medial temporal lobe; NHW, non‐Hispanic White; SUVR, standardized uptake value ratio.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALZ-22-e71226-g002.jpg"/></fig></sec><sec id="alz71226-sec-0200"><label>3.3</label><title>Ethnoracial group did not moderate the associations between MTL tau and memory scores</title><p>We evaluated the associations between MTL tau PET and a memory composite score across the entire cohort by assessing whether ethnoracial group moderated the associations between MTL tau PET and memory while covarying for age, sex, education, and Aβ‐positivity. Within the whole cohort of MCI and CU participants, higher MTL tau was associated with a lower composite learning and memory score (<italic toggle="yes">β</italic> = −0.12, 95% CI [−0.18, −0.06], <italic toggle="yes">p</italic> &lt; 0.001). To evaluate which aspects of learning and memory drove this significant association between memory and MTL tau, we further tested tau relationships with each individual cognitive test used to create the composite score (the SEVLT immediate and delayed free recall tests, and the Logical Memory (A+B) immediate and delayed recall tests). For all individual tests within the learning and memory composite score, poorer performance was associated with higher MTL tau (SEVLT immediate recall (<italic toggle="yes">β</italic> = −0.11, 95% CI [−0.17, −0.05], <italic toggle="yes">p</italic> &lt; 0.001), SEVLT delayed recall (<italic toggle="yes">β</italic> = −0.14, 95% CI [−0.21, −0.07], <italic toggle="yes">p</italic> &lt; 0.001), Logical Memory Story (A+B) immediate recall (<italic toggle="yes">β</italic> = −0.11, 95% CI [−0.16, −0.05], <italic toggle="yes">p</italic> &lt; 0.001), and Logical Memory Story (A+B) delayed recall (<italic toggle="yes">β</italic> = −0.13, 95% CI [−0.19, −0.06], <italic toggle="yes">p</italic> &lt; 0.001)).</p><p>We further assessed whether ethnoracial identity moderated the relationship between tau and cognitive performance. We found that no interaction effect of ethnoracial identity was present between MTL tau and memory composite when comparing NHW and Black participants (<italic toggle="yes">β</italic> = 0.12, 95% CI [−0.01, 0.26], <italic toggle="yes">p </italic>= 0.072), Black and Hispanic participants (<italic toggle="yes">β</italic> = 0.08, 95% CI [−0.03, 0.19], <italic toggle="yes">p </italic>= 0.171), or between NHW and Hispanic participants (<italic toggle="yes">β</italic> = 0.04,95%CI [−0.10, 0.19], <italic toggle="yes">p </italic>= 0.538). Results of individual tests among each ethnoracial group are presented in Table <xref rid="alz71226-supinfo-0001" ref-type="">S3</xref>.</p></sec><sec id="alz71226-sec-0210"><label>3.4</label><title>Aβ positivity moderated the associations between cognitive performance and MTL tau within NHW and Hispanic groups but not Black participants</title><p>We further explored the relationship between MTL tau and cognitive performance across ethnoracial groups by evaluating the potential interaction of Aβ positivity. Previous literature has indicated that Aβ positivity is associated with greater levels of tau within the MTL, which subsequently spreads to other neocortical regions and contributes to cognitive impairment.<xref rid="alz71226-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> We tested whether Aβ positivity moderated the relationship between MTL tau and cognitive performance within each ethnoracial group and covaried for age, education, and sex. There was a significant interaction effect of Aβ positivity on the association between MTL tau and cognitive performance in both NHW participants (Figure <xref rid="alz71226-fig-0002" ref-type="fig">2A</xref>) (memory composite score (<italic toggle="yes">β</italic> = −0.31, 95% CI [−0.42,−0.19], <italic toggle="yes">p</italic> &lt; 0.001)) and Hispanic participants (memory composite score (<italic toggle="yes">β</italic> = −0.25, 95% CI [−0.39,−0.10], <italic toggle="yes">p</italic> &lt; 0.001) (Figure <xref rid="alz71226-fig-0002" ref-type="fig">2B</xref>). However, Aβ positivity did not moderate the associations between MTL tau and the composite memory score in Black participants (<italic toggle="yes">β</italic> = −0.15, 95% CI [−0.31, 0.01], <italic toggle="yes">p </italic>= 0.067) (Figure <xref rid="alz71226-fig-0002" ref-type="fig">2C</xref>). Table <xref rid="alz71226-tbl-0003" ref-type="table">3</xref> summarizes these findings.</p><fig position="float" fig-type="FIGURE" id="alz71226-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Relationships between Aβ positivity, MTL tau PET SUVR, and learning and memory composite score across ethnoracial groups in CU and MCI older adults. (A) Aβ positivity moderated the association between MTL tau SUVR and the learning and memory composite score in NHW participants (<italic toggle="yes">β</italic> = −0.31, 95% CI [−0.42, −0.19], <italic toggle="yes">p</italic> &lt; 0.001). One participant was excluded from the figure (but not the analysis) for improved visualization since their MTL SUVR fell outside of the plotted <italic toggle="yes">x</italic>‐axis range. (B) Aβ positivity moderated the association between MTL tau SUVR and the learning and memory composite score in Hispanic participants (<italic toggle="yes">β</italic> = −0.25, 95% CI [−0.39, −0.10], <italic toggle="yes">p</italic> &lt; 0.001). (C) Aβ positivity trended toward moderating the association between MTL tau SUVR and the learning and memory composite score in Black participants (<italic toggle="yes">β</italic> = −0.15, 95% CI [−0.31, 0.01], <italic toggle="yes">p </italic>= 0.067). Aβ, amyloid‐β; CI, confidence interval; CU, cognitively unimpaired; MCI, mild cognitive impairment; MTL, medial temporal lobe; NHW, non‐Hispanic White; PET, positron emission tomography; SUVR, standardized uptake value ratio.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALZ-22-e71226-g001.jpg"/></fig><table-wrap position="float" id="alz71226-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>(A) Associations between MTL tau and memory performance across ethnoracial groups by Aβ positivity, (B) interaction between Aβ positivity and MTL tau on memory performance, and (C) interaction between ethnoracial group and MTL tau on memory performance.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th colspan="3" align="left" style="border-bottom:solid 1px #000000" rowspan="1">NHW participants</th><th colspan="3" align="left" style="border-bottom:solid 1px #000000" rowspan="1">Hispanic participants</th><th colspan="3" align="left" style="border-bottom:solid 1px #000000" rowspan="1">Black participants</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Group</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">β</italic>
+</th><th align="left" rowspan="1" colspan="1">95% CI</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">β</italic>
+</th><th align="left" rowspan="1" colspan="1">95% CI</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">β</italic>
+</th><th align="left" rowspan="1" colspan="1">95% CI</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody><tr><td colspan="10" align="left" rowspan="1">
+<bold>(A)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Full cohort</td><td align="char" rowspan="1" colspan="1">−0.13</td><td align="char" rowspan="1" colspan="1">−0.24, −0.01</td><td align="char" rowspan="1" colspan="1">0.032</td><td align="char" rowspan="1" colspan="1">−0.12</td><td align="char" rowspan="1" colspan="1">−0.19, −0.04</td><td align="char" rowspan="1" colspan="1">0.005</td><td align="char" rowspan="1" colspan="1">−0.04</td><td align="char" rowspan="1" colspan="1">−0.12, 0.04</td><td align="char" rowspan="1" colspan="1">0.341</td></tr><tr><td align="left" rowspan="1" colspan="1">Aβ negative</td><td align="char" rowspan="1" colspan="1">−0.004</td><td align="char" rowspan="1" colspan="1">−0.06, 0.05</td><td align="char" rowspan="1" colspan="1">0.892</td><td align="char" rowspan="1" colspan="1">−0.03</td><td align="char" rowspan="1" colspan="1">−0.13, 0.08</td><td align="char" rowspan="1" colspan="1">0.645</td><td align="char" rowspan="1" colspan="1">0.01</td><td align="char" rowspan="1" colspan="1">−0.08, 0.11</td><td align="char" rowspan="1" colspan="1">0.764</td></tr><tr><td align="left" rowspan="1" colspan="1">Aβ positive</td><td align="char" rowspan="1" colspan="1">−0.30</td><td align="char" rowspan="1" colspan="1">−0.42, −0.19</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">−0.23</td><td align="char" rowspan="1" colspan="1">−0.33, −0.13</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">−0.18</td><td align="char" rowspan="1" colspan="1">−0.33, −0.03</td><td align="char" rowspan="1" colspan="1">0.019</td></tr><tr><td colspan="10" align="left" rowspan="1">
+<bold>(B)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Aβ positivity interaction</td><td align="char" rowspan="1" colspan="1">−0.31</td><td align="char" rowspan="1" colspan="1">−0.42, −0.19</td><td align="char" rowspan="1" colspan="1">&lt;0.001</td><td align="char" rowspan="1" colspan="1">−0.25</td><td align="char" rowspan="1" colspan="1">−0.39, −0.10</td><td align="char" rowspan="1" colspan="1">0.001</td><td align="char" rowspan="1" colspan="1">−0.15</td><td align="char" rowspan="1" colspan="1">−0.31, 0.01</td><td align="char" rowspan="1" colspan="1">0.067</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1"/><th colspan="3" align="center" style="border-bottom:solid 1px #000000" rowspan="1">NHW vs. Black</th><th colspan="3" align="center" style="border-bottom:solid 1px #000000" rowspan="1">NHW vs. Hispanic</th><th colspan="3" align="center" style="border-bottom:solid 1px #000000" rowspan="1">Black vs. Hispanic</th></tr></thead><tbody><tr><td colspan="10" align="left" rowspan="1">
+<bold>(C)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Ethnoracial group interaction</td><td align="left" rowspan="1" colspan="1">0.12</td><td align="left" rowspan="1" colspan="1">−0.01, 0.26</td><td align="left" rowspan="1" colspan="1">0.072</td><td align="left" rowspan="1" colspan="1">0.04</td><td align="left" rowspan="1" colspan="1">−0.10, 0.19</td><td align="left" rowspan="1" colspan="1">0.538</td><td align="left" rowspan="1" colspan="1">0.08</td><td align="left" rowspan="1" colspan="1">−0.03, 0.19</td><td align="left" rowspan="1" colspan="1">0.173</td></tr></tbody></table><table-wrap-foot><fn id="alz71226-tbl3-note-0001"><p>Standardized betas are shown. Sample sizes: total NHW cohort (<italic toggle="yes">N</italic> = 536), Aβ− NHW (<italic toggle="yes">N</italic> = 400), Aβ+ NHW (<italic toggle="yes">N</italic> = 136), total Hispanic cohort (<italic toggle="yes">N</italic> = 482), Aβ− Hispanic (<italic toggle="yes">N</italic> = 415), Aβ+ Hispanic (<italic toggle="yes">N</italic> = 67), total Black cohort (<italic toggle="yes">N</italic> = 546), Aβ− Black (<italic toggle="yes">N</italic> = 474), Aβ+ Black (<italic toggle="yes">N</italic> = 72).</p></fn><fn id="alz71226-tbl3-note-0002"><p>Abbreviations: Aβ, amyloid‐β; CI, confidence interval; MTL, medial temporal lobe; NHW, non‐Hispanic White.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz71226-sec-0220"><label>3.5</label><title>
+<italic toggle="yes">APOE</italic>ε4 did not moderate the associations between MTL tau and Aβ positivity in any of the ethnoracial groups</title><p>
+<italic toggle="yes">APOE</italic>ε4 positivity has been associated with greater tau PET SUVR signal in the MTL, independent of Aβ positivity status.<xref rid="alz71226-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> However, prior studies have been performed in primarily NHW study samples and little is known about the associations between <italic toggle="yes">APOE</italic>ε4 positivity and MTL tau as well as the effect of <italic toggle="yes">APOE</italic>ε4 in the relationship between MTL tau and Aβ positivity in Hispanic and Black study samples.<xref rid="alz71226-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> To evaluate the influence of <italic toggle="yes">APOE</italic>ε4 carriership on MTL tau levels across ethnoracial groups, we performed robust regression analyses controlling for age, sex, education, and Aβ positivity.</p><p>In the whole cohort, <italic toggle="yes">APOE</italic>ε4 positivity was associated with higher MTL tau levels (<italic toggle="yes">β</italic> = 0.12, 95% CI [0.02, 0.22], <italic toggle="yes">p </italic>= 0.023). The relationship between <italic toggle="yes">APO</italic>Eε4 and MTL tau was apparent in MCI participants (<italic toggle="yes">β</italic> = 0.32, 95% CI [0.09, 0.55], <italic toggle="yes">p </italic>= 0.007) but not CU participants (<italic toggle="yes">β</italic> = 0.05, 95% CI [−0.07, 0.16], <italic toggle="yes">p </italic>= 0.428). There was no interaction effect of ethnoracial group between NHW and Black participants (<italic toggle="yes">β</italic> = −0.20, 95% CI [−0.43, 0.03], <italic toggle="yes">p </italic>= 0.088), NHW and Hispanic participants (<italic toggle="yes">β</italic> = −0.07, 95% CI [−0.34, 0.20], <italic toggle="yes">p </italic>= 0.604) or Black and Hispanic participants (<italic toggle="yes">β</italic> = −0.14, 95% CI [−0.41, 0.13], <italic toggle="yes">p </italic>= 0.319) in the association between <italic toggle="yes">APOE</italic>ε4 genotype and MTL tau. Additionally, <italic toggle="yes">APOE</italic>ε4 did not moderate the associations between MTL tau and Aβ positivity in any of the ethnoracial groups (NHW (<italic toggle="yes">β</italic> = 0.27, 95%CI [−0.24, 0.77], <italic toggle="yes">p </italic>= 0.297), Hispanic (<italic toggle="yes">β</italic> = 0.60, 95%CI [−0.24, 1.45], <italic toggle="yes">p </italic>= 0.162), or Black (<italic toggle="yes">β</italic> = 0.24, 95%CI [−0.46, 0.95], <italic toggle="yes">p </italic>= 0.497)). Table <xref rid="alz71226-tbl-0004" ref-type="table">4</xref> demonstrates these results.</p><table-wrap position="float" id="alz71226-tbl-0004" content-type="TABLE" orientation="portrait"><label>TABLE 4</label><caption><p>(A) <italic toggle="yes">APOE</italic>ε4 associations with MTL tau across ethnoracial groups and (B) interactions between ethnoracial group and <italic toggle="yes">APOE</italic>ε4 on MTL tau.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">NHW CU and MCI</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Hispanic CU and MCI</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Black CU and MCI</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">β</italic>
+</th><th align="left" rowspan="1" colspan="1">95% CI</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">β</italic>
+</th><th align="left" rowspan="1" colspan="1">95% CI</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">β</italic>
+</th><th align="left" rowspan="1" colspan="1">95% CI</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody><tr><td colspan="9" align="left" rowspan="1">
+<bold>(A)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">0.18</td><td align="left" rowspan="1" colspan="1">0.006, 0.35</td><td align="left" rowspan="1" colspan="1">0.042</td><td align="left" rowspan="1" colspan="1">0.15</td><td align="left" rowspan="1" colspan="1">−0.07, 0.37</td><td align="left" rowspan="1" colspan="1">0.190</td><td align="left" rowspan="1" colspan="1">0.02</td><td align="left" rowspan="1" colspan="1">−0.14, 0.18</td><td align="left" rowspan="1" colspan="1">0.788</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">NHW vs. Black</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">NHW vs. Hispanic</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" rowspan="1">Hispanic vs. Black</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">β</italic>
+</th><th align="left" rowspan="1" colspan="1">95% CI</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">β</italic>
+</th><th align="left" rowspan="1" colspan="1">95% CI</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">β</italic>
+</th><th align="left" rowspan="1" colspan="1">95% CI</th><th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody><tr><td colspan="9" align="left" rowspan="1">
+<bold>(B)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">−0.20</td><td align="left" rowspan="1" colspan="1">−0.43, 0.03</td><td align="left" rowspan="1" colspan="1">0.088</td><td align="left" rowspan="1" colspan="1">−0.07</td><td align="left" rowspan="1" colspan="1">−0.34, 0.20</td><td align="left" rowspan="1" colspan="1">0.604</td><td align="left" rowspan="1" colspan="1">−0.14</td><td align="left" rowspan="1" colspan="1">−0.41, 0.13</td><td align="left" rowspan="1" colspan="1">0.319</td></tr></tbody></table><table-wrap-foot><fn id="alz71226-tbl4-note-0001"><p>Abbreviations: <italic toggle="yes">APOE</italic>ε4, apolipoprotein E allele; CI, confidence interval; CU, cognitively unimpaired; MCI, mild cognitively impaired; MTL, medial temporal lobe; NHW, non‐Hispanic White.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="alz71226-sec-0230"><label>3.6</label><title>
+<italic toggle="yes">APOE</italic>ε4 did not moderate the associations between MTL tau and cognitive performance in any ethnoracial group</title><p>Prior<xref rid="alz71226-tbl-0003" ref-type="table"> </xref>, <xref rid="alz71226-tbl-0004" ref-type="table"> </xref> studies have found mixed associations between <italic toggle="yes">APOE</italic>ε4 positivity and cognitive performance among ethnoracially diverse participants. For example, while <italic toggle="yes">APOE</italic>ε4 positivity has been consistently identified as a strong genetic risk factor for cognitive decline in NHW participants, others have found <italic toggle="yes">APOE</italic>ε4 positivity to have mixed or even potentially protective effects on cognition in Black and Hispanic participants.<xref rid="alz71226-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="alz71226-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="alz71226-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="alz71226-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="alz71226-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="alz71226-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> To further assess the association between higher MTL tau levels and worse cognitive performance, we assessed the impact of <italic toggle="yes">APOE</italic>ε4 positivity on the relationship between cognitive performance and MTL tau within each ethnoracial group. We covaried for age, education, sex, and Aβ positivity.</p><p>Within the whole cohort, <italic toggle="yes">APOE</italic>ε4 positivity did not moderate the associations between MTL tau and memory composite performance (<italic toggle="yes">β</italic> = −0.09, 95% CI [−0.20,0.01], <italic toggle="yes">p </italic>= 0.089). Additionally, <italic toggle="yes">APOE</italic>ε4 did not moderate the association between memory composite and MTL tau in any of the ethnoracial groups (NHW (<italic toggle="yes">β</italic> = −0.07, 95%CI [−0.25, 0.10], <italic toggle="yes">p </italic>= 0.425), Hispanic (<italic toggle="yes">β</italic> = −0.13, 95% CI [−0.29, 0.03], <italic toggle="yes">p </italic>= 0.100), and Black (<italic toggle="yes">β</italic> = −0.13, 95%CI [−0.30, 0.04], <italic toggle="yes">p </italic>= 0.128)).</p></sec><sec id="alz71226-sec-0240"><label>3.7</label><title>Hispanic participants demonstrated higher tau SUVR levels in lateral temporal regions than NHW and Black participants</title><p>According to the amyloid cascade hypothesis, tau deposition initiates in the transentorhinal cortex and moves outside of the MTL to the lateral temporal cortex, cingulate, frontal, and parietal regions<xref rid="alz71226-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> after pathological amyloid levels have been reached. Considering that Black and Hispanic participants showed higher MTL tau levels than NHW participants in our sample, we evaluated whether ethnoracial group differences exist solely in the MTL or extend throughout other AD‐relevant regions in the brain. We investigated the associations between ethnoracial group and tau in lateral temporal regions (including the inferior temporal, middle temporal, fusiform, and parahippocampal gyrus) given that tau progression first moves to the nearby temporal neocortex. We also tested whether ethnoracial differences existed in more advanced regions of tau staging, including the posterior cingulate and lateral parietal ROIs (Figure <xref rid="alz71226-supinfo-0001" ref-type="">S2</xref>).</p><p>Among the whole cohort, Hispanic participants showed higher levels of inferior temporal tau than NHW participants (<italic toggle="yes">β</italic>= 0.12, 95%CI [0.04, 0.20], FDR‐corrected <italic toggle="yes">p </italic>= 0.026) but no other ethnoracial differences existed between NHW and Hispanic participants across any of the other regions (0.02 &lt; <italic toggle="yes">β</italic> &lt; 0.09, FDR‐corrected <italic toggle="yes">p</italic> &gt; 0.104) (Table <xref rid="alz71226-supinfo-0001" ref-type="">S4</xref>). Hispanic participants also showed higher inferior temporal tau (<italic toggle="yes">β</italic> = 0.11, 95% CI [0.03,0.19], FDR‐corrected <italic toggle="yes">p </italic>= 0.018) and parahippocampal tau (<italic toggle="yes">β</italic> = 0.15, 95%CI [0.05, 0.26], FDR‐corrected <italic toggle="yes">p </italic>= 0.018) than Black participants. There were no differences in tau in any of the lateral temporal regions between Black and NHW participants (−0.003 &lt; <italic toggle="yes">β</italic> &lt; 0.08, FDR‐corrected <italic toggle="yes">p</italic> &gt; 0.403) (Table <xref rid="alz71226-supinfo-0001" ref-type="">S4</xref>). Given that ethnoracial differences in MTL tau were more pronounced in the CU group than the MCI group in our initial analyses, we evaluated tau SUVRs separately between CU and MCI groups. In CU participants, Hispanic participants showed significantly higher tau levels than CU NHW participants in the inferior temporal (<italic toggle="yes">β</italic> = 0.16, 95% CI [0.07, 0.25], FDR‐corrected <italic toggle="yes">p </italic>= 0.002), middle temporal (<italic toggle="yes">β</italic> = 0.13, 95% CI [0.03, 0.22], FDR‐corrected <italic toggle="yes">p </italic>= 0.027), and parahippocampal gyrus (<italic toggle="yes">β</italic> = 0.14, 95% CI [0.02, 0.26], FDR‐corrected <italic toggle="yes">p </italic>= 0.036) regions but not the fusiform (<italic toggle="yes">β</italic> = 0.10, 95% CI [−0.002,0.20], FDR‐corrected <italic toggle="yes">p </italic>= 0.083). CU Hispanic participants also showed significantly higher tau levels than CU Black participants in the inferior temporal (<italic toggle="yes">β</italic> = 0.13, 95% CI [0.04,0.23], FDR‐corrected <italic toggle="yes">p </italic>= 0.029) but no other regions outside the MTL showed any differences (0.01 &lt; <italic toggle="yes">β</italic> &lt; 0.15, FDR‐corrected <italic toggle="yes">p</italic> &gt; 0.055) (Table <xref rid="alz71226-supinfo-0001" ref-type="">S4</xref>). CU Hispanic participants showed comparable tau levels in the posterior cingulate (<italic toggle="yes">β</italic> = 0.07, 95% CI [−0.05, 0.19], FDR‐corrected <italic toggle="yes">p </italic>= 0.340) and lateral parietal (<italic toggle="yes">β</italic> = 0.06, 95% CI [−0.07,0.19], FDR‐corrected <italic toggle="yes">p </italic>= 0.381) relative to NHW participants. CU Black and NHW participants showed comparable levels of tau in all regions outside the MTL (−0.002 &lt; <italic toggle="yes">β</italic> &lt; 0.09, FDR‐corrected <italic toggle="yes">p</italic> &gt; 0.335) (Table <xref rid="alz71226-supinfo-0001" ref-type="">S4</xref>).</p><p>Since the amyloid cascade hypothesis proposes that tau outside the MTL appears after global pathological amyloid accumulation, we investigated whether Hispanic participants also showed higher tau levels than the other ethnoracial groups when Aβ negative. CU Hispanic Aβ negative participants showed significantly higher tau in lateral temporal regions (inferior temporal: <italic toggle="yes">β</italic> = 0.16, 95% CI [0.06, 0.25], FDR‐corrected <italic toggle="yes">p </italic>= 0.006, middle temporal: <italic toggle="yes">β</italic> = 0.11, 95% CI [0.01,0.21], FDR‐corrected <italic toggle="yes">p </italic>= 0.044, parahippocampal: <italic toggle="yes">β</italic> = 0.16, 95% CI [0.04, 0,29], FDR‐corrected <italic toggle="yes">p </italic>= 0.027, fusiform: <italic toggle="yes">β</italic> = 0.12, 95% CI [0.01, 0.23], FDR‐corrected <italic toggle="yes">p </italic>= 0.044)) than NHW participants but not in posterior cingulate (<italic toggle="yes">β</italic> = 0.07, 95%CI [−0.06, 0.20], FDR‐corrected <italic toggle="yes">p </italic>= 0.302) or lateral parietal regions (<italic toggle="yes">β</italic> = 0.07, 95%CI [−0.07, 0.21], FDR‐corrected <italic toggle="yes">p </italic>= 0.302). CU Hispanic Aβ negative participants also showed significantly higher tau in inferior temporal (<italic toggle="yes">β</italic> = 0.14, 95%CI [0.05,0.24], FDR‐corrected <italic toggle="yes">p </italic>= 0.018) and parahippocampal regions (<italic toggle="yes">β</italic> = 0.18, 95%CI [0.05, 0.30], FDR‐corrected <italic toggle="yes">p </italic>= 0.019) compared to Black participants but comparable levels in all other regions (0.03 &lt; <italic toggle="yes">β</italic> &lt; 0.09, FDR‐corrected <italic toggle="yes">p</italic> &gt; 0.185) (Table <xref rid="alz71226-supinfo-0001" ref-type="">S4</xref>). No differences were observed between CU Aβ negative Black and NHW participants in any regions (0.002 &lt; <italic toggle="yes">β</italic> &lt; 0.08, FDR‐corrected <italic toggle="yes">p</italic> &gt; 0.602) (Table <xref rid="alz71226-supinfo-0001" ref-type="">S4</xref>).</p><p>We also assessed ethnoracial differences in tau outside the MTL within the CU Aβ positive and MCI cohorts. Tau levels were similar in all advanced cortical areas between CU Aβ positive NHW participants and CU Aβ positive Hispanic (−0.17 &lt; <italic toggle="yes">β</italic> &lt; 0.18, FDR‐corrected <italic toggle="yes">p</italic> &gt; 0.755), CU Aβ positive NHW participants and CU Aβ positive Black participants (−0.03 &lt; <italic toggle="yes">β</italic> &lt; 0.14, FDR‐corrected <italic toggle="yes">p</italic> &gt; 0.630), and CU Aβ positive Hispanic and CU Aβ positive Black participants (−0.25 &lt; <italic toggle="yes">β</italic> &lt; 0.01, FDR‐corrected <italic toggle="yes">p </italic>= 0.968) (Table <xref rid="alz71226-supinfo-0001" ref-type="">S4</xref>). Within the MCI cohort, Black (−0.25 &lt; <italic toggle="yes">β</italic> &lt;− 0.07, FDR‐corrected <italic toggle="yes">p</italic> &gt; 0.326) and Hispanic (−0.26 &lt; <italic toggle="yes">β</italic> &lt; 0.07, FDR‐corrected <italic toggle="yes">p</italic> &gt; 0.550) participants showed similar tau levels in all regions outside the MTL compared to MCI NHW participants (Table <xref rid="alz71226-supinfo-0001" ref-type="">S4</xref>). Results across all groups are broken down in Table <xref rid="alz71226-supinfo-0001" ref-type="">S4</xref>.</p></sec><sec id="alz71226-sec-0250"><label>3.8</label><title>Meningeal off‐target binding contributed to higher lateral temporal tau in Hispanic participants</title><p>Given that the meninges can introduce off‐target binding into tau signal, we evaluated whether meningeal off‐target binding contributed to the ethnoracial tau differences observed in distinct lateral temporal regions. Using tau PET SUVRs derived from eroded lateral temporal segmentations, we assessed ethnoracial differences in the combined cohort as well as in the CU and CU Aβ negative cohorts, as these were the groups that originally exhibited significant findings. Within the whole cohort, all lateral temporal regions showed similar signal across ethnoracial groups (0.0004 &lt; <italic toggle="yes">β</italic> &lt; 0.09, FDR‐corrected <italic toggle="yes">p</italic> &gt; 0.270). Similarly, lateral temporal tau showed no differences associated with ethnoracial group in the CU cohort (0.03 &lt; <italic toggle="yes">β</italic> &lt; 0.13, FDR‐corrected <italic toggle="yes">p</italic> &gt; 0.063) or the CU Aβ− cohort (0.02 &lt; <italic toggle="yes">β</italic> &lt; 0.14, FDR‐corrected <italic toggle="yes">p</italic> &gt; 0.080) indicating that the higher lateral temporal tau in Hispanic participants relative to NHW and Black participants was explained by higher meningeal off‐target binding in these regions. Table <xref rid="alz71226-supinfo-0001" ref-type="">S5</xref> contains these results.</p></sec><sec id="alz71226-sec-0260"><label>3.9</label><title>Off‐target binding from the choroid plexus partially contributed to ethnoracial group MTL tau differences</title><p>Off‐target tau PET binding in the choroid plexus may contaminate signal in the neighboring hippocampus by inflating MTL tau signal. To evaluate whether off‐target signal explained ethnoracial differences in MTL tau PET levels, we evaluated off‐target tracer binding from the choroid plexus that may be included in measured hippocampal tau PET signal. Higher choroid plexus signal was strongly related to higher hippocampal tau signal (<italic toggle="yes">β</italic> = 0.58, 95% CI [0.53,0.62], <italic toggle="yes">p</italic> &lt; 0.001) and higher overall MTL tau signal (<italic toggle="yes">β</italic> = 0.43, 95%CI [0.39,0.46], <italic toggle="yes">p</italic> &lt; 0.001) in the whole cohort and separately within CU (hippocampal (<italic toggle="yes">β</italic> = 0.58, 95%CI [0.53, 0.64], <italic toggle="yes">p</italic> &lt; 0.001), MTL (<italic toggle="yes">β</italic> = 0.42, 95%CI [0.38, 0,46], <italic toggle="yes">p</italic> &lt; 0.001)) and MCI groups (hippocampal (<italic toggle="yes">β</italic> = 0.57, 95%CI [0.48, 0.67], <italic toggle="yes">p</italic> &lt; 0.001), MTL (<italic toggle="yes">β</italic> = 0.44, 95%CI [0.35, 0.52], <italic toggle="yes">p</italic> &lt; 0.001)). We found that Hispanic (<italic toggle="yes">β</italic> = 0.37, 95%CI [0.24, 0.49], <italic toggle="yes">p</italic> &lt; 0.001) and Black (<italic toggle="yes">β</italic> = 0.39, 95%CI [0.29, 0.50], <italic toggle="yes">p</italic> &lt; 0.001) participants showed higher choroid plexus signal than NHW participants. Black (<italic toggle="yes">β</italic> = 0.36, 95% CI [0.24, 0.48], <italic toggle="yes">p</italic> &lt; 0.001) and Hispanic CU (<italic toggle="yes">β</italic> = 0.39, 95%CI [0.24,0.53], <italic toggle="yes">p</italic> &lt; 0.001) participants showed higher choroid plexus signal than CU NHW participants. Similarly, MCI Hispanic (<italic toggle="yes">β</italic> = 0.31, 95% CI [0.05,0.57], <italic toggle="yes">p </italic>= 0.021) and Black (<italic toggle="yes">β</italic> = 0.45, 95% CI [0.22, 0.69], <italic toggle="yes">p</italic> &lt; 0.001) participants showed higher choroid plexus signal than MCI NHW participants with Black MCI participants showing the strongest effect of choroid plexus off‐target signal of either group.</p><p>To evaluate whether choroid plexus off‐target binding affected our reported MTL tau associations, we tested the associations between ethnoracial group and MTL tau while controlling for choroid plexus SUVR. In the full sample, the association between MTL tau and ethnoracial group became non‐significant after controlling for choroid plexus signal such that Black participants no longer showed higher MTL tau levels than NHW participants (<italic toggle="yes">β</italic> = 0.08, 95%CI [−0.01,0.17], <italic toggle="yes">p </italic>= 0.072) while Hispanic participants still showed significantly higher MTL tau than NHW participants (<italic toggle="yes">β</italic> = 0.13, 95%CI [0.04, 0.22], <italic toggle="yes">p </italic>= 0.005) but with a reduced effect size relative to original findings. However, given that original associations between MTL tau and ethnoracial group differed between CU and MCI groups, we also evaluated MTL tau levels across ethnoracial groups separately in CU and MCI participants while adjusting for choroid plexus. In CU participants, we found that CU Hispanic (<italic toggle="yes">β</italic> = 0.13, 95%CI [0.04, 0.23], <italic toggle="yes">p </italic>= 0.006) and Black (<italic toggle="yes">β</italic> = 0.13, 95%CI [0.03, 0.23], <italic toggle="yes">p </italic>= 0.009) participants still showed higher MTL tau levels than CU NHW participants while controlling for choroid plexus. In those with MCI, Black (<italic toggle="yes">β</italic> = −0.12, 95%CI [−0.35, 0.11], <italic toggle="yes">p </italic>= 0.317) and Hispanic (<italic toggle="yes">β</italic> = 0.03, 95%CI [−0.22, 0.27], <italic toggle="yes">p </italic>= 0.819) participants still showed no significant difference in MTL tau levels compared to MCI NHW participants; however, relative to the original findings, the effect size was smaller, especially in the Black MCI participants which likely reduced the effect between Black and NHW participants in the overall combined group. After re‐performing the main analyses investigating the associations between MTL tau and Aβ positivity, cognitive performance, and <italic toggle="yes">APOE</italic>ε4 positivity while controlling for choroid plexus, we found that the results remained similar to original findings. Tables <xref rid="alz71226-supinfo-0001" ref-type="">S6a–f</xref> contain these results.</p><p>Since it is likely that the choroid plexus affects MTL tau SUVR by increasing hippocampal tau signal, we tested the association between hippocampal tau and ethnoracial identity while controlling for choroid plexus. We found higher hippocampal tau levels among Black (<italic toggle="yes">β</italic> = 0.21, 95%CI [0.12, 0.30], <italic toggle="yes">p</italic> &lt; 0.001) and Hispanic (<italic toggle="yes">β</italic> = 0.16, 95%CI [0.06,0.26], <italic toggle="yes">p </italic>= 0.002) participants relative to NHW participants, even after covarying for choroid plexus SUVR. To further understand the effect of hippocampal tau on MTL tau, we created a composite region that removed the hippocampus and solely consisted of the amygdala and entorhinal cortex. Assessing the relationships between ethnoracial group and the re‐created MTL composite demonstrated that Hispanic participants still showed higher MTL tau than NHW participants (<italic toggle="yes">β</italic> = 0.13, 95%CI [0.04, 0.22], <italic toggle="yes">p </italic>= 0.003); however, tau levels in Black participants were now similar to tau levels in NHW participants showing no significant differences (<italic toggle="yes">β</italic> = 0.02, 95%CI [−0.07,0.10], <italic toggle="yes">p </italic>= 0.721).</p></sec><sec id="alz71226-sec-0270"><label>3.10</label><title>Ethnoracial group moderated the association between hippocampal tau SUVR and the learning and memory composite</title><p>In our lab's previous work, we found that using an MTL tau cut‐point differentiated NHW and Hispanic CU participants from cognitively impaired participants, but this was not the case for Black participants.<xref rid="alz71226-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> However, in this previous study, the hippocampus was excluded from the MTL ROI, which influenced this ethnoracial difference in MTL tau associations with cognitive impairment. Since our current study's MTL ROI included the hippocampus and we have shown higher hippocampal tau levels in Black and Hispanic participants compared to NHW participants, we investigated whether hippocampal tau SUVRs significantly predicted cognitive performance across ethnoracial groups. All robust regressions controlled for age, sex, education, Aβ positivity, and choroid plexus PET signal. Higher hippocampal tau SUVR was associated with worse learning and memory composite score (<italic toggle="yes">β</italic> = −0.09, 95%CI [−0.15, −0.03], <italic toggle="yes">p </italic>= 0.002) in the overall CU and MCI cohort. Contrary to our MTL findings, ethnoracial group moderated the association between hippocampal tau SUVR and the learning and memory composite such that NHW participants showed an association between worse learning and memory scores and higher hippocampal tau SUVR whereas Black participants showed consistent learning and memory scores regardless of hippocampal tau SUVR level (<italic toggle="yes">β</italic> = 0.12, 95% CI [0.01, 0.23], <italic toggle="yes">p </italic>= 0.034). There was no interaction between Hispanic and NHW participants (<italic toggle="yes">β</italic> = 0.07, 95% CI [−0.05, 0.20], <italic toggle="yes">p </italic>= 0.249). Because we found that Aβ positivity moderated the association between MTL tau and cognitive performance in NHW and Hispanic cohorts but not in the Black cohort, we investigated whether the same was true of hippocampal tau. We found an interaction effect of Aβ positivity on the association between hippocampal tau and cognitive performance in both NHW participants (memory composite score (<italic toggle="yes">β</italic> = −0.33, 95% CI [−0.52, −0.14], <italic toggle="yes">p</italic> &lt; 0.001)) and Hispanic participants (memory composite score (<italic toggle="yes">β</italic> = −0.23, 95% CI [−0.38, −0.07], <italic toggle="yes">p </italic>= 0.006) while Black participants showed no interaction effect of Aβ positivity (<italic toggle="yes">β</italic> = −0.12, 95% CI [−0.29, 0.05], <italic toggle="yes">p </italic>= 0.175).</p></sec></sec><sec id="alz71226-sec-0280"><label>4</label><title>DISCUSSION</title><p>We evaluated the associations between MTL tau, Aβ positivity, <italic toggle="yes">APOE</italic>ε4, and memory performance among ethnoracial groups of older adults without dementia. We found that Hispanic and Black participants had higher MTL than their NHW counterparts. Prior research evaluating MTL tau across ethnoracial groups<xref rid="alz71226-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="alz71226-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> have reported mixed findings with one study finding no significant differences between Black and NHW participants. However, in that study, tau PET signal was measured in a composite ROI that included the occipital lobe<xref rid="alz71226-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> which may have masked SUVR differences in early‐stage regions. Conversely, our past study found that, when no covariates were considered and the MTL composite excluded the hippocampus, Black participants demonstrated lower MTL tau SUVR levels than NHW and Hispanic participants.<xref rid="alz71226-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> When we calculated the same unadjusted descriptive statistics using the MTL composite regions from our prior study (<xref rid="alz71226-supinfo-0001" ref-type="">Supporting Information S3</xref>), we replicated the reported results (Table <xref rid="alz71226-supinfo-0001" ref-type="">S7</xref>). Our current study includes the hippocampus in the MTL which we have identified as having high tau deposition in the Black and Hispanic participants relative to NHW participants. Our MTL tau findings are comparable to a prior study that found higher hippocampal flortaucipir signal in Black participants than NHW participants before controlling for choroid plexus signal spillover.<xref rid="alz71226-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Another study similarly found higher global flortaucipir signal in Black participants, but only included 12 Black participants.<xref rid="alz71226-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> After performing a sensitivity analysis, we showed that choroid plexus off‐target binding may artificially inflate the MTL tau levels in the Hispanic and Black cohorts, likely by affecting hippocampal tau signal; however, even after controlling for off‐target binding, the whole Hispanic cohort and the CU Black cohort still demonstrated more MTL tau than their NWH counterparts.</p><p>We investigated whether ethnoracial group differences in the associations between MTL tau and Aβ positivity may be reflected in advanced tau regions. When evaluating the whole cohort, compared to NHW participants, Hispanic, but not Black, participants showed higher levels of inferior temporal tau. CU Hispanic participants likewise demonstrated higher lateral temporal tau levels, even in the absence of pathological amyloid, relative to CU Aβ− NHW and Black participants. However, after conducting a sensitivity analysis that re‐evaluated lateral temporal tau after removal of meningeal off‐target signal, we demonstrated that Hispanic lateral temporal tau levels were no different than Black and NHW lateral temporal tau levels. These results clarify that ethnoracial tau differences among older adults without dementia primarily reside in the MTL. Additionally, these findings show that PI2620 off‐target binding varies across ethnoracial groups with Hispanic participants demonstrating higher off‐target binding in the lateral temporal regions than Black and NHW participants. If not accounted for or removed, apparent tau levels for this ethnoracial group may be erroneously inflated. Only one study has found ethnoracial differences in choroid plexus off‐target binding between NHW and Black participants but this was observed using the 18F‐flortaucipir tracer.<xref rid="alz71226-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Researchers suggested that higher melanocyte levels may possibly contribute to these ethnoracial differences.<xref rid="alz71226-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Future research should investigate the underlying neurochemical or neuroanatomical drivers that increase susceptibility of off‐target PI2620 PET binding in certain ethnoracial groups over others. Additionally, researchers should account for this potential variability when developing study protocols and performing statistical analyses that include ethnoracially diverse older adults.</p><p>We found that ethnoracial identity did not moderate the association between MTL tau and cognitive performance. However, Aβ positivity moderated the association between higher MTL tau and lower memory scores in the Hispanic and NHW participants, but not in the Black participants. Our results suggest that in Black participants, factors other than amyloid and tau, such as vascular comorbidities, may have stronger associations with cognitive impairment and add variability, making the relationships between tau, amyloid, and cognitive performance harder to detect. Our previous work similarly showed that an MTL tau PET cut‐point acceptably distinguished cognitive impairment status only in the presence of Aβ but not in Black participants.<xref rid="alz71226-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> Possibly this is because Black participants are more likely to develop dementia of a mixed or vascular etiology,<xref rid="alz71226-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> which may be more strongly related to cognitive decline than AD biomarkers. Relative to NHW participants, Black participants had similar rates of cardiovascular disease including cardiomyopathy, atrial fibrillation, heart attack, heart failure, and valve replacement. Although previous literature has indicated that Black participants are more likely to experience cardiovascular disease compared to NHW participants,<xref rid="alz71226-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> NHW participants in this study sample may have shown similar cardiovascular disease burden because they were on average 7–8 years older than the Black participants. However, Black participants showed significantly higher rates of hypertension and diabetes compared to NHW participants, which can promote adverse cerebrovascular co‐pathologies that could attenuate the relationship between tau, amyloid, and cognition due to the robust effects of vascular risk on cognitive performance. Exploration of cerebrovascular pathologies and their associations with tau and cognition were beyond the scope of this study. Future studies should assess how tau and amyloid interacts with other risk factors to affect cognition across ethnoracial groups.</p><p>We investigated how the hippocampus impacts the associations between MTL tau, cognitive performance, and ethnoracial group. Our regression results showed that when the hippocampus was excluded from the MTL composite, Hispanic participants showed higher MTL tau than NHW and Black participants suggesting that tau in Hispanic participants may be more evenly distributed throughout the MTL subregions than the Black participants who primarily demonstrate high MTL tau levels when the hippocampus is included. We also investigated whether the inclusion of hippocampal tau in the MTL composite would help explain associations with cognitive performance in the Black participants. Although Black participants had the highest hippocampal tau, regardless of choroid plexus off‐target binding, hippocampal tau was not associated with worse cognitive performance in the Black cohort, independent of Aβ positivity.</p><p>We investigated the potential moderating effect of <italic toggle="yes">APOE</italic>ε4 on the relationships between global Aβ and MTL tau, and MTL tau and memory performance, within the whole cohort and each ethnoracial group. <italic toggle="yes">APOE</italic>ε4 carriers had higher MTL tau than non‐carriers, independent of Aβ positivity. However, <italic toggle="yes">APOE</italic>ε4 carrier status did not moderate the association between MTL tau and Aβ positivity nor MTL tau and memory performance. Additionally, ethnoracial group showed no moderating effects in the association between <italic toggle="yes">APOE</italic>ε4 genotype and MTL tau suggesting similarities in the association between <italic toggle="yes">APOE</italic>ε4 and MTL tau levels across ethnoracial groups. In the future, more specific genetic markers such as the genetic variation local to the <italic toggle="yes">APOE</italic> region should be investigated as it relates to MTL tau associations with genotype. Black participants often have admixed ancestral heritage, containing both African and European ancestry, and thus have heterogenous ancestral background local to or near the <italic toggle="yes">APOE</italic> region.<xref rid="alz71226-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> The effect of <italic toggle="yes">APOE</italic>ε4 on MTL tau may therefore be attenuated in Black participants with African ancestry local to the <italic toggle="yes">APOE</italic> region in a protective manner.<xref rid="alz71226-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> Different from past studies, however, our study included a larger sample of Black participants with the statistical power to further explore moderation effects. Our analyses showed a similar effect of <italic toggle="yes">APOE</italic>ε4 carriership across ethnoracial groups in the relationship between Aβ and MTL tau as well as in the relationship between MTL tau and cognitive performance.</p><p>In conclusion, our findings suggest that in Black and Hispanic older adults without dementia, higher levels of MTL tau occur in the absence of pathological amyloid compared with NHW participants. The etiology of these higher tau levels is unclear but could be the consequence of a combination of genetic, health, and socioeconomic factors. Ethnically and racially minoritized groups are disproportionately burdened with acute and chronic exposure to stressors that cumulatively expedite the “weathering” or biological aging process<xref rid="alz71226-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="alz71226-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz71226-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> and are associated with poorer episodic memory<xref rid="alz71226-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> and greater brain aging.<xref rid="alz71226-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Transgenic rat models have shown that stress increases the hyperphosphorylation of phospho‐tau proteins.<xref rid="alz71226-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="alz71226-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="alz71226-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Stress‐related mechanisms may also be pathways for higher tau. Future research should evaluate the underlying reasons for higher MTL tau within Black and Hispanic cohorts.</p><p>There are a few limitations of our study. First, differences in the prevalence of health comorbidities, socioeconomic, cultural, and psychological stressors may be strong determinants of ethnoracial disparities in AD<xref rid="alz71226-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="alz71226-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="alz71226-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="alz71226-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>; however, we did not specifically interrogate how these factors may have contributed to the observed ethnoracial differences in tau distribution or the relationship between tau and cognition, an important topic for future work. Secondly, although we investigated MTL tau associations with <italic toggle="yes">APOE</italic>ε4 genotype, we did not evaluate how the genetic variation local to the <italic toggle="yes">APOE</italic> region is associated with MTL tau relationships. Future work should also consider cerebrovascular co‐pathologies such as infarcts or cerebral amyloid angiopathy that can co‐occur alongside tau biomarkers and lower the threshold for cognitive impairment. Particularly, Black older adults are at a greater risk of developing mixed AD and cerebrovascular pathologies than NHW participants<xref rid="alz71226-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="alz71226-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> which can negatively impact episodic memory performance.<xref rid="alz71226-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> Our study cohort contained a small sample of MCI participants across ethnoracial groups which restricted the statistical power to observe significant findings within this group. Lastly, our study was cross‐sectional and although we investigated tau levels across cognitive groups, we could not examine the trajectory of tau relationships with cognitive biomarkers over time like in a longitudinal study.</p></sec><sec sec-type="COI-statement" id="alz71226-sec-0300"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no conflicts of interest. Author disclosures are available in the <xref rid="alz71226-supinfo-0001" ref-type="">Supporting Information</xref>.</p></sec><sec id="alz71226-sec-0310"><title>CONSENT STATEMENT</title><p>All participants in the HABS‐HD study provided informed consent, and the study protocol was approved by the Institutional Review Board at the University of North Texas Health Science Center (UNTHSC).</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="alz71226-supinfo-0001" position="float" content-type="local-data" orientation="portrait"/><supplementary-material id="alz71226-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71226-s002.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="alz71226-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ALZ-22-e71226-s001.pdf" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="alz71226-sec-0290"><title>ACKNOWLEDGMENTS</title><p>Research reported on this publication was supported by the National Institute on Aging of the National Institutes of Health under Award Numbers R01AG054073, R01AG058533, R01AG070862, P41EB015922, and U19AG078109. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. Research reported in this publication was supported by the Office of The Director, National Institutes of Health under Award Number S10OD032285. Data used in preparation of this manuscript preparation are stored, managed, and processed by the University of Southern California (USC) Laboratory of Neuroimaging (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://ida.loni.usc.edu/" ext-link-type="uri">https://ida.loni.usc.edu/</ext-link>).</p></ack><ref-list id="alz71226-bibl-0001"><title>REFERENCES</title><ref id="alz71226-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="alz71226-cite-0002">
+<string-name name-style="western">
+<surname>Suran</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Racial disparities in dementia diagnoses</article-title>. <source>JAMA</source>. <year>2022</year>;<volume>327</volume>(<issue>8</issue>):<fpage>709</fpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1001/jama.2022.0979" ext-link-type="uri">10.1001/jama.2022.0979</ext-link>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2022.0979</pub-id><pub-id pub-id-type="pmid">35191941</pub-id></mixed-citation></ref><ref id="alz71226-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="alz71226-cite-0003">
+<string-name name-style="western">
+<surname>Kornblith</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bahorik</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boscardin</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xia</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barnes</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yaffe</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Association of race and ethnicity with incidence of dementia among older adults</article-title>. <source>JAMA</source>. <year>2022</year>;<volume>327</volume>(<issue>15</issue>):<fpage>1488</fpage>‐<lpage>1495</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1001/jama.2022.3550" ext-link-type="uri">10.1001/jama.2022.3550</ext-link>
+<pub-id pub-id-type="pmid">35438728</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2022.3550</pub-id><pub-id pub-id-type="pmcid">PMC9020215</pub-id></mixed-citation></ref><ref id="alz71226-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="alz71226-cite-0004">
+<string-name name-style="western">
+<surname>Mayeda</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Glymour</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quesenberry</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whitmer</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Inequalities in dementia incidence between six racial and ethnic groups over 14 years</article-title>. <source>Alzheimers Dement</source>. <year>2016</year>;<volume>12</volume>(<issue>3</issue>):<fpage>216</fpage>‐<lpage>224</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1016/j.jalz.2015.12.007" ext-link-type="uri">10.1016/j.jalz.2015.12.007</ext-link>
+<pub-id pub-id-type="pmid">26874595</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2015.12.007</pub-id><pub-id pub-id-type="pmcid">PMC4969071</pub-id></mixed-citation></ref><ref id="alz71226-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="alz71226-cite-0005">
+<string-name name-style="western">
+<surname>Gleason</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zuelsdorff</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gooding</surname>
+<given-names>DC</given-names>
+</string-name>, et al. <article-title>Alzheimer's disease biomarkers in Black and non‐Hispanic White cohorts: a contextualized review of the evidence</article-title>. <source>Alzheimers Dement</source>. <year>2022</year>;<volume>18</volume>(<issue>8</issue>):<fpage>1545</fpage>‐<lpage>1564</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1002/alz.12511" ext-link-type="uri">10.1002/alz.12511</ext-link>
+<pub-id pub-id-type="pmid">34870885</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.12511</pub-id><pub-id pub-id-type="pmcid">PMC9543531</pub-id></mixed-citation></ref><ref id="alz71226-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="alz71226-cite-0006">
+<string-name name-style="western">
+<surname>Zuelsdorff</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Okonkwo</surname>
+<given-names>OC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Norton</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Stressful life events and racial disparities in cognition among middle‐aged and older adults</article-title>. <source>J Alzheimers Dis</source>. <year>2020</year>;<volume>73</volume>(<issue>2</issue>):<fpage>671</fpage>‐<lpage>682</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.3233/jad-190439" ext-link-type="uri">10.3233/jad‐190439</ext-link>
+<pub-id pub-id-type="pmid">31815690</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-190439</pub-id><pub-id pub-id-type="pmcid">PMC7481054</pub-id></mixed-citation></ref><ref id="alz71226-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="alz71226-cite-0007">
+<string-name name-style="western">
+<surname>Rosselli</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uribe</surname>
+<given-names>IV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahne</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shihadeh</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Culture, ethnicity, and level of education in Alzheimer's disease</article-title>. <source>Neurotherapeutics</source>. <year>2022</year>;<volume>19</volume>(<issue>1</issue>):<fpage>26</fpage>‐<lpage>54</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1007/s13311-022-01193-z" ext-link-type="uri">10.1007/s13311‐022‐01193‐z</ext-link>
+<pub-id pub-id-type="pmid">35347644</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s13311-022-01193-z</pub-id><pub-id pub-id-type="pmcid">PMC8960082</pub-id></mixed-citation></ref><ref id="alz71226-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="alz71226-cite-0008">
+<string-name name-style="western">
+<surname>Turney</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lao</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rentería</surname>
+<given-names>MA</given-names>
+</string-name>, et al. <article-title>Brain aging among racially and ethnically diverse middle‐aged and older adults</article-title>. <source>JAMA Neurol</source>. <year>2023</year>;<volume>80</volume>(<issue>1</issue>):<fpage>73</fpage>‐<lpage>81</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1001/jamaneurol.2022.3919" ext-link-type="uri">10.1001/jamaneurol.2022.3919</ext-link>
+<pub-id pub-id-type="pmid">36374494</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaneurol.2022.3919</pub-id><pub-id pub-id-type="pmcid">PMC9664371</pub-id></mixed-citation></ref><ref id="alz71226-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="alz71226-cite-0009">
+<string-name name-style="western">
+<surname>Babulal</surname>
+<given-names>GM</given-names>
+</string-name>. <article-title>Inclusion of ethnoracial populations and diversity remains a key challenge in Alzheimer's disease biofluid‐based biomarker studies</article-title>. <source>J Neurol Sci</source>. <year>2021</year>;<volume>421</volume>:<elocation-id>117269</elocation-id>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1016/j.jns.2020.117269" ext-link-type="uri">10.1016/j.jns.2020.117269</ext-link>
+<pub-id pub-id-type="pmid">33357998</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jns.2020.117269</pub-id><pub-id pub-id-type="pmcid">PMC7914213</pub-id></mixed-citation></ref><ref id="alz71226-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="alz71226-cite-0010">
+<string-name name-style="western">
+<surname>Shin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doraiswamy</surname>
+<given-names>PM</given-names>
+</string-name>. <article-title>Underrepresentation of African‐Americans in Alzheimer's trials: a call for affirmative action</article-title>. <source>Front Aging Neurosci</source>. <year>2016</year>;<volume>8</volume>:<fpage>123</fpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.3389/fnagi.2016.00123" ext-link-type="uri">10.3389/fnagi.2016.00123</ext-link>
+<pub-id pub-id-type="pmid">27375473</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fnagi.2016.00123</pub-id><pub-id pub-id-type="pmcid">PMC4891330</pub-id></mixed-citation></ref><ref id="alz71226-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="alz71226-cite-0011">
+<string-name name-style="western">
+<surname>Lim</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barnes</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weissberger</surname>
+<given-names>GH</given-names>
+</string-name>, et al. <article-title>Quantification of race/ethnicity representation in Alzheimer's disease neuroimaging research in the USA: a systematic review</article-title>. <source>Commun Med (Lond)</source>. <year>2023</year>;<volume>3</volume>(<issue>1</issue>):<fpage>101</fpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1038/s43856-023-00333-6" ext-link-type="uri">10.1038/s43856‐023‐00333‐6</ext-link>
+<pub-id pub-id-type="pmid">37491471</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s43856-023-00333-6</pub-id><pub-id pub-id-type="pmcid">PMC10368705</pub-id></mixed-citation></ref><ref id="alz71226-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="alz71226-cite-0012">
+<string-name name-style="western">
+<surname>Toledo</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Toledo</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weiner</surname>
+<given-names>MW</given-names>
+</string-name>, et al. <article-title>Cardiovascular risk factors, cortisol, and amyloid‐β deposition in Alzheimer's disease neuroimaging initiative</article-title>. <source>Alzheimers Dement</source>. <year>2012</year>;<volume>8</volume>(<issue>6</issue>):<fpage>483</fpage>‐<lpage>489</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1016/j.jalz.2011.08.008" ext-link-type="uri">10.1016/j.jalz.2011.08.008</ext-link>
+<pub-id pub-id-type="pmid">23102118</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2011.08.008</pub-id><pub-id pub-id-type="pmcid">PMC3668456</pub-id></mixed-citation></ref><ref id="alz71226-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="alz71226-cite-0013">
+<string-name name-style="western">
+<surname>Meeker</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wisch</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hudson</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Socioeconomic Status Mediates Racial Differences Seen Using the AT(N) Framework</article-title>. <source>Ann Neurol</source>. <year>2021</year>;<volume>89</volume>(<issue>2</issue>):<fpage>254</fpage>‐<lpage>265</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1002/ana.25948" ext-link-type="uri">10.1002/ana.25948</ext-link>
+<pub-id pub-id-type="pmid">33111990</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ana.25948</pub-id><pub-id pub-id-type="pmcid">PMC7903892</pub-id></mixed-citation></ref><ref id="alz71226-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="alz71226-cite-0014">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jacobs</surname>
+<given-names>HIL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marquié</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>18F‐Flortaucipir binding in choroid plexus: related to race and hippocampus signal</article-title>. <source>J Alzheimers Dis</source>. <year>2018</year>;<volume>62</volume>(<issue>4</issue>):<fpage>1691</fpage>‐<lpage>1702</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.3233/jad-170840" ext-link-type="uri">10.3233/jad‐170840</ext-link>
+<pub-id pub-id-type="pmid">29614677</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3233/JAD-170840</pub-id><pub-id pub-id-type="pmcid">PMC5957532</pub-id></mixed-citation></ref><ref id="alz71226-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="alz71226-cite-0015">
+<string-name name-style="western">
+<surname>Ziontz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bilgel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shafer</surname>
+<given-names>AT</given-names>
+</string-name>, et al. <article-title>Tau pathology in cognitively normal older adults</article-title>. <source>Alzheimers Dement</source>. <year>2019</year>;<volume>11</volume>:<fpage>637</fpage>‐<lpage>645</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.dadm.2019.07.007</pub-id><pub-id pub-id-type="pmcid">PMC6732758</pub-id><pub-id pub-id-type="pmid">31517026</pub-id></mixed-citation></ref><ref id="alz71226-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="alz71226-cite-0016">
+<string-name name-style="western">
+<surname>Tennant</surname>
+<given-names>VR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wheeler</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>NN</given-names>
+</string-name>, et al. <article-title>Establishing tau‐PET cut‐points for cognitive diagnosis with 18F‐PI‐2620 in a multi‐ethnoracial cohort</article-title>. <source>Imaging Neuroscience</source>. <year>2025</year>;<volume>3</volume>:IMAG.a.<elocation-id>41</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1162/IMAG.a.41</pub-id><pub-id pub-id-type="pmcid">PMC12319742</pub-id><pub-id pub-id-type="pmid">40800781</pub-id></mixed-citation></ref><ref id="alz71226-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="alz71226-cite-0017">
+<string-name name-style="western">
+<surname>Beydoun</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weiss</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beydoun</surname>
+<given-names>HA</given-names>
+</string-name>, et al. <article-title>Race, APOE genotypes, and cognitive decline among middle‐aged urban adults</article-title>. <source>Alzheimers Res Ther</source>. <year>2021</year>;<volume>13</volume>(<issue>1</issue>):<fpage>120</fpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1186/s13195-021-00855-y" ext-link-type="uri">10.1186/s13195‐021‐00855‐y</ext-link>
+<pub-id pub-id-type="pmid">34193248</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-021-00855-y</pub-id><pub-id pub-id-type="pmcid">PMC8247163</pub-id></mixed-citation></ref><ref id="alz71226-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="alz71226-cite-0018">
+<string-name name-style="western">
+<surname>Baek</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cho</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ryu</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lyoo</surname>
+<given-names>CH</given-names>
+</string-name>. <article-title>Effect of APOE ε4 genotype on amyloid‐β and tau accumulation in Alzheimer's disease</article-title>. <source>Alzheimers Res Ther</source>. <year>2020</year>;<volume>12</volume>(<issue>1</issue>):<fpage>140</fpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1186/s13195-020-00710-6" ext-link-type="uri">10.1186/s13195‐020‐00710‐6</ext-link>
+<pub-id pub-id-type="pmid">33129364</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-020-00710-6</pub-id><pub-id pub-id-type="pmcid">PMC7603688</pub-id></mixed-citation></ref><ref id="alz71226-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="alz71226-cite-0019">
+<string-name name-style="western">
+<surname>Weigand</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomas</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bangen</surname>
+<given-names>KJ</given-names>
+</string-name>, et al. <article-title>APOE interacts with tau PET to influence memory independently of amyloid PET in older adults without dementia</article-title>. <source>Alzheimers Dement</source>. <year>2021</year>;<volume>17</volume>(<issue>1</issue>):<fpage>61</fpage>‐<lpage>69</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1002/alz.12173" ext-link-type="uri">10.1002/alz.12173</ext-link>
+<pub-id pub-id-type="pmid">32886451</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/alz.12173</pub-id></mixed-citation></ref><ref id="alz71226-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="alz71226-cite-0020">
+<string-name name-style="western">
+<surname>O'Bryant</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barber</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Philips</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>The link between APOE4 presence and neuropsychological test performance among Mexican Americans and Non‐Hispanic Whites of the multiethnic health &amp; aging brain study—health disparities cohort</article-title>. <source>Dement Geriatr Cogn Disord</source>. <year>2022</year>;<volume>51</volume>(<issue>1</issue>):<fpage>26</fpage>‐<lpage>31</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1159/000521898" ext-link-type="uri">10.1159/000521898</ext-link>
+<pub-id pub-id-type="pmid">35226898</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000521898</pub-id><pub-id pub-id-type="pmcid">PMC9175651</pub-id></mixed-citation></ref><ref id="alz71226-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="alz71226-cite-0021">
+<string-name name-style="western">
+<surname>Sawyer</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sachs‐Ericsson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Preacher</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blazer</surname>
+<given-names>DG</given-names>
+</string-name>. <article-title>Racial differences in the influence of the APOE epsilon 4 allele on cognitive decline in a sample of community‐dwelling older adults</article-title>. <source>Gerontology</source>. <year>2009</year>;<volume>55</volume>(<issue>1</issue>):<fpage>32</fpage>‐<lpage>40</lpage>.<pub-id pub-id-type="pmid">18525196</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000137666</pub-id></mixed-citation></ref><ref id="alz71226-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="alz71226-cite-0022">
+<string-name name-style="western">
+<surname>Villalpando‐Berumen</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mejia‐Arango</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aguilar‐Salinas</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ordonez‐Sanchez</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gutierrez‐Robledo</surname>
+<given-names>LM</given-names>
+</string-name>. <article-title>Apolipoprotein E ɛ4, Alzheimer's disease, and cognitive performance in elderly Mexican Mestizos</article-title>. <source>J Am Geriatr Soc</source>. <year>2008</year>;<volume>56</volume>(<issue>4</issue>):<fpage>677</fpage>‐<lpage>682</lpage>.<pub-id pub-id-type="pmid">18205760</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1532-5415.2007.01606.x</pub-id></mixed-citation></ref><ref id="alz71226-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="alz71226-cite-0023">
+<string-name name-style="western">
+<surname>González</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tarraf</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schneiderman</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Prevalence and correlates of mild cognitive impairment among diverse Hispanics/Latinos: study of Latinos‐Investigation of Neurocognitive Aging results</article-title>. <source>Alzheimers Dement</source>. <year>2019</year>;<volume>15</volume>(<issue>12</issue>):<fpage>1507</fpage>‐<lpage>1515</lpage>.<pub-id pub-id-type="pmid">31753701</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jalz.2019.08.202</pub-id><pub-id pub-id-type="pmcid">PMC7318558</pub-id></mixed-citation></ref><ref id="alz71226-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="alz71226-cite-0024">
+<string-name name-style="western">
+<surname>Royse</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Snitz</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hill</surname>
+<given-names>AV</given-names>
+</string-name>, et al. <article-title>Apolipoprotein E and Alzheimer's disease pathology in African American older adults</article-title>. <source>Neurobiol Aging</source>. <year>2024</year>;<volume>139</volume>:<fpage>11</fpage>‐<lpage>19</lpage>.<pub-id pub-id-type="pmid">38582070</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neurobiolaging.2024.03.005</pub-id></mixed-citation></ref><ref id="alz71226-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="alz71226-cite-0025">
+<string-name name-style="western">
+<surname>Aliaga</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Therriault</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Quispialaya</surname>
+<given-names>KM</given-names>
+</string-name>, et al. <article-title>Comparison between brain and cerebellar autoradiography using [<sup>18</sup>F]Flortaucipir, [<sup>18</sup>F]MK6240, and [<sup>18</sup>F]PI2620 in postmortem human brain tissue</article-title>. <source>J Nucl Med</source>. <year>2025</year>;<volume>66</volume>(<issue>1</issue>):<fpage>123</fpage>‐<lpage>129</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.2967/jnumed.124.267539" ext-link-type="uri">10.2967/jnumed.124.267539</ext-link>
+<pub-id pub-id-type="pmid">39477493</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2967/jnumed.124.267539</pub-id></mixed-citation></ref><ref id="alz71226-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="alz71226-cite-0026">
+<string-name name-style="western">
+<surname>Mormino</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Toueg</surname>
+<given-names>TN</given-names>
+</string-name>, <bold>Azevedo C</bold>, et al. <article-title>Tau PET imaging with 18F‐PI‐2620 in aging and neurodegenerative diseases</article-title>. <source>Eur J Nucl Med Mol Imaging</source>. <year>2021</year>;<volume>48</volume>(<issue>7</issue>):<fpage>2233</fpage>‐<lpage>2244</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1007/s00259-020-04923-7" ext-link-type="uri">10.1007/s00259‐020‐04923‐7</ext-link>
+<pub-id pub-id-type="pmid">32572562</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00259-020-04923-7</pub-id><pub-id pub-id-type="pmcid">PMC7755737</pub-id></mixed-citation></ref><ref id="alz71226-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="alz71226-cite-0027">
+<string-name name-style="western">
+<surname>Mueller</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bullich</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barret</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>Tau PET imaging with (18)F‐PI‐2620 in patients with Alzheimer disease and healthy controls: a first‐in‐humans study</article-title>. <source>J Nucl Med</source>. <year>2020</year>;<volume>61</volume>(<issue>6</issue>):<fpage>911</fpage>‐<lpage>919</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.2967/jnumed.119.236224" ext-link-type="uri">10.2967/jnumed.119.236224</ext-link>
+<pub-id pub-id-type="pmid">31712323</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2967/jnumed.119.236224</pub-id><pub-id pub-id-type="pmcid">PMC7262222</pub-id></mixed-citation></ref><ref id="alz71226-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="alz71226-cite-0028">
+<string-name name-style="western">
+<surname>Kroth</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oden</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Molette</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Discovery and preclinical characterization of [18 F] PI‐2620, a next‐generation tau PET tracer for the assessment of tau pathology in Alzheimer's disease and other tauopathies</article-title>. <source>Eur J Nucl Med Mol Imaging</source>. <year>2019</year>;<volume>46</volume>:<fpage>2178</fpage>‐<lpage>2189</lpage>.<pub-id pub-id-type="pmid">31264169</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00259-019-04397-2</pub-id><pub-id pub-id-type="pmcid">PMC6667408</pub-id></mixed-citation></ref><ref id="alz71226-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="alz71226-cite-0029">
+<string-name name-style="western">
+<surname>Petersen</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hall</surname>
+<given-names>JR</given-names>
+</string-name>, et al. <article-title>Health and Aging Brain Study‐Health Disparities (HABS‐HD) methods and partner characteristics</article-title>. <source>Alzheimers Dement</source>. <year>2025</year>;<volume>11</volume>(<issue>3</issue>):<elocation-id>e70140</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/trc2.70140</pub-id><pub-id pub-id-type="pmcid">PMC12340423</pub-id><pub-id pub-id-type="pmid">40799724</pub-id></mixed-citation></ref><ref id="alz71226-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="alz71226-cite-0030">
+<string-name name-style="western">
+<surname>Tavakol</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dennick</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Making sense of Cronbach's alpha</article-title>. <source>Int J Med Educ</source>. <year>2011</year>;<volume>2</volume>:<fpage>53</fpage>‐<lpage>55</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.5116/ijme.4dfb.8dfd" ext-link-type="uri">10.5116/ijme.4dfb.8dfd</ext-link>
+<pub-id pub-id-type="pmid">28029643</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.5116/ijme.4dfb.8dfd</pub-id><pub-id pub-id-type="pmcid">PMC4205511</pub-id></mixed-citation></ref><ref id="alz71226-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="alz71226-cite-0031">
+<string-name name-style="western">
+<surname>Schöll</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lockhart</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schonhaut</surname>
+<given-names>DR</given-names>
+</string-name>, et al. <article-title>PET imaging of tau deposition in the aging human brain</article-title>. <source>Neuron</source>. <year>2016</year>;<volume>89</volume>(<issue>5</issue>):<fpage>971</fpage>‐<lpage>982</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1016/j.neuron.2016.01.028" ext-link-type="uri">10.1016/j.neuron.2016.01.028</ext-link>
+<pub-id pub-id-type="pmid">26938442</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuron.2016.01.028</pub-id><pub-id pub-id-type="pmcid">PMC4779187</pub-id></mixed-citation></ref><ref id="alz71226-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="alz71226-cite-0032">
+<string-name name-style="western">
+<surname>Bullich</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barret</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Constantinescu</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Evaluation of dosimetry, quantitative methods, and test‐retest variability of (18)F‐PI‐2620 PET for the assessment of tau deposits in the human brain</article-title>. <source>J Nucl Med</source>. <year>2020</year>;<volume>61</volume>(<issue>6</issue>):<fpage>920</fpage>‐<lpage>927</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.2967/jnumed.119.236240" ext-link-type="uri">10.2967/jnumed.119.236240</ext-link>
+<pub-id pub-id-type="pmid">31712324</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2967/jnumed.119.236240</pub-id><pub-id pub-id-type="pmcid">PMC7262221</pub-id></mixed-citation></ref><ref id="alz71226-bib-0032"><label>32</label><mixed-citation publication-type="book" id="alz71226-cite-0033">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>NN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wheeler</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tubi</surname>
+<given-names>MA</given-names>
+</string-name>, et al. <article-title>Improved delineation of the reference region for 18F‐PI‐2620 tau PET analyses</article-title>. Presented at: <article-title>The Society for Neuroscience Conference</article-title>; November <fpage>12</fpage>‐<lpage>16</lpage>, <year>2024</year>; <publisher-loc>San Diego, CA</publisher-loc>.</mixed-citation></ref><ref id="alz71226-bib-0033"><label>33</label><mixed-citation publication-type="book" id="alz71226-cite-0034">
+<string-name name-style="western">
+<surname>Hand</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tennant</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Reducing contamination from off‐target binding in the meninges in PI‐2620 tau PET scans</article-title>. Presented at: <article-title>The Alzheimer's Association International Conference; July 28‐ August 1</article-title>, <year>2024</year>; <publisher-loc>Philadelphia, PA</publisher-loc>.</mixed-citation></ref><ref id="alz71226-bib-0034"><label>34</label><mixed-citation publication-type="book" id="alz71226-cite-0035">
+<string-name name-style="western">
+<surname>Landau</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murphy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ward</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jagust</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Florbetaben (FBB) processing methods</article-title>. <publisher-name>Helen Wills Neuroscience Institute, UC Berkeley &amp; Lawrence Berkeley National Laboratory</publisher-name>; <year>2021</year>.</mixed-citation></ref><ref id="alz71226-bib-0035"><label>35</label><mixed-citation publication-type="miscellaneous" id="alz71226-cite-0036">
+<string-name name-style="western">
+<surname>Hutton</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Declerck</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mintun</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Michael</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Joshi</surname>
+<given-names>A</given-names>
+</string-name>. SPAP and avid florbetapir analysis methods. In <article-title>Technical Report, Siemens Molecular Imaging &amp; Avid Radiopharmaceuticals</article-title>; <year>2013</year>. Accessed January 2024. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://d1wqtxts1xzle7.cloudfront.net/88350770/sPAP_Avid_Florbetapir_Analysis_Methods-libre.pdf" ext-link-type="uri">https://d1wqtxts1xzle7.cloudfront.net/88350770/sPAP_Avid_Florbetapir_Analysis_Methods‐libre.pdf</ext-link>
+</mixed-citation></ref><ref id="alz71226-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="alz71226-cite-0037">
+<string-name name-style="western">
+<surname>Royse</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Minhas</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopresti</surname>
+<given-names>BJ</given-names>
+</string-name>, et al. <article-title>Validation of amyloid PET positivity thresholds in centiloids: a multisite PET study approach</article-title>. <source>Alzheimers Res Ther</source>. <year>2021</year>;<volume>13</volume>(<issue>1</issue>):<fpage>99</fpage>.<pub-id pub-id-type="pmid">33971965</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13195-021-00836-1</pub-id><pub-id pub-id-type="pmcid">PMC8111744</pub-id></mixed-citation></ref><ref id="alz71226-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="alz71226-cite-0038">
+<string-name name-style="western">
+<surname>Doré</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krishnadas</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bourgeat</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Relationship between amyloid and tau levels and its impact on tau spreading</article-title>. <source>Eur J Nucl Med Mol Imaging</source>. <year>2021</year>;<volume>48</volume>(<issue>7</issue>):<fpage>2225</fpage>‐<lpage>2232</lpage>.<pub-id pub-id-type="pmid">33495928</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00259-021-05191-9</pub-id><pub-id pub-id-type="pmcid">PMC8175299</pub-id></mixed-citation></ref><ref id="alz71226-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="alz71226-cite-0039">
+<string-name name-style="western">
+<surname>Therriault</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benedet</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pascoal</surname>
+<given-names>TA</given-names>
+</string-name>, et al. <article-title>Association of apolipoprotein E ε4 with medial temporal tau independent of amyloid‐β</article-title>. <source>JAMA Neurol</source>. <year>2020</year>;<volume>77</volume>(<issue>4</issue>):<fpage>470</fpage>‐<lpage>479</lpage>.<pub-id pub-id-type="pmid">31860000</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaneurol.2019.4421</pub-id><pub-id pub-id-type="pmcid">PMC6990684</pub-id></mixed-citation></ref><ref id="alz71226-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="alz71226-cite-0040">
+<string-name name-style="western">
+<surname>Chan</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyer</surname>
+<given-names>OL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farias</surname>
+<given-names>ST</given-names>
+</string-name>, et al. <article-title>APOE effects on late life cognitive trajectories in diverse racial/ethnic groups</article-title>. <source>J Int Neuropsychol Soc</source>. <year>2023</year>;<volume>29</volume>(<issue>2</issue>):<fpage>126</fpage>‐<lpage>135</lpage>.<pub-id pub-id-type="pmid">35243969</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/S1355617722000030</pub-id><pub-id pub-id-type="pmcid">PMC9440953</pub-id></mixed-citation></ref><ref id="alz71226-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="alz71226-cite-0041">
+<string-name name-style="western">
+<surname>Macedo</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tissot</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Therriault</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>The use of tau PET to stage Alzheimer disease according to the Braak staging framework</article-title>. <source>J Nucl Med</source>. <year>2023</year>;<volume>64</volume>(<issue>8</issue>):<fpage>1171</fpage>‐<lpage>1178</lpage>.<pub-id pub-id-type="pmid">37321820</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2967/jnumed.122.265200</pub-id><pub-id pub-id-type="pmcid">PMC10394315</pub-id></mixed-citation></ref><ref id="alz71226-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="alz71226-cite-0042">
+<string-name name-style="western">
+<surname>Barnes</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leurgans</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aggarwal</surname>
+<given-names>NT</given-names>
+</string-name>, et al. <article-title>Mixed pathology is more likely in black than white decedents with Alzheimer dementia</article-title>. <source>Neurology</source>. <year>2015</year>;<volume>85</volume>(<issue>6</issue>):<fpage>528</fpage>‐<lpage>534</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1212/wnl.0000000000001834" ext-link-type="uri">10.1212/wnl.0000000000001834</ext-link>
+<pub-id pub-id-type="pmid">26180136</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1212/WNL.0000000000001834</pub-id><pub-id pub-id-type="pmcid">PMC4540250</pub-id></mixed-citation></ref><ref id="alz71226-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="alz71226-cite-0043">
+<string-name name-style="western">
+<surname>Feinstein</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ning</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bertoni</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carnethon</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lloyd‐Jones</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>Racial differences in risks for first cardiovascular events and noncardiovascular death: the Atherosclerosis Risk in Communities study, the Cardiovascular Health Study, and the Multi‐Ethnic Study of Atherosclerosis</article-title>. <source>Circulation</source>. <year>2012</year>;<volume>126</volume>(<issue>1</issue>):<fpage>50</fpage>‐<lpage>59</lpage>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1161/CIRCULATIONAHA.111.0572" ext-link-type="uri">10.1161/CIRCULATIONAHA.111.0572</ext-link>
+<pub-id pub-id-type="pmid">22693351</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCULATIONAHA.111.057232</pub-id><pub-id pub-id-type="pmcid">PMC3437934</pub-id></mixed-citation></ref><ref id="alz71226-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="alz71226-cite-0044">
+<string-name name-style="western">
+<surname>Rajabli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Feliciano</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Celis</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Ancestral origin of ApoE ε4 Alzheimer disease risk in Puerto Rican and African American populations</article-title>. <source>PLoS Genet</source>. <year>2018</year>;<volume>14</volume>(<issue>12</issue>):<elocation-id>e1007791</elocation-id>. doi:<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://10.1371/journal.pgen.1007791" ext-link-type="uri">10.1371/journal.pgen.1007791</ext-link>
+<pub-id pub-id-type="pmid">30517106</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pgen.1007791</pub-id><pub-id pub-id-type="pmcid">PMC6281216</pub-id></mixed-citation></ref><ref id="alz71226-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="alz71226-cite-0045">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Changes in tau phosphorylation levels in the hippocampus and frontal cortex following chronic stress</article-title>. <source>Braz J Med Biol Res</source>. <year>2014</year>;<volume>47</volume>:<fpage>237</fpage>‐<lpage>244</lpage>.<pub-id pub-id-type="pmid">24652321</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1590/1414-431X20133275</pub-id><pub-id pub-id-type="pmcid">PMC3982945</pub-id></mixed-citation></ref><ref id="alz71226-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="alz71226-cite-0046">
+<string-name name-style="western">
+<surname>Cuadrado‐Tejedor</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ricobaraza</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Río</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Chronic mild stress in mice promotes cognitive impairment and CDK5‐dependent tau hyperphosphorylation</article-title>. <source>Behav Brain Res</source>. <year>2011</year>;<volume>220</volume>(<issue>2</issue>):<fpage>338</fpage>‐<lpage>343</lpage>.<pub-id pub-id-type="pmid">21238494</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbr.2011.01.005</pub-id></mixed-citation></ref><ref id="alz71226-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="alz71226-cite-0047">
+<string-name name-style="western">
+<surname>Sotiropoulos</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Catania</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pinto</surname>
+<given-names>LG</given-names>
+</string-name>, et al. <article-title>Stress acts cumulatively to precipitate Alzheimer's disease‐like tau pathology and cognitive deficits</article-title>. <source>J Neurosci</source>. <year>2011</year>;<volume>31</volume>(<issue>21</issue>):<fpage>7840</fpage>‐<lpage>7847</lpage>.<pub-id pub-id-type="pmid">21613497</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.0730-11.2011</pub-id><pub-id pub-id-type="pmcid">PMC6633145</pub-id></mixed-citation></ref><ref id="alz71226-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="alz71226-cite-0048">
+<string-name name-style="western">
+<surname>Kapasi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Capuano</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mojdeganlou</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Cerebrovascular pathology and cognitive outcomes in older black decedents</article-title>. <source>Stroke</source>. <year>2025</year>;<volume>56</volume>(<issue>8</issue>):<fpage>2222</fpage>‐<lpage>2232</lpage>.<pub-id pub-id-type="pmid">40289798</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/STROKEAHA.124.047954</pub-id><pub-id pub-id-type="pmcid">PMC12303761</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

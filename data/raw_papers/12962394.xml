@@ -1,0 +1,382 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="psp470217" xml:lang="en" article-type="other" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">CPT Pharmacometrics Syst Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">CPT Pharmacometrics Syst Pharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">2038</journal-id><journal-id journal-id-type="pmc-domain">cptpsp</journal-id><journal-id journal-id-type="publisher-id">PSP4</journal-id><journal-title-group><journal-title>CPT: Pharmacometrics &amp; Systems Pharmacology</journal-title></journal-title-group><issn pub-type="epub">2163-8306</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12962394</article-id><article-id pub-id-type="pmcid-ver">PMC12962394.1</article-id><article-id pub-id-type="pmcaid">12962394</article-id><article-id pub-id-type="pmcaiid">12962394</article-id><article-id pub-id-type="pmid">41721751</article-id><article-id pub-id-type="doi">10.1002/psp4.70217</article-id><article-id pub-id-type="publisher-id">PSP470217</article-id><article-id pub-id-type="other">PSP-2025-0295C</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Perspective</subject></subj-group><subj-group subj-group-type="heading"><subject>Perspective</subject></subj-group></article-categories><title-group><article-title>Open Systems Pharmacology Community Conference (<styled-content style="fixed-case" toggle="no">OSP</styled-content>‐<styled-content style="fixed-case" toggle="no">CC</styled-content>) Proceedings 2025</article-title></title-group><contrib-group><contrib id="psp470217-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Cordes</surname><given-names initials="H">Henrik</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0654-3386</contrib-id><xref rid="psp470217-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>henrik.cordes@sanofi.com</email></address></contrib><contrib id="psp470217-cr-0002" contrib-type="author"><name name-style="western"><surname>Annaert</surname><given-names initials="P">Pieter</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3525-7351</contrib-id><xref rid="psp470217-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="psp470217-cr-0003" contrib-type="author"><name name-style="western"><surname>Balazki</surname><given-names initials="P">Pavel</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0006-3197-0984</contrib-id><xref rid="psp470217-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="psp470217-cr-0004" contrib-type="author"><name name-style="western"><surname>Benamara</surname><given-names initials="S">Salih</given-names></name><xref rid="psp470217-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="psp470217-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="psp470217-cr-0005" contrib-type="author"><name name-style="western"><surname>Bonan</surname><given-names initials="RH">Rodolfo Hernandes</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5944-2602</contrib-id><xref rid="psp470217-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="psp470217-cr-0006" contrib-type="author"><name name-style="western"><surname>Butler</surname><given-names initials="A">Andrew</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4362-940X</contrib-id><xref rid="psp470217-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="psp470217-cr-0007" contrib-type="author"><name name-style="western"><surname>Chenel</surname><given-names initials="M">Marylore</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7397-4007</contrib-id><xref rid="psp470217-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="psp470217-cr-0008" contrib-type="author"><name name-style="western"><surname>Cui</surname><given-names initials="Y">Yunhai</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4969-072X</contrib-id><xref rid="psp470217-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="psp470217-cr-0009" contrib-type="author"><name name-style="western"><surname>Dallmann</surname><given-names initials="A">André</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1108-5719</contrib-id><xref rid="psp470217-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="psp470217-cr-0010" contrib-type="author"><name name-style="western"><surname>de Witte</surname><given-names initials="WEA">Wilhelmus E. A.</given-names></name><xref rid="psp470217-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="psp470217-cr-0011" contrib-type="author"><name name-style="western"><surname>Demeester</surname><given-names initials="C">Cleo</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0001-1349-1764</contrib-id><xref rid="psp470217-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="psp470217-cr-0012" contrib-type="author"><name name-style="western"><surname>Feick</surname><given-names initials="D">Denise</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4047-402X</contrib-id><xref rid="psp470217-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="psp470217-cr-0013" contrib-type="author"><name name-style="western"><surname>Gattacceca</surname><given-names initials="F">Florence</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4944-8063</contrib-id><xref rid="psp470217-aff-0011" ref-type="aff">
+<sup>11</sup>
+</xref></contrib><contrib id="psp470217-cr-0014" contrib-type="author"><name name-style="western"><surname>Geci</surname><given-names initials="R">René</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1219-6835</contrib-id><xref rid="psp470217-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="psp470217-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="psp470217-cr-0015" contrib-type="author"><name name-style="western"><surname>Gerebtzoff</surname><given-names initials="G">Grégori</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7580-4463</contrib-id><xref rid="psp470217-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="psp470217-cr-0016" contrib-type="author"><name name-style="western"><surname>Gruber</surname><given-names initials="A">Andrea</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8298-5090</contrib-id><xref rid="psp470217-aff-0014" ref-type="aff">
+<sup>14</sup>
+</xref></contrib><contrib id="psp470217-cr-0017" contrib-type="author"><name name-style="western"><surname>Guimarães</surname><given-names initials="M">Mariana</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0003-2896-8822</contrib-id><xref rid="psp470217-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="psp470217-cr-0018" contrib-type="author"><name name-style="western"><surname>Hamadeh</surname><given-names initials="A">Abdullah</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9419-1797</contrib-id><xref rid="psp470217-aff-0015" ref-type="aff">
+<sup>15</sup>
+</xref></contrib><contrib id="psp470217-cr-0019" contrib-type="author"><name name-style="western"><surname>Hanke</surname><given-names initials="N">Nina</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6166-8838</contrib-id><xref rid="psp470217-aff-0016" ref-type="aff">
+<sup>16</sup>
+</xref></contrib><contrib id="psp470217-cr-0020" contrib-type="author"><name name-style="western"><surname>Ibarra</surname><given-names initials="M">Manuel</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0484-6367</contrib-id><xref rid="psp470217-aff-0017" ref-type="aff">
+<sup>17</sup>
+</xref></contrib><contrib id="psp470217-cr-0021" contrib-type="author"><name name-style="western"><surname>Ince</surname><given-names initials="I">Ibrahim</given-names></name><xref rid="psp470217-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="psp470217-cr-0022" contrib-type="author"><name name-style="western"><surname>Kanacher</surname><given-names initials="T">Tobias</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0002-0625-6616</contrib-id><xref rid="psp470217-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="psp470217-cr-0023" contrib-type="author"><name name-style="western"><surname>Kuepfer</surname><given-names initials="L">Lars</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8741-7786</contrib-id><xref rid="psp470217-aff-0012" ref-type="aff">
+<sup>12</sup>
+</xref></contrib><contrib id="psp470217-cr-0024" contrib-type="author"><name name-style="western"><surname>Mil</surname><given-names initials="F">Felix</given-names></name><xref rid="psp470217-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="psp470217-cr-0025" contrib-type="author"><name name-style="western"><surname>Montaseri</surname><given-names initials="G">Ghazal</given-names></name><xref rid="psp470217-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="psp470217-cr-0026" contrib-type="author"><name name-style="western"><surname>Nauwelaerts</surname><given-names initials="N">Nina</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5301-6813</contrib-id><xref rid="psp470217-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="psp470217-cr-0027" contrib-type="author"><name name-style="western"><surname>Proenca</surname><given-names initials="S">Susana</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1544-4686</contrib-id><xref rid="psp470217-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="psp470217-cr-0028" contrib-type="author"><name name-style="western"><surname>Schaller</surname><given-names initials="S">Stephan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1046-7651</contrib-id><xref rid="psp470217-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="psp470217-cr-0029" contrib-type="author"><name name-style="western"><surname>Schlender</surname><given-names initials="JF">Jan Frederik</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0003-9079-5205</contrib-id><xref rid="psp470217-aff-0013" ref-type="aff">
+<sup>13</sup>
+</xref></contrib><contrib id="psp470217-cr-0030" contrib-type="author"><name name-style="western"><surname>Schneider</surname><given-names initials="ARP">Annika R. P.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1377-7102</contrib-id><xref rid="psp470217-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref></contrib><contrib id="psp470217-cr-0031" contrib-type="author"><name name-style="western"><surname>Sjögren</surname><given-names initials="E">Erik</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4318-6039</contrib-id><xref rid="psp470217-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="psp470217-aff-0019" ref-type="aff">
+<sup>19</sup>
+</xref></contrib><contrib id="psp470217-cr-0032" contrib-type="author"><name name-style="western"><surname>Solodenko</surname><given-names initials="J">Juri</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6922-588X</contrib-id><xref rid="psp470217-aff-0018" ref-type="aff">
+<sup>18</sup>
+</xref></contrib><contrib id="psp470217-cr-0033" contrib-type="author"><name name-style="western"><surname>Staab</surname><given-names initials="A">Alexander</given-names></name><xref rid="psp470217-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="psp470217-cr-0034" contrib-type="author"><name name-style="western"><surname>Vrenken</surname><given-names initials="P">Paul</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0007-2543-201X</contrib-id><xref rid="psp470217-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="psp470217-aff-0020" ref-type="aff">
+<sup>20</sup>
+</xref></contrib><contrib id="psp470217-cr-0035" contrib-type="author"><name name-style="western"><surname>Troisi</surname><given-names initials="C">Carla</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0007-5617-0331</contrib-id><xref rid="psp470217-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="psp470217-cr-0036" contrib-type="author"><name name-style="western"><surname>Teutonico</surname><given-names initials="D">Donato</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4931-410X</contrib-id><xref rid="psp470217-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="psp470217-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Research Pharmacometrics</named-content>
+<institution>Sanofi R&amp;D</institution>
+<city>Frankfurt am Main</city>
+<country country="DE">Germany</country>
+</aff><aff id="psp470217-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Drug Delivery and Disposition, Department of Pharmaceutical and Pharmacological Sciences</named-content>
+<institution>KU Leuven</institution>
+<city>Leuven</city>
+<country country="BE">Belgium</country>
+</aff><aff id="psp470217-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>ESQlabs GmbH</institution>
+<city>Saterland</city>
+<country country="DE">Germany</country>
+</aff><aff id="psp470217-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Discovery‐Pharmacometrics</named-content>
+<institution>Sanofi R&amp;D</institution>
+<city>Paris</city>
+<country country="FR">France</country>
+</aff><aff id="psp470217-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">COMPutational Pharmacology and Clinical Oncology Department, Inria Sophia Antipolis – Méditerranée, Cancer Research Center of Marseille, Inserm UMR1068, CNRS UMR7258</named-content>
+<institution>Aix Marseille University UM105</institution>
+<city>Marseille</city>
+<country country="FR">France</country>
+</aff><aff id="psp470217-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>BioNotus CommV</institution>
+<city>Niel</city>
+<country country="BE">Belgium</country>
+</aff><aff id="psp470217-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<institution>Medicines and Healthcare Products Regulatory Agency</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="psp470217-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<institution>Pharmetheus AB</institution>
+<city>Uppsala</city>
+<country country="SE">Sweden</country>
+</aff><aff id="psp470217-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<institution>Boehringer Ingelheim Pharma GmbH &amp; Co. KG</institution>
+<city>Biberach an der Riß</city>
+<country country="DE">Germany</country>
+</aff><aff id="psp470217-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<institution>Bayer HealthCare SAS</institution>
+<city>Lille</city>
+<country country="FR">France</country>
+</aff><aff id="psp470217-aff-0011">
+<label>
+<sup>11</sup>
+</label>
+<named-content content-type="organisation-division">Computational Pharmacology and Clinical Oncology Department</named-content>
+<institution>Inria Sophia Antipolis – Méditerranée</institution>
+<city>Biot</city>
+<country country="FR">France</country>
+</aff><aff id="psp470217-aff-0012">
+<label>
+<sup>12</sup>
+</label>
+<named-content content-type="organisation-division">Institute for Systems Medicine With Focus on Organ Interaction</named-content>
+<institution>University Hospital RWTH Aachen</institution>
+<city>Aachen</city>
+<country country="DE">Germany</country>
+</aff><aff id="psp470217-aff-0013">
+<label>
+<sup>13</sup>
+</label>
+<institution>Biomedical Research, Novartis</institution>
+<city>Basel</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="psp470217-aff-0014">
+<label>
+<sup>14</sup>
+</label>
+<named-content content-type="organisation-division">Modeling &amp; Simulation, Research &amp; Development, Pharmaceuticals</named-content>
+<institution>Bayer AG</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><aff id="psp470217-aff-0015">
+<label>
+<sup>15</sup>
+</label>
+<named-content content-type="organisation-division">School of Pharmacy</named-content>
+<institution>University of Waterloo</institution>
+<city>Kitchener</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="psp470217-aff-0016">
+<label>
+<sup>16</sup>
+</label>
+<institution>Boehringer Ingelheim Pharma GmbH &amp; Co. KG</institution>
+<city>Ingelheim am Rhein</city>
+<country country="DE">Germany</country>
+</aff><aff id="psp470217-aff-0017">
+<label>
+<sup>17</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pharmaceutical Sciences, Faculty of Chemistry</named-content>
+<institution>Universidad de la República</institution>
+<city>Montevideo</city>
+<country country="UY">Uruguay</country>
+</aff><aff id="psp470217-aff-0018">
+<label>
+<sup>18</sup>
+</label>
+<named-content content-type="organisation-division">Model‐Informed Drug Development, Research &amp; Development, Pharmaceuticals</named-content>
+<institution>Bayer AG</institution>
+<city>Leverkusen</city>
+<country country="DE">Germany</country>
+</aff><aff id="psp470217-aff-0019">
+<label>
+<sup>19</sup>
+</label>
+<institution>Department of Pharmaceutical Biosciences Uppsala University</institution>
+<city>Uppsala</city>
+<country country="SE">Sweden</country>
+</aff><aff id="psp470217-aff-0020">
+<label>
+<sup>20</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pharmacy</named-content>
+<institution>National and Kapodistrian University of Athens</institution>
+<city>Zografou</city>
+<country country="GR">Greece</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Henrik Cordes (<email>henrik.cordes@sanofi.com</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>2</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2026</year></pub-date><volume>15</volume><issue seq="170">3</issue><issue-id pub-id-type="pmc-issue-id">507934</issue-id><issue-id pub-id-type="doi">10.1002/psp4.v15.3</issue-id><elocation-id>e70217</elocation-id><history><date date-type="rev-recd"><day>01</day><month>2</month><year>2026</year></date><date date-type="received"><day>07</day><month>12</month><year>2025</year></date><date date-type="accepted"><day>04</day><month>2</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>21</day><month>02</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>06</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-06 13:25:12.710"><day>06</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">CPT: Pharmacometrics &amp; Systems Pharmacology</italic> published by Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology and Therapeutics.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="PSP4-15-e70217.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:PSP4-15-e70217.pdf"/><abstract><title>ABSTRACT</title><p>Developed at Bayer Technology Services, PK‐Sim and MoBi transitioned into the Open Systems Pharmacology (OSP) Suite, released as free open‐source software in 2017. An active community with stakeholders from academia, industries, and regulators contributes to the continuous improvement of open‐source model‐informed drug development (MIDD). This perspective summarizes the latest advancements presented at the second OSP Community Conference (OSP‐CC) hosted from 29 to 30th of September 2025 at Sanofi Paris, that gathered over 100 attendees from more than 40 institutions.</p></abstract><counts><fig-count count="1"/><table-count count="1"/><page-count count="6"/><word-count count="3300"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:05.03.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="psp470217-body-0001"><sec id="psp470217-sec-0001"><label>1</label><title>Conference Sessions &amp; Covered Topics</title><p>Conference sessions targeted applications and developments around the open‐source software [<xref rid="psp470217-bib-0001" ref-type="bibr">1</xref>], summarized in Table <xref rid="psp470217-tbl-0001" ref-type="table">1</xref>, on the Open Systems Pharmacology (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.open-systems-pharmacology.org/conference/" ext-link-type="uri">https://www.open‐systems‐pharmacology.org/conference/</ext-link>), and GitHub resources (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/Open-Systems-Pharmacology" ext-link-type="uri">https://github.com/Open‐Systems‐Pharmacology</ext-link>). For first time, additional satellite workshops were hosted, training the growing OSP community [<xref rid="psp470217-bib-0002" ref-type="bibr">2</xref>].</p><table-wrap position="float" id="psp470217-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Sessions, speakers, and educational workshops at the OSP Community Conference 2025.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Session name &amp; chairs (affiliation)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Covered topics</th><th align="center" valign="bottom" rowspan="1" colspan="1">Speakers (affiliation)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Session 1: Clinical applications/development (DDI, PBBM, special pops, regulatory documents)</td><td align="center" valign="top" rowspan="1" colspan="1">Human intestinal organoids and their integration into physiologically based pharmacokinetic (PBPK) modeling</td><td align="center" valign="top" rowspan="1" colspan="1">Yunhai Cui (Boehringer Ingelheim)</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">Chairs: Pieter Annaert (KU Leuven) &amp; Florence Gattacceca (Marseille University)</td><td align="center" valign="top" rowspan="1" colspan="1">An automated workflow for a qualified OSP‐model library showcasing updates with RNAseq expression data</td><td align="center" valign="top" rowspan="1" colspan="1">Denise Feick (Sanofi)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">An in silico framework to support clinical trial design decisions and virtual bioequivalence assessments</td><td align="center" valign="top" rowspan="1" colspan="1">Abdullah Hamadeh (University of Waterloo)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Session 2: Clinical applications/development (DDI, PBBM, special pops, regulatory documents)</td><td align="center" valign="top" rowspan="1" colspan="1">Physiologically Based Biopharmaceutics Modeling (PBBM) with OSP Suite—a powerful approach addressing bioequivalence challenges in regulated and under‐regulated markets</td><td align="center" valign="top" rowspan="1" colspan="1">Manuel Ibarra (UDELAR, Uruguay)</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">Chairs: Henrik Cordes (Sanofi) &amp; Mariana Guimarães (ESQlabs)</td><td align="center" valign="top" rowspan="1" colspan="1">Integrating age‐ and BMI‐related changes to improve PBPK modeling of older people and people with obesity</td><td align="center" valign="top" rowspan="1" colspan="1">Cleo Demeester (KU Leuven)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Application of a novel PBBM workflow to bridge in vitro dissolution and in vivo pharmacokinetics exemplified with Vericiguat</td><td align="center" valign="top" rowspan="1" colspan="1">André Dallmann (Bayer) &amp; Paul Vrenken (Pharmetheus)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Session 3: Research &amp; discovery (AI/ML, ADMETox, HT‐PBPK, IVIVE, Safety/Early tox)</td><td align="center" valign="top" rowspan="1" colspan="1">A combined in vitro and in silico approach to enable Drug‐Induced Liver Injury predictions</td><td align="center" valign="top" rowspan="1" colspan="1">René Geci (UK Aachen/ESQlabs)</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">Chairs: Cleo Demeester (KU Leuven) &amp; Jan Frederik Schlender (Novartis)</td><td align="center" valign="top" rowspan="1" colspan="1">Combining PBPK modeling and machine learning to predict pharmacokinetics from chemical structure</td><td align="center" valign="top" rowspan="1" colspan="1">Andrea Gruber (Bayer)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Systematic development of PBPK models to support candidate selection and accelerate drug discovery</td><td align="center" valign="top" rowspan="1" colspan="1">Grégori Gerebtzoff (Novartis)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Session 4: Submission, lifecycle &amp; approval</td><td align="center" valign="top" rowspan="1" colspan="1">An automated reporting workflows automating PBPK model documentation and regulatory reporting</td><td align="center" valign="top" rowspan="1" colspan="1">Ghazal Montaseri (Boehringer Ingelheim) Felix Mil (ESQlabs)</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">Chairs: Annika Schneider (Bayer) &amp; Alexander Staab (Boehringer Ingelheim)</td><td align="center" valign="top" rowspan="1" colspan="1">PBPK modeling in regulatory submissions to the MHRA</td><td align="center" valign="top" rowspan="1" colspan="1">Andrew Butler (MHRA)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Examples of software verification, validation, and CoU qualification of OSP suite</td><td align="center" valign="top" rowspan="1" colspan="1">Stephan Schaller (ESQlabs)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Session 5: Emerging areas</td><td align="center" valign="top" rowspan="1" colspan="1">PBPK‐PD model development for siRNAs</td><td align="center" valign="top" rowspan="1" colspan="1">Erik Sjögren (Pharmetheus)</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">Chairs: Stephan Schaller (ESQLabs) &amp; Marylore Chenel (Pharmetheus)</td><td align="center" valign="top" rowspan="1" colspan="1">Toward a qualifiable MIDD ecosystem with modular PBPK and QSP Models</td><td align="center" valign="top" rowspan="1" colspan="1">Stephan Schaller (ESQlabs)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Integrating population approaches with PBPK models for parameter estimation</td><td align="center" valign="top" rowspan="1" colspan="1">Donato Teutonico (Sanofi)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Session 6: OSP Software Roadmap</td><td align="center" valign="top" rowspan="1" colspan="1">Upcoming features for OSP software releases V13 and V14</td><td align="center" valign="top" rowspan="1" colspan="1">Pavel Balazki (ESQlabs)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Chairs: Nina Hanke (Boehringer Ingelheim) &amp; Juri Solodenko (Bayer)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Student session: Rapid fire PPTs</td><td align="center" valign="top" rowspan="1" colspan="1">PBPK models for Elexacaftor, Tezacaftor, and Ivacaftor in pregnant women with cystic fibrosis</td><td align="center" valign="top" rowspan="1" colspan="1">Jiangfan Wu (LMU München)</td></tr><tr><td align="left" rowspan="4" valign="top" colspan="1">Chair: Stephan Schaller (ESQLabs)</td><td align="center" valign="top" rowspan="1" colspan="1">PBPK modeling of lysosomal trapping of 1‐hydroxymidazolam</td><td align="center" valign="top" rowspan="1" colspan="1">Mgambi Gideon Gamba (FU Berlin)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Extravascular distribution modeling of half‐life extension factors</td><td align="center" valign="top" rowspan="1" colspan="1">Sjoerd Koopman (UMC Amsterdam)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Real‐World data integrated into PBPK models of bilirubin metabolism</td><td align="center" valign="top" rowspan="1" colspan="1">Ahenk Sayin (UK Aachen)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Ocular PBPK for protein therapeutics in rabbits</td><td align="center" valign="top" rowspan="1" colspan="1">Ravi Jairam (UK Aachen)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Workshop 1</td><td align="center" valign="top" rowspan="1" colspan="1">Introducing new users to get started with physiologically based pharmacokinetic modeling in PK‐Sim</td><td align="center" valign="top" rowspan="1" colspan="1">Carla Troisi (ESQlabs) &amp; Rodolfo Hernandes Bonan (BioNotus)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Workshop 2</td><td align="center" valign="top" rowspan="1" colspan="1">Guiding through the basis of oral absorption modeling in PK‐Sim and R</td><td align="center" valign="top" rowspan="1" colspan="1">Erik Sjögren (Pharmetheus) &amp; Abdullah Hamadeh (University of Waterloo)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Workshop 3</td><td align="center" valign="top" rowspan="1" colspan="1">From the basics of DDI modeling using PK‐Sim to more complex scenarios</td><td align="center" valign="top" rowspan="1" colspan="1">Tobias Kanacher (Pharmetheus) &amp; Paul Vrenken (Pharmetheus)</td></tr><tr><td align="left" rowspan="2" valign="top" colspan="1">Workshop 4</td><td align="center" rowspan="2" valign="top" colspan="1">PK‐Sim for pediatric, geriatric, and organ‐impairment applications</td><td align="center" valign="top" rowspan="1" colspan="1">Stephan Schaller (ESQlabs) &amp;</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Cleo Demeester (KU Leuven)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Workshop 5</td><td align="center" valign="top" rowspan="1" colspan="1">PK‐Sim &amp; MoBi with ospsuite.R in pregnancy applications</td><td align="center" valign="top" rowspan="1" colspan="1">Nina Nauwelaerts (ESQlabs) &amp; Susana Proenca (ESQlabs)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Workshop 6</td><td align="center" valign="top" rowspan="1" colspan="1">New modular feature in QSP v12 to build, extend, and refine PBPK‐QSP models</td><td align="center" valign="top" rowspan="1" colspan="1">Pavel Balazki (ESQlabs) &amp; Wilhelmus E. A. de Witte (ESQlabs)</td></tr></tbody></table></table-wrap></sec><sec id="psp470217-sec-0002"><label>2</label><title>Session 1: Clinical Applications/Development</title><sec id="psp470217-sec-0003"><label>2.1</label><title>Human Intestinal Organoids and Potential Application for <styled-content style="fixed-case" toggle="no">PBPK</styled-content> Modeling</title><p>Besides potential permeability and solubility limitations, active processes such as enzymatic metabolism and transporter activity may influence the observed bioavailability. Human intestinal organoids differentiated into functional epithelial monolayers were presented as an alternative to traditional Caco‐2 cell models. They express drug‐metabolizing enzymes like Cytochrome P450 (CYP) 3A4 and Uridine Diphosphate Glucuronosyltransferases (UGTs), showing metabolic capabilities accounting for the intestinal first‐pass effect. A good correlation between contextualized PBPK models with organoid‐based in vitro measures and clinically observed bioavailability was found, confirming gut wall metabolism as a potential contributor to bioavailability limitations.</p></sec><sec id="psp470217-sec-0004"><label>2.2</label><title>Growing a Community‐Built Qualified <styled-content style="fixed-case" toggle="no">OSP</styled-content> Suite Model Library</title><p>A qualified OSP‐model library (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library" ext-link-type="uri">https://github.com/Open‐Systems‐Pharmacology/OSP‐PBPK‐Model‐Library</ext-link>) is the basis for reproducible workflows. New OSP features and software releases, such as updating expression data, require a systematic reevaluation of the library (currently &gt; 30 drug molecules and DDI interactions) and recreating model specific OSP‐Qualification‐Reports (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/Open-Systems-Pharmacology/OSP-Qualification-Reports" ext-link-type="uri">https://github.com/Open‐Systems‐Pharmacology/OSP‐Qualification‐Reports</ext-link>). Updating ADME protein expression values with the latest RNAseq expression databases (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/Open-Systems-Pharmacology/Gene-Expression-Databases" ext-link-type="uri">https://github.com/Open‐Systems‐Pharmacology/Gene‐Expression‐Databases</ext-link>) requires parameter reidentification via OSPSuite.ParameterIdentification (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/Open-Systems-Pharmacology/OSPSuite.ParameterIdentification" ext-link-type="uri">https://github.com/Open‐Systems‐Pharmacology/OSPSuite.ParameterIdentification</ext-link>) as expression changes impact the pharmacokinetic profile [<xref rid="psp470217-bib-0003" ref-type="bibr">3</xref>]. An automated workflow updating model parameters was presented ensuring high model quality and continuous improvement of the OSP software.</p></sec><sec id="psp470217-sec-0005"><label>2.3</label><title>An Open Source In Silico Framework to Support Trial Design Decisions and Virtual Bioequivalence Assessments</title><p>The presented OSP Virtual‐bioequivalence (VBE) toolbox (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/Open-Systems-Pharmacology/OSPSuite.VBE-Toolbox" ext-link-type="uri">https://github.com/Open‐Systems‐Pharmacology/OSPSuite.VBE‐Toolbox</ext-link>) integrates in vitro and in vivo data, enabling the generation of probabilistic predictions of drug exposure across formulations [<xref rid="psp470217-bib-0004" ref-type="bibr">4</xref>]. These analyses can inform bioequivalence trials and serve as a potential alternative to traditional bioequivalence studies that compare a test formulation with an established reference product to streamline drug development reducing the reliance on costly clinical trials.</p></sec></sec><sec id="psp470217-sec-0006"><label>3</label><title>Session 2: Clinical Applications/Development</title><sec id="psp470217-sec-0007"><label>3.1</label><title>Integrating Age‐ and <styled-content style="fixed-case" toggle="no">BMI</styled-content>‐Related Changes to Form a Comprehensive Repository for Physiologically Based Pharmacokinetic (<styled-content style="fixed-case" toggle="no">PBPK</styled-content>) Modeling of Older People and People With Obesity</title><p>Underrepresentation of older adults and adults with obesity in clinical trials can be a challenge for drug efficacy and safety assessment. A comprehensive database integrating age‐ and body mass index (BMI)‐related changes was presented, including updates of organ weights, blood flows, glomerular filtration rate (GFR), and CYP metabolism [<xref rid="psp470217-bib-0005" ref-type="bibr">5</xref>]. Validation was performed for renally‐cleared and CYP3A4‐metabolized compounds showing improvements for adults with obesity and age‐related pharmacokinetic changes.</p></sec><sec id="psp470217-sec-0008"><label>3.2</label><title>
+<styled-content style="fixed-case" toggle="no">PBBM</styled-content> With <styled-content style="fixed-case" toggle="no">OSP</styled-content> Suite: A Powerful Approach to Solving Bioequivalence Challenges in Regulated and Under Regulated Markets</title><p>In Latin American markets, regulatory requirements for bioequivalence vary significantly, creating challenges for product evaluation, particularly in countries where similar drug products reach the market without bioequivalence studies [<xref rid="psp470217-bib-0006" ref-type="bibr">6</xref>]. Physiologically‐based biopharmaceutics modeling (PBBM) was used in case studies for carvedilol, furosemide, omeprazole to predict bioequivalence and product development in both regulated and under‐regulated markets. In the presented examples, sex differences in gastrointestinal physiology were highlighted as critical for accurate bioequivalence predictions.</p></sec><sec id="psp470217-sec-0009"><label>3.3</label><title>Bridging In Vitro Dissolution and In Vivo Pharmacokinetics: Application of a Novel Physiologically Based Biopharmaceutics Modeling (<styled-content style="fixed-case" toggle="no">PBBM</styled-content>) Workflow to Vericiguat</title><p>A PBBM workflow (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/Open-Systems-Pharmacology/Oral-PBBM-Workflow" ext-link-type="uri">https://github.com/Open‐Systems‐Pharmacology/Oral‐PBBM‐Workflow</ext-link>) was presented utilizing a solubility toolbox for characterizing pH‐ and bile salt‐effects on solubilization. An in vitro dissolution model with mechanistic particle dissolution equations for the US Pharmacopeia (USP) 2 dissolution apparatus and enhanced human PBPK capabilities with updated GI tract parameters were applied to vericiguat. The workflow successfully predicted fasted and fed‐state pharmacokinetics and drug–drug interactions (DDI) with omeprazole and demonstrates potential for biowaiver support, formulation optimization, and virtual bioequivalence studies [<xref rid="psp470217-bib-0007" ref-type="bibr">7</xref>].</p></sec></sec><sec id="psp470217-sec-0010"><label>4</label><title>Session 3: Research &amp; Discovery</title><sec id="psp470217-sec-0011"><label>4.1</label><title>Accelerating Drug Discovery: Systematic Application of <styled-content style="fixed-case" toggle="no">PBPK</styled-content> Modeling Supporting Candidate Selection</title><p>Applying PBPK models in early drug discovery requires fast model building and analysis based on a seamless integration of required model parameters. An OSP‐based high‐throughput PBPK platform was presented integrating measured compound information and machine learning models for parameter prediction to accelerate drug discovery. The system automates data transfer of 48 in vitro assays using decision trees selecting appropriate physicochemical and ADME parameters, while incorporated machine learning models predict missing property values. Validation across 575 rat and 150 monkey IV studies demonstrated good predictive performance for extended clearance classification system (ECCS) class 2 compounds, enabling systematic candidate assessment and supporting portfolio‐wide screening for complex disposition mechanisms.</p></sec><sec id="psp470217-sec-0012"><label>4.2</label><title>Prediction of Human Pharmacokinetics From Chemical Structure—Combining Mechanistic Modeling With Machine Learning</title><p>Hybrid approaches combine machine learning with mechanistic modeling to predict pharmacokinetics directly from chemical structures. Combining graph convolutional neural networks (GNN) with PBPK models enabled prediction of key PK parameters (AUC<sub>iv</sub>, AUC<sub>po</sub>, C<sub>max</sub>). Trained on ~10,000 compounds, a hybrid rat model was shown to achieve good exposure predictions after intravenous and oral administration [<xref rid="psp470217-bib-0008" ref-type="bibr">8</xref>]. The showcased approaches outperforms pure deep learning models and conventional scaling methods, particularly for oral exposure predictions, enabling early compound screening, prioritization, and dose predictions while reducing animal testing in accordance with 3R principles.</p></sec><sec id="psp470217-sec-0013"><label>4.3</label><title>Integrating In Vitro and In Silico Approaches Enables Accurate Prediction of Drug‐Induced Liver Injury</title><p>Predicting drug‐induced toxicities as early as possible can help to focus on promising candidates and save valuable R&amp;D resources. Combining in vitro toxicity assays with PBPK modeling was used to predict clinically known drug‐induced liver injury (DILI). Based on 241 drugs and in vitro toxicity assay data, clinical DILI outcomes were predicted using ratios of in vitro and PBPK model predicted C<sub>max</sub> values with good accuracy (ROC AUC 91%), outperforming simple heuristic screening rules (50%–70% accuracy). The presented approach demonstrates the potential of early DILI predictions aiming to reduce clinical failures and market withdrawals [<xref rid="psp470217-bib-0009" ref-type="bibr">9</xref>].</p></sec></sec><sec id="psp470217-sec-0014"><label>5</label><title>Session 4: Submission, Lifecycle and Approval</title><sec id="psp470217-sec-0015"><label>5.1</label><title>Tools and Workflows for Automated Reporting of <styled-content style="fixed-case" toggle="no">PBPK</styled-content> Modeling With <styled-content style="fixed-case" toggle="no">OSP</styled-content>
+</title><p>Manual preparation of reports and submission files is time consuming and error prone. An automated reporting workflow using ospsuite (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.open-systems-pharmacology.org/OSPSuite-R/" ext-link-type="uri">https://www.open‐systems‐pharmacology.org/OSPSuite‐R/</ext-link>) and osp.snapshots (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/esqLABS/osp.snapshots" ext-link-type="uri">https://github.com/esqLABS/osp.snapshots</ext-link>) R packages was presented. By using standardized tables, text blocks, and figures, an automated model documentation and report generation process could be developed that significantly reduces reporting time while improving consistency and reducing manual errors in regulatory documentation generation.</p></sec><sec id="psp470217-sec-0016"><label>5.2</label><title>
+<styled-content style="fixed-case" toggle="no">PBPK</styled-content> Modeling in Regulatory Submissions to the <styled-content style="fixed-case" toggle="no">MHRA</styled-content>
+</title><p>Acceptance of modeling analysis is key for successful applications. PBPK modeling can help to reduce clinical trial burden by predicting DDI, population‐specific effects, and absorption mechanisms informing dose selection. Model qualifications are critical, with requirements proportional to regulatory impact and patient risk requiring individual evaluation for each application. Successful case examples involving CYP3A4 inhibition, pediatric dosing, gastric pH effects, and nasal absorption were presented. Stricter scrutiny for high‐risk applications like extrapolations requires a robust qualification to support regulatory decisions.</p></sec><sec id="psp470217-sec-0017"><label>5.3</label><title>Software Verification, Validation, and Context of Use (<styled-content style="fixed-case" toggle="no">CoU</styled-content>) Qualification of Open‐Source Modeling &amp; Simulation Software for Regulatory Use in Translational <styled-content style="fixed-case" toggle="no">MIDD</styled-content>
+</title><p>The OSP platform uses GitHub for version control (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/Open-Systems-Pharmacology" ext-link-type="uri">https://github.com/Open‐Systems‐Pharmacology</ext-link>), automated testing, and code quality analysis. The community addresses regulatory challenges through open‐source transparency and community‐driven qualification. A three‐pillar approach encompasses software validation, CoU qualification, and installation verification. A qualification framework allows automatic re‐qualification with new releases or data. Examples of MIDD applications accepted by regulatory agencies and an outlook expanding to modular PBPK‐QSP integration were presented.</p></sec></sec><sec id="psp470217-sec-0018"><label>6</label><title>Session 5: Emerging Areas</title><sec id="psp470217-sec-0019"><label>6.1</label><title>Building a Qualifiable <styled-content style="fixed-case" toggle="no">MIDD</styled-content> Ecosystem With Modular <styled-content style="fixed-case" toggle="no">PBPK</styled-content> and <styled-content style="fixed-case" toggle="no">QSP</styled-content> Models in <styled-content style="fixed-case" toggle="no">OSP V12</styled-content>
+</title><p>Modularization was introduced in OSP Suite V12 creating a qualifiable MIDD ecosystem with reusable components coping with a growing model complexity. <italic toggle="yes">Extension Modules</italic> reflecting organs, administration routes, disease states, or biomarkers can now be seamlessly combined with base PBPK models. Once developed, <italic toggle="yes">Extension Modules</italic> can be shared with the community via GitHub facilitating transparency, collaborative development, and reusability. The modularization concept is outlined in Figure <xref rid="psp470217-fig-0001" ref-type="fig">1</xref>.</p><fig position="float" fig-type="FIGURE" id="psp470217-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>OSP Extension Module concept. PK‐Sim models are composed of individual Building Blocks (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://docs.open-systems-pharmacology.org/v12/open-systems-pharmacology-suite/modules-philsophy-building-blocks" ext-link-type="uri">https://docs.open‐systems‐pharmacology.org/v12/open‐systems‐pharmacology‐suite/modules‐philsophy‐building‐blocks</ext-link>) separating information used for model building into dedicated groups. Building Blocks are combined to generate a model, they can be reused and combined to create different models. When transferring a PK‐SIM simulation to MoBi, model Building Blocks are further organized into a module. Modules represent either a full‐scale PBPK model imported from PK‐Sim (blue rectangle), or extension modules (orange rectangles) that represent model modifications or adaptations such as disease populations, custom administration routes, altered or new special structures that represent tissues or any other modification of the underlaying Building Blocks. Extension Modules provide a standardized, systematic, and reproducible way to efficiently develop and share complex models or model modifications across different projects and modeling scientists.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="PSP4-15-e70217-g001.jpg"/></fig></sec><sec id="psp470217-sec-0020"><label>6.2</label><title>
+<styled-content style="fixed-case" toggle="no">PBPK</styled-content>‐<styled-content style="fixed-case" toggle="no">PD</styled-content> Modeling of <styled-content style="fixed-case" toggle="no">siRNAs</styled-content>
+</title><p>An OSP model was presented addressing siRNA disposition, including liver‐targeted delivery and the formation of RNA‐induced silencing complex (RISC). Using a middle‐out approach validated across multiple siRNA compounds and species (mouse, monkey, human), the model successfully captures tissue distribution, target engagement, and pharmacological response [<xref rid="psp470217-bib-0010" ref-type="bibr">10</xref>]. However, key knowledge gaps in extravasation mechanisms, RISC dynamics, and species‐specific target variations still exist.</p></sec><sec id="psp470217-sec-0021"><label>6.3</label><title>Integrating Population Approaches With Physiologically Based Pharmacokinetic Models: A Novel Framework for Parameter Estimation</title><p>The saemixPBPK (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/Sanofi-Public/saemixPBPK" ext-link-type="uri">https://github.com/Sanofi‐Public/saemixPBPK</ext-link>) package was presented aiming to integrate population pharmacokinetic approaches in PBPK modeling. This hybrid approach combines the stochastic approximation expectation–maximization (SAEM) algorithm with mechanistic OSP models, enabling the estimation of individual parameters, quantification of interindividual variability, and assessment of covariate effects. The approach was evaluated using theophylline data with smoking status as a covariate and a drug–drug interaction study including itraconazole, resulting in more robust data‐informed predictions including population variability.</p></sec></sec><sec id="psp470217-sec-0022"><label>7</label><title>Session 6: <styled-content style="fixed-case" toggle="no">OSP</styled-content> Software Release Roadmap <styled-content style="fixed-case" toggle="no">V13</styled-content> and <styled-content style="fixed-case" toggle="no">V14</styled-content>
+</title><p>Current V12.1 delivers improvements such as parameter tracing, concurrent simulation execution, and batch chart editing (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/Open-Systems-Pharmacology/Suite/releases/" ext-link-type="uri">https://github.com/Open‐Systems‐Pharmacology/Suite/releases/</ext-link>). Software releases are forecasted as annual major and quarterly minor updates. V13 will focus on: (1) Standardized and automated qualification framework for MoBi projects, and (2) Extending the ospsuite (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.open-systems-pharmacology.org/OSPSuite-R/" ext-link-type="uri">https://www.open‐systems‐pharmacology.org/OSPSuite‐R/</ext-link>) R package with MoBi functionalities. Anticipated features for V14 are (1) Incorporation of new populations for obesity and specific ethnicities, (2) additional absorption models, (3) extending the qualification framework, and (4) OSP support for Linux and MacOS. The community is encouraged to actively provide input and feedback shaping future development priorities.</p></sec><sec sec-type="conclusions" id="psp470217-sec-0023"><label>8</label><title>Conclusion</title><p>The second OSP‐CC showcased recent advancements in PBPK modeling and their applications in MIDD, safety sciences, and QSP modeling. Highlights have been the integration of the latest automation and machine learning methods in various MIDD workflows. The OSP community is the driver behind these developments and features for mechanistic PBPK modeling that were presented over a wide range of topics. Here continuous collaboration, education, and coordination of activities among stakeholders drives further enhancements regarding functionality and usability. By showcasing successful applications of OSP across research &amp; development, safety, and regulatory submissions, the community emphasizes the value of transparent and open‐source solutions that increase public trust, streamline innovation, and optimize resource allocation in MIDD and adjacent areas.</p></sec><sec id="psp470217-sec-0025"><title>Funding</title><p>The authors have nothing to report.</p></sec><sec sec-type="COI-statement" id="psp470217-sec-0024"><title>Conflicts of Interest</title><p>S.B., H.C., A.D., W.E.A.W., I.I., L.K., J.F.S., S.S., D.T. are members of the organizing committee for the OSP Community Conference 2025. T.K. is a member of the OSP Sounding Board. I.I., J.F.S., E.S., A.S., J.S., J.F.S., S.S. &amp; D.T. are members of the OSP Management Team. H.C., D.F., S.B. &amp; D.T. are Sanofi employees and may hold shares and/or stock options in the company. G.G. &amp; J.F.S. are Novartis employees and may hold shares and/or stock options in the company. A.G., A.R.P.S. and J.S. are Bayer AG employees and may hold shares and/or stock options in the company. The views expressed in this article are the personal views of the authors and may not be understood or quoted as being made on behalf of or reflecting the position of any regulatory agency with which any of the authors are affiliated. All other authors declared no competing interests for this work.</p></sec></body><back><ref-list content-type="cited-references" id="psp470217-bibl-0001"><title>References</title><ref id="psp470217-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="psp470217-cit-0001">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lippert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Burghaus</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Edginton</surname>
+</string-name>, et al., “<article-title>Open Systems Pharmacology Community—An Open Access, Open Source, Open Science Approach to Modeling and Simulation in Pharmaceutical Sciences</article-title>,” <source>CPT: Pharmacometrics &amp; Systems Pharmacology</source>
+<volume>8</volume> (<year>2019</year>): <fpage>878</fpage>–<lpage>882</lpage>.<pub-id pub-id-type="pmid">31671256</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/psp4.12473</pub-id><pub-id pub-id-type="pmcid">PMC6930856</pub-id></mixed-citation></ref><ref id="psp470217-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="psp470217-cit-0002">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Dallmann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Teutonico</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Schaller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Burghaus</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Frechen</surname>
+</string-name>, “<article-title>In‐Depth Analysis of the Selection of PBPK Modeling Tools: Bibliometric and Social Network Analysis of the Open Systems Pharmacology Community</article-title>,” <source>Journal of Clinical Pharmacology</source>
+<volume>64</volume> (<year>2024</year>): <fpage>1055</fpage>–<lpage>1067</lpage>.<pub-id pub-id-type="pmid">38708848</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcph.2453</pub-id></mixed-citation></ref><ref id="psp470217-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="psp470217-cit-0003">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Cordes</surname>
+</string-name> and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Rapp</surname>
+</string-name>, “<article-title>Gene Expression Databases for Physiologically Based Pharmacokinetic Modeling of Humans and Animal Species</article-title>,” <source>CPT: Pharmacometrics &amp; Systems Pharmacology</source>
+<volume>12</volume> (<year>2023</year>): <fpage>311</fpage>–<lpage>319</lpage>.<pub-id pub-id-type="pmid">36715173</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/psp4.12904</pub-id><pub-id pub-id-type="pmcid">PMC10014062</pub-id></mixed-citation></ref><ref id="psp470217-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="psp470217-cit-0004">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hamadeh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Pellowe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Chelle</surname>
+</string-name>, et al., “<article-title>An Open‐Source Framework for Virtual Bioequivalence Modeling and Clinical Trial Design</article-title>,” <source>CPT: Pharmacometrics &amp; Systems Pharmacology</source>
+<volume>14</volume> (<year>2025</year>): <fpage>1932</fpage>–<lpage>1948</lpage>.<pub-id pub-id-type="pmid">40990143</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/psp4.70115</pub-id><pub-id pub-id-type="pmcid">PMC12706426</pub-id></mixed-citation></ref><ref id="psp470217-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="psp470217-cit-0005">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Demeester</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Robins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. E.</given-names>
+<surname>Edwina</surname>
+</string-name>, et al., “<article-title>Physiologically Based Pharmacokinetic (PBPK) Modelling of Oral Drug Absorption in Older Adults—An AGePOP Review</article-title>,” <source>European Journal of Pharmaceutical Sciences</source>
+<volume>188</volume> (<year>2023</year>): <elocation-id>106496</elocation-id>.<pub-id pub-id-type="pmid">37329924</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejps.2023.106496</pub-id></mixed-citation></ref><ref id="psp470217-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="psp470217-cit-0006">
+<string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>García</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Paulos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ibarra Viñales</surname>
+</string-name>, et al., “<article-title>Modeling and Simulations in Latin‐American Generic Markets: Perspectives From Chilean Local Industry, Regulatory Agency, and Academia</article-title>,” <source>Molecular Pharmaceutics</source>
+<volume>21</volume> (<year>2024</year>): <fpage>6100</fpage>–<lpage>6108</lpage>.<pub-id pub-id-type="pmid">39454202</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.molpharmaceut.4c00764</pub-id></mixed-citation></ref><ref id="psp470217-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="psp470217-cit-0007">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Vrenken</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Vertzoni</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Frechen</surname>
+</string-name>, et al., “<article-title>Development of a Novel Physiologically Based Biopharmaceutics Modeling (PBBM) Framework Using the Open Systems Pharmacology Suite, Part 2: In Vivo Pharmacokinetic Modeling of Vericiguat</article-title>,” <source>European Journal of Pharmaceutical Sciences</source>
+<volume>212</volume> (<year>2025</year>): <elocation-id>107189</elocation-id>.<pub-id pub-id-type="pmid">40615096</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejps.2025.107189</pub-id></mixed-citation></ref><ref id="psp470217-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="psp470217-cit-0008">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Führer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gruber</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Diedam</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. H.</given-names>
+<surname>Göller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Menz</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Schneckener</surname>
+</string-name>, “<article-title>A Deep Neural Network: Mechanistic Hybrid Model to Predict Pharmacokinetics in Rat</article-title>,” <source>Journal of Computer‐Aided Molecular Design</source>
+<volume>38</volume> (<year>2024</year>): <elocation-id>7</elocation-id>.<pub-id pub-id-type="pmid">38294570</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10822-023-00547-9</pub-id></mixed-citation></ref><ref id="psp470217-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="psp470217-cit-0009">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Geci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Gadaleta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. G.</given-names>
+<surname>de Lomana</surname>
+</string-name>, et al., “<article-title>Systematic Evaluation of High‐Throughput PBK Modelling Strategies for the Prediction of Intravenous and Oral Pharmacokinetics in Humans</article-title>,” <source>Archives of Toxicology</source>
+<volume>98</volume> (<year>2024</year>): <fpage>2659</fpage>–<lpage>2676</lpage>.<pub-id pub-id-type="pmid">38722347</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00204-024-03764-9</pub-id><pub-id pub-id-type="pmcid">PMC11272695</pub-id></mixed-citation></ref><ref id="psp470217-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="psp470217-cit-0010">
+<string-name name-style="western">
+<given-names>E. L.</given-names>
+<surname>Salim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kristensen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Chopda</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Sjögren</surname>
+</string-name>, “<article-title>Whole‐Body Physiologically Based Pharmacokinetic–Pharmacodynamic Modeling for Interspecies Translation and Mechanistic Characterization of Plasma and Tissue Disposition of GalNAc‐siRNAs</article-title>,” <source>Pharmaceutics</source>
+<volume>17</volume> (<year>2025</year>): <elocation-id>1154</elocation-id>.<pub-id pub-id-type="pmid">41012491</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/pharmaceutics17091154</pub-id><pub-id pub-id-type="pmcid">PMC12472881</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

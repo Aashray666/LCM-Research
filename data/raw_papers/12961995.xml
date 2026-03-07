@@ -1,0 +1,874 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">BMJ</journal-id><journal-id journal-id-type="iso-abbrev">BMJ</journal-id><journal-id journal-id-type="pmc-domain-id">3</journal-id><journal-id journal-id-type="pmc-domain">bmj</journal-id><journal-id journal-id-type="publisher-id">BMJ-UK</journal-id><journal-title-group><journal-title>The BMJ</journal-title></journal-title-group><issn pub-type="ppub">0959-8138</issn><issn pub-type="epub">1756-1833</issn><publisher><publisher-name>BMJ Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12961995</article-id><article-id pub-id-type="pmcid-ver">PMC12961995.1</article-id><article-id pub-id-type="pmcaid">12961995</article-id><article-id pub-id-type="pmcaiid">12961995</article-id><article-id pub-id-type="pmid">41638711</article-id><article-id pub-id-type="doi">10.1136/bmj-2025-084164</article-id><article-id pub-id-type="publisher-id" specific-use="scholarone-sub-id">bmj-2025-084164.R2</article-id><article-id pub-id-type="publisher-id">fyfc084164</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Research</subject></subj-group></article-categories><title-group><article-title>Time trends in the male to female ratio
+for autism incidence: population based, prospectively collected, birth cohort study
+</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6087-8339</contrib-id><name name-style="western"><surname>Fyfe</surname><given-names initials="C">Caroline</given-names></name><role>postdoctoral researcher</role><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7995-3047</contrib-id><name name-style="western"><surname>Winell</surname><given-names initials="H">Henric</given-names></name><role>statistician</role><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6385-3997</contrib-id><name name-style="western"><surname>Dougherty</surname><given-names initials="J">Joseph</given-names></name><role>professor</role><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3127-5045</contrib-id><name name-style="western"><surname>Gutmann</surname><given-names initials="DH">David H</given-names></name><role>Donald O Schnuck family professor</role><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8129-2671</contrib-id><name name-style="western"><surname>Kolevzon</surname><given-names initials="A">Alexander</given-names></name><role>professor of psychiatry and paediatrics</role><xref rid="aff5" ref-type="aff">5</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6521-0373</contrib-id><name name-style="western"><surname>Marrus</surname><given-names initials="N">Natasha</given-names></name><role>associate professor</role><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0456-8029</contrib-id><name name-style="western"><surname>Tedroff</surname><given-names initials="K">Kristina</given-names></name><role>associate professor</role><xref rid="aff6" ref-type="aff">6</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8246-6477</contrib-id><name name-style="western"><surname>Turner</surname><given-names initials="TN">Tychele N</given-names></name><role>assistant professor</role><xref rid="aff7" ref-type="aff">7</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5700-135X</contrib-id><name name-style="western"><surname>Weiss</surname><given-names initials="LA">Lauren A</given-names></name><role>professor</role><xref rid="aff8" ref-type="aff">8</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4749-7611</contrib-id><name name-style="western"><surname>Yip</surname><given-names initials="BHK">Benjamin H K</given-names></name><role>assistant professor</role><xref rid="aff9" ref-type="aff">9</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9534-8207</contrib-id><name name-style="western"><surname>Yin</surname><given-names initials="W">Weiyao</given-names></name><role>postdoctoral researcher</role><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6994-4884</contrib-id><name name-style="western"><surname>Sandin</surname><given-names initials="S">Sven</given-names></name><role>associate professor</role><xref rid="aff1" ref-type="aff">1 </xref><xref rid="aff4" ref-type="aff">4</xref></contrib><aff id="aff1">
+<label>1</label>Department of Medical Epidemiology and Biostatistics, Karolinska
+Institutet, 17177 Solna, Sweden</aff><aff id="aff2">
+<label>2</label>Department of Psychiatry, Washington University School of Medicine,
+St Louis, MO, USA</aff><aff id="aff3">
+<label>3</label>Department of Neurology, Washington University School of Medicine, St
+Louis, MO, USA</aff><aff id="aff4">
+<label>4</label>Department of Psychiatry, Icahn School of Medicine at Mount Sinai,
+New York, NY, USA</aff><aff id="aff5">
+<label>5</label>Seaver Autism Center for Research and Treatment at Mount Sinai, New
+York, USA</aff><aff id="aff6">
+<label>6</label>Department of Women’s and Children’s Health, Karolinska Institutet,
+Solna, Sweden</aff><aff id="aff7">
+<label>7</label>Department of Genetics, Washington University School of Medicine, St
+Louis, MO, USA</aff><aff id="aff8">
+<label>8</label>Department of Psychiatry, University of California, San Francisco,
+CA, USA</aff><aff id="aff9">
+<label>9</label>Jockey Club School of Public Health and Primary Care, Chinese
+University of Hong Kong, Sha Tin, Hong Kong</aff></contrib-group><author-notes><corresp id="cor1">Correspondence to: C Fyfe <email xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="caroline.fyfe@ed.ac.uk">caroline.fyfe@ed.ac.uk</email>
+</corresp></author-notes><pub-date pub-type="collection"><year>2026</year></pub-date><pub-date pub-type="epub"><day>04</day><month>2</month><year>2026</year></pub-date><volume>392</volume><issue-id pub-id-type="pmc-issue-id">504194</issue-id><elocation-id>e084164</elocation-id><history><date date-type="accepted"><day>05</day><month>12</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>04</day><month>02</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>06</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-06 13:25:12.710"><day>06</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement>© Author(s) (or their employer(s)) 2019. Re-use permitted under CC
+BY-NC. No commercial re-use. See rights and permissions. Published by
+BMJ.</copyright-statement><copyright-year>2026</copyright-year><copyright-holder>BMJ</copyright-holder><ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/"/><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an Open Access article distributed in accordance with the Creative
+Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to
+distribute, remix, adapt, build upon this work non-commercially, and license their
+derivative works on different terms, provided the original work is properly cited
+and the use is non-commercial. See: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="bmj-2025-084164.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="pdf" xlink:href="e084164.pdf"/><abstract><title>Abstract</title><sec><title>Objectives</title><p>To examine changes in the male to female ratio in diagnoses of autism spectrum
+disorder (ASD) over a 35 year period, providing temporal trends in diagnosis
+(incidence rate), the male to female ratio, and the age-cohort specific cumulative
+male to female ratio (cMFR).</p></sec><sec><title>Design</title><p>Population based, prospectively collected birth cohort study.</p></sec><sec><title>Participants</title><p>2 756 779 liveborn children recorded in the Swedish medical birth register between
+1985 and 2020.</p></sec><sec><title>Setting</title><p>Sweden.</p></sec><sec><title>Main outcome measure</title><p>Age-period cohort analysis investigating associations between ASD and age at
+diagnosis, calendar period, birth cohort, and sex, quantified by incidence rate
+ratios and associated two sided 95% confidence intervals.</p></sec><sec><title>Results</title><p>Among 2 756 779 individuals born in Sweden between 1985 and 2020, ASD was
+diagnosed in 78 522 (2.8%) by the end of follow-up (2022). The incidence rate for
+ASD increased with each five year age interval throughout childhood, peaking at
+645.5 (per 100 000 person years) for the male cohort at age 10-14 years and 602.6
+for the female cohort at age 15-19 years in 2020-2022, and then decreased. Age
+specific incidence of ASD increased for each calendar period and birth cohort
+between 1985 and 2020. The male to female ratio decreased with increasing age at
+diagnosis and, for those older than 10 years, by calendar period. For the final
+year of follow-up in 2022, the cumulative male to female ratio for incidence of
+ASD was 1.2 by age 20 years. Further projection of these trends suggested that the
+cumulative male to female ratio would reach parity at age 20 years by 2024.</p></sec><sec><title>Conclusion</title><p>Findings indicate that the male to female ratio for ASD has decreased over time
+and with increasing age at diagnosis. This male to female ratio may therefore be
+substantially lower than previously thought, to the extent that, in Sweden, it may
+no longer be distinguishable by adulthood. This finding highlights a need to
+investigate why girls and women receive diagnoses of ASD later than boys and
+men.</p></sec></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Autism spectrum disorder (ASD) is a neurodevelopmental condition characterised by
+differences in social communication, restrictive interests, and repetitive
+behaviours.<xref rid="ref1" ref-type="bibr">1</xref> ASD prevalence has increased
+since early 2000, from, for example, 0.7% of 8 year olds in the US in 2002 to 3.3% in
+2022, according to Centers for Disease Control and Prevention data.<xref rid="ref2" ref-type="bibr">2</xref>
+<xref rid="ref3" ref-type="bibr">3</xref> The prevalence of ASD (ie, total proportion of
+the population with a diagnosis of ASD, in the US and western Europe now varies between
+1.0% and 3.3%).<xref rid="ref2" ref-type="bibr">2</xref>
+<xref rid="ref3" ref-type="bibr">3</xref> The estimated male to female ratio (MFR)
+varies between 2.7 and 4.1.<xref rid="ref4" ref-type="bibr">4</xref>
+<xref rid="ref5" ref-type="bibr">5</xref> Many reasons have been put forward for the
+high MFR of ASD, including a so-called female protective effect, whereby females require
+a higher genetic burden than males for behaviours associated with ASD to become
+noticeable.<xref rid="ref6" ref-type="bibr">6</xref> Another theory, known as the
+greater variance in males theory, contends that males have a higher genetic variance for
+alleles associated with ASD, which randomly places more male than females above the ASD
+diagnosis threshold.<xref rid="ref7" ref-type="bibr">7</xref> ASD has also been
+theorised as a manifestation of a the so called extreme male brain, a theory that
+suggests differences in the ability of both sexes to empathise and systemise, and that
+people with ASD show an extreme version of typical male characteristics.<xref rid="ref8" ref-type="bibr">8</xref> Other factors purported to explain the MFR in
+people with ASD include camouflaging by girls to mask features of ASD (eg, through
+mimicking peers in social interactions),<xref rid="ref9" ref-type="bibr">9</xref> and
+diagnostic overshadowing of co-occurring conditions leading to missed ASD diagnosis<xref rid="ref10" ref-type="bibr">10</xref> in female groups. A potential sex bias in ASD
+research<xref rid="ref4" ref-type="bibr">4</xref> and the application of diagnostic
+criteria<xref rid="ref9" ref-type="bibr">9</xref> have also been suggested.</p><p>ASD is present from early childhood<xref rid="ref1" ref-type="bibr">1</xref> but may not
+be diagnosed until later in life (known as the age effect). In Sweden, ASD is often
+detected by preschool developmental assessments.<xref rid="ref11" ref-type="bibr">11</xref> Recent increases in ASD incidence have been linked to a broadening of
+diagnostic criteria<xref rid="ref12" ref-type="bibr">12</xref> (incidence in this
+context refers to the number of people with newly diagnosed ASD). For example, changes
+in the <italic toggle="yes">Diagnostic and Statistical Manual of Mental Disorders</italic>, fourth
+edition (DSM-IV, 1994) and fifth edition (DSM-V, 2013). The incorporation of spectrum
+conceptualisation allowed for the identification of more symptoms in the updated
+editions, which may have led to a higher number of people in all age groups
+simultaneously receiving a diagnosis of ASD (known as the period effect). Societal
+changes—such as older parental age at birth<xref rid="ref2" ref-type="bibr">2</xref>—can
+result in differences in rates of ASD diagnosis between generations (ie, a cohort
+effect). For example, the mean age at childbirth of Swedish mothers increased from 27
+years to 33 years between 1970 and 2011,<xref rid="ref13" ref-type="bibr">13</xref>
+<xref rid="ref14" ref-type="bibr">14</xref> with a likely parallel increase for
+fathers.</p><p>Underdiagnosis or delayed diagnosis in female cohorts because of typically better social
+and communication skills (making traits in these domains more difficult to identify) has
+been hypothesised to be responsible for the higher MFR by age at female diagnosis,
+rather than there being an actual sex difference.<xref rid="ref15" ref-type="bibr">15</xref> Despite evidence of a downward trajectory in the MFR,<xref rid="ref4" ref-type="bibr">4</xref>
+<xref rid="ref5" ref-type="bibr">5</xref>
+<xref rid="ref16" ref-type="bibr">16</xref> no large population based study has examined
+trends in the MFR of individuals with ASD that disentangles age at diagnosis, calendar
+period (ie, overall changes in ASD incidence by year of diagnosis), and birth cohort.
+Sweden has a publicly funded healthcare system and nationwide population based registers
+dating back to the 1970s,<xref rid="ref17" ref-type="bibr">17</xref> providing a rare
+opportunity to detect such changes over the life course. In this study we analysed and
+identified these temporal influences on the MFR in people with a diagnosis of ASD.</p></sec><sec sec-type="methods"><title>Methods</title><sec><title>Study design</title><p>We used a population based, prospectively collected birth cohort study to investigate
+the influence of age at diagnosis, calendar period, and birth cohort on the MFR for
+people with a diagnosis of ASD.</p></sec><sec><title>Study population</title><p>We selected all liveborn children recorded in the Swedish medical birth register
+between 1985 and 2020 as the study population. Registers are cross linked by a unique
+personal identification number assigned to all Swedish residents.<xref rid="ref18" ref-type="bibr">18</xref> The medical birth register covers 99% of all
+births in Sweden since 1973.<xref rid="ref19" ref-type="bibr">19</xref> We obtained
+parent information through the Swedish multigenerational register, dating back to
+1932, and the Swedish population register.<xref rid="ref19" ref-type="bibr">19</xref>
+To maintain homogeneity across the study period, we only included individuals whose
+parents were both born in Sweden.</p></sec><sec><title>Primary outcome </title><p>From the Swedish national patient register, we obtained information on ASD diagnoses
+in individuals from age 2 years until end of follow-up (1 January 1987 to 31 December
+2022). This register uses the ICD-9 (international classification of diseases, ninth
+revision) from 1987 to 1997 and ICD-10 (international classification of diseases,
+10th revision) after 1997 for clinical diagnoses.</p><p>The process for diagnosing ASD in Sweden evolved over the course of the study period
+in line with changes in the DSM. For example, in 1987 only autistic disorder
+(AD)—which typically requires higher levels of support—was included in the DSM. The
+introduction of ICD-10 broadened diagnostic criteria to include a wider range of
+subtypes (hereafter referred to as autism spectrum) from 1997 onwards (supplementary
+materials, <xref rid="tbl1" ref-type="table">table 1</xref>). The national patient
+register provides nationwide coverage of hospital inpatients receiving an ASD
+diagnosis from 1987, and diagnoses received by people in outpatient care were
+included incrementally between 2001 and 2005.<xref rid="ref20" ref-type="bibr">20</xref> The national patient register has been subject to extensive validation
+efforts, including for ASD diagnosis.<xref rid="ref18" ref-type="bibr">18</xref>
+</p><table-wrap position="float" id="tbl1" orientation="portrait"><label>Table 1</label><caption><p>Rate of autism spectrum disorder in study population, by calendar year and age
+at diagnosis </p></caption><table frame="above" rules="groups"><col width="5.15%" span="1"/><col width="2.01%" span="1"/><col width="2.95%" span="1"/><col width="5.06%" span="1"/><col width="9.07%" span="1"/><col width="0.84%" span="1"/><col width="0.64%" span="1"/><col width="0.62%" span="1"/><col width="0.42%" span="1"/><col width="8.76%" span="1"/><col width="0.75%" span="1"/><col width="14.39%" span="1"/><col width="0.64%" span="1"/><col width="6.62%" span="1"/><col width="0.54%" span="1"/><col width="1.25%" span="1"/><col width="0.44%" span="1"/><col width="10.91%" span="1"/><col width="0.25%" span="1"/><col width="5.96%" span="1"/><col width="0.12%" span="1"/><col width="11.51%" span="1"/><col width="11.1%" span="1"/><thead><tr><th rowspan="2" valign="middle" colspan="2" align="left" scope="colgroup">Age at diagnosis (years) by calendar period</th><th valign="middle" colspan="3" align="center" scope="colgroup" rowspan="1">No of diagnoses</th><th rowspan="2" colspan="3" valign="top" align="left" scope="colgroup"/><th valign="middle" colspan="6" align="center" scope="colgroup" rowspan="1">No of person years (1000s)</th><th rowspan="2" colspan="2" valign="top" align="left" scope="colgroup"/><th valign="middle" colspan="6" align="center" scope="colgroup" rowspan="1">Diagnostic rate (per 100 000 person years)</th><th rowspan="2" valign="middle" align="center" scope="col" colspan="1">MFR
+(95% CI)</th></tr><tr><th valign="middle" colspan="1" align="center" scope="colgroup" rowspan="1">Overall</th><th valign="middle" align="center" scope="col" colspan="1" rowspan="1">Male</th><th valign="middle" align="center" scope="col" colspan="1" rowspan="1">Female</th><th valign="middle" colspan="2" align="center" scope="colgroup" rowspan="1">Overall</th><th valign="middle" colspan="2" align="center" scope="colgroup" rowspan="1">Male</th><th valign="middle" colspan="2" align="center" scope="colgroup" rowspan="1">Female</th><th valign="middle" colspan="2" align="center" scope="colgroup" rowspan="1">Overall</th><th valign="middle" colspan="2" align="center" scope="colgroup" rowspan="1">Male</th><th valign="middle" colspan="2" align="center" scope="colgroup" rowspan="1">Female</th></tr></thead><tbody><tr><td valign="middle" colspan="2" align="left" scope="col" rowspan="1">
+<bold>1985-1989</bold>
+</td><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">0-4</td><td valign="middle" align="center" colspan="1" rowspan="1">35</td><td valign="middle" align="center" colspan="1" rowspan="1">26</td><td valign="middle" colspan="2" align="center" rowspan="1">9</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1047</td><td valign="middle" colspan="2" align="center" rowspan="1">538</td><td valign="middle" colspan="2" align="center" rowspan="1">508</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">3.3</td><td valign="middle" colspan="2" align="center" rowspan="1">4.8</td><td valign="middle" align="center" colspan="1" rowspan="1">1.8</td><td valign="middle" align="center" colspan="1" rowspan="1">2.7 (1.3 to
+5.8)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="col" rowspan="1">
+<bold>1990-1994</bold>
+</td><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">0-4</td><td valign="middle" align="center" colspan="1" rowspan="1">152</td><td valign="middle" align="center" colspan="1" rowspan="1">123</td><td valign="middle" colspan="2" align="center" rowspan="1">29</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">2297</td><td valign="middle" colspan="2" align="center" rowspan="1">1180</td><td valign="middle" colspan="2" align="center" rowspan="1">1117</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">6.6</td><td valign="middle" colspan="2" align="center" rowspan="1">10.4</td><td valign="middle" align="center" colspan="1" rowspan="1">2.6</td><td valign="middle" align="center" colspan="1" rowspan="1">4.0 (2.7 to
+6.0)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">5-9</td><td valign="middle" align="center" colspan="1" rowspan="1">81</td><td valign="middle" align="center" colspan="1" rowspan="1">59</td><td valign="middle" colspan="2" align="center" rowspan="1">22</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1042</td><td valign="middle" colspan="2" align="center" rowspan="1">536</td><td valign="middle" colspan="2" align="center" rowspan="1">507</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">7.8</td><td valign="middle" colspan="2" align="center" rowspan="1">11.0</td><td valign="middle" align="center" colspan="1" rowspan="1">4.3</td><td valign="middle" align="center" colspan="1" rowspan="1">2.5 (1.6 to
+4.1)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="col" rowspan="1">
+<bold>1995-1999</bold>
+</td><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">0-4</td><td valign="middle" align="center" colspan="1" rowspan="1">163</td><td valign="middle" align="center" colspan="1" rowspan="1">114</td><td valign="middle" colspan="2" align="center" rowspan="1">49</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">2009</td><td valign="middle" colspan="2" align="center" rowspan="1">1030</td><td valign="middle" colspan="2" align="center" rowspan="1">980</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">8.1</td><td valign="middle" colspan="2" align="center" rowspan="1">11.1</td><td valign="middle" align="center" colspan="1" rowspan="1">5.0</td><td valign="middle" align="center" colspan="1" rowspan="1">2.2 (1.6 to
+3.1)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">5-9</td><td valign="middle" align="center" colspan="1" rowspan="1">182</td><td valign="middle" align="center" colspan="1" rowspan="1">136</td><td valign="middle" colspan="2" align="center" rowspan="1">46</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">2283</td><td valign="middle" colspan="2" align="center" rowspan="1">1172</td><td valign="middle" colspan="2" align="center" rowspan="1">1111</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">8.0</td><td valign="middle" colspan="2" align="center" rowspan="1">11.6</td><td valign="middle" align="center" colspan="1" rowspan="1">4.1</td><td valign="middle" align="center" colspan="1" rowspan="1">2.8 (2.0 to
+3.9)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">10-14</td><td valign="middle" align="center" colspan="1" rowspan="1">83</td><td valign="middle" align="center" colspan="1" rowspan="1">65</td><td valign="middle" colspan="2" align="center" rowspan="1">18</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1037</td><td valign="middle" colspan="2" align="center" rowspan="1">533</td><td valign="middle" colspan="2" align="center" rowspan="1">504</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">8.0</td><td valign="middle" colspan="2" align="center" rowspan="1">12.2</td><td valign="middle" align="center" colspan="1" rowspan="1">3.6</td><td valign="middle" align="center" colspan="1" rowspan="1">3.4 (2.0 to
+5.8)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="col" rowspan="1">
+<bold>2000-2004</bold>
+</td><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">0-4</td><td valign="middle" align="center" colspan="1" rowspan="1">333</td><td valign="middle" align="center" colspan="1" rowspan="1">248</td><td valign="middle" colspan="2" align="center" rowspan="1">85</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1679</td><td valign="middle" colspan="2" align="center" rowspan="1">865</td><td valign="middle" colspan="2" align="center" rowspan="1">814</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">19.8</td><td valign="middle" colspan="2" align="center" rowspan="1">28.7</td><td valign="middle" align="center" colspan="1" rowspan="1">10.4</td><td valign="middle" align="center" colspan="1" rowspan="1">2.7 (2.1 to
+3.5)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">5-9</td><td valign="middle" align="center" colspan="1" rowspan="1">1106</td><td valign="middle" align="center" colspan="1" rowspan="1">837</td><td valign="middle" colspan="2" align="center" rowspan="1">269</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1994</td><td valign="middle" colspan="2" align="center" rowspan="1">1021</td><td valign="middle" colspan="2" align="center" rowspan="1">972</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">55.5</td><td valign="middle" colspan="2" align="center" rowspan="1">82.0</td><td valign="middle" align="center" colspan="1" rowspan="1">27.7</td><td valign="middle" align="center" colspan="1" rowspan="1">3.0 (2.6 to
+3.4)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">10-14</td><td valign="middle" align="center" colspan="1" rowspan="1">1281</td><td valign="middle" align="center" colspan="1" rowspan="1">926</td><td valign="middle" colspan="2" align="center" rowspan="1">355</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">2268</td><td valign="middle" colspan="2" align="center" rowspan="1">1164</td><td valign="middle" colspan="2" align="center" rowspan="1">1104</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">56.5</td><td valign="middle" colspan="2" align="center" rowspan="1">79.5</td><td valign="middle" align="center" colspan="1" rowspan="1">32.1</td><td valign="middle" align="center" colspan="1" rowspan="1">2.5 (2.2 to
+2.8)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">15-19</td><td valign="middle" align="center" colspan="1" rowspan="1">550</td><td valign="middle" align="center" colspan="1" rowspan="1">381</td><td valign="middle" colspan="2" align="center" rowspan="1">169</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1031</td><td valign="middle" colspan="2" align="center" rowspan="1">530</td><td valign="middle" colspan="2" align="center" rowspan="1">502</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">53.3</td><td valign="middle" colspan="2" align="center" rowspan="1">71.9</td><td valign="middle" align="center" colspan="1" rowspan="1">33.7</td><td valign="middle" align="center" colspan="1" rowspan="1">2.1 (1.8 to
+2.6)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="col" rowspan="1">
+<bold>2005-2009</bold>
+</td><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">0-4</td><td valign="middle" align="center" colspan="1" rowspan="1">620</td><td valign="middle" align="center" colspan="1" rowspan="1">467</td><td valign="middle" colspan="2" align="center" rowspan="1">153</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1821</td><td valign="middle" colspan="2" align="center" rowspan="1">937</td><td valign="middle" colspan="2" align="center" rowspan="1">884</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">34.1</td><td valign="middle" colspan="2" align="center" rowspan="1">49.9</td><td valign="middle" align="center" colspan="1" rowspan="1">17.3</td><td valign="middle" align="center" colspan="1" rowspan="1">2.9 (2.4 to
+3.5)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">5-9</td><td valign="middle" align="center" colspan="1" rowspan="1">1600</td><td valign="middle" align="center" colspan="1" rowspan="1">1254</td><td valign="middle" colspan="2" align="center" rowspan="1">346</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1665</td><td valign="middle" colspan="2" align="center" rowspan="1">856</td><td valign="middle" colspan="2" align="center" rowspan="1">808</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">96.1</td><td valign="middle" colspan="2" align="center" rowspan="1">146.5</td><td valign="middle" align="center" colspan="1" rowspan="1">42.8</td><td valign="middle" align="center" colspan="1" rowspan="1">3.4 (3.0 to
+3.9)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">10-14</td><td valign="middle" align="center" colspan="1" rowspan="1">2437</td><td valign="middle" align="center" colspan="1" rowspan="1">1739</td><td valign="middle" colspan="2" align="center" rowspan="1">698</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1978</td><td valign="middle" colspan="2" align="center" rowspan="1">1011</td><td valign="middle" colspan="2" align="center" rowspan="1">967</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">123.2</td><td valign="middle" colspan="2" align="center" rowspan="1">172.0</td><td valign="middle" align="center" colspan="1" rowspan="1">72.2</td><td valign="middle" align="center" colspan="1" rowspan="1">2.4 (2.2 to
+2.6)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">15-19</td><td valign="middle" align="center" colspan="1" rowspan="1">2703</td><td valign="middle" align="center" colspan="1" rowspan="1">1684</td><td valign="middle" colspan="2" align="center" rowspan="1">1019</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">2251</td><td valign="middle" colspan="2" align="center" rowspan="1">1154</td><td valign="middle" colspan="2" align="center" rowspan="1">1097</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">120.1</td><td valign="middle" colspan="2" align="center" rowspan="1">145.9</td><td valign="middle" align="center" colspan="1" rowspan="1">92.9</td><td valign="middle" align="center" colspan="1" rowspan="1">1.6 (1.5 to
+1.7)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">20-24</td><td valign="middle" align="center" colspan="1" rowspan="1">822</td><td valign="middle" align="center" colspan="1" rowspan="1">485</td><td valign="middle" colspan="2" align="center" rowspan="1">337</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1013</td><td valign="middle" colspan="2" align="center" rowspan="1">521</td><td valign="middle" colspan="2" align="center" rowspan="1">492</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">81.1</td><td valign="middle" colspan="2" align="center" rowspan="1">93.0</td><td valign="middle" align="center" colspan="1" rowspan="1">68.5</td><td valign="middle" align="center" colspan="1" rowspan="1">1.4 (1.2 to
+1.6)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="col" rowspan="1">
+<bold>2010-2014</bold>
+</td><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">0-4</td><td valign="middle" align="center" colspan="1" rowspan="1">1295</td><td valign="middle" align="center" colspan="1" rowspan="1">1005</td><td valign="middle" colspan="2" align="center" rowspan="1">290</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1876</td><td valign="middle" colspan="2" align="center" rowspan="1">965</td><td valign="middle" colspan="2" align="center" rowspan="1">912</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">69.0</td><td valign="middle" colspan="2" align="center" rowspan="1">104.2</td><td valign="middle" align="center" colspan="1" rowspan="1">31.8</td><td valign="middle" align="center" colspan="1" rowspan="1">3.3 (2.9 to
+3.7)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">5-9</td><td valign="middle" align="center" colspan="1" rowspan="1">3558</td><td valign="middle" align="center" colspan="1" rowspan="1">2776</td><td valign="middle" colspan="2" align="center" rowspan="1">782</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1800</td><td valign="middle" colspan="2" align="center" rowspan="1">923</td><td valign="middle" colspan="2" align="center" rowspan="1">877</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">197.7</td><td valign="middle" colspan="2" align="center" rowspan="1">300.6</td><td valign="middle" align="center" colspan="1" rowspan="1">89.2</td><td valign="middle" align="center" colspan="1" rowspan="1">3.4 (3.1 to
+3.6)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">10-14</td><td valign="middle" align="center" colspan="1" rowspan="1">4875</td><td valign="middle" align="center" colspan="1" rowspan="1">3439</td><td valign="middle" colspan="2" align="center" rowspan="1">1436</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1642</td><td valign="middle" colspan="2" align="center" rowspan="1">841</td><td valign="middle" colspan="2" align="center" rowspan="1">801</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">296.9</td><td valign="middle" colspan="2" align="center" rowspan="1">409.0</td><td valign="middle" align="center" colspan="1" rowspan="1">179.3</td><td valign="middle" align="center" colspan="1" rowspan="1">2.3 (2.1 to
+2.4)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">15-19</td><td valign="middle" align="center" colspan="1" rowspan="1">5036</td><td valign="middle" align="center" colspan="1" rowspan="1">2995</td><td valign="middle" colspan="2" align="center" rowspan="1">2041</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1951</td><td valign="middle" colspan="2" align="center" rowspan="1">995</td><td valign="middle" colspan="2" align="center" rowspan="1">956</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">258.2</td><td valign="middle" colspan="2" align="center" rowspan="1">301.1</td><td valign="middle" align="center" colspan="1" rowspan="1">213.5</td><td valign="middle" align="center" colspan="1" rowspan="1">1.4 (1.3 to
+1.5)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">20-24</td><td valign="middle" align="center" colspan="1" rowspan="1">2895</td><td valign="middle" align="center" colspan="1" rowspan="1">1759</td><td valign="middle" colspan="2" align="center" rowspan="1">1136</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">2185</td><td valign="middle" colspan="2" align="center" rowspan="1">1123</td><td valign="middle" colspan="2" align="center" rowspan="1">1063</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">132.5</td><td valign="middle" colspan="2" align="center" rowspan="1">156.7</td><td valign="middle" align="center" colspan="1" rowspan="1">106.9</td><td valign="middle" align="center" colspan="1" rowspan="1">1.5 (1.4 to
+1.6)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">25-29</td><td valign="middle" align="center" colspan="1" rowspan="1">981</td><td valign="middle" align="center" colspan="1" rowspan="1">578</td><td valign="middle" colspan="2" align="center" rowspan="1">403</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">976</td><td valign="middle" colspan="2" align="center" rowspan="1">502</td><td valign="middle" colspan="2" align="center" rowspan="1">474</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">100.5</td><td valign="middle" colspan="2" align="center" rowspan="1">115.0</td><td valign="middle" align="center" colspan="1" rowspan="1">85.1</td><td valign="middle" align="center" colspan="1" rowspan="1">1.4 (1.2 to
+1.5)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="col" rowspan="1">
+<bold>2015-2019</bold>
+</td><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">0-4</td><td valign="middle" align="center" colspan="1" rowspan="1">1574</td><td valign="middle" align="center" colspan="1" rowspan="1">1245</td><td valign="middle" colspan="2" align="center" rowspan="1">329</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1822</td><td valign="middle" colspan="2" align="center" rowspan="1">937</td><td valign="middle" colspan="2" align="center" rowspan="1">885</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">86.4</td><td valign="middle" colspan="2" align="center" rowspan="1">132.9</td><td valign="middle" align="center" colspan="1" rowspan="1">37.2</td><td valign="middle" align="center" colspan="1" rowspan="1">3.6 (3.2 to
+4.0)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">5-9</td><td valign="middle" align="center" colspan="1" rowspan="1">4939</td><td valign="middle" align="center" colspan="1" rowspan="1">3787</td><td valign="middle" colspan="2" align="center" rowspan="1">1152</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1851</td><td valign="middle" colspan="2" align="center" rowspan="1">947</td><td valign="middle" colspan="2" align="center" rowspan="1">904</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">266.9</td><td valign="middle" colspan="2" align="center" rowspan="1">399.8</td><td valign="middle" align="center" colspan="1" rowspan="1">127.5</td><td valign="middle" align="center" colspan="1" rowspan="1">3.1 (2.9 to
+3.3)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">10-14</td><td valign="middle" align="center" colspan="1" rowspan="1">7817</td><td valign="middle" align="center" colspan="1" rowspan="1">5060</td><td valign="middle" colspan="2" align="center" rowspan="1">2757</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1764</td><td valign="middle" colspan="2" align="center" rowspan="1">899</td><td valign="middle" colspan="2" align="center" rowspan="1">865</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">443.1</td><td valign="middle" colspan="2" align="center" rowspan="1">562.8</td><td valign="middle" align="center" colspan="1" rowspan="1">318.6</td><td valign="middle" align="center" colspan="1" rowspan="1">1.8 (1.7 to
+1.9)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">15-19</td><td valign="middle" align="center" colspan="1" rowspan="1">6293</td><td valign="middle" align="center" colspan="1" rowspan="1">3233</td><td valign="middle" colspan="2" align="center" rowspan="1">3060</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1606</td><td valign="middle" colspan="2" align="center" rowspan="1">820</td><td valign="middle" colspan="2" align="center" rowspan="1">786</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">392.0</td><td valign="middle" colspan="2" align="center" rowspan="1">394.4</td><td valign="middle" align="center" colspan="1" rowspan="1">389.4</td><td valign="middle" align="center" colspan="1" rowspan="1">1.0 (1.0 to
+1.1)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">20-24</td><td valign="middle" align="center" colspan="1" rowspan="1">3071</td><td valign="middle" align="center" colspan="1" rowspan="1">1743</td><td valign="middle" colspan="2" align="center" rowspan="1">1328</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1903</td><td valign="middle" colspan="2" align="center" rowspan="1">972</td><td valign="middle" colspan="2" align="center" rowspan="1">931</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">161.4</td><td valign="middle" colspan="2" align="center" rowspan="1">179.4</td><td valign="middle" align="center" colspan="1" rowspan="1">142.6</td><td valign="middle" align="center" colspan="1" rowspan="1">1.3 (1.2 to
+1.4)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">25-29</td><td valign="middle" align="center" colspan="1" rowspan="1">2657</td><td valign="middle" align="center" colspan="1" rowspan="1">1537</td><td valign="middle" colspan="2" align="center" rowspan="1">1120</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">2119</td><td valign="middle" colspan="2" align="center" rowspan="1">1089</td><td valign="middle" colspan="2" align="center" rowspan="1">1030</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">125.4</td><td valign="middle" colspan="2" align="center" rowspan="1">141.2</td><td valign="middle" align="center" colspan="1" rowspan="1">108.7</td><td valign="middle" align="center" colspan="1" rowspan="1">1.3 (1.2 to
+1.4)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">30-34</td><td valign="middle" align="center" colspan="1" rowspan="1">985</td><td valign="middle" align="center" colspan="1" rowspan="1">558</td><td valign="middle" colspan="2" align="center" rowspan="1">427</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">950</td><td valign="middle" colspan="2" align="center" rowspan="1">488</td><td valign="middle" colspan="2" align="center" rowspan="1">462</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">103.7</td><td valign="middle" colspan="2" align="center" rowspan="1">114.3</td><td valign="middle" align="center" colspan="1" rowspan="1">92.5</td><td valign="middle" align="center" colspan="1" rowspan="1">1.2 (1.1 to
+1.4)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="col" rowspan="1">
+<bold>2020-2022</bold>
+</td><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/><td valign="middle" align="left" colspan="1" rowspan="1"/></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">0-4</td><td valign="middle" align="center" colspan="1" rowspan="1">1063</td><td valign="middle" align="center" colspan="1" rowspan="1">861</td><td valign="middle" colspan="2" align="center" rowspan="1">202</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">907</td><td valign="middle" colspan="2" align="center" rowspan="1">466</td><td valign="middle" colspan="2" align="center" rowspan="1">441</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">117.2</td><td valign="middle" colspan="2" align="center" rowspan="1">184.8</td><td valign="middle" align="center" colspan="1" rowspan="1">45.8</td><td valign="middle" align="center" colspan="1" rowspan="1">4.0 (3.5 to
+4.7)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">5-9</td><td valign="middle" align="center" colspan="1" rowspan="1">3255</td><td valign="middle" align="center" colspan="1" rowspan="1">2445</td><td valign="middle" colspan="2" align="center" rowspan="1">810</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1086</td><td valign="middle" colspan="2" align="center" rowspan="1">556</td><td valign="middle" colspan="2" align="center" rowspan="1">531</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">299.6</td><td valign="middle" colspan="2" align="center" rowspan="1">439.9</td><td valign="middle" align="center" colspan="1" rowspan="1">152.7</td><td valign="middle" align="center" colspan="1" rowspan="1">2.9 (2.7 to
+3.1)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">10-14</td><td valign="middle" align="center" colspan="1" rowspan="1">6124</td><td valign="middle" align="center" colspan="1" rowspan="1">3564</td><td valign="middle" colspan="2" align="center" rowspan="1">2560</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1086</td><td valign="middle" colspan="2" align="center" rowspan="1">552</td><td valign="middle" colspan="2" align="center" rowspan="1">533</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">564.1</td><td valign="middle" colspan="2" align="center" rowspan="1">645.5</td><td valign="middle" align="center" colspan="1" rowspan="1">479.9</td><td valign="middle" align="center" colspan="1" rowspan="1">1.3 (1.3 to
+1.4)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">15-19</td><td valign="middle" align="center" colspan="1" rowspan="1">5081</td><td valign="middle" align="center" colspan="1" rowspan="1">2073</td><td valign="middle" colspan="2" align="center" rowspan="1">3008</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1017</td><td valign="middle" colspan="2" align="center" rowspan="1">518</td><td valign="middle" colspan="2" align="center" rowspan="1">499</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">499.4</td><td valign="middle" colspan="2" align="center" rowspan="1">400.0</td><td valign="middle" align="center" colspan="1" rowspan="1">602.6</td><td valign="middle" align="center" colspan="1" rowspan="1">0.7 (0.6 to
+0.7)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">20-24</td><td valign="middle" align="center" colspan="1" rowspan="1">1738</td><td valign="middle" align="center" colspan="1" rowspan="1">788</td><td valign="middle" colspan="2" align="center" rowspan="1">950</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">935</td><td valign="middle" colspan="2" align="center" rowspan="1">478</td><td valign="middle" colspan="2" align="center" rowspan="1">457</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">185.9</td><td valign="middle" colspan="2" align="center" rowspan="1">164.7</td><td valign="middle" align="center" colspan="1" rowspan="1">208.0</td><td valign="middle" align="center" colspan="1" rowspan="1">0.8 (0.7 to
+0.9)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">25-29</td><td valign="middle" align="center" colspan="1" rowspan="1">1597</td><td valign="middle" align="center" colspan="1" rowspan="1">810</td><td valign="middle" colspan="2" align="center" rowspan="1">787</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1184</td><td valign="middle" colspan="2" align="center" rowspan="1">606</td><td valign="middle" colspan="2" align="center" rowspan="1">579</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">134.8</td><td valign="middle" colspan="2" align="center" rowspan="1">133.7</td><td valign="middle" align="center" colspan="1" rowspan="1">136.0</td><td valign="middle" align="center" colspan="1" rowspan="1">1.0 (0.9 to
+1.1)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">30-34</td><td valign="middle" align="center" colspan="1" rowspan="1">1282</td><td valign="middle" align="center" colspan="1" rowspan="1">642</td><td valign="middle" colspan="2" align="center" rowspan="1">640</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">1222</td><td valign="middle" colspan="2" align="center" rowspan="1">628</td><td valign="middle" colspan="2" align="center" rowspan="1">594</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">104.9</td><td valign="middle" colspan="2" align="center" rowspan="1">102.2</td><td valign="middle" align="center" colspan="1" rowspan="1">107.7</td><td valign="middle" align="center" colspan="1" rowspan="1">0.9 (0.9 to
+1.1)</td></tr><tr><td valign="middle" colspan="2" align="left" scope="row" rowspan="1">35-37</td><td valign="middle" align="center" colspan="1" rowspan="1">288</td><td valign="middle" align="center" colspan="1" rowspan="1">139</td><td valign="middle" colspan="2" align="center" rowspan="1">149</td><td colspan="3" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">332</td><td valign="middle" colspan="2" align="center" rowspan="1">171</td><td valign="middle" colspan="2" align="center" rowspan="1">161</td><td colspan="2" valign="top" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">86.9</td><td valign="middle" colspan="2" align="center" rowspan="1">81.5</td><td valign="middle" align="center" colspan="1" rowspan="1">92.5</td><td valign="middle" align="center" colspan="1" rowspan="1">0.9 (0.7 to
+1.1)</td></tr><tr><td valign="middle" align="left" scope="row" colspan="1" rowspan="1">Overall</td><td valign="middle" colspan="2" align="left" rowspan="1">78 552</td><td valign="middle" align="center" colspan="1" rowspan="1">49 581</td><td valign="top" align="center" colspan="1" rowspan="1">28 971</td><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="3" align="center" rowspan="1">55 629</td><td valign="middle" colspan="2" align="center" rowspan="1">28 522</td><td valign="middle" colspan="2" align="center" rowspan="1">27 107</td><td valign="middle" colspan="2" align="left" rowspan="1"/><td valign="middle" colspan="2" align="center" rowspan="1">141.2</td><td valign="middle" colspan="2" align="center" rowspan="1">173.8</td><td valign="middle" colspan="2" align="center" rowspan="1">106.9</td><td valign="middle" align="center" colspan="1" rowspan="1">1.6 (1.6 to
+1.7)</td></tr></tbody></table><table-wrap-foot><p>MFR=male to female rate ratio; CI=confidence interval.</p></table-wrap-foot></table-wrap><p>In Sweden, child health centres provide routine preventive child healthcare, attended
+by all Swedish children from birth to 5 years of age. Usually, specialist nurses and
+doctors evaluate children 12 times during their first year of life, and thereafter
+two to six times yearly. Comprehensive developmental assessment of motor skills,
+language, cognitive skills, and social development are performed when children reach
+18 months, 2.5 years, 4 years, and 5 years of age. When in school, from 6 years of
+age, the school’s medical team evaluate children with problems related to cognition,
+social skills, or attention. Specialised teams then refer children with suspected
+developmental disorders for further assessment.<xref rid="ref21" ref-type="bibr">21</xref> Diagnosis may be received (in children and adults) while under the care
+of psychiatric services as a result of concerns from themselves or their care givers
+about feelings and behaviours (eg, temper tantrums, anxiety, depression, eating
+disorders, or obsessive-compulsive disorder). A diagnosis of ASD among individuals
+younger than 18 years in Sweden is given after assessment by a specialised team—for
+example, in a child psychiatry unit or paediatric neurology/habilitation service in
+younger age groups.<xref rid="ref21" ref-type="bibr">21</xref> For adults,
+specialised assessment teams exists within psychiatry clinics. According to the
+recommendations by the Swedish National Board of Health and Welfare, assessment of
+adults with suspected ASD are conducted jointly by a psychologist and a
+physician.</p></sec><sec><title>Exposure variables: age at diagnosis, calendar period, birth cohort, and
+sex</title><p>We extracted birth date and sex assigned at birth from the medical birth register.
+Calendar period and age at diagnosis of ASD was obtained by linking the medical birth
+register with the national patient register.</p></sec><sec><title>Statistical analysis</title><p>We followed each individual from birth until the ASD diagnosis, death, emigration
+from Sweden, or the end of the study period.</p><p>For descriptive purposes, we grouped the continuous time scales into five year
+intervals for age and calendar period, and the corresponding overlapping 10 year
+intervals for birth cohort (supplementary materials). To explore how ASD incidence
+and the MFR vary over time, we summarised the number of ASD diagnoses, person years
+at risk, incidence rates (number of diagnoses divided by person years), and the MFR.
+The uncertainty of the MFR was quantified by 95% Wald-type confidence intervals
+(CI).</p><p>Temporal patterns were assessed by fitting a sequence of log-linear rate models of
+increasing complexity, defined by the covariates (age, age and drift, age and period,
+age and cohort, and age, period, and cohort). Drift refers to a linear time trend
+that can be arbitrarily attributed to period or cohort.<xref rid="ref22" ref-type="bibr">22</xref> Estimation was performed using Poisson regression, as the
+likelihood under a constant rate model is proportional to the Poisson likelihood. We
+then extended the models by adding interactions with sex to all covariates. Age,
+period, and cohort was modelled using natural cubic splines with eight knots,
+equivalent to one knot every five years,<xref rid="ref23" ref-type="bibr">23</xref>
+placed so that the number of events between knots was about equal.<xref rid="ref24" ref-type="bibr">24</xref> We estimated age effects as age specific
+rates for a reference period, adjusted for cohort effects. Period effects, with drift
+included, were estimated relative to the reference period, and cohort effects were
+estimated relative to the age-period effect.<xref rid="ref24" ref-type="bibr">24</xref> We selected 2016 as the reference year, corresponding to the median
+diagnosis year among all people with a diagnosis of ASD. Fitted models were compared
+using the Akaike Information Criterion, which balances goodness-of-fit and model
+complexity; lower values indicate better supported models.<xref rid="ref25" ref-type="bibr">25</xref>
+</p><p>To better understand how changes in diagnostic patterns have affected rates of ASD
+diagnosis, we used the estimated age, period, and cohort effects to compute
+age-cohort specific ASD rates and the MFR for selected calendar periods: 2016 (the
+reference year), 2022 (the final year of follow-up), and 2024 (the current year at
+time of analysis). For the observed age range and specified period, we obtained the
+corresponding cohorts by calculating the identity cohort as period minus age. The
+age-cohort specific rates of ASD diagnosis were then computed by multiplying the age
+specific rates by the corresponding cohort specific rate ratios and the period
+specific rate ratio. We also computed cumulative ASD rates and cumulative MFR (cMFR),
+along with associated 95% CIs using the delta method.<xref rid="ref25" ref-type="bibr">25</xref> When periods and cohorts extended beyond the observed range,
+we obtained estimates by linear extrapolation, as implied by the natural cubic spline
+formulation.<xref rid="ref26" ref-type="bibr">26</xref> We used SAS version 9.1
+and R version 4 for the statistical analysis.</p><sec><title>Supplementary analysis</title><p>To explore specificity of outcomes, we repeated the analysis for the main ASD
+subtype: autistic disorder. Autistic disorder differs from other forms of ASD in
+that the characteristics of autism are noticeable earlier in life and occur in all
+three diagnostic domains (reciprocal social interaction,
+communication—particularly in terms of language acquisition—and specific
+behavioural traits).</p></sec></sec><sec><title>Patient and public involvement</title><p>No patients or members of the public were involved in this study. At the time of
+study inception, no mechanisms were in place for patient and public involvement,
+which is being rectified.</p></sec></sec><sec sec-type="results"><title>Results</title><p>Our final study population size included 2 756 779 people, having excluded 3216 (0.1%)
+individuals with incomplete records, 36 748 (1.0%) who emigrated or died before 2 years
+of age, and 980 405 (26.0%) with parents born outside Sweden (supplementary file,
+supplementary fig 1). We followed individuals to a maximum of 37 years of age (median
+20.1 years, interquartile range (IQR) 8.8 to 29.4 years). ASD was diagnosed in 78 522
+(2.8%) of the study population.</p><sec><title>Age at diagnosis</title><p>Across all age groups, we observed the highest rate of ASD diagnoses (ie, incident
+cases per 100 000 person years) in the period 2020 to 2022, ranging from 184.8
+diagnoses in the male cohort and 45.8 in the female cohort aged 0-4 years to 645.5 in
+the male cohort aged 10-14 years and 602.6 in the female cohort aged 15-19 years
+(<xref rid="tbl1" ref-type="table">table 1</xref>). The median age at diagnosis
+was 14.3 years (IQR 9.9 to 17.6 years; supplementary file, supplementary table
+2).</p><p>The MFR was approximately 3 until individuals reached 10 years of age; rate of ASD
+diagnosis was highest for the male cohort at age 10-14 years and age 15-19 years for
+the female cohort (<xref rid="f1" ref-type="fig">fig 1</xref>). We observed the
+highest MFR in individuals aged 10 years and younger. In individuals older than 10
+years, the MFR decreased with increasing age across all calendar periods. For
+children with a diagnosis of ASD between 2020 and 2022 (the most recent period for
+which data were available), the MFR was no longer &gt;1 for individuals older than 15
+years (<xref rid="f1" ref-type="fig">fig 1</xref>; <xref rid="tbl1" ref-type="table">table 1</xref>). The age specific change in rates of ASD diagnosis was similar
+across birth cohorts from the 1995-2004 birth cohort onwards (<xref rid="f1" ref-type="fig">fig 1</xref>). The MFR was ≤1 for individuals older than 15 years in
+birth cohorts from 2000 onwards (<xref rid="f1" ref-type="fig">fig 1</xref>).</p><fig position="float" id="f1" fig-type="figure" orientation="portrait"><label>Fig 1</label><caption><p>Incidence rate and male to female ratio of autism spectrum disorder during
+study period. Incidence rate shown by male sex, female sex, and male to female
+rate ratio. Stratified by age at diagnosis and calendar period, age at
+diagnosis and birth cohort, calendar period and age at diagnosis, and birth
+cohort and age at diagnosis. ASD=autism spectrum disorder</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fyfc084164.f1.jpg"/></fig></sec><sec><title>Calendar period (year of diagnosis)</title><p>A constant increase in ASD rates was observed in all age groups from 1995 to 2022.
+For example, between the periods 2000-2004 and 2020-2022, the ASD rate for
+individuals aged 0-4 years increased from 19.8 to 117.2, and for those aged 10-14
+years, from 56.5 to 564.1 (<xref rid="tbl1" ref-type="table">table 1</xref>). The
+increase in ASD rates over time was greater for boys aged 0-4 years than for girls of
+the same age, but greater for those in the female cohort aged 10-14 years or older.
+The MFR fluctuated between 2 and 4 for age groups 0-4 and 5-9 years across all
+calendar periods but decreased over time in all other age groups (<xref rid="f1" ref-type="fig">fig 1</xref>).</p></sec><sec><title>Birth cohort (year of birth)</title><p>For individuals born in the 1995-2004, 2000-2009, and 2005-2015 cohorts, the rate of
+ASD diagnosis was highest at 15-19 years of age. For individuals born from 1985 to
+1994, the rate of ASD diagnosis increased until 20-24 years of age and plateaued
+thereafter. With the exception of the 10-14 years and 15-19 years age groups, the
+change in rates of ASD diagnosis between birth cohorts was similar between the sexes
+(<xref rid="f1" ref-type="fig">fig 1</xref>).</p></sec><sec><title>Relative impact of age at diagnosis, calendar period, birth cohort, and
+sex</title><p>When comparing the models with different combinations of timescale, those that
+included all three (age, period, and cohort) were best supported by the Akaike
+information criterion. Among the less complex models, those with age and calendar
+period were better supported than models using age and cohort. When we added an
+interaction with sex, the model fit improved across all specifications (<xref rid="tbl2" ref-type="table">table 2</xref>).</p><table-wrap position="float" id="tbl2" orientation="portrait"><label>Table 2</label><caption><p>Model fit statistics for models with age at diagnosis of autism spectrum
+disorder, calendar period, and birth cohort, with and without sex
+interaction</p></caption><table frame="above" rules="groups"><col width="20.47%" span="1"/><col width="40.42%" span="1"/><col width="26.84%" span="1"/><col width="12.27%" span="1"/><thead><tr><th valign="middle" align="left" scope="col" colspan="1" rowspan="1">Model</th><th valign="middle" align="center" scope="col" colspan="1" rowspan="1">Akaike information criterion*</th><th valign="middle" align="center" scope="col" colspan="1" rowspan="1">Degrees of freedom</th><th valign="middle" align="center" scope="col" colspan="1" rowspan="1">Deviance</th></tr></thead><tbody><tr><td valign="middle" colspan="4" align="left" scope="col" rowspan="1">
+<bold>Without sex interaction</bold>
+</td></tr><tr><td valign="middle" align="left" scope="row" colspan="1" rowspan="1">Age</td><td valign="middle" align="center" colspan="1" rowspan="1">70 910</td><td valign="middle" align="center" colspan="1" rowspan="1">2872</td><td valign="middle" align="center" colspan="1" rowspan="1">58 898</td></tr><tr><td valign="middle" align="left" scope="row" colspan="1" rowspan="1">Age+drift</td><td valign="middle" align="center" colspan="1" rowspan="1">32 976</td><td valign="middle" align="center" colspan="1" rowspan="1">2871</td><td valign="middle" align="center" colspan="1" rowspan="1">20 963</td></tr><tr><td valign="middle" align="left" scope="row" colspan="1" rowspan="1">Age+period</td><td valign="middle" align="center" colspan="1" rowspan="1">29 902</td><td valign="middle" align="center" colspan="1" rowspan="1">2865</td><td valign="middle" align="center" colspan="1" rowspan="1">17 877</td></tr><tr><td valign="middle" align="left" scope="row" colspan="1" rowspan="1">Age+cohort</td><td valign="middle" align="center" colspan="1" rowspan="1">32 264</td><td valign="middle" align="center" colspan="1" rowspan="1">2865</td><td valign="middle" align="center" colspan="1" rowspan="1">20 239</td></tr><tr><td valign="middle" align="left" scope="row" colspan="1" rowspan="1">Age+period+cohort</td><td valign="middle" align="center" colspan="1" rowspan="1">29 681</td><td valign="middle" align="center" colspan="1" rowspan="1">2859</td><td valign="middle" align="center" colspan="1" rowspan="1">17 643</td></tr><tr><td valign="middle" colspan="4" align="left" scope="col" rowspan="1">
+<bold>With sex interaction</bold>
+</td></tr><tr><td valign="middle" align="left" scope="row" colspan="1" rowspan="1">Age</td><td valign="middle" align="center" colspan="1" rowspan="1">62 855</td><td valign="middle" align="center" colspan="1" rowspan="1">2864</td><td valign="middle" align="center" colspan="1" rowspan="1">50 828</td></tr><tr><td valign="middle" align="left" scope="row" colspan="1" rowspan="1">Age+drift</td><td valign="middle" align="center" colspan="1" rowspan="1">24 488</td><td valign="middle" align="center" colspan="1" rowspan="1">2862</td><td valign="middle" align="center" colspan="1" rowspan="1">12 456</td></tr><tr><td valign="middle" align="left" scope="row" colspan="1" rowspan="1">Age+period</td><td valign="middle" align="center" colspan="1" rowspan="1">20 957</td><td valign="middle" align="center" colspan="1" rowspan="1">2850</td><td valign="middle" align="center" colspan="1" rowspan="1">8901</td></tr><tr><td valign="middle" align="left" scope="row" colspan="1" rowspan="1">Age+cohort</td><td valign="middle" align="center" colspan="1" rowspan="1">23 813</td><td valign="middle" align="center" colspan="1" rowspan="1">2850</td><td valign="middle" align="center" colspan="1" rowspan="1">11 758</td></tr><tr><td valign="middle" align="left" scope="row" colspan="1" rowspan="1">Age+period+cohort</td><td valign="middle" align="center" colspan="1" rowspan="1">20 637</td><td valign="middle" align="center" colspan="1" rowspan="1">2838</td><td valign="middle" align="center" colspan="1" rowspan="1">8558</td></tr></tbody></table><table-wrap-foot><p>Drift refers to a linear time trend that can be arbitrarily attributed to
+period or cohort.</p><fn id="t2n1"><label>*</label><p>Comparing the Akaike information criterion for the age+drift model to the
+Akaike information criterion for the age+period model or age+cohort model
+contrasts a strictly linear trend in calendar period or birth cohort with a
+model allowing for non-linear effects.</p></fn></table-wrap-foot></table-wrap><p>The model with the lowest Akaike information criterion (which included age, calendar
+period, birth cohort, and their interactions with sex) revealed a cohort adjusted,
+age specific pattern of the high MFR up to age 10 years, followed by a decline to
+reach a plateau at around age 15 years. The period specific effect, with drift
+included, increased monotonically until 2010 and then declined. The (residual) cohort
+specific effect remained nearly constant until 1995, decreased until 2005, and then
+increased again to the end of the study period in 2022 (<xref rid="f2" ref-type="fig">fig 2</xref>).</p><fig position="float" id="f2" fig-type="figure" orientation="portrait"><label>Fig 2</label><caption><p>Estimated effects of age at diagnosis, calendar period, and birth cohort on the
+rate of autism spectrum disorder for male and female cohorts and the associated
+male to female ratio from the best fitting model that included variables for
+age, period, cohort, and their interactions with sex, along with 95% confidence
+intervals (shaded regions). Upper left panel shows the estimated cohort
+adjusted, age specific, population averaged rates of autism spectrum disorder
+for male and female cohorts who received diagnoses in 2016. Upper right panel
+shows the estimated period specific rate ratios relative to the reference
+period 2016 (black dot) and the cohort specific rate ratios relative to the age
+period effect. Lower left panel shows the corresponding age specific male to
+female ratios. Lower right panel shows the period specific and cohort specific
+male to female ratios. For example, the male to female ratio for 15 year olds
+who received a diagnosis in 2022 and therefore born in 2007 is about
+1.5×0.6×0.8=0.7. ASD=autism spectrum disorder</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fyfc084164.f2.jpg"/></fig><p>To illustrate how changes in diagnostic patterns have affected the rate of ASD
+diagnosis, we used the estimated age, period, and cohort effects (<xref rid="f2" ref-type="fig">fig 2</xref>) to compute age-cohort-specific ASD rates and
+the MFR, including their cumulative versions, for calendar periods 2016, 2022, and
+2024 (<xref rid="f3" ref-type="fig">fig 3</xref>). These estimates were obtained by
+multiplying the age specific rates by the corresponding cohort specific rate ratios
+and the period-specific rate ratio, applying linear extrapolation where periods or
+cohorts extended beyond the observed range (<xref rid="f2" ref-type="fig">fig
+2</xref>). For diagnoses received in 2016, the age-cohort-specific MFR remained
+&gt;1 for all age groups, whereas for 2022 it was &lt;1 after 14 years of age (<xref rid="f3" ref-type="fig">fig 3</xref>). Up to age 20 years, the cMFR declined from
+about 1.9 in 2016 to about 1.2 in 2022, while at age 10 years the cMFR remained
+stable at around 3 (<xref rid="f3" ref-type="fig">fig 3</xref>). To investigate how
+recent trends might influence future MFRs and cMFRs, we included a projection beyond
+2022—the final year of follow-up—showing that, under projected diagnostic patterns
+for 2024, the cMFR decreased to 1 by age 20 years (<xref rid="f3" ref-type="fig">fig
+3</xref>).</p><fig position="float" id="f3" fig-type="figure" orientation="portrait"><label>Fig 3</label><caption><p>Population averaged, age-cohort specific rates of autism spectrum disorder and
+male to female ratios for calendar periods 2016, 2022, and 2024. Figure
+presents estimates from the model best supported by the Akaike information
+criterion, which included terms for age, period, cohort, and their interactions
+with sex, using diagnoses of autism spectrum disorder between 1987 and 2022 and
+projected diagnoses in 2024. ASD=autism spectrum disorder</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="fyfc084164.f3.jpg"/></fig></sec><sec><title>Supplementary analysis: autism disorder</title><p>We identified 43 146 individuals with a diagnosis of autism disorder. Post hoc
+summary statistics suggest similar rates of autism disorder and ASD in childhood and
+adolescence (0-19 years) but with a much sharper decrease in autism disorder rates
+during adulthood (&gt;20 years) (supplementary files, supplementary fig 2). The
+overall MFR ratio for autism disorder was (1.7, 95% CI 1.7 to 1.7) (supplementary
+file, supplementary table 3).</p></sec></sec><sec sec-type="discussion"><title>Discussion</title><sec><title>Principal findings</title><p>Among the 2.7 million children born in Sweden between 1985 and 2020, the rate of ASD
+diagnoses increased about 10-fold over the study period (follow-up to 2022). For
+example, from 56.5 to 564.1 cases per 100 000 person years between 2000 and 2022, in
+people aged 10-14 years. The well known high MFR for ASD declined steadily for those
+with a diagnosis of ASD after 10 years of age, and for people with a more recent
+diagnosis (after 2010). A model based projection found a cMFR (sex difference in
+cumulative ASD incidence) close to 1 in Sweden for the 2022 calendar period,
+suggesting a similar lifetime rate of ASD diagnosis in both sexes.</p><p>Our analyses of the MFR showed a substantial catch-up effect for ASD in the female
+cohort relative to the male cohort, over time and especially as age increased. This
+effect began at age 10 years, when the cMFR was about 3, and plateaued at age 20
+years, after a rapid decline in the age specific MFR to &lt;1 during adolescence.</p></sec><sec><title>Comparison with other studies</title><p>Earlier studies have linked changes in ASD incidence to period effects (eg, the
+broadening of diagnostic criteria). ASD is diagnosed based on the fulfilment of
+descriptive criteria,<xref rid="ref15" ref-type="bibr">15</xref> thus the ASD rate
+and the MFR may have been affected by changes in the diagnostic manuals.<xref rid="ref12" ref-type="bibr">12</xref> While in post hoc analysis, we did not
+observe any abrupt alterations in either rates of ASD diagnosis or the MFR after the
+introduction of DSM-V in Sweden in 2013, new criteria can take several years to be
+implemented in a nuanced and consistent way. In addition, DSM-V was implemented at a
+time of growing awareness of ASD and formalised ASD as a spectrum. A Danish study
+found greatest increases in ASD diagnosis rates between the ages of 4 and 20 years,
+which the authors linked to increased diagnosis of autism spectrum after the
+introduction of ICD-10.<xref rid="ref27" ref-type="bibr">27</xref> A Norwegian
+population based register study of people born from 1967 to 2011 similarly found a
+higher MFR in children (3.7) than in adults (2.6).<xref rid="ref28" ref-type="bibr">28</xref>
+</p><p>Several factors may have influenced the higher than previously reported peak age of
+diagnosis for both sexes in our study—for example, a longer follow-up period and
+increased awareness of ASD can both lead to more adults receiving an ASD
+diagnosis.<xref rid="ref2" ref-type="bibr">2</xref>
+<xref rid="ref27" ref-type="bibr">27</xref>
+<xref rid="ref29" ref-type="bibr">29</xref> The inclusion of outpatients in the
+Swedish national patient register from 2001 onwards also inflated the age of ASD
+diagnosis, as it led to late inclusion of people who had already received a diagnosis
+as outpatients. However, we also identified a higher peak age at diagnosis in the
+female cohort (age 15-19 years) compared with the male cohort (age 10-14 years). Two
+British studies that followed a birth cohort to age 25 years gave similar results:
+these studies found that children assessed as having a high likelihood of ASD at 6
+months to 9 years old were predominantly male (73%), while no significant difference
+explained by sex was found among people identified as having late emerging ASD
+traits.<xref rid="ref30" ref-type="bibr">30</xref>
+<xref rid="ref31" ref-type="bibr">31</xref>
+</p><p>Our results may provide a more comprehensive understanding of the findings of earlier
+studies. For example, a meta-analysis of 54 studies reported a cMFR for ASD of 4.2
+(95% CI 3.8 to 4.6), compared with 1.6 (1.6 to 1.7) in our study, but with
+substantial variability between studies (I<sup>2</sup>=90.9%). Only one of the 54
+studies included in the meta-analysis examined the MFR by age at diagnosis, and none
+considered calendar period or birth cohort. This, in addition to variations in the
+age range of participants (0-18 years, mean 7.4 (standard deviation 2.9) years), may
+explain part of the differences between the studies. The cMFR was lower when ASD was
+ascertained from screening the general population to identify rather than being
+identified through diagnostic records: odds ratio 3.2 (95% CI 2.9 to 3.8).<xref rid="ref4" ref-type="bibr">4</xref> Many epidemiological studies rely on
+questionnaire based screening data, which may also contribute to the variability in
+reported cMFRs.<xref rid="ref4" ref-type="bibr">4</xref>
+<xref rid="ref5" ref-type="bibr">5</xref>
+<xref rid="ref9" ref-type="bibr">9</xref>
+<xref rid="ref32" ref-type="bibr">32</xref>
+</p><p>The high MFR may be linked to the so-called female protective effect,<xref rid="ref6" ref-type="bibr">6</xref> whereby female groups show greater genetic
+resilience<bold>,</bold> enabling them to carry more alleles contributing to ASD
+before reaching the threshold for an ASD diagnosis.<xref rid="ref6" ref-type="bibr">6</xref>
+<xref rid="ref8" ref-type="bibr">8</xref> However, compelling evidence for this
+theory is mixed. Greater heritability (ie, higher genetic contribution) was also
+identified as contributing to greater prevalence of ASD in males.<xref rid="ref21" ref-type="bibr">21</xref> The greater heritability in these
+individuals may have been observed because non-genetic factors contribute more to ASD
+in females, including diagnostic ascertainment and differences in clinical
+presentation.<xref rid="ref21" ref-type="bibr">21</xref>
+</p><p>Lower rates of ASD diagnosis in female groups have also been attributed to a sex bias
+in both case ascertainment and clinical diagnosis, potentially resulting from
+differences in clinical presentation by sex and assessments and criteria favouring
+detection in male groups.<xref rid="ref4" ref-type="bibr">4</xref>
+<xref rid="ref9" ref-type="bibr">9</xref>
+<xref rid="ref28" ref-type="bibr">28</xref> For example, recent increases in rates of
+ASD diagnoses in females have been linked to the widening of diagnostic
+criteria.<xref rid="ref33" ref-type="bibr">33</xref> Camouflaging of traits
+associated with ASD (ie, taking behavioural cues from peers, including mimicking
+speech or expressions<xref rid="ref9" ref-type="bibr">9</xref>) may also be more
+common in this group.<xref rid="ref33" ref-type="bibr">33</xref> In such cases,
+ASD-like behaviours may only become detectable during adolescence, when social
+interactions become more complex.<xref rid="ref9" ref-type="bibr">9</xref>
+<xref rid="ref27" ref-type="bibr">27</xref> These characteristics can lead to a later
+age at diagnosis that only becomes visible with sufficiently long follow-up.<xref rid="ref29" ref-type="bibr">29</xref> In addition, because comprehensive screening
+occurs at younger ages in Sweden, adolescents and adults are more likely to access
+mental health services through self-referral. Earlier data suggest that women are
+more likely to seek general healthcare,<xref rid="ref34" ref-type="bibr">34</xref>
+suggesting more complex social and cultural factors also lead to the increase in
+diagnosis in young female adults. The clear increase in ASD diagnoses received by
+female adolescents documented in our study could thus be interpreted in several ways.
+Firstly, differences in presentation or application of diagnostic criteria by sex and
+age, or some relatively later manifestation of biological traits in female groups
+(ie, a sex-by-age interaction on the impact of biological traits). Lastly,
+differences in how people come to clinical attention that vary by age and by sex.</p><p>The misattribution of symptoms to a previously identified condition has been
+recognised in the diagnosis of psychiatric conditions since the 1980s.<xref rid="ref10" ref-type="bibr">10</xref> This phenomenon may have influenced the age
+of ASD diagnosis and variations in the MFR with age at diagnosis. During the past
+decade, the burden of co-occurring psychiatric conditions in individuals with ASD has
+been increasingly identified both in epidemiological studies and in clinical
+practice.<xref rid="ref35" ref-type="bibr">35</xref> Studies suggest that nearly
+70% of individuals with a diagnosis of ASD have at least one additional psychiatric
+condition.<xref rid="ref35" ref-type="bibr">35</xref>
+<xref rid="ref36" ref-type="bibr">36</xref> Recent studies, one of which had a
+population partly overlapping with ours, found that women are more likely than men to
+have an earlier psychiatric diagnosis before receiving a diagnosis of ASD, and ASD is
+generally diagnosed at a later age.<xref rid="ref37" ref-type="bibr">37</xref>
+<xref rid="ref38" ref-type="bibr">38</xref> In the past, diagnosis of co-occurring
+conditions has led to ASD being missed. However, greater recognition of ASD in recent
+years could now be having the opposite effect, leading to an increase in rates of ASD
+diagnosis among those presenting with co-occurring conditions. This may partly
+explain the change in the MFR by age at diagnosis.</p></sec><sec><title>Strengths and limitations of this study</title><p>A major strength of this study is the size and availability of clinically ascertained
+ASD. Clinical ascertainment of ASD using internationally recognised diagnostic
+criteria (DSM-V) allows outcomes to be generalised to similar populations. The
+ability to link data for a whole population to childhood medical and developmental
+assessment records in a publicly funded and operated healthcare system almost
+eliminated selection bias. Longer term studies allowed us to disentangle the effects
+of different time scales. However, using register data restricted our assessment of
+ASD type to specific ICD-10 coded categories, meaning we had less information about
+specific traits or clinical details, which could have enhanced the granularity of the
+study and provided a clinical perspective. Furthermore, the study does not
+specifically address comorbid conditions associated with ASD, such as co-occurring
+intellectual disability, attention deficit/hyperactivity disorder, depression and
+anxiety, or syndromic ASD. We also did not consider potential modifiers of the MFR,
+such as preterm birth. These conditions and variables require specific studies that
+were beyond the scope of our current research. In addition, measuring time dependent
+effects limited our ability to control for within cohort confounders, such as shared
+genetic and environmental conditions like parental mental health. These factors may
+increase the likelihood of ASD diagnosis within families and have been shown to
+unequally affect males.<xref rid="ref8" ref-type="bibr">8</xref> The lack of
+outpatient data before 2001 led to later age at ASD diagnosis in the earlier cohorts,
+which may have led to the difference in age at diagnosis between the sexes being
+underestimated. It should be noted that the statistical modelling used in <xref rid="f3" ref-type="fig">figure 3</xref> to evaluate the effects of changes in
+diagnostic intensities from 2016 to 2022 and project them to 2024 were partially
+based on data that do not fully cover the target years. This limitation is reflected
+in the much wider confidence intervals for the projections in 2024.</p></sec><sec><title>Conclusions</title><p>The findings, involving analysis of the Swedish population over a period of more than
+35 years, indicate that the MFR for ASD has decreased over time, and that diagnosis
+of ASD has increased. This suggests that the MFR for ASD may be significantly lower
+than previously thought—to the extent that, in Sweden, it may no longer be
+distinguishable by adulthood. The decreasing MFR over time highlights the need to
+investigate why girls and women receive a diagnosis of ASD later than boys and men.
+Further research should focus on phenotypic differences in how ASD manifests by sex
+and the implications for screening and diagnostic practices.</p><boxed-text id="boxa" position="float" orientation="portrait"><sec><title>What is already known on this topic</title><list list-type="simple" id="L1"><list-item><p>The prevalence of autism spectrum disorder has increased over the past
+three decades, and has been characterised by a high male to female
+ratio</p></list-item></list></sec><sec><title>What this study adds</title><list list-type="simple" id="L2"><list-item><p>The male to female ratio for autism spectrum disorder has decreased over
+time and with age at diagnosis, demonstrating a pattern of female
+catch-up</p></list-item><list-item><p>These observations highlight the need to investigate why female groups
+receive diagnoses later than male groups</p></list-item></list></sec></boxed-text></sec></sec></body><back><notes notes-type="data-supplement"><label>Web extra</label><p>Extra material supplied by authors</p><supplementary-material position="float" content-type="local-data" orientation="portrait"><caption><p>Web appendix: Supplementary materials</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="fyfc084164.ww.pdf" id="d67e1970" position="anchor" orientation="portrait"/></supplementary-material></notes><notes><fn-group><fn fn-type="participating-researchers"><p>Contributors: CF contributed to the design of the work, analysis, and
+interpretation of data, and drafted and reviewed the final version. HW contributed
+to the conception and design of the work, analysis and interpretation of data (in
+particular statistical modelling and analysis), and drafting and review of the
+final version. JD contributed to the design and overview of the work and review of
+the final version. DHG contributed to the design of the work and drafting and
+review of the final version. AK contributed to the design of the work and drafting
+and review of the final version. NM contributed to the design of the work and
+drafting and review of the final version, including expert advice on ASD traits.
+KT contributed to the design of the work and drafting and review of the final
+version, including expert advice on neurodevelopmental monitoring in the Swedish
+healthcare system and diagnostic overshadowing. TNT contributed to the design of
+the work and review of the final version. LAW contributed to the design of the
+work and drafting and review of the final version. BHKY contributed to the
+conceptualisation of the work, analysis and interpretation of data, and review of
+the final version. WY contributed to the conceptualisation of the work,
+acquisition and analysis of data, and drafting and review of the final version. SS
+contributed to the conceptualisation and design of the work; acquisition,
+analysis, and interpretation of data; and the drafting and review of the final
+version. CF is the guarantor. The corresponding author attests that all listed
+authors meet the authorship criteria and that no others meeting the criteria have
+been omitted.</p></fn><fn fn-type="financial-disclosure"><p>Funding: This work was supported by the Simons Foundation (PTE Grant 7340697, the
+Karolinska Institutet’s Research Foundation (grants Dnr 2018-01499 and 2020-02156
+(to SS) and grant 2022-02021 (to WY)) and by the Horizon 2020 award 733280 RECAP
+Research on Children and Adults Born Preterm (grant to SS). The funders had no
+role in considering the study design or in the collection, analysis,
+interpretation of data, writing of the report, or decision to submit the article
+for publication.</p></fn><fn fn-type="COI-statement"><p>Competing interests: All authors have completed the ICMJE uniform disclosure form
+at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.icmje.org/disclosure-of-interest/" ext-link-type="uri">https://www.icmje.org/disclosure-of-interest/</ext-link> and declare: support
+from the Simons Foundation for the submitted work; no financial relationships with
+any organisations that might have an interest in the submitted work in the
+previous three years; no other relationships or activities that could appear to
+have influenced the submitted work.</p></fn><fn fn-type="other"><p>Transparency: The lead author and the manuscript’s guarantor affirms that the
+manuscript is an honest, accurate, and transparent account of the study being
+reported; that no important aspects of the study have been omitted; and that any
+discrepancies from the study as planned (and, if relevant, registered) have been
+explained.</p></fn><fn fn-type="other"><p>Dissemination to participants and related patient and public communities: This
+study was register based and therefore did not have the capacity for direct
+dissemination to patients and public communities before publication.</p></fn><fn fn-type="other"><p>Provenance and peer review: Not commissioned; externally peer reviewed.</p></fn></fn-group></notes><sec sec-type="ethics-statement"><title>Ethics statements</title><sec sec-type="ethics-approval"><title>Ethical approval</title><p>This study was approved by the national Swedish ethics review board, Sweden:
+2017/1875-31/1; 2018/1864-32; 2019-06314; 2023-00948-02. </p></sec></sec><sec sec-type="data-availability"><title>Data availability statement</title><p>No additional data available.</p></sec><ref-list><ref id="ref1"><label>1</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hollander</surname><given-names>E</given-names></name>
+</person-group>. <source>Kolevzon A, Coyle J. Textbook of Autism Spectrum
+Disorders.</source>
+<edition>1st ed</edition>. <publisher-name>American Psychiatric Publishing
+Inc</publisher-name>, <year>2011</year>.</mixed-citation></ref><ref id="ref2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lyall</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Croen</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Daniels</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>. <article-title>The Changing Epidemiology of Autism Spectrum
+Disorders</article-title>. <source>Annu Rev Public Health</source>
+<year>2017</year>;<volume>38</volume>:<fpage>81</fpage>-<lpage>102</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-publhealth-031816-044318</pub-id> 
+<pub-id pub-id-type="pmid">28068486</pub-id>
+<pub-id pub-id-type="pmcid">PMC6566093</pub-id></mixed-citation></ref><ref id="ref3"><label>3</label><mixed-citation publication-type="book">Shaw KA, Williams S, Patrick ME, et al.
+Prevalence and Early Identification of Autism Spectrum Disorder Among Children Aged 4
+and 8 Years — Autism and Developmental Disabilities Monitoring Network, 16 Sites,
+United States, 2022. 2025;74(2). <pub-id pub-id-type="doi">10.15585/mmwr.ss7402a1</pub-id>
+
+<pub-id pub-id-type="pmcid">PMC12011386</pub-id><pub-id pub-id-type="pmid">40232988</pub-id></mixed-citation></ref><ref id="ref4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Loomes</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hull</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Mandy</surname><given-names>WPL</given-names></name>
+</person-group>. <article-title>What Is the Male-to-Female Ratio in Autism Spectrum
+Disorder? A Systematic Review and Meta-Analysis</article-title>. <source>J Am Acad
+Child Adolesc Psychiatry</source>
+<year>2017</year>;<volume>56</volume>:<fpage>466</fpage>-<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaac.2017.03.013</pub-id> 
+<pub-id pub-id-type="pmid">28545751</pub-id>
+</mixed-citation></ref><ref id="ref5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Baker</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Milivojevich</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kraycar</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Holt</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Gade</surname><given-names>S</given-names></name>
+</person-group>. <article-title>Secular trend of sex ratio and symptom patterns among
+children with autism spectrum disorders</article-title>. <source>Glob Adv Health
+Med</source>
+<year>2014</year>;<volume>3</volume>:<fpage>92</fpage>-<lpage>101</lpage>. <pub-id pub-id-type="doi">10.7453/gahmj.2014.028</pub-id> 
+<pub-id pub-id-type="pmid">24944876</pub-id>
+<pub-id pub-id-type="pmcid">PMC4045098</pub-id></mixed-citation></ref><ref id="ref6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Dougherty</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Marrus</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Maloney</surname><given-names>SE</given-names></name>
+<etal/>
+</person-group>. <article-title>Can the “female protective effect” liability
+threshold model explain sex differences in autism spectrum
+disorder?</article-title>
+<source>Neuron</source>
+<year>2022</year>;<volume>110</volume>:<fpage>3243</fpage>-<lpage>62</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2022.06.020</pub-id> 
+<pub-id pub-id-type="pmid">35868305</pub-id>
+<pub-id pub-id-type="pmcid">PMC9588569</pub-id></mixed-citation></ref><ref id="ref7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sandin</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Yip</surname><given-names>BHK</given-names></name>
+<name name-style="western"><surname>Yin</surname><given-names>W</given-names></name>
+<etal/>
+</person-group>. <article-title>Examining Sex Differences in Autism
+Heritability</article-title>. <source>JAMA Psychiatry</source>
+<year>2024</year>;<volume>81</volume>:<fpage>673</fpage>-<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1001/jamapsychiatry.2024.0525</pub-id> 
+<pub-id pub-id-type="pmid">38630491</pub-id>
+<pub-id pub-id-type="pmcid">PMC11024771</pub-id></mixed-citation></ref><ref id="ref8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Baron-Cohen</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Cassidy</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Auyeung</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>. <article-title>Attenuation of typical sex differences in 800 adults
+with autism vs. 3,900 controls</article-title>. <source>PLoS One</source>
+<year>2014</year>;<volume>9</volume>:<elocation-id>e102251</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0102251</pub-id> 
+<pub-id pub-id-type="pmid">25029203</pub-id>
+<pub-id pub-id-type="pmcid">PMC4100876</pub-id></mixed-citation></ref><ref id="ref9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Young</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Oreve</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Speranza</surname><given-names>M</given-names></name>
+</person-group>. <article-title>Clinical characteristics and problems diagnosing
+autism spectrum disorder in girls</article-title>. <source>Arch Pediatr</source>
+<year>2018</year>;<volume>25</volume>:<fpage>399</fpage>-<lpage>403</lpage>. <pub-id pub-id-type="doi">10.1016/j.arcped.2018.06.008</pub-id> 
+<pub-id pub-id-type="pmid">30143373</pub-id>
+</mixed-citation></ref><ref id="ref10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hallyburton</surname><given-names>A</given-names></name>
+</person-group>. <article-title>Diagnostic overshadowing: An evolutionary concept
+analysis on the misattribution of physical symptoms to pre-existing psychological
+illnesses</article-title>. <source>Int J Ment Health Nurs</source>
+<year>2022</year>;<volume>31</volume>:<fpage>1360</fpage>-<lpage>72</lpage>. <pub-id pub-id-type="doi">10.1111/inm.13034</pub-id> 
+<pub-id pub-id-type="pmid">35718951</pub-id>
+<pub-id pub-id-type="pmcid">PMC9796883</pub-id></mixed-citation></ref><ref id="ref11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sandin</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Schendel</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Magnusson</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>. <article-title>Autism risk associated with parental age and with
+increasing difference in age between the parents</article-title>. <source>Mol
+Psychiatry</source>
+<year>2016</year>;<volume>21</volume>:<fpage>693</fpage>-<lpage>700</lpage>. <pub-id pub-id-type="doi">10.1038/mp.2015.70</pub-id> 
+<pub-id pub-id-type="pmid">26055426</pub-id>
+<pub-id pub-id-type="pmcid">PMC5414073</pub-id></mixed-citation></ref><ref id="ref12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hodges</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Fealko</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Soares</surname><given-names>N</given-names></name>
+</person-group>. <article-title>Autism spectrum disorder: definition, epidemiology,
+causes, and clinical evaluation</article-title>. <source>Transl Pediatr</source>
+<year>2020</year>;<volume>9</volume>(<issue>Suppl
+1</issue>):<fpage>S55</fpage>-<lpage>65</lpage>. <pub-id pub-id-type="doi">10.21037/tp.2019.09.09</pub-id> 
+<pub-id pub-id-type="pmid">32206584</pub-id>
+<pub-id pub-id-type="pmcid">PMC7082249</pub-id></mixed-citation></ref><ref id="ref13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Svensson</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Abel</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Dalman</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Magnusson</surname><given-names>C</given-names></name>
+</person-group>. <article-title>Implications of advancing paternal age: does it
+affect offspring school performance?</article-title>
+<source>PLoS One</source>
+<year>2011</year>;<volume>6</volume>:<elocation-id>e24771</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0024771</pub-id> 
+<pub-id pub-id-type="pmid">21957460</pub-id>
+<pub-id pub-id-type="pmcid">PMC3177820</pub-id></mixed-citation></ref><ref id="ref14"><label>14</label><mixed-citation publication-type="other">SoS. Statistics on Pregnancies, Deliveries and
+Newborn Infants 2022. Socialstryrelsen; 2023;6. Report 023-12-7651. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.socialstyrelsen.se/contentassets/1c2e5a8850d440cabe1d0baece73f26b/2023-12-8868.pdf" ext-link-type="uri">https://www.socialstyrelsen.se/contentassets/1c2e5a8850d440cabe1d0baece73f26b/2023-12-8868.pdf</ext-link>
+</mixed-citation></ref><ref id="ref15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Chahboun</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Stenseng</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Page</surname><given-names>AG</given-names></name>
+</person-group>. <article-title>The changing faces of autism: The fluctuating
+international diagnostic criteria and the resulting inclusion and exclusion-A
+Norwegian perspective</article-title>. <source>Front Psychiatry</source>
+<year>2022</year>;<volume>13</volume>:<elocation-id>787893</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpsyt.2022.787893</pub-id> 
+<pub-id pub-id-type="pmid">35966490</pub-id>
+<pub-id pub-id-type="pmcid">PMC9365987</pub-id></mixed-citation></ref><ref id="ref16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Hansen</surname><given-names>SN</given-names></name>
+<name name-style="western"><surname>Schendel</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Parner</surname><given-names>ET</given-names></name>
+</person-group>. <article-title>Explaining the increase in the prevalence of autism
+spectrum disorders: the proportion attributable to changes in reporting
+practices</article-title>. <source>JAMA Pediatr</source>
+<year>2015</year>;<volume>169</volume>:<fpage>56</fpage>-<lpage>62</lpage>. <pub-id pub-id-type="doi">10.1001/jamapediatrics.2014.1893</pub-id> 
+<pub-id pub-id-type="pmid">25365033</pub-id>
+</mixed-citation></ref><ref id="ref17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sandin</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hjalgrim</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Glimelius</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Rostgaard</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Pukkala</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Askling</surname><given-names>J</given-names></name>
+</person-group>. <article-title>Incidence of non-Hodgkin’s lymphoma in Sweden,
+Denmark, and Finland from 1960 through 2003: an epidemic that was</article-title>.
+<source>Cancer Epidemiol Biomarkers Prev</source>
+<year>2006</year>;<volume>15</volume>:<fpage>1295</fpage>-<lpage>300</lpage>. <pub-id pub-id-type="doi">10.1158/1055-9965.EPI-05-0958</pub-id> 
+<pub-id pub-id-type="pmid">16835326</pub-id>
+</mixed-citation></ref><ref id="ref18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Laugesen</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Ludvigsson</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Schmidt</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>. <article-title>Nordic Health Registry-Based Research: A Review of
+Health Care Systems and Key Registries</article-title>. <source>Clin
+Epidemiol</source>
+<year>2021</year>;<volume>13</volume>:<fpage>533</fpage>-<lpage>54</lpage>. <pub-id pub-id-type="doi">10.2147/CLEP.S314959</pub-id> 
+<pub-id pub-id-type="pmid">34321928</pub-id>
+<pub-id pub-id-type="pmcid">PMC8302231</pub-id></mixed-citation></ref><ref id="ref19"><label>19</label><mixed-citation publication-type="other">Olausson PO, Lindberg J. Multi-generation
+register 2016 – A description of contents and quality. Statostocs Sweden; 2017.
+(Population and Welfare – Background Facts 2017:2. Multi-generation register 2016 –).
+<pub-id pub-id-type="doi">10.1007/978-1-59745-423-0_10</pub-id>
+</mixed-citation></ref><ref id="ref20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Lauritsen</surname><given-names>MB</given-names></name>
+<name name-style="western"><surname>Pedersen</surname><given-names>CB</given-names></name>
+<name name-style="western"><surname>Mortensen</surname><given-names>PB</given-names></name>
+</person-group>. <article-title>The incidence and prevalence of pervasive
+developmental disorders: a Danish population-based study</article-title>.
+<source>Psychol Med</source>
+<year>2004</year>;<volume>34</volume>:<fpage>1339</fpage>-<lpage>46</lpage>. <pub-id pub-id-type="doi">10.1017/S0033291704002387</pub-id> 
+<pub-id pub-id-type="pmid">15697060</pub-id>
+</mixed-citation></ref><ref id="ref21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Sandin</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Yip</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Constantino</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>. Examining Sex Differences in Autism Heritability. <source>JAMA
+Psychiatry</source>
+<year>2024</year>;<volume>81</volume>:<fpage>673</fpage>-<lpage>680</lpage>.
+<pub-id pub-id-type="doi">10.1001/jamapsychiatry.2024.0525</pub-id>
+<pub-id pub-id-type="pmid">38630491</pub-id>
+<pub-id pub-id-type="pmcid">PMC11024771</pub-id></mixed-citation></ref><ref id="ref22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Clayton</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Schifflers</surname><given-names>E</given-names></name>
+</person-group>. <article-title>Models for temporal variation in cancer rates. II:
+Age-period-cohort models</article-title>. <source>Stat Med</source>
+<year>1987</year>;<volume>6</volume>:<fpage>469</fpage>-<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1002/sim.4780060406</pub-id> 
+<pub-id pub-id-type="pmid">3629048</pub-id>
+</mixed-citation></ref><ref id="ref23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Heuer</surname><given-names>C</given-names></name>
+</person-group>. <article-title>Modeling of time trends and interactions in vital
+rates using restricted regression splines</article-title>.
+<source>Biometrics</source>
+<year>1997</year>;<volume>53</volume>:<fpage>161</fpage>-<lpage>77</lpage>. <pub-id pub-id-type="doi">10.2307/2533105</pub-id> 
+<pub-id pub-id-type="pmid">9147590</pub-id>
+</mixed-citation></ref><ref id="ref24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Carstensen</surname><given-names>B</given-names></name>
+</person-group>. <article-title>Age-period-cohort models for the Lexis
+diagram</article-title>. <source>Stat Med</source>
+<year>2007</year>;<volume>26</volume>:<fpage>3018</fpage>-<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1002/sim.2764</pub-id> 
+<pub-id pub-id-type="pmid">17177166</pub-id>
+</mixed-citation></ref><ref id="ref25"><label>25</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Pawitan</surname><given-names>Y</given-names></name>
+</person-group>. <source>In all likelihood: statistical modelling and inference using
+likelihood</source>. <publisher-name>Clarendon Press</publisher-name>,
+<publisher-name>Oxford University Press</publisher-name>,
+<year>2001</year>;<fpage>528</fpage>.</mixed-citation></ref><ref id="ref26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rutherford</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Thompson</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Lambert</surname><given-names>PC</given-names></name>
+</person-group>. <article-title>Projecting cancer incidence using age-period-cohort
+models incorporating restricted cubic splines</article-title>. <source>Int J
+Biostat</source>
+<year>2012</year>;<volume>8</volume>:<fpage>33</fpage>. <pub-id pub-id-type="doi">10.1515/1557-4679.1411</pub-id> 
+<pub-id pub-id-type="pmid">23152433</pub-id>
+</mixed-citation></ref><ref id="ref27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Jensen</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Steinhausen</surname><given-names>HC</given-names></name>
+<name name-style="western"><surname>Lauritsen</surname><given-names>MB</given-names></name>
+</person-group>. <article-title>Time trends over 16 years in incidence-rates of
+autism spectrum disorders across the lifespan based on nationwide Danish register
+data</article-title>. <source>J Autism Dev Disord</source>
+<year>2014</year>;<volume>44</volume>:<fpage>1808</fpage>-<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1007/s10803-014-2053-6</pub-id> 
+<pub-id pub-id-type="pmid">24554161</pub-id>
+</mixed-citation></ref><ref id="ref28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Posserud</surname><given-names>MB</given-names></name>
+<name name-style="western"><surname>Skretting Solberg</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Engeland</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Haavik</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Klungsøyr</surname><given-names>K</given-names></name>
+</person-group>. <article-title>Male to female ratios in autism spectrum disorders by
+age, intellectual disability and attention-deficit/hyperactivity
+disorder</article-title>. <source>Acta Psychiatr Scand</source>
+<year>2021</year>;<volume>144</volume>:<fpage>635</fpage>-<lpage>46</lpage>. <pub-id pub-id-type="doi">10.1111/acps.13368</pub-id> 
+<pub-id pub-id-type="pmid">34494265</pub-id>
+</mixed-citation></ref><ref id="ref29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>van ’t Hof</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Tisseur</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>van Berckelear-Onnes</surname><given-names>I</given-names></name>
+<etal/>
+</person-group>. <article-title>Age at autism spectrum disorder diagnosis: A
+systematic review and meta-analysis from 2012 to 2019</article-title>.
+<source>Autism</source>
+<year>2021</year>;<volume>25</volume>:<fpage>862</fpage>-<lpage>73</lpage>. <pub-id pub-id-type="doi">10.1177/1362361320971107</pub-id> 
+<pub-id pub-id-type="pmid">33213190</pub-id>
+</mixed-citation></ref><ref id="ref30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Riglin</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Wootton</surname><given-names>RE</given-names></name>
+<name name-style="western"><surname>Thapar</surname><given-names>AK</given-names></name>
+<etal/>
+</person-group>. <article-title>Variable Emergence of Autism Spectrum Disorder
+Symptoms From Childhood to Early Adulthood</article-title>. <source>Am J
+Psychiatry</source>
+<year>2021</year>;<volume>178</volume>:<fpage>752</fpage>-<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1176/appi.ajp.2020.20071119</pub-id> 
+<pub-id pub-id-type="pmid">33900814</pub-id>
+<pub-id pub-id-type="pmcid">PMC7611492</pub-id></mixed-citation></ref><ref id="ref31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Pender</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fearon</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>St Pourcain</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Heron</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mandy</surname><given-names>W</given-names></name>
+</person-group>. <article-title>Developmental trajectories of autistic social traits
+in the general population</article-title>. <source>Psychol Med</source>
+<year>2023</year>;<volume>53</volume>:<fpage>814</fpage>-<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1017/S0033291721002166</pub-id> 
+<pub-id pub-id-type="pmid">34154678</pub-id>
+</mixed-citation></ref><ref id="ref32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Mattila</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Kielinen</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Linna</surname><given-names>SL</given-names></name>
+<etal/>
+</person-group>. <article-title>Autism spectrum disorders according to DSM-IV-TR and
+comparison with DSM-5 draft criteria: an epidemiological study</article-title>.
+<source>J Am Acad Child Adolesc Psychiatry</source>
+<year>2011</year>;<volume>50</volume>:<fpage>583</fpage>-<lpage>592.e11</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jaac.2011.04.001</pub-id> 
+<pub-id pub-id-type="pmid">21621142</pub-id>
+</mixed-citation></ref><ref id="ref33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Keating</surname><given-names>CT</given-names></name>
+<name name-style="western"><surname>Hickman</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Geelhand</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>. <article-title>Global perspectives on autism acceptance,
+camouflaging behaviours and mental health in autism spectrum disorder: A
+registered report protocol</article-title>. <source>PLoS One</source>
+<year>2021</year>;<volume>16</volume>:<elocation-id>e0261774</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0261774</pub-id> 
+<pub-id pub-id-type="pmid">34969045</pub-id>
+<pub-id pub-id-type="pmcid">PMC8718008</pub-id></mixed-citation></ref><ref id="ref34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Thompson</surname><given-names>AE</given-names></name>
+<name name-style="western"><surname>Anisimowicz</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Miedema</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Hogg</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Wodchis</surname><given-names>WP</given-names></name>
+<name name-style="western"><surname>Aubrey-Bassler</surname><given-names>K</given-names></name>
+</person-group>. <article-title>The influence of gender and other patient
+characteristics on health care-seeking behaviour: a QUALICOPC
+study</article-title>. <source>BMC Fam Pract</source>
+<year>2016</year>;<volume>17</volume>:<fpage>38</fpage>. <pub-id pub-id-type="doi">10.1186/s12875-016-0440-0</pub-id> 
+<pub-id pub-id-type="pmid">27036116</pub-id>
+<pub-id pub-id-type="pmcid">PMC4815064</pub-id></mixed-citation></ref><ref id="ref35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Barlattani</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>D’Amelio</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Cavatassi</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>. <article-title>Autism spectrum disorders and psychiatric
+comorbidities: a narrative review</article-title>. <source>J Psychopathol</source>
+<year>2023</year>;<volume>29</volume>:<fpage>3</fpage>-<lpage>24</lpage>.</mixed-citation></ref><ref id="ref36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Rosen</surname><given-names>TE</given-names></name>
+<name name-style="western"><surname>Mazefsky</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Vasa</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Lerner</surname><given-names>MD</given-names></name>
+</person-group>. <article-title>Co-occurring psychiatric conditions in autism
+spectrum disorder</article-title>. <source>Int Rev Psychiatry</source>
+<year>2018</year>;<volume>30</volume>:<fpage>40</fpage>-<lpage>61</lpage>. <pub-id pub-id-type="doi">10.1080/09540261.2018.1450229</pub-id> 
+<pub-id pub-id-type="pmid">29683351</pub-id>
+</mixed-citation></ref><ref id="ref37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Kentrou</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Oostervink</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Scheeren</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Begeer</surname><given-names>S</given-names></name>
+</person-group>. <article-title>Stability of co-occurring psychiatric diagnoses in
+autistic men and women</article-title>. <source>Res Autism Spectr Disord</source>
+<year>2021</year>;<volume>82</volume>:<elocation-id>101736</elocation-id>
+<pub-id pub-id-type="doi">10.1016/j.rasd.2021.101736</pub-id>.</mixed-citation></ref><ref id="ref38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name name-style="western"><surname>Martini</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Kuja-Halkola</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Butwicka</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>. <article-title>Sex differences in psychiatric diagnoses preceding
+autism diagnosis and their stability post autism diagnosis</article-title>.
+<source>J Child Psychol Psychiatry</source>
+<year>2025</year>;<volume>66</volume>:<fpage>1170</fpage>-<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1111/jcpp.14130</pub-id> 
+<pub-id pub-id-type="pmid">40017336</pub-id>
+<pub-id pub-id-type="pmcid">PMC12267683</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

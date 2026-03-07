@@ -1,0 +1,753 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="psp470168" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">CPT Pharmacometrics Syst Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">CPT Pharmacometrics Syst Pharmacol</journal-id><journal-id journal-id-type="pmc-domain-id">2038</journal-id><journal-id journal-id-type="pmc-domain">cptpsp</journal-id><journal-id journal-id-type="publisher-id">PSP4</journal-id><journal-title-group><journal-title>CPT: Pharmacometrics &amp; Systems Pharmacology</journal-title></journal-title-group><issn pub-type="epub">2163-8306</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12962400</article-id><article-id pub-id-type="pmcid-ver">PMC12962400.1</article-id><article-id pub-id-type="pmcaid">12962400</article-id><article-id pub-id-type="pmcaiid">12962400</article-id><article-id pub-id-type="pmid">41725328</article-id><article-id pub-id-type="doi">10.1002/psp4.70168</article-id><article-id pub-id-type="publisher-id">PSP470168</article-id><article-id pub-id-type="other">PSP-2025-0208</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Semi‐Physiological Population Pharmacokinetic Modeling of Oral and Intravenous Paracetamol to Quantify Presystemic Metabolism and Enterohepatic Recirculation</article-title></title-group><contrib-group><contrib id="psp470168-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Lau</surname><given-names initials="C">Cedric</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5062-9331</contrib-id><xref rid="psp470168-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="psp470168-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="psp470168-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>cedriclau.pharm@gmail.com</email></address></contrib><contrib id="psp470168-cr-0002" contrib-type="author"><name name-style="western"><surname>van Kesteren</surname><given-names initials="C">Charlotte</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9071-6421</contrib-id><xref rid="psp470168-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="psp470168-cr-0003" contrib-type="author"><name name-style="western"><surname>Smeenk</surname><given-names initials="RM">Robert M.</given-names></name><xref rid="psp470168-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="psp470168-cr-0004" contrib-type="author"><name name-style="western"><surname>Beex‐Oosterhuis</surname><given-names initials="MM">Marieke M.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3070-3626</contrib-id><xref rid="psp470168-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="psp470168-cr-0005" contrib-type="author"><name name-style="western"><surname>Koch</surname><given-names initials="BCP">Birgit C. P.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1202-3643</contrib-id><xref rid="psp470168-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="psp470168-cr-0006" contrib-type="author"><name name-style="western"><surname>Chan</surname><given-names initials="LN">Lingtak‐Neander</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5428-9685</contrib-id><xref rid="psp470168-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="psp470168-cr-0007" contrib-type="author"><name name-style="western"><surname>Lin</surname><given-names initials="YS">Yvonne S.</given-names></name><xref rid="psp470168-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="psp470168-cr-0008" contrib-type="author"><name name-style="western"><surname>van Rongen</surname><given-names initials="A">Anne</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1023-7514</contrib-id><xref rid="psp470168-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="psp470168-cr-0009" contrib-type="author"><name name-style="western"><surname>Knibbe</surname><given-names initials="CAJ">Catherijne A. J.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9893-4415</contrib-id><xref rid="psp470168-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="psp470168-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="psp470168-cr-0010" contrib-type="author"><name name-style="western"><surname>Huitema</surname><given-names initials="ADR">Alwin D. R.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1939-4639</contrib-id><xref rid="psp470168-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="psp470168-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="psp470168-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref></contrib><contrib id="psp470168-cr-0011" contrib-type="author"><name name-style="western"><surname>Huisman‐Siebinga</surname><given-names initials="H">Hinke</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7767-0393</contrib-id><xref rid="psp470168-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="psp470168-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Pharmacy</named-content>
+<institution>Albert Schweitzer Hospital</institution>
+<city>Dordrecht</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="psp470168-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pharmacy and Pharmacology</named-content>
+<institution>The Netherlands Cancer Institute</institution>
+<city>Amsterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="psp470168-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Pharmacy</named-content>
+<institution>University Medical Center Utrecht, Utrecht University</institution>
+<city>Utrecht</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="psp470168-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Surgery</named-content>
+<institution>Albert Schweitzer Hospital</institution>
+<city>Dordrecht</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="psp470168-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Erasmus MC University Medical Center</institution>
+<city>Rotterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="psp470168-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pharmacy</named-content>
+<institution>University of Washington</institution>
+<city>Seattle</city>
+<named-content content-type="country-part">Washington</named-content>
+<country country="US">USA</country>
+</aff><aff id="psp470168-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pharmaceutics</named-content>
+<institution>University of Washington</institution>
+<city>Seattle</city>
+<named-content content-type="country-part">Washington</named-content>
+<country country="US">USA</country>
+</aff><aff id="psp470168-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Division of Systems Pharmacology and Pharmacy</named-content>
+<institution>Leiden Academic Centre for Drug Research, Leiden University</institution>
+<city>Leiden</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="psp470168-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Pharmacy</named-content>
+<institution>St Antonius Hospital</institution>
+<city>Nieuwegein</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="psp470168-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pharmacology</named-content>
+<institution>Princess Máxima Center for Pediatric Oncology</institution>
+<city>Utrecht</city>
+<country country="NL">the Netherlands</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Cedric Lau (<email>cedriclau.pharm@gmail.com</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>2</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2026</year></pub-date><volume>15</volume><issue seq="560">3</issue><issue-id pub-id-type="pmc-issue-id">507934</issue-id><issue-id pub-id-type="doi">10.1002/psp4.v15.3</issue-id><elocation-id>e70168</elocation-id><history><date date-type="rev-recd"><day>23</day><month>11</month><year>2025</year></date><date date-type="received"><day>24</day><month>7</month><year>2025</year></date><date date-type="accepted"><day>25</day><month>11</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>22</day><month>02</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>06</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-06 13:25:12.710"><day>06</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">CPT: Pharmacometrics &amp; Systems Pharmacology</italic> published by Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology and Therapeutics.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="PSP4-15-e70168.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:PSP4-15-e70168.pdf"/><abstract><title>ABSTRACT</title><p>Paracetamol (PCM) is extensively metabolized in the liver via glucuronidation, sulfation, and oxidation. Although oral and intravenous PCM are commonly used interchangeably, a comprehensive evaluation of PCM metabolism across both routes is lacking. This study aimed to characterize the full pharmacokinetic (PK) profiles of PCM and its metabolites following oral and intravenous administration, accounting for presystemic and systemic metabolism. Concentrations of PCM, PCM‐glucuronide (PCM‐GLU), PCM‐sulfate (PCM‐SUL), PCM‐cysteine (PCM‐CYS), and PCM‐mercapturate (PCM‐MER) were pooled from three clinical studies, involving 53 adults with obesity and 16 adults without obesity (18–65 years, 53–198 kg). A semi‐physiological population PK model was developed with nonlinear mixed‐effects modeling, incorporating intestinal and liver compartments, and enterohepatic recirculation. A semi‐physiological PK model incorporating presystemic and systemic hepatic metabolism captured PK of PCM and PCM‐SUL following oral and intravenous administration. Intestinal oxidative metabolism for PCM‐CYS and PCM‐MER and enterohepatic recirculation for PCM‐GLU were added to capture their full PK profiles. The estimated fraction of PCM absorbed was 0.745 (95% CI 0.699–0.792), with extensive first‐pass metabolism and faster metabolite formation after oral than after intravenous administration. This semi‐physiological population PK model identified both hepatic and intestinal presystemic metabolism of PCM, as well as enterohepatic recirculation of PCM‐GLU. Oral administration of PCM results in faster metabolite formation than intravenous dosing, mainly for the oxidative metabolites. This modeling approach may support the quantification of presystemic and systemic metabolism, which can be relevant for oral and intravenous dosing of drugs metabolized by multiple pathways.</p></abstract><abstract abstract-type="highlights" id="PSP470168-abs-5001"><title>Study Highlights</title><p>
+<list list-type="bullet" id="psp470168-list-0001"><list-item id="psp470168-li-0001"><p>What is the current knowledge on the topic?
+<list list-type="simple" id="psp470168-list-0002"><list-item id="psp470168-li-0102"><label>○</label><p>Paracetamol (PCM) is extensively metabolized via glucuronidation, sulfation, and oxidation. Although its pharmacokinetics have been widely studied, a comprehensive evaluation of PCM metabolism following oral and intravenous administration is lacking.</p></list-item></list>
+</p></list-item><list-item id="psp470168-li-0003"><p>What question did this study address?
+<list list-type="simple" id="psp470168-list-0003"><list-item id="psp470168-li-0104"><label>○</label><p>How can the full pharmacokinetic profiles of PCM and its metabolites following oral and intravenous administration be quantitatively evaluated, with a focus on the contributions of presystemic and systemic metabolism?</p></list-item></list>
+</p></list-item><list-item id="psp470168-li-0005"><p>What does this study add to our knowledge?
+<list list-type="simple" id="psp470168-list-0004"><list-item id="psp470168-li-0106"><label>○</label><p>Following oral administration, the fraction absorbed was 74.5%, and PCM metabolism was faster than after intravenous administration, particularly for the oxidative pathway. Enterohepatic recirculation of PCM‐glucuronide was identified, influencing PCM and metabolite profiles, with a particular impact following oral administration.</p></list-item></list>
+</p></list-item><list-item id="psp470168-li-0007"><p>How might this change drug discovery, development, and/or therapeutics?
+<list list-type="simple" id="psp470168-list-0005"><list-item id="psp470168-li-0108"><label>○</label><p>This semi‐physiological population pharmacokinetic model of PCM identified relevant presystemic oxidative metabolism in the gut and enterohepatic recirculation of PCM‐glucuronide. Application of a semi‐physiological population pharmacokinetic modeling approach to drugs undergoing multiple pathways allows identifying novel information on both presystemic and systemic metabolism that can be used to optimize dosing after oral and intravenous administration.</p></list-item></list>
+</p></list-item></list>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="psp470168-kwd-0001">drug metabolism</kwd><kwd id="psp470168-kwd-0002">enterohepatic recirculation</kwd><kwd id="psp470168-kwd-0003">paracetamol</kwd><kwd id="psp470168-kwd-0004">pharmacometrics</kwd><kwd id="psp470168-kwd-0005">presystemic</kwd></kwd-group><counts><fig-count count="5"/><table-count count="2"/><page-count count="14"/><word-count count="8300"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:05.03.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="psp470168-body-0001"><sec id="psp470168-sec-0001"><label>1</label><title>Introduction</title><p>Paracetamol (acetaminophen, PCM) is a widely used analgesic and antipyretic drug. It is extensively metabolized in the liver, mainly via glucuronidation (55%), sulfation (30%), and oxidation by cytochrome P450 (CYP) enzymes (5%–10%) [<xref rid="psp470168-bib-0001" ref-type="bibr">1</xref>, <xref rid="psp470168-bib-0002" ref-type="bibr">2</xref>, <xref rid="psp470168-bib-0003" ref-type="bibr">3</xref>, <xref rid="psp470168-bib-0004" ref-type="bibr">4</xref>]. The oxidation pathway generates the toxic metabolite N‐acetyl‐p‐benzoquinone imine (NAPQI). Under normal conditions, this compound is detoxified by glutathione conjugation to form the harmless metabolites PCM‐cysteine (PCM‐CYS) and PCM‐mercapturate (PCM‐MER). When PCM is given at therapeutic doses, glutathione can sufficiently neutralize NAPQI. However, when glutathione is depleted (e.g., in cases of PCM overdose or malnutrition), this leads to increased accumulation of NAPQI, which can lead to liver failure.</p><p>PCM is rapidly absorbed after oral administration and undergoes first‐pass hepatic metabolism. Its pharmacokinetics have been extensively studied in diverse populations, including individuals with obesity [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>], pregnant women [<xref rid="psp470168-bib-0006" ref-type="bibr">6</xref>], neonates [<xref rid="psp470168-bib-0007" ref-type="bibr">7</xref>], and older adults [<xref rid="psp470168-bib-0008" ref-type="bibr">8</xref>]. Several factors, including genetic polymorphisms and hepatic enzyme activity, contribute to interindividual and interethnic variability [<xref rid="psp470168-bib-0004" ref-type="bibr">4</xref>]. Patient weight is an important driver for PCM metabolism. Patients with obesity (BMI ≥ 30 kg m<sup>−2</sup>) have higher hepatic blood flow and increased expression of CYP2E1—the enzyme involved in the oxidative metabolism of PCM and the formation of NAPQI [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>]. As a result of increased CYP2E1‐mediated oxidation, glucuronidation, and sulfation, patients with obesity have an increased PCM clearance, whereas they also have a higher volume of distribution (V<sub>d</sub>), leading to lower systemic PCM levels after standard dosing [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>, <xref rid="psp470168-bib-0009" ref-type="bibr">9</xref>]. In addition, patients with obesity show earlier and higher peak concentrations of PCM‐CYS and PCM‐MER after the first dose. Despite these changes, the relative contribution of each metabolic pathway remains comparable to that of individuals with normal weight [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>]. In support of additional factors influencing the PK of PCM and its metabolites, studies have suggested the presence of CYP2E1 in the intestines [<xref rid="psp470168-bib-0010" ref-type="bibr">10</xref>] and enterohepatic recirculation of PCM‐GLU in rats [<xref rid="psp470168-bib-0011" ref-type="bibr">11</xref>, <xref rid="psp470168-bib-0012" ref-type="bibr">12</xref>], where deglucuronidation of PCM‐GLU and subsequent reabsorption of PCM in the gut were observed. These observations highlight the complex interplay between physiological factors and PCM metabolism and underscore the importance of studying presystemic and systemic processes across different routes of administration.</p><p>Although a recent physiologically–based pharmacokinetic (PBPK) model studied PCM PK following both oral and intravenous administration, it did not account for metabolite formation [<xref rid="psp470168-bib-0013" ref-type="bibr">13</xref>]. Additionally, previous studies examined intravenous [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>] and oral [<xref rid="psp470168-bib-0009" ref-type="bibr">9</xref>] PCM metabolism separately. Hence, a comprehensive combined evaluation of PCM metabolism following oral and intravenous administration to study presystemic and systemic metabolism is lacking. Therefore, this study aims to study the PK of PCM and its metabolites after oral and intravenous administration in patients using a semi‐physiological population PK approach.</p></sec><sec sec-type="materials-and-methods" id="psp470168-sec-0002"><label>2</label><title>Materials and Methods</title><sec id="psp470168-sec-0003"><label>2.1</label><title>Study Design and Population</title><p>In this pooled study, data were obtained from three independent clinical studies on the PK of PCM and metabolites (see Table <xref rid="psp470168-tbl-0001" ref-type="table">1</xref>). Study 1 (PAPAYA Study) was a clinical trial conducted in the Netherlands, including patients with obesity planned to undergo a laparoscopic Roux‐en‐Y gastric bypass and healthy participants without obesity. Participants were excluded if they were pregnant, had liver disease, or had received PCM within 24 h prior to the study. Before participation, all participants provided written informed consent. This study was approved by the medical ethics committee of Erasmus Medical Center (NL70329.078.19) and the local scientific committee of Albert Schweitzer Hospital (2019–084). The study was conducted in accordance with the principles of the Declaration of Helsinki and the Medical Research Involving Human Subjects Act (WMO) of the Netherlands. All included patients and healthy participants received 1000 mg of oral PCM (2 tablets of 500 mg from Teva, dispersed in 50–100 mL water prior to administration). Blood was drawn pre‐dose and at 0.25, 0.5, 1, 2, 3, 4, 6, and 24 h following administration of PCM. Blood samples for PCM and metabolite analyses were collected in sodium EDTA tubes and centrifuged at 3000 g for 10 min. Plasma was stored at −80°C until analysis. Blood samples for liver function tests were collected in lithium heparin tubes before PCM administration, after 6 h, and after 24 h. For this PK analysis, only results from patients with obesity before surgery and healthy participants without obesity were included.</p><table-wrap position="float" id="psp470168-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Overview of included patients' datasets, including two previously published studies (Studies 2 and 3).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Study</th><th align="center" colspan="2" valign="bottom" rowspan="1">1</th><th align="center" valign="bottom" rowspan="1" colspan="1">2 [<xref rid="psp470168-bib-0009" ref-type="bibr">9</xref>]</th><th align="center" colspan="2" valign="bottom" rowspan="1">3 [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>]</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Route of administration</td><td align="center" colspan="2" valign="top" rowspan="1">Oral suspension</td><td align="center" valign="top" rowspan="1" colspan="1">Oral liquid</td><td align="center" colspan="2" valign="top" rowspan="1">Intravenous</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Obesity</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">No</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">N</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">22</td><td align="center" valign="top" rowspan="1" colspan="1">11</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" valign="top" rowspan="1" colspan="1">20</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Dose administered (mg)</td><td align="center" colspan="2" valign="top" rowspan="1">1000</td><td align="center" valign="top" rowspan="1" colspan="1">1500</td><td align="center" colspan="2" valign="top" rowspan="1">2000, after 8 h standard dosing 1000 QID</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sampling time points (min or h)</td><td align="center" colspan="2" valign="top" rowspan="1">0, 15, 30 min, 1, 2, 3, 4, 6, 24 h</td><td align="center" valign="top" rowspan="1" colspan="1">0, 10, 20, 30, 40, 50 min, 1, 1.25, 1.5, 2, 3, 4, 6, 12, 19 h</td><td align="center" colspan="2" valign="top" rowspan="1">0, 2.5, 7.5, 15, 30, 45 min, 1, 1.5, 2, 2.5, 3, 4, 5, 6, 8, 24 h</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Samples per ID</td><td align="center" valign="top" rowspan="1" colspan="1">8.0 (7–8)</td><td align="center" valign="top" rowspan="1" colspan="1">8.0 (7–8)</td><td align="center" valign="top" rowspan="1" colspan="1">14.0 (13–14)</td><td align="center" valign="top" rowspan="1" colspan="1">14.5 (12–15)</td><td align="center" valign="top" rowspan="1" colspan="1">14.5 (13–15)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (years)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>41</p>
+<p>(27–61)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>49</p>
+<p>(21–65)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>41</p>
+<p>(37–55)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>41</p>
+<p>(18–50)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>42</p>
+<p>(22–58)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Female (<italic toggle="yes">n</italic>, %)</td><td align="center" valign="top" rowspan="1" colspan="1">6 (75%)</td><td align="center" valign="top" rowspan="1" colspan="1">15 (68%)</td><td align="center" valign="top" rowspan="1" colspan="1">9 (82%)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (50%)</td><td align="center" valign="top" rowspan="1" colspan="1">15 (75%)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Total body weight (kg)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>77</p>
+<p>(65–85)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>125</p>
+<p>(94–183)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>143</p>
+<p>(98–198)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>70</p>
+<p>(53–92)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>140</p>
+<p>(106–193)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LBW (kg)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>47</p>
+<p>(42–65)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>59</p>
+<p>(51–93)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>61</p>
+<p>(60–99)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>51</p>
+<p>(36–68)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>65</p>
+<p>(51–96)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BMI (kg, m<sup>−2</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>26.7</p>
+<p>(20.9–30.3)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>41.1</p>
+<p>(34.3–53.5)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>50.8</p>
+<p>(37.1–77.5)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>21.9</p>
+<p>(19.4–27.4)</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>45.1</p>
+<p>(40.0–55.2)</p>
+</td></tr></tbody></table><table-wrap-foot id="psp470168-ntgp-0001"><fn id="psp470168-note-0001"><p>
+<italic toggle="yes">Note:</italic> Values are provided with median (range) unless stated otherwise.</p></fn><fn id="psp470168-note-0002"><p>Abbreviations: BMI = body mass index, ID = individual, LBW = lean body weight, <italic toggle="yes">N</italic> = number, QID = four times daily.</p></fn></table-wrap-foot></table-wrap><p>Study 2 was previously conducted in patients with obesity who were scheduled to undergo laparoscopic Roux‐en‐Y gastric bypass in the United States [<xref rid="psp470168-bib-0009" ref-type="bibr">9</xref>]. All patients received a single dose of 1500 mg oral PCM. For this PK analysis, only results from patients before surgery were included.</p><p>Study 3 was a previously published study performed in the Netherlands, including patients with obesity planned to undergo a bariatric surgical procedure (laparoscopic Roux‐en‐Y gastric bypass or gastric sleeve) and patients without obesity undergoing oral and maxillofacial surgery [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>]. All patients received 2000 mg of intravenous PCM just prior to the surgery. After 8 h, patients could receive PCM according to the standard postoperative pain protocol. Consequently, data from Study 3 included samples obtained after multiple doses of intravenous PCM. Detailed study designs and patient characteristics for Study 2 and Study 3 have been described previously [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>, <xref rid="psp470168-bib-0009" ref-type="bibr">9</xref>].</p></sec><sec id="psp470168-sec-0004"><label>2.2</label><title>Drug Assays</title><p>PCM, PCM‐GLU, PCM‐SUL, PCM‐CYS, and PCM‐MER were measured using high‐performance liquid chromatography coupled with mass spectrometry (LC–MS/MS). The analytical details of Study 1 were previously described by Flint et al. [<xref rid="psp470168-bib-0014" ref-type="bibr">14</xref>], and those of Study 2 were described by Chen et al. [<xref rid="psp470168-bib-0009" ref-type="bibr">9</xref>], and of Study 3 by Van Rongen et al. [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>].</p></sec><sec id="psp470168-sec-0005"><label>2.3</label><title>Population Pharmacokinetic Model Development</title><sec id="psp470168-sec-0006"><label>2.3.1</label><title>Structural Model Development</title><p>The starting point for model development was the previously published model on the basis of intravenous PCM data from Study 3 [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>]. In short, this model consisted of a one‐compartment model for PCM and PCM‐GLU, a combined one‐compartment model for PCM‐CYS and PCM‐MER, and a two‐compartment model for PCM‐SUL, with linear eliminations for all metabolites. To incorporate oral data and account for potential route‐specific differences in PK, the model was extended in three steps.</p><p>As a first step, an oral depot compartment with first‐order absorption was added to allow estimation of the fraction absorbed (F<sub>a</sub>) and the absorption rate constant (k<sub>a</sub>). All other structural features and model assumptions were retained from the original intravenous model [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>].</p><p>In the second step, it was assessed whether presystemic metabolism accounts for differences in metabolite profiles following oral and intravenous administration. For this step, a semi‐physiological model was implemented on the basis of Brill et al. [<xref rid="psp470168-bib-0015" ref-type="bibr">15</xref>], incorporating gut wall, portal vein, and liver compartments. Hepatic metabolism was parameterized using the well‐stirred liver model, where the hepatic extraction ratio (E<sub>H</sub>) was estimated by the parameters intrinsic hepatic clearance (CL<sub>H,int</sub>) and liver blood flow (Q<sub>H</sub>). Intestinal metabolism was modeled by estimating the gut wall extraction ratio (E<sub>G</sub>), incorporating villous blood flow (Q<sub>villi</sub>) and permeability clearance through the enterocytes in the gut wall (CL<sub>perm</sub>) [<xref rid="psp470168-bib-0016" ref-type="bibr">16</xref>]. The intrinsic intestinal clearance (CL<sub>G,int</sub>) was estimated as a fraction of CL<sub>H,int</sub>. Drug‐specific parameters such as fraction unbound and CL<sub>perm</sub> were obtained from the literature [<xref rid="psp470168-bib-0017" ref-type="bibr">17</xref>, <xref rid="psp470168-bib-0018" ref-type="bibr">18</xref>] and implemented in this semi‐physiological model. The previously assumed fraction of PCM cleared unchanged [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>] was excluded from this model because of its minimal contribution to total clearance. Full details about the drug‐ and system‐specific parameters and semi‐physiological equations can be found in Table <xref rid="psp470168-supitem-0001" ref-type="supplementary-material">S1</xref>.</p><p>In the third step, the inclusion of enterohepatic recirculation of PCM‐GLU was evaluated to explain potential differences in PCM and PCM‐GLU concentrations following oral and intravenous administration. A gallbladder compartment was incorporated on the basis of a modified version of the model described by De Winter et al. [<xref rid="psp470168-bib-0019" ref-type="bibr">19</xref>]. In this model, PCM‐GLU entered into the gallbladder. The gallbladder emptied at a periodic interval of 3 h, releasing PCM back to the gut wall via a first‐order reabsorption process. Release times of pulsated gall release were allowed to vary across the datasets, reflecting different fasting states (fasted in Studies 2 and 3 and no restrictions of fasting in Study 1). This model assumed that all participants had an intact gallbladder and biliary system.</p><p>Body size metrics, that is, total body weight or lean body weight (LBW), were initially retained from the original model of van Rongen et al. [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>] and re‐evaluated in later phases of model development. To integrate these covariates into a model incorporating presystemic metabolism, the original LBW covariates previously applied to plasma clearances [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>] were transformed to LBW covariates on CL<sub>H,int</sub>. LBW was calculated as described by Janmahasatian et al. [<xref rid="psp470168-bib-0020" ref-type="bibr">20</xref>].</p></sec><sec id="psp470168-sec-0007"><label>2.3.2</label><title>Stochastic Model Development</title><p>Interindividual variability (IIV) was modeled using an exponential distribution, as shown in Equation (<xref rid="psp470168-disp-0001" ref-type="disp-formula">1</xref>):<disp-formula id="psp470168-disp-0001">
+<label>(1)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo linebreak="goodbreak">=</mml:mo><mml:msub><mml:mi>p</mml:mi><mml:mi mathvariant="italic">pop</mml:mi></mml:msub><mml:mo>·</mml:mo><mml:msup><mml:mi>e</mml:mi><mml:msub><mml:mi>η</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:msup></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-2" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:mrow></mml:math> represents the individual parameter estimate, <italic toggle="yes">p</italic>
+<sub>
+<italic toggle="yes">pop</italic>
+</sub> is the typical population parameter estimate, and <italic toggle="yes">η</italic>
+<sub>
+<italic toggle="yes">i</italic>
+</sub> denotes the IIV with a mean of zero and variance of ω<sup>2</sup>.</p><p>Residual variability was implemented as a combined proportional and additive error for PCM, PCM‐GLU, and PCM‐SUL, as shown in Equation (<xref rid="psp470168-disp-0002" ref-type="disp-formula">2</xref>):<disp-formula id="psp470168-disp-0002">
+<label>(2)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-3" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mrow><mml:mi mathvariant="italic">obs</mml:mi><mml:mo>,</mml:mo><mml:mi mathvariant="italic">ij</mml:mi></mml:mrow></mml:msub><mml:mo linebreak="goodbreak">=</mml:mo><mml:msub><mml:mi>C</mml:mi><mml:mrow><mml:mtext mathvariant="italic">pred</mml:mtext><mml:mo>,</mml:mo><mml:mi mathvariant="italic">ij</mml:mi></mml:mrow></mml:msub><mml:mo>·</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:mn>1</mml:mn><mml:mo linebreak="goodbreak">+</mml:mo><mml:msub><mml:mi>ε</mml:mi><mml:mrow><mml:mi>p</mml:mi><mml:mo>,</mml:mo><mml:mi mathvariant="italic">ij</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfenced><mml:mo linebreak="goodbreak">+</mml:mo><mml:msub><mml:mi>ε</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mo>,</mml:mo><mml:mi mathvariant="italic">ij</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where <italic toggle="yes">C</italic>
+<sub>
+<italic toggle="yes">obs,ij</italic>
+</sub> is the observed concentration, <italic toggle="yes">C</italic>
+<sub>
+<italic toggle="yes">pred,ij</italic>
+</sub> is the predicted concentration, and where both proportional error <italic toggle="yes">ε</italic>
+<sub>
+<italic toggle="yes">p,ij</italic>
+</sub> and additive error <italic toggle="yes">ε</italic>
+<sub>
+<italic toggle="yes">a,ij</italic>
+</sub> have a mean of zero and a variance of <italic toggle="yes">σ</italic>
+<sup>
+<italic toggle="yes">2</italic>
+</sup>. To account for potential differences in the distribution of residual errors, separate error components were estimated for each study. For PCM‐CYS &amp; PCM‐MER, a proportional error model was implemented for Studies 1 and 3, whereas an additive model was implemented for Study 2.</p></sec><sec id="psp470168-sec-0008"><label>2.3.3</label><title>Model Selection and Evaluation</title><p>Discrimination between models was guided by the precision of parameter estimates, shrinkages of omega and sigma (&lt; 30%), a drop in objective function value (OFV, equal to minus two times log likelihood) with significance levels of <italic toggle="yes">p</italic> &lt; 0.01 (decrease in OFV [dOFV] &gt; 6.64) for hierarchical models, and parameter plausibility. Backward elimination was used to test whether a covariate could be left out (<italic toggle="yes">p</italic> &lt; 0.01 or dOFV &gt; 6.64). Goodness‐of‐fit (GOF) plots were stratified for route of administration (oral versus intravenous), study, and obesity status. To obtain parameter precision, sampling importance resampling (SIR) was used [<xref rid="psp470168-bib-0021" ref-type="bibr">21</xref>]. Internal model evaluation was further supported by stratified GOF plots and normalized prediction distribution error (NPDE) plots.</p></sec></sec><sec id="psp470168-sec-0009"><label>2.4</label><title>Simulations</title><p>To illustrate the differences in PCM and metabolite profiles between oral and intravenous administration, simulations were performed with the final semi‐physiological population PK model. Concentration‐time curves at steady state (1000 mg four times daily) were simulated following both oral and intravenous administration in patients with and without obesity. Curves of four typical patients from the dataset of Study 1 were simulated, that is, those with total body weights of 60 kg, 92 kg, 120 kg, and 150 kg. The 60 kg and 92 kg patients represent the lower and higher interquartile ranges of patients without obesity, whereas the 120 kg and 150 kg patients represent lower and higher weights than the median of patients with obesity. To illustrate potential differences between oral and intravenous administration, metabolite‐to‐parent area under the curve (AUC) ratios were compared.</p></sec><sec id="psp470168-sec-0010"><label>2.5</label><title>Software and Settings</title><p>Population PK modeling was performed with NONMEM version 7.5 software (Icon Development Solutions, Hanover, MD, USA), applying the stochastic approximation expectation maximization with importance sampling (SAEM‐IMP) calculation method for parameter estimation. For model evaluation and data visualization, Pirana version 2.9.9 [<xref rid="psp470168-bib-0022" ref-type="bibr">22</xref>] and R version 4.0.5 (R Foundation for Statistical Computing, Vienna, Austria) were used. Dosing records and plasma concentrations were expressed in micromoles per liter, correcting for the differences in molecular weights between PCM (151.16 g mol<sup>−1</sup>), PCM‐GLU (327.29 g mol<sup>−1</sup>), PCM‐SUL (231.23 g mol<sup>−1</sup>), PCM‐CYS (270.30 g mol<sup>−1</sup>), and PCM‐MER (312.24 g mol<sup>−1</sup>) [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>]. In contrast to the original mode by Van Rongen et al. [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>], which used logarithmic data, this analysis used linear‐scale data. All concentrations below the lower limit of quantification (LLOQ) were removed from the dataset, as was previously described by Van Rongen et al. [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>]. In addition to the data points excluded in the study by Van Rongen et al. [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>], additional data points were removed from the datasets because of concentrations falling below the LLOQ [<xref rid="psp470168-bib-0023" ref-type="bibr">23</xref>]: 1 for PCM (0.1%), 5 for PCM‐GLU (0.7%), 3 for PCM‐SUL (0.4%), and 91 for PCM‐CYS &amp; PCM‐MER (10.9%). Simulations were performed in NONMEM.</p></sec></sec><sec sec-type="results" id="psp470168-sec-0011"><label>3</label><title>Results</title><sec id="psp470168-sec-0012"><label>3.1</label><title>Patients and Data</title><p>Patient characteristics are summarized in Table <xref rid="psp470168-tbl-0001" ref-type="table">1</xref>. In total, 69 participants were included: 28 received PCM intravenously, and 41 received PCM orally. Notably, patients from Study 2 had comparable LBW and total body weight to those in the other studies but had a higher BMI.</p><p>Concentration‐time profiles of PCM and all metabolites are shown in Figure <xref rid="psp470168-fig-0001" ref-type="fig">1</xref>. From all observations, 13 individuals displayed double peaks in PCM concentration—9 after oral and 4 after intravenous administration—suggesting potential involvement of enterohepatic recirculation. In total, 782 PCM observations, 784 PCM‐GLU observations, 783 PCM‐SUL observations, and 766 PCM‐CYS and PCM‐MER observations were available for analysis.</p><fig position="float" fig-type="FIGURE" id="psp470168-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Observations of PCM and metabolites PCM‐GLU, PCM‐SUL, PCM‐CYS, and PCM‐MER from the three studies. Observations of Study 3 after multiple dosing were left out in this plot for better visual comparison with Study 1 and 2. The plots are stratified by compound, study, and obesity status. PCM = paracetamol, PCM‐CYS + PCM‐MER = combined PCM‐mercapturate and PCM‐cysteine, PCM‐GLU = PCM‐glucuronide, PCM‐SUL = PCM‐sulfate.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="PSP4-15-e70168-g004.jpg"/></fig></sec><sec id="psp470168-sec-0013"><label>3.2</label><title>Population Pharmacokinetic Model</title><sec id="psp470168-sec-0014"><label>3.2.1</label><title>Model Development</title><p>The previously published compartmental model for intravenous PCM and metabolites [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>] extended with an oral depot compartment, was first applied to the entire dataset to assess its predictive performance. This initial model showed that the formation of metabolites was faster following oral administration compared to intravenous dosing, most distinctively for PCM‐CYS and PCM‐MER. The NPDE plot shows that PCM concentrations were overpredicted, whereas metabolites were underpredicted following oral administration (example in Figure <xref rid="psp470168-supitem-0002" ref-type="supplementary-material">S1</xref>). This discrepancy suggested a substantial role for presystemic metabolism.</p><p>To address presystemic metabolism, hepatic and intestinal clearance were incorporated as a second step in model development. The addition of the well‐stirred liver model alone—reparameterized into Q<sub>H</sub> and CL<sub>H,int</sub>—improved model predictions for PCM and its PCM‐GLU and PCM‐SUL metabolites (data not shown), but showed considerable misfit for PCM‐CYS and PCM‐MER during the first 2 h after administration. Therefore, intestinal oxidative metabolism was also included in the model, which further improved the model fit, particularly for PCM‐CYS and PCM‐MER in the first 2 h following oral dosing (Figure <xref rid="psp470168-supitem-0002" ref-type="supplementary-material">S2</xref>). The ratio of CL<sub>G,int</sub> to CL<sub>H,int</sub> was 0.00474 (95% CI 0.0032–0.0069) in our study, which was comparable to previous findings in patients receiving midazolam, where this ratio was 0.0012 [<xref rid="psp470168-bib-0015" ref-type="bibr">15</xref>]. Unfortunately, no data about CL<sub>G,int</sub> of CYP2E1‐mediated metabolism are available. On the basis of mRNA and protein levels in different parts of the intestinal parts of humans [<xref rid="psp470168-bib-0010" ref-type="bibr">10</xref>, <xref rid="psp470168-bib-0024" ref-type="bibr">24</xref>, <xref rid="psp470168-bib-0025" ref-type="bibr">25</xref>], the low ratio of CL<sub>G,int</sub> to CL<sub>H,int</sub> was expected. Nonetheless, visual inspection of the NPDE plots suggested that the metabolite formation patterns still differed between oral and intravenous administration. Compared to intravenous dosing, oral dosing resulted in earlier conversions to PCM‐CYS and PCM‐MER and reduced conversion to PCM‐GLU in the first 2 h after administration.</p><p>In the third model development step, enterohepatic recirculation of PCM‐GLU was incorporated to address the misspecification in the PCM and PCM‐GLU profiles, particularly for Study 1. Several secondary peaks in PCM concentrations were observed between 3 and 6 h after oral dosing. Implementation of enterohepatic recirculation of PCM‐GLU into the model strongly improved the fit for PCM and PCM‐GLU profiles (dOFV −143). In Study 1, where participants had no restrictions for fasting, gallbladder emptying was included at 1 h post‐dose and every 3 h subsequently. In contrast, emptying was delayed to 8 h post‐dose in Study 2 and to 6 h in Study 3, followed by 3‐h emptying intervals in both Studies 2 and 3. These differences are consistent with known physiological effects of fasting and food intake on gallbladder motility [<xref rid="psp470168-bib-0026" ref-type="bibr">26</xref>, <xref rid="psp470168-bib-0027" ref-type="bibr">27</xref>]. The gallbladder emptying times were fixed to the indicated values with a fixed IIV of 131% derived from the model of de Winter et al. [<xref rid="psp470168-bib-0019" ref-type="bibr">19</xref>] to avoid estimation problems, most likely because of overparameterization. The fraction of PCM‐GLU routed into the gallbladder was fixed at 0.1, representing 10% of the total PCM‐GLU formed. A sensitivity analysis was conducted, and no improvement of model fit was observed with alternative fractions eliminated via the gallbladder.</p><p>Despite taking into account the dose differences, patients in Study 2 consistently showed higher PCM‐CYS and PCM‐MER concentrations and slower elimination of metabolites than those in Study 1. Other body size metrics (i.e., BMI and total body weight) were tested to address these differences, but did not improve the model. To account for the differences between these oral datasets, study‐specific effects were added on: elimination clearance of PCM‐GLU (dOFV −51.0), PCM‐SUL (dOFV −40.9), and both the elimination clearance and CL<sub>H,int</sub> of PCM‐CYS and MER (combined dOFV −40.9). The addition of study‐specific covariates on F<sub>a</sub> and k<sub>a</sub> did not improve the model, on the basis of OFV and GOF plots.</p><p>The final structural model is shown in Figure <xref rid="psp470168-fig-0002" ref-type="fig">2</xref>, incorporating gut wall, portal vein, and liver compartments, and enterohepatic recirculation. The drug‐ and system‐specific parameters, along with the model equations, are shown in Table <xref rid="psp470168-supitem-0001" ref-type="supplementary-material">S1</xref>. The corresponding model code can be found in Material <xref rid="psp470168-supitem-0003" ref-type="supplementary-material">S3</xref>. Table <xref rid="psp470168-tbl-0002" ref-type="table">2</xref> shows the parameter estimates of the final model. F<sub>a</sub> was estimated at 0.745 (95% CI 0.699–0.792), and the fraction escaping gut metabolism (F<sub>G</sub>) can be derived from Q<sub>gut</sub>/(Q<sub>gut</sub> + CL<sub>G,int</sub> × f<sub>UG</sub>). For illustration, F<sub>G</sub> can be calculated at 0.9995 for a male individual weighing 60 kg (LBW 40.8 kg) and 0.9992 for a male individual weighing 120 kg (LBW 71.5 kg). The overall bioavailability (F) is the product of F<sub>a</sub>, F<sub>g</sub>, and fraction escaping hepatic metabolism (F<sub>H</sub>): F = F<sub>a</sub>·F<sub>G</sub>·F<sub>H</sub> (Table <xref rid="psp470168-supitem-0001" ref-type="supplementary-material">S1</xref>). Furthermore, k<sub>a</sub> was 0.0531 h<sup>−1</sup> (95% CI 0.0415–0.0667), and V<sub>d</sub> of PCM was 53.7 L (95% CI 50.2–57.0) for an individual with LBW 65.2 kg. The population CL<sub>H,int</sub> followed the expected hierarchy in metabolic routes, with glucuronidation being the most predominant pathway (CL<sub>H GLU</sub> 0.300 L min<sup>−1</sup> [95% CI 0.278–0.327] for an individual with LBW 65.2 kg), followed by sulfation (CL<sub>H SUL</sub> 0.0667 L min<sup>−1</sup> [95% CI 0.0608–0.0725] for an individual with LBW 65.2 kg), and oxidation (CL<sub>H CYS</sub> 0.0417 L min<sup>−1</sup> [95% CI 0.0359–0.0486] for an individual with LBW 65.2 kg). The following covariates were identified to have a significant effect on PK parameters: LBW on V<sub>d</sub> of PCM (dOFV −66.7), LBW on CL<sub>H GLU</sub> (dOFV −45.4) and on CL<sub>H CYS</sub> (dOFV −67.3), LBW on elimination clearance of PCM‐GLU (dOFV −36.9), and total body weight on V<sub>d</sub> of PCM‐GLU (dOFV −54.4). We did not find a statistically significant effect of LBW on transit rate constant (k<sub>tr</sub>) nor on CL<sub>H,int</sub> of PCM to PCM‐SUL, as was previously identified in Study 3 [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>].</p><fig position="float" fig-type="FIGURE" id="psp470168-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Structure of the final semi‐physiological population PK model of PCM and its metabolites. Compartments with observations are depicted in gray with bold font type. CL<sub>E CYS</sub> = elimination clearance of PCM‐cysteine and PCM‐mercapturate, CL<sub>E GLU</sub> = elimination clearance of PCM‐glucuronide, CL<sub>E SUL</sub> = elimination clearance of PCM‐sulfate, CL<sub>H</sub> = hepatic clearance, CL<sub>H,int</sub> = intrinsic hepatic clearance, E<sub>G</sub> = intestinal extraction ratio (1‐ F<sub>G</sub>), E<sub>H</sub> = hepatic extraction ratio (1‐ F<sub>H</sub>), F = oral bioavailability, F<sub>a</sub> = fraction absorbed, F<sub>G</sub> = fraction escaping gut metabolism, F<sub>GB</sub> = fraction into the gallbladder, F<sub>H</sub> = fraction escaping hepatic metabolism, f<sub>UB</sub> = fraction unbound in blood, f<sub>UG</sub> = fraction unbound in the gut wall, IV = intravenous, k<sub>a</sub> = absorption constant, k<sub>GG</sub> = transfer rate between gallbladder and reuptake compartment of gut upon gallbladder emptying, PCM = paracetamol, PCM‐CYS = combined PCM‐mercapturate &amp; PCM‐cysteine, PCM‐GLU = PCM‐glucuronide, PCM‐SUL = PCM‐sulfate, PK = pharmacokinetic, Q = intercompartmental clearance, Q<sub>gut</sub> = gut blood flow, Q<sub>H</sub> = liver blood flow, Q<sub>HA</sub> = blood flow through liver artery, Q<sub>PV</sub> = blood flow in portal vein, Q<sub>villi</sub> = blood flow in mucous villi. Equations of system‐related parameters are described in Table <xref rid="psp470168-supitem-0001" ref-type="supplementary-material">S1</xref>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="PSP4-15-e70168-g002.jpg"/></fig><table-wrap position="float" id="psp470168-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Overview of parameter estimates of the final semi‐physiological population PK model.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Population parameter (unit)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Estimate</th><th align="center" valign="bottom" rowspan="1" colspan="1">Standard error (RSE, %)<xref rid="psp470168-note-0005" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">95% CI<xref rid="psp470168-note-0005" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="4" valign="top" rowspan="1">V<sub>PCM</sub> = V<sub>PCM,LBW 65.2 kg</sub>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-4" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:msup><mml:mfenced close=")" open="("><mml:mfrac><mml:mi mathvariant="italic">LBW</mml:mi><mml:mn>65.2</mml:mn></mml:mfrac></mml:mfenced><mml:mi>N</mml:mi></mml:msup></mml:mrow></mml:mrow></mml:math>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">V<sub>PCM,LBW 65.2 kg</sub> (L)</td><td align="center" valign="top" rowspan="1" colspan="1">53.7</td><td align="center" valign="top" rowspan="1" colspan="1">1.8 (3.2)</td><td align="center" valign="top" rowspan="1" colspan="1">50.2–57.0</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">N</td><td align="center" valign="top" rowspan="1" colspan="1">1.00</td><td align="center" valign="top" rowspan="1" colspan="1">0.14 (14.2)</td><td align="center" valign="top" rowspan="1" colspan="1">0.73–1.28</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">k<sub>a</sub> (min<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0531</td><td align="center" valign="top" rowspan="1" colspan="1">0.0065 (12.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0415–0.0667</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">F<sub>a</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.745</td><td align="center" valign="top" rowspan="1" colspan="1">0.024 (3.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0.699–0.792</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">CL<sub>H GLU</sub> = CL<sub>H GLU, LBW 65.2 kg</sub>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-5" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:msup><mml:mfenced close=")" open="("><mml:mfrac><mml:mi mathvariant="italic">LBW</mml:mi><mml:mn>65.2</mml:mn></mml:mfrac></mml:mfenced><mml:mi>O</mml:mi></mml:msup></mml:mrow></mml:mrow></mml:math>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CL<sub>H GLU,LBW 65.2 kg</sub> (L·min<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.300</td><td align="center" valign="top" rowspan="1" colspan="1">0.013 (4.2)</td><td align="center" valign="top" rowspan="1" colspan="1">0.278–0.327</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">O</td><td align="center" valign="top" rowspan="1" colspan="1">0.888</td><td align="center" valign="top" rowspan="1" colspan="1">0.144 (16.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0.61–1.18</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CL<sub>H SUL, LBW 65.2 kg</sub> (L·min<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0667</td><td align="center" valign="top" rowspan="1" colspan="1">0.0030 (4.4)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0608–0.0725</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">CL<sub>H CYS</sub> = CL<sub>H CYS, LBW 65.2 kg</sub>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-6" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:msup><mml:mfenced close=")" open="("><mml:mfrac><mml:mi mathvariant="italic">LBW</mml:mi><mml:mn>65.2</mml:mn></mml:mfrac></mml:mfenced><mml:mi>P</mml:mi></mml:msup></mml:mrow></mml:mrow></mml:math>·<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-7" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:msup><mml:mi>R</mml:mi><mml:mrow><mml:mtext mathvariant="italic">Study</mml:mtext><mml:mspace width="0.25em"/><mml:mn>2</mml:mn><mml:mspace width="0.25em"/><mml:mfenced close=")" open="("><mml:mrow><mml:mtext mathvariant="italic">Chen</mml:mtext><mml:mspace width="0.25em"/><mml:mi mathvariant="italic">et</mml:mi><mml:mspace width="0.25em"/><mml:mi mathvariant="italic">al</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:mfenced></mml:mrow></mml:msup></mml:mrow></mml:mrow></mml:math>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CL<sub>H CYS, LBW 65.2 kg</sub> (L·min<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0417</td><td align="center" valign="top" rowspan="1" colspan="1">0.0033 (7.9)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0359–0.0486</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">P</td><td align="center" valign="top" rowspan="1" colspan="1">1.36</td><td align="center" valign="top" rowspan="1" colspan="1">0.23 (16.9)</td><td align="center" valign="top" rowspan="1" colspan="1">0.94–1.82</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">R</td><td align="center" valign="top" rowspan="1" colspan="1">1.94</td><td align="center" valign="top" rowspan="1" colspan="1">0.25 (13.0)</td><td align="center" valign="top" rowspan="1" colspan="1">1.50–2.48</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Fraction unbound in blood (f<sub>UB</sub>) [<xref rid="psp470168-bib-0017" ref-type="bibr">17</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">0.855 fixed</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Fraction CL<sub>G,int</sub>
+<xref rid="psp470168-note-0004" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.00474</td><td align="center" valign="top" rowspan="1" colspan="1">0.00098 (20.7)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0032–0.0069</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CL<sub>perm</sub> (L min<sup>−1</sup>) on the basis of P<sub>app</sub> × A with P<sub>app</sub> 31.6 × 10<sup>−6</sup> cm s<sup>−1</sup> [<xref rid="psp470168-bib-0018" ref-type="bibr">18</xref>] and A of 200 m<sup>2</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">3.79 fixed</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">V<sub>PCM‐GLU</sub> = V<sub>PCM‐GLU, TBW 130.9 kg</sub>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-8" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:msup><mml:mfenced close=")" open="("><mml:mfrac><mml:mi mathvariant="italic">TBW</mml:mi><mml:mn>130.9</mml:mn></mml:mfrac></mml:mfenced><mml:mi>S</mml:mi></mml:msup></mml:mrow></mml:mrow></mml:math>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">V<sub>PCM‐GLU, TBW 130.9 kg</sub> (L)</td><td align="center" valign="top" rowspan="1" colspan="1">26.8</td><td align="center" valign="top" rowspan="1" colspan="1">1.15 (4.3)</td><td align="center" valign="top" rowspan="1" colspan="1">24.6–29.1</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">S</td><td align="center" valign="top" rowspan="1" colspan="1">0.485</td><td align="center" valign="top" rowspan="1" colspan="1">0.088 (18.1)</td><td align="center" valign="top" rowspan="1" colspan="1">0.301–0.646</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">V<sub>PCM‐SUL, central</sub> = V<sub>PCM,peripheral</sub> (L) on the basis of Van Rongen et al. [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">5.66 fixed</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">V<sub>PCM‐CYS/MER</sub> (L) on the basis of Van Rongen et al. [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">15.6 fixed</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Q (L, min<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.695</td><td align="center" valign="top" rowspan="1" colspan="1">0.156 (22.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0.472–1.11</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">CL<sub>E GLU</sub> = CL<sub>E GLU, LBW 65.2 kg ×</sub>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-9" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:msup><mml:mfenced close=")" open="("><mml:mfrac><mml:mi mathvariant="italic">LBW</mml:mi><mml:mn>65.2</mml:mn></mml:mfrac></mml:mfenced><mml:mi>T</mml:mi></mml:msup></mml:mrow></mml:mrow></mml:math>
+<sub>×</sub>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-10" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:msup><mml:mi>U</mml:mi><mml:mrow><mml:mtext mathvariant="italic">Study</mml:mtext><mml:mspace width="0.25em"/><mml:mn>2</mml:mn><mml:mspace width="0.25em"/><mml:mfenced close=")" open="("><mml:mrow><mml:mtext mathvariant="italic">Chen</mml:mtext><mml:mspace width="0.25em"/><mml:mi mathvariant="italic">et</mml:mi><mml:mspace width="0.25em"/><mml:mi mathvariant="italic">al</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:mfenced></mml:mrow></mml:msup></mml:mrow></mml:mrow></mml:math>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CL<sub>E GLU</sub> (L·min<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.193</td><td align="center" valign="top" rowspan="1" colspan="1">0.0069 (3.6)</td><td align="center" valign="top" rowspan="1" colspan="1">0.181–0.208</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">T</td><td align="center" valign="top" rowspan="1" colspan="1">0.537</td><td align="center" valign="top" rowspan="1" colspan="1">0.123 (23.0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.287–0.791</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">U</td><td align="center" valign="top" rowspan="1" colspan="1">0.650</td><td align="center" valign="top" rowspan="1" colspan="1">0.057 (8.8)</td><td align="center" valign="top" rowspan="1" colspan="1">0.555–0.780</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">CL<sub>E SUL</sub> = CL<sub>E SUL ×</sub>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-11" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:msup><mml:mi>W</mml:mi><mml:mrow><mml:mtext mathvariant="italic">Study</mml:mtext><mml:mspace width="0.25em"/><mml:mn>2</mml:mn><mml:mspace width="0.25em"/><mml:mfenced close=")" open="("><mml:mrow><mml:mtext mathvariant="italic">Chen</mml:mtext><mml:mspace width="0.25em"/><mml:mi mathvariant="italic">et</mml:mi><mml:mspace width="0.25em"/><mml:mi mathvariant="italic">al</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:mfenced></mml:mrow></mml:msup></mml:mrow></mml:mrow></mml:math>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CL<sub>E,SUL</sub> (L·min<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.100</td><td align="center" valign="top" rowspan="1" colspan="1">0.0026 (2.6)</td><td align="center" valign="top" rowspan="1" colspan="1">0.096–0.106</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">W</td><td align="center" valign="top" rowspan="1" colspan="1">0.826</td><td align="center" valign="top" rowspan="1" colspan="1">0.042 (5.1)</td><td align="center" valign="top" rowspan="1" colspan="1">0.747–0.912</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">CL<sub>E CYS</sub> = CL<sub>E CYS ×</sub>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-12" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:msup><mml:mi>X</mml:mi><mml:mrow><mml:mtext mathvariant="italic">Study</mml:mtext><mml:mspace width="0.25em"/><mml:mn>2</mml:mn><mml:mspace width="0.25em"/><mml:mfenced close=")" open="("><mml:mrow><mml:mtext mathvariant="italic">Chen</mml:mtext><mml:mspace width="0.25em"/><mml:mi mathvariant="italic">et</mml:mi><mml:mspace width="0.25em"/><mml:mi mathvariant="italic">al</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:mfenced></mml:mrow></mml:msup></mml:mrow></mml:mrow></mml:math>
+</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">CL<sub>E CYS</sub> (L·min<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.397</td><td align="center" valign="top" rowspan="1" colspan="1">0.031 (7.8)</td><td align="center" valign="top" rowspan="1" colspan="1">0.344–0.462</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">X</td><td align="center" valign="top" rowspan="1" colspan="1">1.59</td><td align="center" valign="top" rowspan="1" colspan="1">0.236 (14.9)</td><td align="center" valign="top" rowspan="1" colspan="1">1.20–2.11</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">k<sub>tr</sub> (min<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.00332</td><td align="center" valign="top" rowspan="1" colspan="1">0.00000008 (2.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0032–0.0035</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">k<sub>tr2</sub> (min<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0687</td><td align="center" valign="top" rowspan="1" colspan="1">0.0041 (5.9)</td><td align="center" valign="top" rowspan="1" colspan="1">0.061–0.076</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">Start gallbladder emptying (min)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Study 1</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>60 fixed</p>
+<p>240 fixed</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Study 2</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>480 fixed</p>
+<p>660 fixed</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Study 3</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>360 fixed</p>
+<p>540 fixed</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Duration of gallbladder emptying (min)</td><td align="center" valign="top" rowspan="1" colspan="1">6 fixed</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">k<sub>GG</sub> (min<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">10 fixed</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">k<sub>a2</sub> (min<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.00312</td><td align="center" valign="top" rowspan="1" colspan="1">0.00026 (8.2)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0025–0.0035</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">F<sub>GB</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.1 fixed</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<italic toggle="yes">Interindividual variability (CV%)</italic>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IIV V<sub>PCM</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">27.6</td><td align="center" valign="top" rowspan="1" colspan="1">12.6 (21.4)</td><td align="center" valign="top" rowspan="1" colspan="1">22.6–34.0</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IIV k<sub>a</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">89.9</td><td align="center" valign="top" rowspan="1" colspan="1">40.4 (25.6)</td><td align="center" valign="top" rowspan="1" colspan="1">68.3–128.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IIV F<sub>a</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">14.2</td><td align="center" valign="top" rowspan="1" colspan="1">7.6 (29.0)</td><td align="center" valign="top" rowspan="1" colspan="1">9.8–18.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IIV CL<sub>H GLU</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">30.8</td><td align="center" valign="top" rowspan="1" colspan="1">13.1 (18.8)</td><td align="center" valign="top" rowspan="1" colspan="1">25.5–37.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IIV CL<sub>H SUL</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">35.9</td><td align="center" valign="top" rowspan="1" colspan="1">15.6 (19.7)</td><td align="center" valign="top" rowspan="1" colspan="1">30.0–44.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IIV CL<sub>H CYS</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">41.5</td><td align="center" valign="top" rowspan="1" colspan="1">19.5 (23.4)</td><td align="center" valign="top" rowspan="1" colspan="1">33.4–52.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IIV V<sub>GLU</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">19.4</td><td align="center" valign="top" rowspan="1" colspan="1">10.2 (27.8)</td><td align="center" valign="top" rowspan="1" colspan="1">14.9–25.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IIV CL<sub>E,GLU</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">23.3</td><td align="center" valign="top" rowspan="1" colspan="1">10.4 (20.4)</td><td align="center" valign="top" rowspan="1" colspan="1">19.2–28.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IIV CL<sub>E,CYS</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">44.4</td><td align="center" valign="top" rowspan="1" colspan="1">20.8 (23.5)</td><td align="center" valign="top" rowspan="1" colspan="1">34.8–56.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IIV Start of gallbladder emptying</td><td align="center" valign="top" rowspan="1" colspan="1">131.1 fixed</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">
+<italic toggle="yes">Residual variability</italic>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Proportional error PCM (CV%)</td><td align="center" valign="top" rowspan="1" colspan="1">13.9</td><td align="center" valign="top" rowspan="1" colspan="1">3.92 (8.1)</td><td align="center" valign="top" rowspan="1" colspan="1">13.0–15.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Proportional error PCM‐GLU (CV%)</td><td align="center" valign="top" rowspan="1" colspan="1">13.7</td><td align="center" valign="top" rowspan="1" colspan="1">4.24 (9.6)</td><td align="center" valign="top" rowspan="1" colspan="1">12.6–15.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Proportional error PCM‐SUL (CV%)</td><td align="center" valign="top" rowspan="1" colspan="1">17.5</td><td align="center" valign="top" rowspan="1" colspan="1">5.5 (10.2)</td><td align="center" valign="top" rowspan="1" colspan="1">15.9–19.3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Proportional error PCM‐CYS (CV%)</td><td align="center" valign="top" rowspan="1" colspan="1">28.5</td><td align="center" valign="top" rowspan="1" colspan="1">7.2 (6.5)</td><td align="center" valign="top" rowspan="1" colspan="1">26.8–30.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Additive error PCM (μmol·L<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.00002</td><td align="center" valign="top" rowspan="1" colspan="1">0.00000007 (49.0)</td><td align="center" valign="top" rowspan="1" colspan="1">0.00005–0.00028</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Additive error PCM‐GLU (μmol·L<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">6.08</td><td align="center" valign="top" rowspan="1" colspan="1">1.38 (22.6)</td><td align="center" valign="top" rowspan="1" colspan="1">3.89–9.28</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Additive error PCM‐SUL (μmol·L<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">2.99</td><td align="center" valign="top" rowspan="1" colspan="1">0.88 (29.5)</td><td align="center" valign="top" rowspan="1" colspan="1">1.45–4.89</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Additive error PCM‐CYS Study 2 (μmol·L<sup>−1</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.288</td><td align="center" valign="top" rowspan="1" colspan="1">0.036 (12.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0.234–0.370</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Fold increase in combined residual variability (additive + proportional) for PCM, Study 2</td><td align="center" valign="top" rowspan="1" colspan="1">1.87</td><td align="center" valign="top" rowspan="1" colspan="1">0.145 (7.7)</td><td align="center" valign="top" rowspan="1" colspan="1">1.59–2.16</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Fold increase in combined residual variability (additive + proportional) for PCM, Study 1</td><td align="center" valign="top" rowspan="1" colspan="1">2.25</td><td align="center" valign="top" rowspan="1" colspan="1">0.147 (6.5)</td><td align="center" valign="top" rowspan="1" colspan="1">1.97–2.55</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Fold increase in combined residual variability (additive + proportional) for PCM‐GLU, Study 1 and 2</td><td align="center" valign="top" rowspan="1" colspan="1">0.872</td><td align="center" valign="top" rowspan="1" colspan="1">0.054 (6.2)</td><td align="center" valign="top" rowspan="1" colspan="1">0.77–0.98</td></tr></tbody></table><table-wrap-foot id="psp470168-ntgp-0002"><fn id="psp470168-note-0003"><p>Abbreviations: A = intestinal surface area, CI = confidence interval, CL<sub>E CYS</sub> = elimination clearance of PCM‐cysteine and PCM‐mercapturate, CL<sub>E GLU</sub> = elimination clearance of PCM‐glucuronide, CL<sub>E SUL</sub> = elimination clearance of PCM‐sulfate, CL<sub>G,int</sub> = gut intrinsic clearance, CL<sub>H CYS</sub> = hepatic intrinsic clearance of PCM to PCM‐cysteine and PCM‐mercapturate, CL<sub>H GLU</sub> = hepatic intrinsic clearance of PCM to PCM‐glucuronide, CL<sub>H SUL</sub> = hepatic intrinsic clearance of PCM to PCM‐sulfate, CL<sub>perm</sub> = permeability clearance through enterocytes, CV% = coefficient of variation, F<sub>a</sub> = fraction absorbed, F<sub>GB</sub> = fraction into the gallbladder, IIV = interindividual variability, k<sub>a</sub> = absorption constant, k<sub>GG</sub> = transfer rate between gallbladder and reuptake compartment of gut upon gallbladder emptying, k<sub>tr</sub> = transit rate constant, LBW = lean body weight, P<sub>app</sub> = permeability of caco2‐cell, PCM = paracetamol, PCM‐CYS or PCM‐CYS &amp; PCM‐MER = combined PCM‐mercapturate and PCM‐cysteine, PCM‐GLU = PCM‐glucuronide, PCM‐SUL = PCM‐sulfate, Q = intercompartmental clearance, RSE = relative standard error, SIR = sampling importance resampling, TBW = total body weight.</p></fn><fn id="psp470168-note-0004"><label>
+<sup>a</sup>
+</label><p>CL<sub>G,int</sub> coded as fraction of intrinsic hepatic clearance.</p></fn><fn id="psp470168-note-0005"><label>
+<sup>b</sup>
+</label><p>Precision and 95% CI values obtained from SIR.</p></fn></table-wrap-foot></table-wrap></sec><sec id="psp470168-sec-0015"><label>3.2.2</label><title>Model Evaluation</title><p>Plots of observed versus population‐predicted concentrations for PCM, PCM‐GLU, PCM‐SUL, and PCM‐CYS and PCM‐MER are shown in Figure <xref rid="psp470168-fig-0003" ref-type="fig">3</xref>. The differences between patients receiving oral or intravenous PCM and those with and without obesity were overall well captured. Additional GOF plots are shown in Figure <xref rid="psp470168-supitem-0002" ref-type="supplementary-material">S3</xref>. NPDE plots for all compounds, stratified for study, are shown in Figure <xref rid="psp470168-fig-0004" ref-type="fig">4</xref>.</p><fig position="float" fig-type="FIGURE" id="psp470168-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Goodness‐of‐fit plots of the final semi‐physiological population PK model: observed versus population predicted concentrations. The plots are stratified by compound and study. PCM = paracetamol, PCM‐CYS + PCM‐MER = combined PCM‐mercapturate and PCM‐cysteine, PCM‐GLU = PCM‐glucuronide, PCM‐SUL = PCM‐sulfate, PK = pharmacokinetic.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="PSP4-15-e70168-g003.jpg"/></fig><fig position="float" fig-type="FIGURE" id="psp470168-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Normalized prediction distribution errors (NPDE) plots of the final semi‐physiological population PK model. (A) NPDE versus predicted concentrations. (B) NPDE versus time. The plots are stratified by compound and study. PCM = paracetamol, PCM‐CYS + PCM‐MER = combined PCM‐mercapturate and PCM‐cysteine, PCM‐GLU = PCM‐glucuronide, PCM‐SUL = PCM‐sulfate, PK = pharmacokinetic.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="PSP4-15-e70168-g001.jpg"/></fig><p>Despite model refinements, some misspecification remained in the final semi‐physiological population PK model. PCM‐SUL was slightly underpredicted in patients with obesity after intravenous administration, whereas predictions for individuals without obesity receiving oral PCM matched the observations. In the original model on the basis of intravenous data (Study 3) [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>], a covariate of LBW on plasma clearance to PCM‐SUL was incorporated. However, adding LBW or total body weight as a covariate on CL<sub>H,int</sub> to PCM‐SUL did not resolve this discrepancy in the final model with oral and intravenous data.</p></sec></sec><sec id="psp470168-sec-0016"><label>3.3</label><title>Simulations</title><p>To illustrate the impact of the route of administration, concentration‐time profiles of PCM and metabolites were simulated in four representative male patients across the observed weight distribution (Section <xref rid="psp470168-sec-0009" ref-type="sec">2.4</xref>) under steady‐state conditions of 1000 mg four times daily, as shown in Figure <xref rid="psp470168-fig-0005" ref-type="fig">5</xref>. Following oral administration, metabolite formation was faster and led to earlier peak concentrations than following intravenous administration across all body weights. This effect was most prominent for oxidative metabolites (PCM‐CYS and PCM‐MER). Because of rapid presystemic metabolism following oral administration, no delay in PCM‐GLU and oxidative metabolite formation was observed, whereas such a delay was apparent after intravenous administration.</p><fig position="float" fig-type="FIGURE" id="psp470168-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Model‐based simulations of PCM and all metabolites in different male individuals with body weights of 60, 92, 120, and 150 kg after 1000 mg four times daily of PCM either intravenously (red) or orally (blue) in steady state. Their corresponding lean body weights are 40.8, 63.6, 71.5, and 78.8 kg, respectively. PCM = paracetamol, PCM‐CYS + PCM‐MER = combined PCM‐mercapturate and PCM‐cysteine, PCM‐GLU = PCM‐glucuronide, PCM‐SUL = PCM‐sulfate.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="PSP4-15-e70168-g005.jpg"/></fig><p>AUC<sub>0‐6</sub> are depicted in Figure <xref rid="psp470168-supitem-0002" ref-type="supplementary-material">S4</xref> in Supporting Information <xref rid="psp470168-supitem-0002" ref-type="supplementary-material">S2</xref>. The metabolite‐to‐parent AUC ratios for all metabolites were similar after oral administration and after intravenous dosing. For glucuronidation, the ratios ranged from 1.05–1.36 after oral administration versus 1.11–1.37 after intravenous dosing in individuals weighing 60 up to 150 kg. For sulfation, the ratios were 0.64–0.72 and 0.68–0.72, and for oxidation, 0.06–0.14 and 0.06–0.14.</p></sec></sec><sec sec-type="discussion" id="psp470168-sec-0017"><label>4</label><title>Discussion</title><p>To date, a comprehensive evaluation of intravenous versus oral PCM metabolism is lacking. This study provided insights into how presystemic and systemic metabolism and enterohepatic recirculation contribute to differences in parent drug and metabolite exposure between the two routes. It enhances our understanding of the relative roles of hepatic and intestinal presystemic metabolism.</p><p>The following key observations emerged from this analysis. First, oral administration led to faster metabolite formation, particularly via the oxidative metabolites (PCM‐CYS and PCM‐MER). Second, presystemic hepatic metabolism alone was insufficient to capture the rapid formation of PCM‐CYS &amp; PCM‐MER, highly suggesting a role for intestinal oxidative metabolism. Although intestinal CYP3A metabolism has been shown for midazolam [<xref rid="psp470168-bib-0015" ref-type="bibr">15</xref>] and identified in PBPK modeling [<xref rid="psp470168-bib-0028" ref-type="bibr">28</xref>], this is, to our knowledge, the first time intestinal oxidative metabolism has been described. This is supported by the presence of CYP2E1 in human mucosa cells [<xref rid="psp470168-bib-0010" ref-type="bibr">10</xref>]. These results highlight the importance of presystemic metabolism—an effect that was underappreciated in prior PCM models that were developed using data upon either intravenous [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>] or oral administration [<xref rid="psp470168-bib-0029" ref-type="bibr">29</xref>].</p><p>Third, following oral administration of PCM, relatively lower PCM‐GLU concentrations were observed in the first 2 h post‐dose compared to what is expected after intravenous administration. Together with the observed double peak PCM levels, this pattern indicated the occurrence of enterohepatic recirculation. Supporting this hypothesis, previous rat studies have demonstrated that PCM and PCM‐SUL formation were substantially delayed when PCM‐GLU was injected into more proximal intestinal regions [<xref rid="psp470168-bib-0011" ref-type="bibr">11</xref>, <xref rid="psp470168-bib-0012" ref-type="bibr">12</xref>]. This phenomenon likely results from enterohepatic recirculation of PCM‐GLU, which is converted back into PCM before undergoing further hepatic metabolism. In humans, biliary excretion of PCM‐GLU and PCM‐CYS has been reported [<xref rid="psp470168-bib-0030" ref-type="bibr">30</xref>], supporting the existence of enterohepatic recirculation influencing metabolite kinetics.</p><p>Fourth, we identified a need to include study‐specific covariates on elimination clearances and the CL<sub>H,int</sub> for oxidative metabolism, most likely because of higher BMI values observed in Study 2 despite similar total body weights. One possible explanation is the influence of metabolic‐associated fatty liver disease (MAFLD), which is common in patients with obesity, often with varying severity [<xref rid="psp470168-bib-0031" ref-type="bibr">31</xref>]. Additionally, different oral formulations were used between the studies. Study 1 used a suspension, whereas Study 2 used an oral liquid. However, no differences in F<sub>a</sub> were detected for different formulations during model development. This is consistent with the physicochemical properties of PCM, as it is known to disperse and dissolve rapidly after oral administration.</p><p>In our study, we found that oral PCM leads to faster peak metabolite concentrations, most pronounced for PCM‐CYS and PCM‐MER. Although higher and earlier peaks of these metabolites may raise concerns, it is known that toxicity is related to the amount of reactive metabolite NAPQI formed over time, rather than the magnitude of their concentrations in isolation [<xref rid="psp470168-bib-0032" ref-type="bibr">32</xref>]. The earlier and higher peak concentrations of the oxidative metabolites in individuals with obesity are anticipated to be irrelevant, as the clearance via oxidative metabolism increased proportionally with total PCM clearance alongside increases in both glucuronidation and sulfation [<xref rid="psp470168-bib-0005" ref-type="bibr">5</xref>].</p><p>The remaining misspecifications were mainly observed for PCM‐SUL in the intravenous dataset. We attribute this to the fact that, in the original model on the basis of intravenous data (Study 3), a covariate of LBW on plasma clearance of PCM‐SUL was incorporated. Adding LBW or total body weight as a covariate on CL<sub>H,int</sub> for PCM‐SUL did not resolve this discrepancy in the final model, including both oral and intravenous data. Another, less probable, explanation is that analytical variation differed between datasets. However, this was already accounted for by including an additional theta on the fold‐error of the residual errors. There are a few limitations in our study. First, the collected datasets following oral administration lacked dense sampling within the first hours post‐dose, potentially missing valuable information about the phase during which PCM is absorbed and the metabolites are initially formed. Second, different dosing regimens and oral formulations were used across the included studies, which complicates the interpretation of potential dose‐dependent processes. Although dose‐normalized comparisons were incorporated during modeling, study‐specific factors (e.g., population characteristics and sampling designs) may confound the identification of clear dose‐related trends in metabolism or elimination. Third, the prevalence and severity of MAFLD were not assessed in the cohorts studied. Therefore, it remains unclear what the specific impact of MAFLD is on the formation of different metabolites and how it impacts the overall findings. Fourth, we assumed in our model that all patients had an intact gallbladder and biliary tree. Potentially, previous cholecystectomy may influence the enterohepatic recirculation of PCM‐GLU. Fifth, we found a ratio of CL<sub>int,G</sub> to CL<sub>int,H</sub> of 0.00474, which was comparable to the ratio reported for CYP3A4 using midazolam as probe substrate [<xref rid="psp470168-bib-0015" ref-type="bibr">15</xref>]. However, on the basis of current evidence, intestinal CYP3A4 expression is far more prominent than intestinal CYP2E1 expression [<xref rid="psp470168-bib-0024" ref-type="bibr">24</xref>], with hepatic CYP3A4 expression being reported as only twice that of CYP2E1 in humans [<xref rid="psp470168-bib-0033" ref-type="bibr">33</xref>]. Therefore, the true CL<sub>G,int</sub> to CL<sub>H,int</sub> ratio for CYP2E1 is likely to be considerably lower than the ratio estimated in our study. As a partial explanation, we hypothesize that the formation of oxidative metabolites of PCM is not mediated by CYP2E1 alone but also involves non‐CYP2E1 pathways, including, for instance, CYP3A4 [<xref rid="psp470168-bib-0001" ref-type="bibr">1</xref>, <xref rid="psp470168-bib-0034" ref-type="bibr">34</xref>]. Although intestinal metabolism of PCM by CYP3A4 has not been demonstrated previously, we hypothesize that intestinal CYP3A could play a role. Such a contribution would shift the overall CL<sub>int,G</sub> to CL<sub>int,H</sub> ratio toward values more similar to those observed for CYP3A4 using midazolam as a probe drug. Nonetheless, this remains uncertain and highly exploratory. Lastly, an evaluation with external datasets to demonstrate model adequacy was not feasible. Given the model's complexity and the integration of three datasets, data‐splitting techniques were neither considered feasible. Instead, we carefully evaluated stratified diagnostics to assess the model's consistency across the different datasets. As indicated, some structural differences were found, most likely attributable to differences in the included populations.</p><p>In summary, this study describes PCM and metabolite PK following oral and intravenous administration using a semi‐physiological population PK model that allowed for the quantification of presystemic and systemic metabolism of the different pathways and enterohepatic recirculation. The results demonstrated that oral administration leads to faster metabolite formation, particularly through oxidative metabolism. This model could be used in the future to evaluate and predict special situations such as the influence of overdose or drug interactions (e.g., alcohol). Future PK studies in special populations, such as patients who have undergone metabolic and bariatric surgery, should explicitly evaluate both oral and intravenous PCM administration.</p></sec><sec sec-type="conclusions" id="psp470168-sec-0018"><label>5</label><title>Conclusions</title><p>In this semi‐physiological population PK model, both hepatic and intestinal presystemic metabolism of PCM were characterized, along with enterohepatic recirculation of PCM‐GLU and its subsequent deglucuronidation back to PCM. Oral administration of PCM results in faster and more extensive metabolite formation. These mechanistic insights are valuable not only for understanding PCM PK but could also support future PK evaluations of other drugs extensively metabolized via multiple routes.</p></sec><sec id="psp470168-sec-0019"><title>Author Contributions</title><p>Cedric Lau wrote the manuscript. Cedric Lau, Charlotte van Kesteren, Robert M. Smeenk, and Marieke M. Beex‐Oosterhuis designed the research. Cedric Lau performed the research. Cedric Lau, Charlotte van Kesteren, Catherijne A.J. Knibbe, Alwin D.R. Huitema, and Hinke Huisman‐Siebinga analyzed the data. Birgit C.P. Koch, Lingtak‐Neander Chan, Yvonne S. Lin, and Anne van Rongen contributed new analytical tools. All authors reviewed the manuscript and approved the submitted version.</p></sec><sec id="psp470168-sec-0021"><title>Funding</title><p>The authors have nothing to report.</p></sec><sec sec-type="COI-statement" id="psp470168-sec-0022"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="psp470168-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S1:</bold> Overview of drug‐ and system‐specific parameters and semi‐physiological equations implemented into the final model.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PSP4-15-e70168-s003.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="psp470168-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S1:</bold> Normalized prediction distribution errors (NPDE) versus time plots for PCM, PCM‐GLU, PCM‐SUL, PCM‐CYS, and PCM‐MER for the population PK model on the basis of the original model of Van Rongen et al. [5] with oral absorption depot. The plots indicate overprediction of the metabolites PCM‐GLU, PCM‐SUL and PCM‐CYS &amp; PCM‐MER, and underprediction of PCM concentrations following oral administration. PCM = paracetamol, PCM‐CYS + PCM‐MER = combined PCM‐mercapturate and PCM‐cysteine, PCM‐GLU = PCM‐glucuronide, PCM‐SUL = PCM‐sulfate, PK = pharmacokinetic.</p><p>
+<bold>Figure S2:</bold> Normalized prediction distribution errors (NPDE) versus time plots after incorporating presystemic hepatic and intestinal clearance through reparameterization into hepatic and intestinal blood flow and their respective intrinsic hepatic and intestinal clearances, stratified per dataset. The plots show substantial improvement, especially for the oral datasets. PCM = paracetamol, PCM‐CYS + PCM‐MER = combined PCM‐mercapturate and PCM‐cysteine, PCM‐GLU = PCM‐glucuronide, PCM‐SUL = PCM‐sulfate.</p><p>
+<bold>Figure S3:</bold> Goodness‐of‐fit plots of the final semi‐physiological population PK model: observed versus individual predicted concentrations. The plots are stratified by compound and study. PCM = paracetamol, PCM‐CYS + PCM‐MER = combined PCM‐mercapturate and PCM‐cysteine, PCM‐GLU = PCM‐glucuronide, PCM‐SUL = PCM‐sulfate, PK = pharmacokinetic.</p><p>
+<bold>Figure S4:</bold> AUC<sub>0‐6</sub> at steady‐state following four times 1000 mg daily, simulated for male individuals with different body weights. Their respective lean body weights are 50.6 and 71.5 kg. AUC = area under the time‐curve, IV = intravenous, PCM = paracetamol, PCM‐CYS + PCM‐MER = combined PCM‐mercapturate and PCM‐cysteine, PCM‐GLU = PCM‐glucuronide, PCM‐SUL = PCM‐sulfate.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PSP4-15-e70168-s002.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="psp470168-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Data S1:</bold> psp470168‐sup‐0003‐DataS1.docx.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PSP4-15-e70168-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="psp470168-sec-0020"><title>Acknowledgments</title><p>The authors thank Linda Ringelink and Anjo de Rapper for their kind contribution to the pre‐analysis of all samples processed for this work.</p></ack><ref-list content-type="cited-references" id="psp470168-bibl-0001"><title>References</title><ref id="psp470168-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="psp470168-cit-0001">
+<string-name name-style="western">
+<given-names>P. T.</given-names>
+<surname>Manyike</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. D.</given-names>
+<surname>Kharasch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. F.</given-names>
+<surname>Kalhorn</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Slattery</surname>
+</string-name>, “<article-title>Contribution of CYP2E1 and CYP3A to Acetaminophen Reactive Metabolite Formation</article-title>,” <source>Clinical Pharmacology and Therapeutics</source>
+<volume>67</volume>, no. <issue>3</issue> (<year>2000</year>): <fpage>275</fpage>–<lpage>282</lpage>, <pub-id pub-id-type="doi">10.1067/mcp.2000.104736</pub-id>.<pub-id pub-id-type="pmid">10741631</pub-id>
+</mixed-citation></ref><ref id="psp470168-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="psp470168-cit-0002">
+<string-name name-style="western">
+<given-names>L. F.</given-names>
+<surname>Prescott</surname>
+</string-name>, “<article-title>Kinetics and Metabolism of Paracetamol and Phenacetin</article-title>,” <source>British Journal of Clinical Pharmacology</source>
+<volume>10</volume>, no. <issue>Suppl 2</issue> (<year>1980</year>): <fpage>291S</fpage>–<lpage>298S</lpage>, <pub-id pub-id-type="doi">10.1111/j.1365-2125.1980.tb01812.x</pub-id>.<pub-id pub-id-type="pmid">7002186</pub-id>
+<pub-id pub-id-type="pmcid">PMC1430174</pub-id></mixed-citation></ref><ref id="psp470168-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="psp470168-cit-0003">
+<string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Clements</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Critchley</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L. F.</given-names>
+<surname>Prescott</surname>
+</string-name>, “<article-title>The Role of Sulphate Conjugation in the Metabolism and Disposition of Oral and Intravenous Paracetamol in Man</article-title>,” <source>British Journal of Clinical Pharmacology</source>
+<volume>18</volume>, no. <issue>4</issue> (<year>1984</year>): <fpage>481</fpage>–<lpage>485</lpage>, <pub-id pub-id-type="doi">10.1111/j.1365-2125.1984.tb02495.x</pub-id>.<pub-id pub-id-type="pmid">6487489</pub-id>
+<pub-id pub-id-type="pmcid">PMC1463596</pub-id></mixed-citation></ref><ref id="psp470168-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="psp470168-cit-0004">
+<string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Critchley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. R.</given-names>
+<surname>Nimmo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Gregson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. M.</given-names>
+<surname>Woolhouse</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L. F.</given-names>
+<surname>Prescott</surname>
+</string-name>, “<article-title>Inter‐Subject and Ethnic Differences in Paracetamol Metabolism</article-title>,” <source>British Journal of Clinical Pharmacology</source>
+<volume>22</volume>, no. <issue>6</issue> (<year>1986</year>): <fpage>649</fpage>–<lpage>657</lpage>, <pub-id pub-id-type="doi">10.1111/j.1365-2125.1986.tb02953.x</pub-id>.<pub-id pub-id-type="pmid">3567011</pub-id>
+<pub-id pub-id-type="pmcid">PMC1401198</pub-id></mixed-citation></ref><ref id="psp470168-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="psp470168-cit-0005">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>van Rongen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. A. J.</given-names>
+<surname>Välitalo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. Y. M.</given-names>
+<surname>Peeters</surname>
+</string-name>, et al., “<article-title>Morbidly Obese Patients Exhibit Increased CYP2E1‐Mediated Oxidation of Acetaminophen</article-title>,” <source>Clinical Pharmacokinetics</source>
+<volume>55</volume>, no. <issue>7</issue> (<year>2016</year>): <fpage>833</fpage>–<lpage>847</lpage>, <pub-id pub-id-type="doi">10.1007/s40262-015-0357-0</pub-id>.<pub-id pub-id-type="pmid">26818482</pub-id>
+<pub-id pub-id-type="pmcid">PMC4916199</pub-id></mixed-citation></ref><ref id="psp470168-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="psp470168-cit-0006">
+<string-name name-style="western">
+<given-names>S. A. M.</given-names>
+<surname>Brookhuis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Allegaert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Hanff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. N.</given-names>
+<surname>Lub‐de Hooge</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Dallmann</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Mian</surname>
+</string-name>, “<article-title>Modelling Tools to Characterize Acetaminophen Pharmacokinetics in the Pregnant Population</article-title>,” <source>Pharmaceutics</source>
+<volume>13</volume>, no. <issue>8</issue> (<year>2021</year>): <elocation-id>1302</elocation-id>, <pub-id pub-id-type="doi">10.3390/pharmaceutics13081302</pub-id>.<pub-id pub-id-type="pmid">34452263</pub-id>
+<pub-id pub-id-type="pmcid">PMC8400310</pub-id></mixed-citation></ref><ref id="psp470168-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="psp470168-cit-0007">
+<string-name name-style="western">
+<given-names>G. M.</given-names>
+<surname>Pacifici</surname>
+</string-name> and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Allegaert</surname>
+</string-name>, “<article-title>Clinical Pharmacology of Paracetamol in Neonates: A Review</article-title>,” <source>Current Therapeutic Research, Clinical and Experimental</source>
+<volume>77</volume> (<year>2015</year>): <fpage>24</fpage>–<lpage>30</lpage>, <pub-id pub-id-type="doi">10.1016/j.curtheres.2014.12.001</pub-id>.<pub-id pub-id-type="pmid">25709719</pub-id>
+<pub-id pub-id-type="pmcid">PMC4329422</pub-id></mixed-citation></ref><ref id="psp470168-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="psp470168-cit-0008">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Mian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Allegaert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Spriet</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Tibboel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Petrovic</surname>
+</string-name>, “<article-title>Paracetamol in Older People: Towards Evidence‐Based Dosing?</article-title>,” <source>Drugs &amp; Aging</source>
+<volume>35</volume>, no. <issue>7</issue> (<year>2018</year>): <fpage>603</fpage>–<lpage>624</lpage>, <pub-id pub-id-type="doi">10.1007/s40266-018-0559-x</pub-id>.<pub-id pub-id-type="pmid">29916138</pub-id>
+<pub-id pub-id-type="pmcid">PMC6061299</pub-id></mixed-citation></ref><ref id="psp470168-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="psp470168-cit-0009">
+<string-name name-style="western">
+<given-names>K. F.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. N.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. D.</given-names>
+<surname>Senn</surname>
+</string-name>, et al., “<article-title>The Impact of Proximal Roux‐En‐Y Gastric Bypass Surgery on Acetaminophen Absorption and Metabolism</article-title>,” <source>Pharmacotherapy</source>
+<volume>40</volume>, no. <issue>3</issue> (<year>2020</year>): <fpage>191</fpage>–<lpage>203</lpage>, <pub-id pub-id-type="doi">10.1002/phar.2368</pub-id>.<pub-id pub-id-type="pmid">31960977</pub-id>
+</mixed-citation></ref><ref id="psp470168-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="psp470168-cit-0010">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Bergheim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Bode</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Parlesak</surname>
+</string-name>, “<article-title>Distribution of Cytochrome P450 2C, 2E1, 3A4, and 3A5 in Human Colon Mucosa</article-title>,” <source>BMC Clinical Pharmacology</source>
+<volume>5</volume> (<year>2005</year>): <elocation-id>4</elocation-id>, <pub-id pub-id-type="doi">10.1186/1472-6904-5-4</pub-id>.<pub-id pub-id-type="pmid">16253141</pub-id>
+<pub-id pub-id-type="pmcid">PMC1291361</pub-id></mixed-citation></ref><ref id="psp470168-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="psp470168-cit-0011">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Watari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hanawa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Iwai</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Kaneniwa</surname>
+</string-name>, “<article-title>Pharmacokinetic Study of the Enterohepatic Circulation of Acetaminophen Glucuronide in Rats</article-title>,” <source>Journal of Pharmacobio‐Dynamics</source>
+<volume>7</volume>, no. <issue>11</issue> (<year>1984</year>): <fpage>811</fpage>–<lpage>819</lpage>, <pub-id pub-id-type="doi">10.1248/bpb1978.7.811</pub-id>.<pub-id pub-id-type="pmid">6530646</pub-id>
+</mixed-citation></ref><ref id="psp470168-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="psp470168-cit-0012">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Watari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Iwai</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Kaneniwa</surname>
+</string-name>, “<article-title>Pharmacokinetic Study of the Fate of Acetaminophen and Its Conjugates in Rats</article-title>,” <source>Journal of Pharmacokinetics and Biopharmaceutics</source>
+<volume>11</volume>, no. <issue>3</issue> (<year>1983</year>): <fpage>245</fpage>–<lpage>272</lpage>, <pub-id pub-id-type="doi">10.1007/BF01061867</pub-id>.<pub-id pub-id-type="pmid">6644552</pub-id>
+</mixed-citation></ref><ref id="psp470168-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="psp470168-cit-0013">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Berton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Bettonte</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Stader</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Battegay</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Marzolini</surname>
+</string-name>, “<article-title>Physiologically Based Pharmacokinetic Modelling to Identify Physiological and Drug Parameters Driving Pharmacokinetics in Obese Individuals</article-title>,” <source>Clinical Pharmacokinetics</source>
+<volume>62</volume>, no. <issue>2</issue> (<year>2023</year>): <fpage>277</fpage>–<lpage>295</lpage>, <pub-id pub-id-type="doi">10.1007/s40262-022-01194-3</pub-id>.<pub-id pub-id-type="pmid">36571702</pub-id>
+<pub-id pub-id-type="pmcid">PMC9998327</pub-id></mixed-citation></ref><ref id="psp470168-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="psp470168-cit-0014">
+<string-name name-style="western">
+<given-names>R. B.</given-names>
+<surname>Flint</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Mian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>van der Nagel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Slijkhuis</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B. C.</given-names>
+<surname>Koch</surname>
+</string-name>, “<article-title>Quantification of Acetaminophen and Its Metabolites in Plasma Using UPLC‐MS: Doors Open to Therapeutic Drug Monitoring in Special Patient Populations</article-title>,” <source>Therapeutic Drug Monitoring</source>
+<volume>39</volume>, no. <issue>2</issue> (<year>2017</year>): <fpage>164</fpage>–<lpage>171</lpage>, <pub-id pub-id-type="doi">10.1097/FTD.0000000000000379</pub-id>.<pub-id pub-id-type="pmid">28169862</pub-id>
+</mixed-citation></ref><ref id="psp470168-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="psp470168-cit-0015">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Brill</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. A.</given-names>
+<surname>Välitalo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Darwich</surname>
+</string-name>, et al., “<article-title>Semiphysiologically Based Pharmacokinetic Model for Midazolam and CYP3A Mediated Metabolite 1‐OH‐Midazolam in Morbidly Obese and Weight Loss Surgery Patients</article-title>,” <source>CPT: Pharmacometrics &amp; Systems Pharmacology</source>
+<volume>5</volume>, no. <issue>1</issue> (<year>2016</year>): <fpage>20</fpage>–<lpage>30</lpage>, <pub-id pub-id-type="doi">10.1002/psp4.12048</pub-id>.<pub-id pub-id-type="pmid">26844012</pub-id>
+<pub-id pub-id-type="pmcid">PMC4728292</pub-id></mixed-citation></ref><ref id="psp470168-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="psp470168-cit-0016">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jamei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. R.</given-names>
+<surname>Yeo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. T.</given-names>
+<surname>Tucker</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Rostami‐Hodjegan</surname>
+</string-name>, “<article-title>Prediction of Intestinal First‐Pass Drug Metabolism</article-title>,” <source>Current Drug Metabolism</source>
+<volume>8</volume>, no. <issue>7</issue> (<year>2007</year>): <fpage>676</fpage>–<lpage>684</lpage>, <pub-id pub-id-type="doi">10.2174/138920007782109733</pub-id>.<pub-id pub-id-type="pmid">17979655</pub-id>
+</mixed-citation></ref><ref id="psp470168-bib-0017"><label>17</label><mixed-citation publication-type="book" id="psp470168-cit-0017">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Avdeef</surname>
+</string-name>, <source>Absorption and Drug Development: Solubility, Permeability, and Charge State</source> (<publisher-name>Wiley</publisher-name>, <year>2012</year>).</mixed-citation></ref><ref id="psp470168-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="psp470168-cit-0018">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Faassen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Vogel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Spanings</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Vromans</surname>
+</string-name>, “<article-title>Caco‐2 Permeability, P‐Glycoprotein Transport Ratios and Brain Penetration of Heterocyclic Drugs</article-title>,” <source>International Journal of Pharmaceutics</source>
+<volume>263</volume>, no. <issue>1–2</issue> (<year>2003</year>): <fpage>113</fpage>–<lpage>122</lpage>, <pub-id pub-id-type="doi">10.1016/s0378-5173(03)00372-7</pub-id>.<pub-id pub-id-type="pmid">12954186</pub-id>
+</mixed-citation></ref><ref id="psp470168-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="psp470168-cit-0019">
+<string-name name-style="western">
+<given-names>B. C.</given-names>
+<surname>de Winter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>van Gelder</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Sombogaard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. M.</given-names>
+<surname>Shaw</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. M.</given-names>
+<surname>van Hest</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Mathot</surname>
+</string-name>, “<article-title>Pharmacokinetic Role of Protein Binding of Mycophenolic Acid and Its Glucuronide Metabolite in Renal Transplant Recipients</article-title>,” <source>Journal of Pharmacokinetics and Pharmacodynamics</source>
+<volume>36</volume>, no. <issue>6</issue> (<year>2009</year>): <fpage>541</fpage>–<lpage>564</lpage>, <pub-id pub-id-type="doi">10.1007/s10928-009-9136-6</pub-id>.<pub-id pub-id-type="pmid">19904584</pub-id>
+<pub-id pub-id-type="pmcid">PMC2784070</pub-id></mixed-citation></ref><ref id="psp470168-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="psp470168-cit-0020">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Janmahasatian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. B.</given-names>
+<surname>Duffull</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Ash</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. C.</given-names>
+<surname>Ward</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. M.</given-names>
+<surname>Byrne</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Green</surname>
+</string-name>, “<article-title>Quantification of Lean Bodyweight</article-title>,” <source>Clinical Pharmacokinetics</source>
+<volume>44</volume>, no. <issue>10</issue> (<year>2005</year>): <fpage>1051</fpage>–<lpage>1065</lpage>, <pub-id pub-id-type="doi">10.2165/00003088-200544100-00004</pub-id>.<pub-id pub-id-type="pmid">16176118</pub-id>
+</mixed-citation></ref><ref id="psp470168-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="psp470168-cit-0021">
+<string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Dosne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bergstrand</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Harling</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. O.</given-names>
+<surname>Karlsson</surname>
+</string-name>, “<article-title>Improving the Estimation of Parameter Uncertainty Distributions in Nonlinear Mixed Effects Models Using Sampling Importance Resampling</article-title>,” <source>Journal of Pharmacokinetics and Pharmacodynamics</source>
+<volume>43</volume>, no. <issue>6</issue> (<year>2016</year>): <fpage>583</fpage>–<lpage>596</lpage>, <pub-id pub-id-type="doi">10.1007/s10928-016-9487-8</pub-id>.<pub-id pub-id-type="pmid">27730482</pub-id>
+<pub-id pub-id-type="pmcid">PMC5110709</pub-id></mixed-citation></ref><ref id="psp470168-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="psp470168-cit-0022">
+<string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>Keizer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. O.</given-names>
+<surname>Karlsson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hooker</surname>
+</string-name>, “<article-title>Modeling and Simulation Workbench for NONMEM: Tutorial on Pirana, PsN, and Xpose</article-title>,” <source>CPT: Pharmacometrics &amp; Systems Pharmacology</source>
+<volume>2</volume>, no. <issue>6</issue> (<year>2013</year>): <elocation-id>e50</elocation-id>, <pub-id pub-id-type="doi">10.1038/psp.2013.24</pub-id>.<pub-id pub-id-type="pmid">23836189</pub-id>
+<pub-id pub-id-type="pmcid">PMC3697037</pub-id></mixed-citation></ref><ref id="psp470168-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="psp470168-cit-0023">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Byon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. V.</given-names>
+<surname>Fletcher</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>Brundage</surname>
+</string-name>, “<article-title>Impact of Censoring Data Below an Arbitrary Quantification Limit on Structural Model Misspecification</article-title>,” <source>Journal of Pharmacokinetics and Pharmacodynamics</source>
+<volume>35</volume>, no. <issue>1</issue> (<year>2008</year>): <fpage>101</fpage>–<lpage>116</lpage>, <pub-id pub-id-type="doi">10.1007/s10928-007-9078-9</pub-id>.<pub-id pub-id-type="pmid">17963024</pub-id>
+</mixed-citation></ref><ref id="psp470168-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="psp470168-cit-0024">
+<string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Clermont</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Grangeon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Barama</surname>
+</string-name>, et al., “<article-title>Activity and mRNA Expression Levels of Selected Cytochromes P450 in Various Sections of the Human Small Intestine</article-title>,” <source>British Journal of Clinical Pharmacology</source>
+<volume>85</volume>, no. <issue>6</issue> (<year>2019</year>): <fpage>1367</fpage>–<lpage>1377</lpage>, <pub-id pub-id-type="doi">10.1111/bcp.13908</pub-id>.<pub-id pub-id-type="pmid">30817016</pub-id>
+<pub-id pub-id-type="pmcid">PMC6771396</pub-id></mixed-citation></ref><ref id="psp470168-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="psp470168-cit-0025">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Drozdzik</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Busch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lapczuk</surname>
+</string-name>, et al., “<article-title>Protein Abundance of Clinically Relevant Drug‐Metabolizing Enzymes in the Human Liver and Intestine: A Comparative Analysis in Paired Tissue Specimens</article-title>,” <source>Clinical Pharmacology and Therapeutics</source>
+<volume>104</volume>, no. <issue>3</issue> (<year>2018</year>): <fpage>515</fpage>–<lpage>524</lpage>, <pub-id pub-id-type="doi">10.1002/cpt.967</pub-id>.<pub-id pub-id-type="pmid">29205295</pub-id>
+</mixed-citation></ref><ref id="psp470168-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="psp470168-cit-0026">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Guiastrennec</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. P.</given-names>
+<surname>Sonne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hansen</surname>
+</string-name>, et al., “<article-title>Mechanism‐Based Modeling of Gastric Emptying Rate and Gallbladder Emptying in Response to Caloric Intake</article-title>,” <source>CPT: Pharmacometrics &amp; Systems Pharmacology</source>
+<volume>5</volume>, no. <issue>12</issue> (<year>2016</year>): <fpage>692</fpage>–<lpage>700</lpage>, <pub-id pub-id-type="doi">10.1002/psp4.12152</pub-id>.<pub-id pub-id-type="pmid">28028939</pub-id>
+<pub-id pub-id-type="pmcid">PMC5192972</pub-id></mixed-citation></ref><ref id="psp470168-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="psp470168-cit-0027">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Guiastrennec</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. P.</given-names>
+<surname>Sonne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bergstrand</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Vilsbøll</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. K.</given-names>
+<surname>Knop</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. O.</given-names>
+<surname>Karlsson</surname>
+</string-name>, “<article-title>Model‐Based Prediction of Plasma Concentration and Enterohepatic Circulation of Total Bile Acids in Humans</article-title>,” <source>CPT: Pharmacometrics &amp; Systems Pharmacology</source>
+<volume>7</volume>, no. <issue>9</issue> (<year>2018</year>): <fpage>603</fpage>–<lpage>612</lpage>, <pub-id pub-id-type="doi">10.1002/psp4.12325</pub-id>.<pub-id pub-id-type="pmid">30070437</pub-id>
+<pub-id pub-id-type="pmcid">PMC6157686</pub-id></mixed-citation></ref><ref id="psp470168-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="psp470168-cit-0028">
+<string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Peters</surname>
+</string-name>, “<article-title>Identification of Intestinal Loss of a Drug Through Physiologically Based Pharmacokinetic Simulation of Plasma Concentration‐Time Profiles</article-title>,” <source>Clinical Pharmacokinetics</source>
+<volume>47</volume>, no. <issue>4</issue> (<year>2008</year>): <fpage>245</fpage>–<lpage>259</lpage>, <pub-id pub-id-type="doi">10.2165/00003088-200847040-00003</pub-id>.<pub-id pub-id-type="pmid">18336054</pub-id>
+</mixed-citation></ref><ref id="psp470168-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="psp470168-cit-0029">
+<string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Naume</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. C. M.</given-names>
+<surname>de Winter</surname>
+</string-name>, et al., “<article-title>Paracetamol and Its Metabolites in Children and Adults With Spinal Muscular Atrophy—A Population Pharmacokinetic Model</article-title>,” <source>British Journal of Clinical Pharmacology</source>
+<volume>91</volume> (<year>2025</year>): <fpage>2045</fpage>–<lpage>2056</lpage>, <pub-id pub-id-type="doi">10.1002/bcp.70028</pub-id>.<pub-id pub-id-type="pmid">40040359</pub-id>
+<pub-id pub-id-type="pmcid">PMC12199096</pub-id></mixed-citation></ref><ref id="psp470168-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="psp470168-cit-0030">
+<string-name name-style="western">
+<given-names>K. S.</given-names>
+<surname>Jayasinghe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Roberts</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. E.</given-names>
+<surname>Read</surname>
+</string-name>, “<article-title>Is Biliary Excretion of Paracetamol Significant in Man?</article-title>,” <source>British Journal of Clinical Pharmacology</source>
+<volume>22</volume>, no. <issue>3</issue> (<year>1986</year>): <fpage>363</fpage>–<lpage>366</lpage>, <pub-id pub-id-type="doi">10.1111/j.1365-2125.1986.tb02902.x</pub-id>.<pub-id pub-id-type="pmid">3768251</pub-id>
+<pub-id pub-id-type="pmcid">PMC1401122</pub-id></mixed-citation></ref><ref id="psp470168-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="psp470168-cit-0031">
+<string-name name-style="western">
+<given-names>Z. M.</given-names>
+<surname>Younossi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Stepanova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Younossi</surname>
+</string-name>, et al., “<article-title>Epidemiology of Chronic Liver Diseases in the USA in the Past Three Decades</article-title>,” <source>Gut</source>
+<volume>69</volume>, no. <issue>3</issue> (<year>2020</year>): <fpage>564</fpage>–<lpage>568</lpage>, <pub-id pub-id-type="doi">10.1136/gutjnl-2019-318813</pub-id>.<pub-id pub-id-type="pmid">31366455</pub-id>
+</mixed-citation></ref><ref id="psp470168-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="psp470168-cit-0032">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>van Rongen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. A. J.</given-names>
+<surname>Välitalo</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. A. J.</given-names>
+<surname>Knibbe</surname>
+</string-name>, “<article-title>Author's Reply to Reith: ‘Morbidly Obese Patients Exhibit Increased CYP2E1‐Mediated Oxidation of Acetaminophen’</article-title>,” <source>Clinical Pharmacokinetics</source>
+<volume>57</volume>, no. <issue>7</issue> (<year>2018</year>): <fpage>897</fpage>–<lpage>899</lpage>, <pub-id pub-id-type="doi">10.1007/s40262-018-0665-2</pub-id>.<pub-id pub-id-type="pmid">29736840</pub-id>
+</mixed-citation></ref><ref id="psp470168-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="psp470168-cit-0033">
+<string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Lipscomb</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. K.</given-names>
+<surname>Teuschler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Swartout</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Striley</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Snawder</surname>
+</string-name>, “<article-title>Variance of Microsomal Protein and Cytochrome P450 2E1 and 3A Forms in Adult Human Liver</article-title>,” <source>Toxicology Mechanisms and Methods</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2003</year>): <fpage>45</fpage>–<lpage>51</lpage>, <pub-id pub-id-type="doi">10.1080/15376510309821</pub-id>.<pub-id pub-id-type="pmid">20021182</pub-id>
+</mixed-citation></ref><ref id="psp470168-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="psp470168-cit-0034">
+<string-name name-style="western">
+<given-names>K. E.</given-names>
+<surname>Thummel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. L.</given-names>
+<surname>Kunze</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. D.</given-names>
+<surname>Nelson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Slattery</surname>
+</string-name>, “<article-title>Oxidation of Acetaminophen to N‐Acetyl‐p‐Aminobenzoquinone Imine by Human CYP3A4</article-title>,” <source>Biochemical Pharmacology</source>
+<volume>45</volume>, no. <issue>8</issue> (<year>1993</year>): <fpage>1563</fpage>–<lpage>1569</lpage>, <pub-id pub-id-type="doi">10.1016/0006-2952(93)90295-8</pub-id>.<pub-id pub-id-type="pmid">8387297</pub-id>
+</mixed-citation></ref></ref-list></back></article></pmc-articleset>

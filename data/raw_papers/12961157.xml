@@ -1,0 +1,1157 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="hex70622" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Expect</journal-id><journal-id journal-id-type="iso-abbrev">Health Expect</journal-id><journal-id journal-id-type="pmc-domain-id">2997</journal-id><journal-id journal-id-type="pmc-domain">hex</journal-id><journal-id journal-id-type="publisher-id">HEX</journal-id><journal-title-group><journal-title>Health Expectations : An International Journal of Public Participation in Health Care and Health Policy</journal-title></journal-title-group><issn pub-type="ppub">1369-6513</issn><issn pub-type="epub">1369-7625</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12961157</article-id><article-id pub-id-type="pmcid-ver">PMC12961157.1</article-id><article-id pub-id-type="pmcaid">12961157</article-id><article-id pub-id-type="pmcaiid">12961157</article-id><article-id pub-id-type="pmid">41782301</article-id><article-id pub-id-type="doi">10.1111/hex.70622</article-id><article-id pub-id-type="publisher-id">HEX70622</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Developing an Intervention for Safe Hospital Insulin Use for Older Adults With Diabetes Undergoing Surgical Admission (SHINE Study): A Co‐Design Study</article-title></title-group><contrib-group><contrib id="hex70622-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Lange Ferreira</surname><given-names initials="C">Christina</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8575-9670</contrib-id><xref rid="hex70622-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hex70622-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>Christina.Lange_Ferreira@kcl.ac.uk</email><email>Christina.Lange@wvt.nhs.uk</email></address></contrib><contrib id="hex70622-cr-0002" contrib-type="author"><name name-style="western"><surname>Habte‐Asres</surname><given-names initials="H">Hellena</given-names></name><xref rid="hex70622-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hex70622-cr-0003" contrib-type="author"><name name-style="western"><surname>Govindan</surname><given-names initials="J">Jyothish</given-names></name><xref rid="hex70622-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hex70622-cr-0004" contrib-type="author"><name name-style="western"><surname>Mytton</surname><given-names initials="D">Dionne</given-names></name><xref rid="hex70622-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="hex70622-cr-0005" contrib-type="author"><name name-style="western"><surname>Forbes</surname><given-names initials="A">Angus</given-names></name><xref rid="hex70622-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hex70622-cr-0006" contrib-type="author"><name name-style="western"><surname>Winkley</surname><given-names initials="K">Kirsty</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1725-6040</contrib-id><xref rid="hex70622-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="hex70622-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Care in Long Term Conditions, Florence Nightingale Faculty of Nursing, Midwifery &amp; Palliative Care</named-content>
+<institution>King's College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="hex70622-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Diabetes &amp; Endocrinology</named-content>
+<institution>Wye Valley NHS Trust</institution>
+<city>Hereford</city>
+<named-content content-type="country-part">Herefordshire</named-content>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Christina Lange Ferreira (<email>Christina.Lange_Ferreira@kcl.ac.uk</email>; <email>Christina.Lange@wvt.nhs.uk</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>3</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2026</year></pub-date><volume>29</volume><issue seq="37">2</issue><issue-id pub-id-type="pmc-issue-id">508266</issue-id><issue-id pub-id-type="doi">10.1111/hex.v29.2</issue-id><elocation-id>e70622</elocation-id><history><date date-type="rev-recd"><day>07</day><month>1</month><year>2026</year></date><date date-type="received"><day>24</day><month>11</month><year>2025</year></date><date date-type="accepted"><day>10</day><month>2</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>04</day><month>03</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>06</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-06 08:25:13.253"><day>06</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Health Expectations</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HEX-29-e70622.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HEX-29-e70622.pdf"/><abstract><title>ABSTRACT</title><sec id="hex70622-sec-0010"><title>Background</title><p>Insulin errors in inpatients with diabetes occur frequently during surgical admissions. Older adults have higher risks. There is a need for service user involvement in developing complex interventions to improve insulin safety in hospitals.</p></sec><sec id="hex70622-sec-0020"><title>Objective</title><p>To develop a logic model for a system‐based safety intervention to support safer insulin use for older adults with diabetes undergoing surgical hospital admission.</p></sec><sec id="hex70622-sec-0030"><title>Methods</title><p>A co‐design approach combining systems thinking and design thinking methods was employed. Purposive sampling was employed. Older adults with diabetes and multiprofessional staff working across perioperative care were involved as co‐designers and decision makers throughout the iterative process of intervention development. An initial exploratory phase included semi‐structured interviews with service users (<italic toggle="yes">n</italic> = 10), hospital staff (<italic toggle="yes">n</italic> = 23) and non‐participatory observations (<italic toggle="yes">n</italic> = 3) which informed subsequent collaboration. Initial findings validated in separate service user and staff workshops and engagement activities. The resulting data were presented at joint stakeholder workshops (<italic toggle="yes">n</italic> = 3) to confirm the final intervention components needed to develop the model. In total, <italic toggle="yes">n</italic> = 10 older adults and <italic toggle="yes">n</italic> = 11 healthcare professionals working across the perioperative pathway participated in the co‐design process between October and December 2024.</p></sec><sec id="hex70622-sec-0040"><title>Results</title><p>Co‐designers were engaged and collaborative. Multiple interacting components at patient, staff and context level identified. Through an iterative process, a co‐designed logic model known as the SHINE (safe‐hospital‐insulin‐use) wheel was constructed, addressing two prioritised areas: <italic toggle="yes">transitions of care</italic> and <italic toggle="yes">right insulin, time and way</italic>. The model also identifies eight actions and twelve separate outputs as components. Solution‐related themes centred around: <italic toggle="yes">it is all so connected; right insulin, right time, right way; safer transitions of care; empowerment; organisation and provision of care; developing and supporting the workforce</italic>. Two prototypes of tools for patient and staff education to support empowerment and increase patient preparedness for hospital admission were developed.</p></sec><sec id="hex70622-sec-0050"><title>Conclusion</title><p>Multiple interacting components influence hospital insulin safety. System‐based, non‐linear safety approaches are required. This co‐design study identified priorities of older adults with diabetes and healthcare professionals to be addressed in system‐wide insulin safety interventions for surgical admissions. Tools developed provide tangible outputs for application in clinical practice.</p></sec><sec id="hex70622-sec-0060"><title>Patient or Public Contribution</title><p>People with diabetes with recent lived experience of surgical hospital admission were integrally involved as co‐designers and decision makers in this study. They contributed towards interpretation and analysis of findings through discussion, feedback and validation in workshops and through means accessible to them. They were decision makers in the identification of priorities for intervention development and in identifying and validating the content of the toolkit developed.</p></sec></abstract><kwd-group><kwd id="hex70622-kwd-0001">co‐design</kwd><kwd id="hex70622-kwd-0002">diabetes mellitus</kwd><kwd id="hex70622-kwd-0003">inpatient safety</kwd><kwd id="hex70622-kwd-0004">insulin</kwd><kwd id="hex70622-kwd-0005">older adult</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Foundation of European Nurses in Diabetes (FEND)</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Herefordshire and Mid‐Powys Diabetic Care Fund</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>Novo Nordisk UK Research Foundation (NNUKRF)</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0004"><funding-source>
+<institution-wrap><institution>Florence Nightingale Faculty of Nursing, Midwifery &amp; Palliative Care Staff Development Fund</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="22"/><word-count count="12053"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:05.03.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body><def-list list-content="abbreviations"><title>Abbreviations</title><def-item><term>HCP</term><def><p>Healthcare Professional</p></def></def-item><def-item><term>MRC</term><def><p>Medical Research Council</p></def></def-item><def-item><term>NHS</term><def><p>National Health Service</p></def></def-item><def-item><term>RESILIENT Framework</term><def><p>Interacting components in insulin use in hospital Framework</p></def></def-item><def-item><term>SHINE</term><def><p>Safe Hospital Insulin Use</p></def></def-item></def-list><sec sec-type="background" id="hex70622-sec-0070"><label>1</label><title>Background</title><p>Insulin treatment is a common treatment in people with type 2 diabetes and all those with type 1 diabetes. Insulin regimens are heterogeneous in the types of insulin and modes of action (short, intermediate and long acting), insulin timings, complexity and associated technologies (delivery devices and glucose monitoring). Insulin treatments are individualised and tailored to patient need; this lack of standardisation means that managing insulin in hospital is challenging, further compounded by the metabolic effects of illness or surgery. Insulin is considered a time‐critical, high‐risk medication due to its narrow therapeutic window and risk of severe harm in the case of errors [<xref rid="hex70622-bib-0001" ref-type="bibr">1</xref>].</p><p>There are significant challenges to managing the multiple components associated with insulin therapy in hospital [<xref rid="hex70622-bib-0002" ref-type="bibr">2</xref>, <xref rid="hex70622-bib-0003" ref-type="bibr">3</xref>, <xref rid="hex70622-bib-0004" ref-type="bibr">4</xref>, <xref rid="hex70622-bib-0005" ref-type="bibr">5</xref>, <xref rid="hex70622-bib-0006" ref-type="bibr">6</xref>]. The perioperative context is particularly complex, as it requires several transitions of care and input from multiple specialties and clinicians [<xref rid="hex70622-bib-0007" ref-type="bibr">7</xref>, <xref rid="hex70622-bib-0008" ref-type="bibr">8</xref>]. Insulin adjustments are required in preparation for surgery, and stress‐related hyperglycaemia occurs frequently and is associated with surgical procedures and hospitalisation [<xref rid="hex70622-bib-0008" ref-type="bibr">8</xref>]. Optimal glycaemic control is important to reduce the risk of complications, delayed healing and length of hospital stay [<xref rid="hex70622-bib-0008" ref-type="bibr">8</xref>, <xref rid="hex70622-bib-0009" ref-type="bibr">9</xref>, <xref rid="hex70622-bib-0010" ref-type="bibr">10</xref>]. Insulin errors can lead to emergencies such as diabetic ketoacidosis and hyperosmolar hyperglycaemic state, and severe hypoglycaemia [<xref rid="hex70622-bib-0007" ref-type="bibr">7</xref>]. Less acute complications include sub‐optimal glucose variability which can have clinical significance, impact negatively on patient experience and can be anxiety‐provoking for people with diabetes [<xref rid="hex70622-bib-0004" ref-type="bibr">4</xref>, <xref rid="hex70622-bib-0007" ref-type="bibr">7</xref>, <xref rid="hex70622-bib-0011" ref-type="bibr">11</xref>].</p><p>Several areas of increased risk for insulin error in the perioperative setting have been identified in national reports and in the literature: diabetes and insulin treatment not identified/communicated at initial referral from primary care and at transitions of care [<xref rid="hex70622-bib-0012" ref-type="bibr">12</xref>, <xref rid="hex70622-bib-0013" ref-type="bibr">13</xref>, <xref rid="hex70622-bib-0014" ref-type="bibr">14</xref>]; failure to monitor glucose adequately at all stages along the perioperative journey [<xref rid="hex70622-bib-0013" ref-type="bibr">13</xref>, <xref rid="hex70622-bib-0014" ref-type="bibr">14</xref>, <xref rid="hex70622-bib-0015" ref-type="bibr">15</xref>], incorrect use of intravenous insulin infusions [<xref rid="hex70622-bib-0013" ref-type="bibr">13</xref>, <xref rid="hex70622-bib-0014" ref-type="bibr">14</xref>], lack of clinical continuity from the different specialties involved across the perioperative pathway [<xref rid="hex70622-bib-0013" ref-type="bibr">13</xref>], staff knowledge and confidence gaps [<xref rid="hex70622-bib-0012" ref-type="bibr">12</xref>, <xref rid="hex70622-bib-0013" ref-type="bibr">13</xref>], lack of proactive treatment review in response to out of target glucose levels [<xref rid="hex70622-bib-0006" ref-type="bibr">6</xref>] not prioritising people with diabetes on operating lists and carbohydrate intake issues exacerbated by fasting required for diagnostic or surgical procedures [<xref rid="hex70622-bib-0013" ref-type="bibr">13</xref>]; incomplete or incorrect information about required treatment adjustments pre‐surgery provided to patients pre‐operatively [<xref rid="hex70622-bib-0012" ref-type="bibr">12</xref>].</p><p>The majority of hospitalised patients are aged &gt; 65 years [<xref rid="hex70622-bib-0016" ref-type="bibr">16</xref>] with a high proportion of those patients having co‐morbid diabetes [<xref rid="hex70622-bib-0016" ref-type="bibr">16</xref>, <xref rid="hex70622-bib-0017" ref-type="bibr">17</xref>, <xref rid="hex70622-bib-0018" ref-type="bibr">18</xref>]. The older hospitalised population is heterogeneous and there are many factors associated with older age that increase their risk of insulin errors. These may include frailty, polypharmacy, and a range of communication, cognitive, physical or nutritional deficits, alongside an impaired ability to self‐manage their insulin [<xref rid="hex70622-bib-0019" ref-type="bibr">19</xref>, <xref rid="hex70622-bib-0020" ref-type="bibr">20</xref>] However, most studies which have looked at insulin safety in hospital have not focused on the particular needs of this population [<xref rid="hex70622-bib-0005" ref-type="bibr">5</xref>, <xref rid="hex70622-bib-0006" ref-type="bibr">6</xref>, <xref rid="hex70622-bib-0011" ref-type="bibr">11</xref>, <xref rid="hex70622-bib-0012" ref-type="bibr">12</xref>] and thus there is currently limited research and a knowledge gap on the specific needs of hospitalised older adults requiring insulin.</p><p>A recent scoping review highlighted the limited involvement of people with diabetes in the development of hospital insulin safety interventions [<xref rid="hex70622-bib-0021" ref-type="bibr">21</xref>] A systematic review of interventions to improve insulin prescribing in hospital also demonstrated a lack of theory‐driven interventions, and low service user involvement [<xref rid="hex70622-bib-0001" ref-type="bibr">1</xref>]. Many safety interventions have focused on specific parts of the insulin process, such as prescribing, administration, self‐administration, IV insulin management and documentation [<xref rid="hex70622-bib-0005" ref-type="bibr">5</xref>, <xref rid="hex70622-bib-0022" ref-type="bibr">22</xref>, <xref rid="hex70622-bib-0023" ref-type="bibr">23</xref>, <xref rid="hex70622-bib-0024" ref-type="bibr">24</xref>]. Others have focused on specific professional groups [<xref rid="hex70622-bib-0025" ref-type="bibr">25</xref>, <xref rid="hex70622-bib-0026" ref-type="bibr">26</xref>] or on a certain care episode, for instance, ward care or discharge [<xref rid="hex70622-bib-0005" ref-type="bibr">5</xref>, <xref rid="hex70622-bib-0027" ref-type="bibr">27</xref>].</p><p>Given the interconnected nature of managing insulin across hospital services [<xref rid="hex70622-bib-0003" ref-type="bibr">3</xref>] and the safety risks associated with transitions of care [<xref rid="hex70622-bib-0028" ref-type="bibr">28</xref>], more consideration should be given to insulin use across the whole perioperative patient journey of older adults with diabetes in hospital to identify components for intervention development. This requires system‐based approaches to insulin safety. Given the knowledge gap in understanding experiences of older adults with diabetes in surgical inpatient contexts, involving them as co‐designers ensures the intervention development is grounded in lived experience.</p></sec><sec sec-type="methods" id="hex70622-sec-0080"><label>2</label><title>Methods</title><sec id="hex70622-sec-0090"><label>2.1</label><title>Design</title><p>The findings reported in this paper are from a study to develop an intervention for safer hospital insulin use for older adults living with diabetes, with or without frailty, undergoing a surgical hospital admission (SHINE Study) [<xref rid="hex70622-bib-0029" ref-type="bibr">29</xref>]. Guided by the Medical Research Council/National Institute for Healthcare and Research Framework for developing and evaluating complex interventions [<xref rid="hex70622-bib-0030" ref-type="bibr">30</xref>], the reported study uses an integrated approach of co‐design, based on the design thinking model, which uses a human‐centred approach to understand experiences and build empathy [<xref rid="hex70622-bib-0031" ref-type="bibr">31</xref>, <xref rid="hex70622-bib-0032" ref-type="bibr">32</xref>, <xref rid="hex70622-bib-0033" ref-type="bibr">33</xref>, <xref rid="hex70622-bib-0034" ref-type="bibr">34</xref>] with a system thinking lens, which acknowledges the complexity and interacting components implicated in hospital insulin use [<xref rid="hex70622-bib-0021" ref-type="bibr">21</xref>, <xref rid="hex70622-bib-0035" ref-type="bibr">35</xref>, <xref rid="hex70622-bib-0036" ref-type="bibr">36</xref>]. Design Thinking involves three phases: inspiration‐ understanding experiences and challenges and defining the problem; ideation‐ finding solutions and developing prototypes; and implementation, testing and piloting the intervention [<xref rid="hex70622-bib-0031" ref-type="bibr">31</xref>, <xref rid="hex70622-bib-0037" ref-type="bibr">37</xref>]. We have previously reported the findings of the inspiration phase [<xref rid="hex70622-bib-0038" ref-type="bibr">38</xref>, <xref rid="hex70622-bib-0039" ref-type="bibr">39</xref>]. This paper reports on the findings from the second phase (ideation), which built from inspiration phase and involved ideating and prototyping solutions to improve insulin safety in hospital for older adults. Reporting adheres to the Guidance for reporting intervention development studies in health research (GUIDED) [<xref rid="hex70622-bib-0040" ref-type="bibr">40</xref>], as signposted in the Medical Research Council Framework for development and evaluation of complex interventions [<xref rid="hex70622-bib-0030" ref-type="bibr">30</xref>].</p></sec><sec id="hex70622-sec-0100"><label>2.2</label><title>Study Setting and Participants</title><sec id="hex70622-sec-0110"><label>2.2.1</label><title>People With Diabetes</title><p>Participants were recruited from a single National Health Service (NHS) trust in a rural county which serves patients in England and Wales. Older adults with type 1 or type 2 diabetes who had been admitted for, general or orthopaedic surgery, either electively or as an emergency, were eligible for inclusion. Further inclusion criteria were: being able to give informed consent; aged ≥ 65 years; treated with insulin prior to and during hospital admission; having had a history of admission for surgery requiring as a minimum an overnight stay, within 9 months of recruitment (to allow recovery time and to enhance accurate recall of their experiences); and being a fluent English speaker.</p></sec><sec id="hex70622-sec-0120"><label>2.2.2</label><title>Staff</title><p>Multiprofessional staff working across the perioperative pathway were eligible for inclusion provided they had worked for a minimum of 3 months at the research site, to ensure they had familiarity with local challenges, processes and systems. Further details regarding hospital site characteristics can be found in Supporting Information (Appendix <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">1</xref>).</p></sec></sec><sec id="hex70622-sec-0130"><label>2.3</label><title>Sampling</title><p>Purposive sampling was used to target older adults with different types of diabetes, insulin regimens, and levels of frailty, with experience of emergency or elective surgery. Healthcare staff were also sampled to ensure representation of different professional groups and levels of experience, working in different parts of the perioperative care pathway. This approach allowed for inclusion of diverse experiences and perspectives which is key in intervention development [<xref rid="hex70622-bib-0030" ref-type="bibr">30</xref>]. We aimed to include a minimum of six to eight older adults with diabetes and six to eight healthcare professionals in our co‐design ‘ideation' phase of the study, which would be sufficient to achieve the main aims of the co‐design process [<xref rid="hex70622-bib-0041" ref-type="bibr">41</xref>, <xref rid="hex70622-bib-0042" ref-type="bibr">42</xref>]. The study was advertised through health‐specific social media, research site newsletters and posters displayed in clinical areas; participants were also recruited directly via a retrospective review of admissions by the diabetes team at the site [<xref rid="hex70622-bib-0029" ref-type="bibr">29</xref>]. Eligible participants were screened in person or remotely by the lead researcher (CLF), provided with an information sheet and given time to consider participation and ask questions. Written informed consent was obtained prior to participation. A one‐off £15 voucher was provided to all patients and to staff who were participating in the research outside their usual working hours.</p></sec><sec id="hex70622-sec-0140"><label>2.4</label><title>Ethical Approval</title><p>National Health Service (NHS) Health Research Authority ethical approval from East Midlands‐Derby Research Ethics Committee (24/EM/0022) and research site approval was gained prior to study commencement.</p></sec><sec id="hex70622-sec-0150"><label>2.5</label><title>Data Collection</title><p>The study's ideation phase was organised into two parts (A and B). In part A, parallel feedback activities were held with each participant group (staff and patients). In part B, integrated (joint) co‐design workshops were held where staff and patients attended together and contributed jointly.</p><p>Figure <xref rid="hex70622-fig-0001" ref-type="fig">1</xref> shows a visual representation of the interconnected sequence of data collection and analysis points during the SHINE Study. All workshops were facilitated by CLF in venues selected for participant convenience. The lead researcher (CLF) was supported by a nursing associate (DM) from the diabetes specialist team at the research site. Workshops were held between October and December 2024. CLF is a female researcher trained in qualitative methods with a clinical background in diabetes nursing.</p><fig position="float" fig-type="Figure" id="hex70622-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Visual representation of SHINE study interconnected activities.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="HEX-29-e70622-g001.jpg"/></fig><p>Table <xref rid="hex70622-tbl-0001" ref-type="table">1</xref> summarises the study data types, collection points, and activities which occurred during the course of the study. Collected data included audio‐recordings of the workshops which were transcribed, sticky notes and electronic whiteboards with participants comments and evaluation forms.</p><table-wrap position="float" id="hex70622-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Summary of SHINE study data types and collection points.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000" valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Data collection point</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>Objective</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>Participants</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>Activities</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>Data types</bold>
+</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="5" valign="top" rowspan="1">
+<bold>Ideation phase Substage A: Parallel feedback activities with patients and staff (reported in this paper)</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Workshop for HCP (<italic toggle="yes">n</italic> = 7)</p>
+<p>Duration of workshop: 2 h</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Presenting and validating findings of inspiration phase amongst staff</p></list-item><list-item><p>Identification and prioritisation of areas amenable to intervention development</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Multiprofessional staff working in hospital/trust</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Presentation of patient journey map using illustrations and ‘touchpoints' obtained following analysis of staff interviews (previous study) (Appendix <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">2</xref>)</p></list-item><list-item><p>Presentation of quotes to facilitate discussion (from previous study)</p></list-item><list-item><p>Dot voting activity for priority ranking (selection of top 6 priorities)</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Transcript of audio‐recorded group discussions</p></list-item><list-item><p>Sticky notes with comments</p></list-item><list-item><p>Patient journey map notes</p></list-item><list-item><p>Whiteboard sheet notes with ideas, priority ranking and notes</p></list-item><list-item><p>Field notes</p></list-item><list-item><p>Evaluation forms</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Workshop for people with diabetes (<italic toggle="yes">n</italic> = 1)*</p>
+<p>Duration of workshop: 1 h</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Presenting and validating findings of inspiration phase amongst people with diabetes</p></list-item><list-item><p>Identification and prioritisation of areas amenable to intervention development</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Older adults with diabetes treated with insulin with recent lived experience of surgical admission at study site</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Presentation of patient journey map using illustrations and ‘touchpoints' obtained following analysis of patient interviews (previous study)</p></list-item><list-item><p>Presentation of quotes to facilitate discussion (from previous study)</p></list-item><list-item><p>Dot voting activity for priority ranking</p></list-item><list-item><p>*2 participants cancelled in the 24 h prior to event due to health reasons, opting for remote contribution instead of re‐scheduling F2F event. The single attendee still completed all the workshop activities</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Patient journey map notes</p></list-item><list-item><p>Transcript of audio‐recorded discussion between patient, CLF and nursing associate supporting event.</p></list-item><list-item><p>Sticky notes with comments</p></list-item><list-item><p>Whiteboard sheet notes with ideas, priority ranking and notes</p></list-item><list-item><p>Field notes</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">People with diabetes remote contribution (<italic toggle="yes">n</italic> = 9)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Presenting and validating findings of inspiration phase amongst people with diabetes</p></list-item><list-item><p>Individual identification and prioritisation of areas amenable to intervention development</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Older adults with diabetes treated with insulin with recent lived experience of surgical admission at study site</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Postal pack sent to participants which contained instructions and an A3 printout of the ‘patient journey map' (Appendix <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">3</xref>) with a pre‐stamped return envelope.</p></list-item><list-item><p>Participants could add comments and were asked to highlight their top 6 priorities for areas amenable to intervention development</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Patient journey map notes completed remotely and returned to CLF</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" colspan="5" valign="top" rowspan="1">
+<bold>Ideation Phase Substage B integrated staff‐patient co‐design workshops (reported in this paper)</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Integrated staff‐patient co‐design workshop 1</p>
+<p>Presential attendance (<italic toggle="yes">n</italic> = 7)</p>
+<p>2 PWD &amp; 5 HCP</p>
+<p>Duration 2.5 h</p>
+<p>Remote contribution of people with diabetes through audio content (n = 10)*</p>
+<p>*The 2 PWD who attended F2F also released their audio contribution from interview</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Present findings from inspiration phase</p></list-item><list-item><p>Present priorities from parallel activities (ideation phase substage A)</p></list-item><list-item><p>Jointly prioritise areas for development</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Multiprofessional staff working along the perioperative pathway</p></list-item><list-item><p>Older adults with diabetes with recent lived experience could attend face‐to‐face or contribute remotely by releasing audio content from their interviews, highlighting their experiences and priorities for intervention development (having checked portions of interview transcripts to be edited and released and completed prior journey map activity)</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>30‐min audio presentation of portions from patient interviews to relay “key touchpoints from patient interviews and ensure their voice represented</p></list-item><list-item><p>Presentation of patient journey map with challenges as presented by patients and staff</p></list-item><list-item><p>Presentation of quotes to facilitate discussion (from previous study)</p></list-item><list-item><p>Discussion and voting of joint priorities to take forward to development in workshop 2</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Patient journey map notes</p></list-item><list-item><p>Transcript of audio‐recorded group discussion</p></list-item><list-item><p>Sticky notes with comments and preliminary ideas</p></list-item><list-item><p>Whiteboard sheet notes with ideas, comments and priority ranking</p></list-item><list-item><p>Field notes</p></list-item><list-item><p>Evaluation forms</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Integrated staff‐patient co‐design workshop 2</p>
+<p>Presential attendance (n = 8)</p>
+<p>2 PWD</p>
+<p>6 HCP</p>
+<p>Duration of workshop 2.5 h</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Generate ideas and potential solutions for the initial 6 areas jointly prioritised for intervention development</p></list-item><list-item><p>Iteratively build conceptual model of components for complex intervention</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Multiprofessional staff working along the perioperative pathway</p></list-item><list-item><p>Older adults with diabetes with recent lived experience of surgical admission at study site</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>2 smaller co‐design groups (each with 1PWD)</p></list-item><list-item><p>Each group worked on 3 jointly prioritised areas for intervention development (workshop 1)</p></list-item><list-item><p>Design thinking tools (Critical items diagram and 2×2 matrix) used to support divergent‐convergent process of idea and solution generation and identification of components for conceptual model</p></list-item><list-item><p>Critical items diagram to structure the findings from the early phases and prepare for ideating and experimenting</p></list-item><list-item><p>2×2 Matrix: To categorise and prioritise ideas or identify strategic opportunities and patterns. Ideas that had been identified at previous SHINE study activities were also pre‐printed on laminate cards to ensure wider key player ideas and perspectives included. Example of completed 2×2 matrix in Appendix <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">4</xref> Supporting Information.</p></list-item><list-item><p>Patient and staff journey map printouts and RESILIENT Framework (scoping review findings) were accessible for participants to consult during events</p></list-item><list-item><p>Wider facilitated group discussion: each smaller co‐design group presented their perspectives, challenges and solutions and the group identified possible components for conceptual model of intervention</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Patient journey map notes</p></list-item><list-item><p>Transcript of audio‐recorded group discussion</p></list-item><list-item><p>Sticky notes with comments and preliminary ideas</p></list-item><list-item><p>Whiteboard sheet with 2×2 matrix notes with ideas, comments and priority ranking</p></list-item><list-item><p>Field notes</p></list-item><list-item><p>Evaluation forms</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Integrated staff‐patient co‐design workshop 3</p>
+<p>Presential attendance (<italic toggle="yes">n</italic> = 6)</p>
+<p>1 PWD</p>
+<p>5 HCP</p>
+<p>1 PWD remote contribution to content for tool 1Duration of workshop 2.5 h</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Iteratively refine prototype of conceptual model of components for complex intervention.</p></list-item><list-item><p>Design of prototypes: Identify content for tools 1 &amp; 2 to support patient empowerment and preparedness for hospital admission</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Multiprofessional staff working along the perioperative pathway</p></list-item><list-item><p>Older adults with diabetes with recent lived experience of surgical admission at study site</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Presentation and discussion of SHINE Wheel conceptual model prototype developed visually by CLF, HH‐A, AF and KW, resulting from all the previous work in SHINE Study.</p></list-item><list-item><p>Activities in 2 smaller co‐design groups refining the SHINE Wheel conceptual prototype. The PWD spent time with both groups: Group 1 worked on identification of inputs (resource required) and assumptions (underlying beliefs or conditions); Group 2 worked on identification of outputs &amp; outcomes and ways of monitoring &amp; evaluation for the SHINE wheel conceptual model prototype</p></list-item><list-item><p>Group discussion to agree components to include in refined prototypes: SHINE Wheel &amp; tools 1 &amp; 2</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Refined SHINE Wheel conceptual model prototype</p></list-item><list-item><p>Whiteboard sheet with ideas, comments for specific components/outputs including ideas, comments and content for tool 1 &amp; 2 to be developed</p></list-item><list-item><p>Transcript of audio‐recorded group discussion</p></list-item><list-item><p>Field notes &amp; Evaluation forms</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Feedback</td><td align="left" valign="top" rowspan="1" colspan="1">Refinement of prototypes</td><td align="left" valign="top" rowspan="1" colspan="1">Study participants</td><td align="left" valign="top" rowspan="1" colspan="1">Email, telephone calls, or meetings: feedback to specific questions regarding prototype content, design, relevance, usability</td><td align="left" valign="top" rowspan="1" colspan="1">Infographic prototypes (SHINE Wheel, Tool 1 &amp; 2)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><sec id="hex70622-sec-0160"><label>2.5.1</label><title>Parallel Feedback Activities</title><p>Prior to these workshops, interview transcripts from the qualitative interviews (inspiration phase) had been read by CLF and the research team (HH‐A, AF and KW) to identify “touchpoints.” The touchpoints express the significant points that occurred in relation to their insulin experiences during the care journey [<xref rid="hex70622-bib-0042" ref-type="bibr">42</xref>]. These were then re‐phrased as “data driven active sentences” (e.g. <italic toggle="yes">“Not being able to access my insulin”</italic>) and organised into two separate patient journey maps (one developed with staff data and the other with patient data originating from the interviews held in the inspiration phase) (see Supporting Information, Appendices <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">2</xref> and <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">3</xref>). These maps represented key experiences and impacts and related these to the care context (interactions between patients and healthcare professionals and the care system).</p><p>Presentation of the maps to the workshop participants led to further discussions of the touchpoints, allowed for further comments to be added, enabled the validation of findings and provided a list of priorities to improve safety. After several older adults had expressed problems with face‐to‐face workshop attendance, all patient participants were provided with the option to review the journey maps remotely, validate findings, identify interventions and give feedback by post. Post was the participants' preferred method and helped avoid digital exclusion.</p></sec><sec id="hex70622-sec-0170"><label>2.5.2</label><title>Integrated Staff‐Patient Co‐Design Workshops</title><p>Three integrated staff‐patient co‐design workshops were then held, each building iteratively upon ideas obtained from earlier workshops.</p></sec><sec id="hex70622-sec-0180"><label>2.5.3</label><title>Integrated Workshop 1</title><p>The aim of this first workshop was to present the priorities of each participant group to facilitate discussions, leading to establishing joint/shared priorities for intervention development. A 30‐min audio presentation was presented to stimulate ideation, the presentation used audio extracts of the 10 interviews conducted in the inspiration phase. The presentation followed the patient and used captions to identify the touchpoint themes as the audio played. The presentation was used in the first joint co‐design workshop, alongside the two journey maps which had been presented at the parallel workshops. Participants not attending in person were able to contribute their experiences and priorities for intervention development remotely by post or email.</p></sec><sec id="hex70622-sec-0190"><label>2.5.4</label><title>Integrated Workshops 2 &amp; 3</title><p>These workshops encouraged the formation of smaller groups to generate further ideas and solutions, and review and refine prototypes. These small groups then shared their ideas and views with all workshop participants to agree what ideas should be taken forward.</p><p>The field notes, transcripts and materials created in each workshop were analysed by the lead researcher (CLF) post‐workshop and then communicated to participants at subsequent workshops to inform focus and promote intervention development.</p><p>Any final prototypes and tools which had been developed during the workshops were then circulated to participants via email, face‐to‐face or through phone discussion to verify, review and refine (Table <xref rid="hex70622-tbl-0002" ref-type="table">2</xref>).</p><table-wrap position="float" id="hex70622-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Characteristics of SHINE study participants.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000" valign="bottom"><th align="left" colspan="9" valign="bottom" rowspan="1">People with diabetes participants</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Study identifier</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>Sex</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>Age (Years)</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>Ethnicity</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>Type of diabetes</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>Duration of diabetes</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>Type of insulin regímen and level of self‐managing prior to admission</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>Type of admission and length of stay in hospital</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>SHINE study activities</bold>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">77</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td align="left" valign="top" rowspan="1" colspan="1">Type 1 diabetes</td><td align="center" valign="top" rowspan="1" colspan="1">23 years</td><td align="left" valign="top" rowspan="1" colspan="1">Self‐managing multiple daily injections with basal and bolus analogue insulins</td><td align="left" valign="top" rowspan="1" colspan="1">Emergency</td><td align="center" valign="top" rowspan="1" colspan="1">I, RC, F</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">73</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td align="left" valign="top" rowspan="1" colspan="1">Type 1 diabetes</td><td align="center" valign="top" rowspan="1" colspan="1">56 years</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Self‐managing multiple daily injections</p>
+<p>with basal and bolus analogue insulins</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Elective</td><td align="center" valign="top" rowspan="1" colspan="1">I, RC</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">68</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td align="left" valign="top" rowspan="1" colspan="1">Type 1 diabetes</td><td align="center" valign="top" rowspan="1" colspan="1">40 years</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Self‐managing multiple daily injections</p>
+<p>with basal and bolus analogue insulins</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Elective</td><td align="center" valign="top" rowspan="1" colspan="1">I, RC</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">72</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td align="left" valign="top" rowspan="1" colspan="1">Type 1 diabetes</td><td align="center" valign="top" rowspan="1" colspan="1">61 years</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Self‐managing multiple daily injections</p>
+<p>with basal and bolus analogue insulins</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Elective</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>I, RC, APW, ACD, F</p>
+<p>Attended workshops 1,2 and remote contribution workshop 3</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">79</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td align="left" valign="top" rowspan="1" colspan="1">Type 2 Diabetes</td><td align="center" valign="top" rowspan="1" colspan="1">25 years</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Self‐managing multiple daily injections</p>
+<p>with basal and bolus analogue insulins</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Elective</td><td align="center" valign="top" rowspan="1" colspan="1">I, RC</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">85</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td align="left" valign="top" rowspan="1" colspan="1">Type 2 Diabetes</td><td align="center" valign="top" rowspan="1" colspan="1">20 years</td><td align="left" valign="top" rowspan="1" colspan="1">Self‐managing biphasic insulin three times daily</td><td align="left" valign="top" rowspan="1" colspan="1">Emergency</td><td align="center" valign="top" rowspan="1" colspan="1">I, RC</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">77</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td align="left" valign="top" rowspan="1" colspan="1">Type 2 Diabetes</td><td align="center" valign="top" rowspan="1" colspan="1">24 years</td><td align="left" valign="top" rowspan="1" colspan="1">Self‐managing basal analogue insulin once daily</td><td align="left" valign="top" rowspan="1" colspan="1">Elective</td><td align="center" valign="top" rowspan="1" colspan="1">I, RC</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">74</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td align="left" valign="top" rowspan="1" colspan="1">Type 2 Diabetes</td><td align="center" valign="top" rowspan="1" colspan="1">&gt; 10 years</td><td align="left" valign="top" rowspan="1" colspan="1">Self‐managing basal analogue insulin once daily</td><td align="left" valign="top" rowspan="1" colspan="1">Elective</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>I, RC, ACD, F</p>
+<p>Attended workshops 1, 2, 3</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">91</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td align="left" valign="top" rowspan="1" colspan="1">Type 2 Diabetes</td><td align="center" valign="top" rowspan="1" colspan="1">&gt; 30 years</td><td align="left" valign="top" rowspan="1" colspan="1">Self‐managing intermediate insulin once daily</td><td align="left" valign="top" rowspan="1" colspan="1">Elective</td><td align="center" valign="top" rowspan="1" colspan="1">I, RC</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">10</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">76</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td align="left" valign="top" rowspan="1" colspan="1">Type 2 Diabetes</td><td align="center" valign="top" rowspan="1" colspan="1">&gt; 10 years</td><td align="left" valign="top" rowspan="1" colspan="1">Self‐managing basal analogue insulin once daily</td><td align="left" valign="top" rowspan="1" colspan="1">Elective</td><td align="center" valign="top" rowspan="1" colspan="1">I, RC</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="center" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000" valign="bottom"><th align="left" colspan="9" valign="bottom" rowspan="1">
+<bold>Staff participants</bold>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Study identifier</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>Sex</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>Age (Years)</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>Ethnicity</bold>
+</th><th align="center" colspan="2" valign="bottom" rowspan="1">
+<bold>Staff Group &amp; Area of work</bold>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<bold>Professional Experience in NHS (years)</bold>
+</th><th align="center" colspan="2" valign="bottom" rowspan="1">
+<bold>SHINE study activities</bold>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">30</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Nursing Registered (Diabetes)</td><td align="center" valign="top" rowspan="1" colspan="1">7</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">37</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Nursing Registered (Surgical ward)</td><td align="center" valign="top" rowspan="1" colspan="1">13</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">50</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Nursing Registered (Frailty)</td><td align="center" valign="top" rowspan="1" colspan="1">19</td><td align="center" colspan="2" valign="top" rowspan="1">I, ASW, ACD workshop 3, F</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">48</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Nursing Registered (Medicines Safety)</td><td align="center" valign="top" rowspan="1" colspan="1">30</td><td align="center" colspan="2" valign="top" rowspan="1">I, ASW, ACD workshop 2, F</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">55</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Nursing Registered (Patient safety)</td><td align="center" valign="top" rowspan="1" colspan="1">33</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">6</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">29</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Nursing Registered (Diabetes)</td><td align="center" valign="top" rowspan="1" colspan="1">12</td><td align="center" colspan="2" valign="top" rowspan="1">I, ASW, ACD Workshop 1, 2, 3, F</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">7</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">55</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Administrative and clerical (Safety &amp; Governance)</td><td align="center" valign="top" rowspan="1" colspan="1">10</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">41</td><td align="left" valign="top" rowspan="1" colspan="1">Asian</td><td colspan="2" align="left" valign="top" rowspan="1">Medical (Diabetes)</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" colspan="2" valign="top" rowspan="1">I, ASW, F</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">9</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">32</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Healthcare scientist (Pharmacy)</td><td align="center" valign="top" rowspan="1" colspan="1">9.5</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">10</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">48</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Additional clinical services (Surgical wards)</td><td align="center" valign="top" rowspan="1" colspan="1">14</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">11</td><td align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">27</td><td align="left" valign="top" rowspan="1" colspan="1">Asian</td><td colspan="2" align="left" valign="top" rowspan="1">Medical (Geri‐Orthopaedics)</td><td align="center" valign="top" rowspan="1" colspan="1">9 months</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">12</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">32</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Allied health professional (Surgical wards)</td><td align="center" valign="top" rowspan="1" colspan="1">7</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">13</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">29</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Nursing Registered (Geri‐Orthopaedics)</td><td align="center" valign="top" rowspan="1" colspan="1">11</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">14</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">48</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Nursing Registered (Quality &amp; safety)</td><td align="center" valign="top" rowspan="1" colspan="1">24</td><td align="center" colspan="2" valign="top" rowspan="1">I, ACD Workshop 1, 2, 3, F</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">15</td><td align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">40</td><td align="left" valign="top" rowspan="1" colspan="1">African</td><td colspan="2" align="left" valign="top" rowspan="1">Medical (Geriatrics)</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">16</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">26</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Nursing Registered (Surgical ward)</td><td align="center" valign="top" rowspan="1" colspan="1">6</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">17</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">34</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Healthcare scientist (Pharmacy)</td><td align="center" valign="top" rowspan="1" colspan="1">12</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">18</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">29</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Nursing Registered (Surgical ward)</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">19</td><td align="left" valign="top" rowspan="1" colspan="1">Male</td><td align="center" valign="top" rowspan="1" colspan="1">62</td><td align="left" valign="top" rowspan="1" colspan="1">Asian</td><td colspan="2" align="left" valign="top" rowspan="1">Nursing Registered (Surgical Ward)</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">20</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">37</td><td align="left" valign="top" rowspan="1" colspan="1">Asian</td><td colspan="2" align="left" valign="top" rowspan="1">Nursing Registered (Surgical Ward)</td><td align="center" valign="top" rowspan="1" colspan="1">8</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">21</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">45</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Medical Registered (Anaesthetics)</td><td align="center" valign="top" rowspan="1" colspan="1">21</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">22</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">30</td><td align="left" valign="top" rowspan="1" colspan="1">Asian</td><td colspan="2" align="left" valign="top" rowspan="1">Nursing Registered (Surgical Ward)</td><td align="center" valign="top" rowspan="1" colspan="1">4.5</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">23</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">57</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Nursing Registered (Practice Nursing, community)</td><td align="center" valign="top" rowspan="1" colspan="1">39</td><td align="center" colspan="2" valign="top" rowspan="1">ASW, ACD workshops 1, 2, 3, F</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">24</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">61</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Allied health professional (Pre‐Op)</td><td align="center" valign="top" rowspan="1" colspan="1">22</td><td align="center" colspan="2" valign="top" rowspan="1">I, ACD, workshops 1, 2, 3</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">25</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">50</td><td align="left" valign="top" rowspan="1" colspan="1">Asian</td><td colspan="2" align="left" valign="top" rowspan="1">Nursing Registered (Theatres)</td><td align="center" valign="top" rowspan="1" colspan="1">14</td><td align="center" colspan="2" valign="top" rowspan="1">I</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">26</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">40</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Allied health professional (Dietetics)</td><td align="center" valign="top" rowspan="1" colspan="1">18</td><td align="center" colspan="2" valign="top" rowspan="1">ACD Workshop 1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">27</td><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="left" valign="top" rowspan="1" colspan="1">White</td><td colspan="2" align="left" valign="top" rowspan="1">Medical (Education)</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" colspan="2" valign="top" rowspan="1">ACD Workshop 2 &amp; 3, F</td></tr></tbody></table><table-wrap-foot><fn id="hex70622-tbl2-note-0001"><p>
+<italic toggle="yes">Note:</italic> SHINE study activities: Interview (I); Remote Contribution for patient priorities &amp; co‐design workshop 1 (RC); Attended staff only workshop (ASW); Attended Patient only workshop (APW) Attendance to co‐design workshops (ACD) Feedback of prototypes (F).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec></sec><sec id="hex70622-sec-0200"><label>2.6</label><title>Data Analysis</title><p>Data were analysed using a process of framework analysis [<xref rid="hex70622-bib-0043" ref-type="bibr">43</xref>, <xref rid="hex70622-bib-0044" ref-type="bibr">44</xref>, <xref rid="hex70622-bib-0045" ref-type="bibr">45</xref>] to allow the incorporation of theory and prior knowledge gained throughout the previous phases of the study [<xref rid="hex70622-bib-0019" ref-type="bibr">19</xref>, <xref rid="hex70622-bib-0021" ref-type="bibr">21</xref>, <xref rid="hex70622-bib-0036" ref-type="bibr">36</xref>, <xref rid="hex70622-bib-0046" ref-type="bibr">46</xref>] whilst also allowing new themes to emerge. The analysis process involved the following [<xref rid="hex70622-bib-0043" ref-type="bibr">43</xref>] process:
+<list list-type="simple"><list-item><label>1.</label><p>Familiarisation: listening to audio recordings, reading and re‐reading outputs generated at workshops/remote contributions (e.g. transcripts, observational notes, sticky notes, evaluation forms and magic whiteboard).</p></list-item><list-item><label>2.</label><p>Identifying a thematic framework: An initial framework was developed by the research team through an inductive‐deductive process comprising five categories: patient empowerment, perioperative pathway for people with diabetes; insulin use process tasks in hospital; staff knowledge and confidence; system learning.</p></list-item><list-item><label>3.</label><p>Coding and Indexing: CLF coded and themed the workshop data and discussed findings with the research team (HH‐A, AF &amp; KW). The framework was refined iteratively through the process.</p></list-item><list-item><label>4.</label><p>Charting: CLF entered the data into thematic matrices.</p></list-item><list-item><label>5.</label><p>Mapping and interpretation: Several collaborative analysis sessions by the entire research team reviewing the connections between experiences, challenges, ideas, solutions led to agreement on the final themes and prototypes which are reported in this paper.</p></list-item></list>
+</p><sec id="hex70622-sec-0210"><label>2.6.1</label><title>Conceptual Model Development</title><p>Through an inductive‐deductive process to analyse the interacting components and solution themes and guided by the MRC Framework for intervention development [<xref rid="hex70622-bib-0030" ref-type="bibr">30</xref>], a logic model of a safety intervention was developed [<xref rid="hex70622-bib-0047" ref-type="bibr">47</xref>].</p></sec></sec><sec id="hex70622-sec-0220"><label>2.7</label><title>Patient and Public Involvement</title><p>A group of older adults living with diabetes (<italic toggle="yes">n</italic> = 10) and their family members (<italic toggle="yes">n</italic> = 2) recruited from an existing peer support group contributed to SHINE study design, and the development of interview topic guides, participant recruitment posters and information sheets [<xref rid="hex70622-bib-0029" ref-type="bibr">29</xref>].</p></sec></sec><sec sec-type="results" id="hex70622-sec-0230"><label>3</label><title>Results</title><sec id="hex70622-sec-0240"><label>3.1</label><title>Participants</title><p>All participants were given the option of attending one or more SHINE study activities. In total, there were 37 participants across all the stages of SHINE study. Table <xref rid="hex70622-tbl-0002" ref-type="table">2</xref> provides demographic characteristics of participants and shows stakeholder participation in the different SHINE study activities for inspiration and ideation phases.</p><p>For the ideation phase, 10 older adults with diabetes contributed to workshops in the study. All were white, with a median age of 76.5 (range: 68 to 91 years). Seven were female and three were male; four had type 1 diabetes and six had type 2 diabetes. All were self‐managing their insulin treatment prior to hospital admission. Two underwent emergency admissions, and the remainder had elective surgical admissions. Of the 11 healthcare professionals participating across the five workshops, nine were white and two were Asian. Their median age was 42.3 years. Seven were registered nurses, two were doctors, and two were allied healthcare professionals. Their average duration of NHS service was 18 years (ranging from 2 to 39 years).</p><p>In terms of contribution, one patient attended the first parallel feedback workshop whilst nine others contributed remotely to the work. One parallel feedback workshop was held for staff with seven healthcare professionals in attendance. Three integrated staff‐patient co‐design workshops were held (<italic toggle="yes">n</italic> = 7, <italic toggle="yes">n</italic> = 8, <italic toggle="yes">n</italic> = 6). Whilst numbers at each face‐to‐face event varied, a total of 10 older adults and 11 healthcare professionals contributed to the co‐design process.</p></sec><sec id="hex70622-sec-0250"><label>3.2</label><title>Validation of Touchpoints and Prioritisation of Areas for Intervention (Workshops 1 &amp; 2 &amp; Remote Contributions)</title><p>Similar touchpoints originating across different wards at the research site highlighted how patients' experiences were not isolated to specific surgical wards. The areas important to all participants included: the need to identify/acknowledge diabetes at transitions of care; the importance of facilitating self‐administration of insulin in hospital; the need for information to be provided pre‐operatively; and staff confidence with insulin management.</p></sec><sec id="hex70622-sec-0260"><label>3.3</label><title>Prioritisation of Areas for Improvement and Intervention (Joint Workshop 3 &amp; Remote Contributions)</title><p>The jointly selected areas prioritised for interventions were [<xref rid="hex70622-bib-0001" ref-type="bibr">1</xref>]: Identifying and acknowledging diabetes &amp; insulin at transitions of care [<xref rid="hex70622-bib-0002" ref-type="bibr">2</xref>]; Providing pre‐op advice [<xref rid="hex70622-bib-0003" ref-type="bibr">3</xref>]; Improving patient empowerment in hospital [<xref rid="hex70622-bib-0004" ref-type="bibr">4</xref>]; Right timing and technique of insulin administration in hospital [<xref rid="hex70622-bib-0005" ref-type="bibr">5</xref>]; Enhancing staff knowledge and confidence in diabetes &amp; insulin; and [<xref rid="hex70622-bib-0006" ref-type="bibr">6</xref>] Fostering system learning. A summary of touchpoint categories, participants' parallel and jointly selected priorities, and how these priorities link to the touchpoints across the perioperative care pathway can be found in Appendix <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">5</xref>.</p><p>The jointly selected priorities were then analysed by the research team (CLF, HH‐A, AF, KW) and re‐considered using systems thinking and the RESILIENT Framework [<xref rid="hex70622-bib-0021" ref-type="bibr">21</xref>] to develop a conceptual model of an intervention to improve safety. This led to the selection of two important areas for intervention, referred to as ‘<italic toggle="yes">Right insulin, Right time, Right way'</italic> and <italic toggle="yes">‘Safer transitions of care.'</italic> Eight associated actions were identified with these intervention areas by stakeholders. This included: (1) increasing the preparedness of people with diabetes; (2) developing and supporting the workforce; (3) facilitating patient empowerment; (4) increasing accessibility of information; (5) early identification and optimisation of patient insulin management; (6) enhancing systems and practices of insulin use; (7) integrating care pathways; and (8) fostering safe reporting and employing system learning. The joint priorities linked to the areas for intervention and associated actions in the conceptual model can be seen represented visually in Supporting material Appendix <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">6</xref>.</p></sec><sec id="hex70622-sec-0270"><label>3.4</label><title>Integrated Workshop 4—Ideation (Solution) Themes</title><p>Throughout the process, but particularly in workshop 4, participants identified potential solutions and components for the intervention logic model. These were mapped under six main interlinked themes [<xref rid="hex70622-bib-0001" ref-type="bibr">1</xref>]: It is all so connected [<xref rid="hex70622-bib-0002" ref-type="bibr">2</xref>]; Right insulin, right time, right way [<xref rid="hex70622-bib-0003" ref-type="bibr">3</xref>]; Safer transitions of care [<xref rid="hex70622-bib-0004" ref-type="bibr">4</xref>]; Organisation and provision of care [<xref rid="hex70622-bib-0005" ref-type="bibr">5</xref>]; Empowerment [<xref rid="hex70622-bib-0006" ref-type="bibr">6</xref>]; Supporting and developing staff. Table <xref rid="hex70622-tbl-0003" ref-type="table">3</xref> provides a description of the themes and subthemes, illustrative quotes and their impact on the co‐design process.</p><table-wrap position="float" id="hex70622-tbl-0003" content-type="Table" orientation="portrait"><label>Table 3</label><caption><p>Description of themes including illustrative quotes and ways the themes informed the co‐design process.</p></caption><table frame="hsides" rules="groups"><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><col align="left" style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000" valign="bottom"><th align="left" valign="bottom" rowspan="1" colspan="1">Overarching theme &amp; subthemes</th><th align="center" valign="bottom" rowspan="1" colspan="1">Description of theme</th><th align="center" valign="bottom" rowspan="1" colspan="1">Illustrative quotes/excerpts from workshop activities and discussions</th><th align="center" valign="bottom" rowspan="1" colspan="1">Impact on co‐design process and development of SHINE Wheel (Figure <xref rid="hex70622-fig-0002" ref-type="fig">2</xref>)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>It is all so connected</p>
+<p>
+<italic toggle="yes">Overwhelming</italic>
+</p>
+<p>
+<italic toggle="yes">Empathy infused systems approach</italic>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Participants discussed the many interacting components in hospital insulin use, not always considered or captured in insulin safety reviews. Areas where misalignments impacted on insulin safety, within an environment and at a system level were identified.</p></list-item><list-item><p>Discussions highlighted how overwhelming it can be to consider the complexity; how to make change and where to start. Participants valued listening to different perspectives and experiences.</p></list-item><list-item><p>Participants reflected how a systems approach to explore and learn from insulin use in hospital is still not understood or embedded, yet has potential to increase understanding of complexity of the problem and build system resilience. Empathy and just culture approach needed.</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">“It's very complicated, isn't it? And I don't think we can kind of take that away.” (<bold>clinician</bold>, workshop 3)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“everything's so interlinked.”(<bold>clinician</bold>, workshop)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“And it's been interesting to hear things from your side because we only see it from our side. And we are of paramount importance to ourselves, but you have to understand where you fit into the bigger picture and how it presents difficulties for you [staff].” (<bold>person with diabetes</bold> workshop 4)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“if it's reported, or if it's audited, then we find out about it. But if those two things don't happen, then you don't know about it (…) from a bigger sense.” (<bold>Clinician</bold>, workshop 5)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“There is some really good practice and if we're looking at improving safety and improving system learning, if we can seek to share what went well and replicate the environmental contributory factors that supported that, that's good for everybody.” (<bold>clinician</bold>, workshop 4)</italic>
+</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>A systems approach considering interacting components of insulin use [<xref rid="hex70622-bib-0021" ref-type="bibr">21</xref>] informed the development of this study and co‐design process, from selection of activities to the choice of a circular representation for the conceptual model, attempting to relay interconnectivity in components, instead of using a more traditional linear representation.</p></list-item><list-item><p>Informed discussions about ideas and solutions. The idea that <italic toggle="yes">hospital insulin safety starts in the community</italic> with empowerment and increasing preparedness of people with diabetes for hospital admission and through key partnerships across the system</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Right insulin, right time, right way</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Participants identified ways that systems and practices of medications, impacted by multiple interacting components which sometimes misalign, led to insulin use errors.</p></list-item><list-item><p>The issue of <italic toggle="yes">right timing</italic> was highlighted by people with diabetes as requiring improvement. Staff identified contributing factors such as systems and processes, knowledge gaps, attitudes and behaviours, accessibility of information. Increasing empowerment ethos, facilitating self‐management could address many insulin administration challenges.</p></list-item><list-item><p>The idea of changing nursing processes and starting a “time‐critical drugs medication round” to include insulin was identified to address staff challenges around timely administration of insulin when patients were unable to self‐administer.</p></list-item><list-item><p>Safe intravenous insulin infusion management identified as requiring further work to improve staff confidence and safety; streamlining guidelines, training &amp; support, shared decision making.</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">“the nursing staff don't understand the importance of timing between insulin and food.” <bold>(person with diabetes</bold>, workshop 2)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“I think everyone is like treating insulin as the same, like other drugs, not like critical drugs.(…) thinking about when I first qualified (…), I don't think I really recognised the importance of insulin and having it on time” <bold>(clinician</bold>, workshop 1)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“when I asked for my insulin, because they were bringing round the dinner trolley, and one of the nurses just called out “Well, eat your dinner and then have your injection afterwards.” And I thought, “Well on your head, be it” (laughs) because I know what will happen. But you feel helpless. You know, you can't go running around the ward saying “I want my insulin!” (<bold>person with diabetes</bold> workshop 3)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">Yes, you can discuss the possibility of [intravenous insulin management]. Whose responsibility will it be? And I think that's something that needs to be taken into consideration because it was such a big problem for me.(…) (<bold>person with diabetes</bold> workshop 3)</italic>
+</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>This theme holds a central place in the SHINE Wheel, as so many of the challenges participants identified came back to this theme.</p></list-item><list-item><p>Specific challenges and ideas on the theme are captured in components of SHINE Wheel; all its actions and outputs link to this theme.</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Safer transitions of care</p>
+<p>
+<italic toggle="yes">Accessibility of information</italic>
+</p>
+<p>
+<italic toggle="yes">Early identification and optimisation</italic>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Participants identified several challenges associated to transitions of care:</p></list-item><list-item><p>Accessibility of information; lack of system and healthcare records integration, communication breakdown</p></list-item><list-item><p>Lack of preparedness of people with diabetes (and family members/carers) for hospital admission; assumptions about hospitalisation</p></list-item><list-item><p>Characteristics that may be more present in an older population can exacerbate difficulties at transitions of care; Eg. frailty, polypharmacy, cognitive impairment, nutritional deficit, communication barriers, not able to self‐manage</p></list-item><list-item><p>Early identification and optimisation and increasing accessibility of information were seen as key to safer transitions of care. The idea emerged to develop standardised diabetes &amp; insulin handovers to ensure better consistency of information at transitions of care;</p></list-item><list-item><p>Greater public empowerment and increased preparedness of people with diabetes for hospital admission were considered essential to safer transitions of care; ways to target this identified.</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">“Surprising the amount of people who documented “breakdown” in communication for handovers and transition of care” (<bold>clinician</bold>, workshop 1)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“(…)we had a patient come in on insulin, (…) elderly [with dementia] and the district nurse said they lived out of area, and they didn't know what they were on, the family didn't know the doses, (…) and it was awful, it was a nightmare.” (<bold>clinician</bold>, workshop 5)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“Yeah, if you don't get it right at the beginning, you're not going to get it right throughout the rest of the journey, are you?” (<bold>Clinician</bold>, workshop1)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“one of the main problems [listening to patient's stories of admission] was that diabetic patients weren't necessarily aware that they could sign a responsibility, (…) take responsibility for their own care. And for those of us that want to do that it would make a huge difference, (…), it took about five days before I managed to get the form to sign.” (<bold>person with diabetes</bold>, workshop 3)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“(…) if all of the medications are taken away from the patient, they would assume that now the control is not in my hands so it's the responsibility of the people who have taken my medicines away.” (<bold>clinician</bold>, workshop 1)</italic>
+</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>This theme holds a central place in the SHINE Wheel, as so many of the challenges participants identified came back to this theme.</p></list-item><list-item><p>Specific challenges and ideas on the theme are captured in components of SHINE Wheel and prototype tools.</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Empowerment</p>
+<p>
+<italic toggle="yes">Facing the unknown and preparedness</italic>
+</p>
+<p>
+<italic toggle="yes">Facilitating empowerment in hospital</italic>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Improving patient engagement and increased preparedness for hospital admission were identified as key to addressing many of the challenges associated with insulin errors.</p></list-item><list-item><p>People with diabetes were often navigating the unknown, feeling a sense of loss of control. Many wished they had received more relevant diabetes &amp; insulin related information prior to admission.</p></list-item><list-item><p>Staff identified the need to strengthen empowerment ethos in the hospital to increase facilitated safe self‐management of insulin.</p></list-item><list-item><p>The importance of developing partnerships in the community to disseminate key messages to increase preparedness for hospital admission and safer transitions of care was discussed. The idea to provide ‘safety netting' advice in primary care and outpatient dedicated reviews to targeted populations at high risk of hospital admission.</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">“Well, it's your life, (…) it's what you've been used to having to keep under control for as long as you've had it. And when that sort of management is not exactly taken away from you, but you haven't got the means to control it, I think that's, well, it's quite damaging.” <bold>(Person with diabetes,</bold> workshop 2<bold>)</bold>
+</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“Because we take away people's autonomy, don't we, when they come into hospital, completely take it all away and that's wrong.” (<bold>clinician</bold>, workshop 1)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“we need to know beforehand that we have the right to self‐administer. As soon as we're admitted, we need to know where our insulin is kept. And that the staff on the ward know that you are self‐administering.” <bold>(person with diabetes</bold>, workshop 2)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“I'm just wondering if patients don't bring their insulin because they just assume we're going to have it, or they don't want it to get lost.” (<bold>clinician</bold>, workshop 5)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“We were saying about this idea of when people come in [to hospital], they stop being a person, they become a patient and that whole empowerment thing. Like, if we could start that sooner and be like, “Yeah, you are a patient, but you are also someone who manages this” (<bold>clinician</bold>, workshop 5)</italic>
+</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>The importance of patient empowerment is weaved into several of the actions and outputs in SHINE Wheel.</p></list-item><list-item><p>Specific and detailed ideas and solutions were used in the development of the prototype tools (Supporting Information Appendices <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">7</xref> and <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">8</xref>) to ensure that these addressed challenges that participants found important on the theme “increasing preparedness for hospital admission”, which also aligns with theme safer transitions of care.</p></list-item><list-item><p>Possible partnerships were identified across primary and secondary care to disseminate key messages.</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Organisation and provision of care</p>
+<p>
+<italic toggle="yes">Dispersed responsibility and lack of joined up thinking</italic>
+</p>
+<p>
+<italic toggle="yes">Communication</italic>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Care pathway integration with patient empowerment at the centre was considered key, as the patient is the sole person who navigates the whole pathway.</p></list-item><list-item><p>Participants reflected on how dispersed responsibility and lack of joined up thinking were factors in many insulin errors and significantly affected patient experience and impacted on trust.</p></list-item><list-item><p>Disjointed processes and systems within and outside the boundaries of the organisation, knowledge gaps and lack of effective teamwork and communication meant “the patient falls through the gaps”.</p></list-item><list-item><p>Technology and systems also play a role as their usability or lack of integration can aid or hinder effective and timely organisation and provision of care.</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">“(…) when I saw the surgeon and he put me on the waiting list (…) I asked, (…) about the sliding scale and he said “Oh, you know, that will be sorted out when you come in, that might be up to the anaesthetist. (…), I mentioned it to the anaesthetist, and he said “That's not my concern. All I do is put you to sleep.(…) then you're thinking, “Well, whose responsibility is it?” And it's really frustrating.” (<bold>person with diabetes</bold>, workshop 3)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“It's a lack of holistic care, isn't it? You work in your specialty and look after this body part and you look after that body part and there's no joined up thinking…” <bold>(clinician</bold>, workshop 3)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“The person that supports them with their diabetes in primary care isn't the one who's got anything to do with this. They have no idea it's happening until it's all like in a real mess.(…)” (<bold>Clinician</bold>, workshop 1)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“(…)Your blood sugar is creeping up and up (…) you know that that puts you into an unpredictable regimen (…) You've got all that prior knowledge of how you are affected by that. That makes you more anxious and worried and all results in a lack of trust really, doesn't it in the end? (<bold>person with diabetes</bold>, workshop 3)</italic>
+</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Discussions in workshops highlighted how care integration requires empowerment of patients and staff as well as structural development across the system.</p></list-item><list-item><p>Ideas and solutions from participants informed a number of actions and outputs in SHINE Wheel which address aspects of organisation and provision of care; informed the identification of inputs required to the model as well as interacting external, organisational and individual factors; methods of monitoring and evaluation.</p></list-item><list-item><p>Discussions informed the elements of context identified in the framework as its multicomponents apply across variable system contexts.</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Supporting and developing staff</p>
+<p>
+<italic toggle="yes">Staff knowledge and confidence gaps</italic>
+</p>
+<p>
+<italic toggle="yes">Access to support</italic>
+</p>
+<p>
+<italic toggle="yes">Culture</italic>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>The importance of supporting and developing staff was recognised at all workshops.</p></list-item><list-item><p>Staff knowledge and confidence gaps were a recurrent theme with implications across the perioperative pathway.</p></list-item><list-item><p>Access to support was valued, however not always there; over‐reliance on diabetes specialist team. Training opportunities were limited; undergraduate courses did not prepare people sufficiently.</p></list-item><list-item><p>Staffing, workload and operational pressures, patient acuity hindered opportunities to develop and support staff and impacted on quality of care delivered. The priority given to diabetes and staff development was not always high.</p></list-item><list-item><p>The important role culture plays in improving insulin safety was discussed; a just culture approach needed, however not yet embedded; many participants relayed experiences of a blame culture. Fear of impressions and repercussions hindering system learning.</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">“I just, sort of, lay back and thought “Okay, you know what you're doing” without realising that some of them [staff] didn't know what they were up to.” (<bold>person with diabetes</bold>, workshop 3)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“The lack of knowledge and not feeling confident with insulin [are linked]. If you've got the knowledge about the resources and the guidelines, hopefully there's a bit more confidence in either prescribing or adjusting (…)” (<bold>clinician</bold>, Workshop 1)</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">“we've (…) underpinned everything with a just culture approach [design thinking activity in ideation phase]. So, people need to be invested in learning as opposed to blame. (…) if we're pointing fingers at individuals and saying it's because this person had a lack of knowledge, actually, it's very rarely down to one individual's lack of knowledge because we've put them in the position where that's happened. How is the system, you know? And by digging underneath and not (…), you know, pointing fingers at individuals and looking at that broader system, I think we will support people to be much more open and share those experiences in a more thoughtful way, perhaps” (<bold>clinician</bold>, workshop 4)</italic>
+</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>The need to address the importance of supporting and development of staff underpins actions and outputs in SHINE wheel.</p></list-item><list-item><p>Discussions in workshops informed the identification of inputs required, interacting external, organisational and individual factors, and methods of monitoring and evaluation identified in the conceptual model of the intervention.</p></list-item><list-item><p>Prototype tool 2</p></list-item></list>
+</p>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="hex70622-sec-0280"><label>3.5</label><title>Integrated Workshop 5—Discussion of SHINE Logic Model</title><p>After workshop 4 was analysed, the research team (CLF, HH‐A, AF, KW) prepared an initial prototype of the logic model which contained preliminary areas for intervention, actions, outputs and outcomes. The conceptual model was presented to participants in workshop 5 for validation and refinement, as well as identification of inputs, assumptions, outcomes and monitoring and evaluation methods. The final model, after further participant feedback, can be seen in [Figure <xref rid="hex70622-fig-0002" ref-type="fig">2</xref>].</p><fig position="float" fig-type="Figure" id="hex70622-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>The SHINE Wheel: a conceptual model of intervention developed.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="HEX-29-e70622-g002.jpg"/></fig></sec><sec id="hex70622-sec-0290"><label>3.6</label><title>Final Workshop Outputs</title><sec id="hex70622-sec-0300"><label>3.6.1</label><title>SHINE Wheel Logic Model</title><p>The SHINE Wheel logic model displays elements of the programme theory graphically as well as contextual dependencies, required inputs, underlying assumptions, and other interacting factors [<xref rid="hex70622-bib-0030" ref-type="bibr">30</xref>]. It also demonstrates the connection between planned work (inputs &amp; actions) and intended results (outputs &amp; outcomes) [<xref rid="hex70622-bib-0047" ref-type="bibr">47</xref>].</p><p>It is represented as a wheel to represent the non‐linearity and interconnectivity of its components. The model is conceptualised as a spinning wheel, even spherical, comprising multiple layers with several interacting components.</p><p>Two areas for intervention are represented at the centre (‘<italic toggle="yes">Right insulin, Right time, Right way'</italic> and <italic toggle="yes">‘Safer transitions of care')</italic>. Stemming from these, there are eight actions which identify actual changes to be made. These lead to 12 identified outputs which are products/deliverables of the activities. They can be tangible (e.g. a leaflet given to patients) or intangible (e.g. a change to a care process, established or integrated). Sixteen possible outcomes from the intervention model were identified. It also presents the assumptions (underlying beliefs or conditions considered true and necessary for the model) and the input resources that are required (financial, people, estates/equipment, technology etc.) Outcomes are graded from short‐term, intermediate to longer‐term. Seven possible contexts in which areas for intervention, actions and outputs are occurring are identified in the wheel with numbering. The experiences of people with diabetes and healthcare professionals, which underpinned the development of the model, are fully represented. Possible interacting components from an individual, organisational and external environment perspective are also identified.</p></sec><sec id="hex70622-sec-0310"><label>3.6.2</label><title>Co‐Designed Prototypes of Tools to Support Empowerment and Increased Preparedness for Admission</title><p>Throughout the workshops, ideas converged to develop prototypes of tools to support patient empowerment, increase patient preparedness for hospital admission and the accessibility of information pre‐operatively. The tools could be used to improve safety for both older and younger insulin users. Professional graphic design services were commissioned to support this process.</p><sec id="hex70622-sec-0320"><label>3.6.2.1</label><title>Tool 1: Five Tips to Increase Preparedness for Hospital Admission</title><p>This infographic tool increases the accessibility of relevant information which empowers people with diabetes to prepare appropriately for hospital admission. The target audience are people with diabetes and their family members/carers and can be used across a variety of settings (e.g. in primary care surgeries or as leaflets with dispensed medication). This tool has also been developed into an animation to make it more accessible. [Infographic and hyperlink to animation tool available in Supporting Information Appendix <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">7</xref>].</p></sec><sec id="hex70622-sec-0321"><label>3.6.2.2</label><title>Tool 2: Hospital insulin safety for people with diabetes starts in the community: ways you can help and why</title><p>The tool is targeted at healthcare professionals and raises awareness of the problem of insulin errors in hospital and how to mitigate them. The tool is divided into three main areas: why it is important to support people using insulin in hospital; how and why errors happen; and lastly, what action staff can take and what safety netting advice to provide. [Tool available in Supporting Information Appendix <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">8</xref>].</p></sec></sec></sec></sec><sec sec-type="discussion" id="hex70622-sec-0330"><label>4</label><title>Discussion</title><p>In this study, a process of co‐design and collaboration between older adults with diabetes, staff and researchers culminated in the development of a novel conceptual model for insulin safety innovation. Outputs from the study also included a tool to support patients going into hospital, and another to educate staff looking after them prior to their admission (Appendices <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">7</xref> and <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">8</xref>).</p><p>The use of a partnership approach which fosters collaboration between service users and healthcare professionals to develop meaningful and feasible interventions is well supported by literature [<xref rid="hex70622-bib-0033" ref-type="bibr">33</xref>, <xref rid="hex70622-bib-0034" ref-type="bibr">34</xref>, <xref rid="hex70622-bib-0042" ref-type="bibr">42</xref>]. It is also known that older adults are less frequently involved in participatory research methods [<xref rid="hex70622-bib-0048" ref-type="bibr">48</xref>] and that their voice is often absent in the development of insulin safety initiatives. Therefore, our study adopted a collaborative approach to enable older adults and staff to co‐design a conceptual model to support safer hospital insulin use for patients with diabetes undergoing surgical hospital admission.</p><p>While many of the model components proposed to improve safety have been identified across different studies [<xref rid="hex70622-bib-0003" ref-type="bibr">3</xref>, <xref rid="hex70622-bib-0005" ref-type="bibr">5</xref>, <xref rid="hex70622-bib-0012" ref-type="bibr">12</xref>, <xref rid="hex70622-bib-0049" ref-type="bibr">49</xref>, <xref rid="hex70622-bib-0050" ref-type="bibr">50</xref>], the SHINE model is the first known system‐based model to identify priorities and solutions for improving hospital insulin safety as identified by older adults with diabetes and healthcare professionals. As a system‐based model, it advances understanding of the interconnectedness and interaction of multiple aspects of hospital insulin management across the various interfaces and contexts of the perioperative care pathway, including those outside of hospital boundaries [<xref rid="hex70622-bib-0021" ref-type="bibr">21</xref>]. As such, it provides opportunities for clinical leaders, managers and relevant stakeholders to use a systems approach to address hospital insulin safety across the whole care pathway. The need for system approaches to safety, in order to reduce insulin errors in hospital has been previously recognised as important [<xref rid="hex70622-bib-0051" ref-type="bibr">51</xref>, <xref rid="hex70622-bib-0052" ref-type="bibr">52</xref>].</p><p>Within the complex sociotechnical system of healthcare, there are multiple interacting components, unpredictable and emergent behaviours and adaptations, feedback loops and forms of self‐organisation [<xref rid="hex70622-bib-0030" ref-type="bibr">30</xref>, <xref rid="hex70622-bib-0053" ref-type="bibr">53</xref>, <xref rid="hex70622-bib-0054" ref-type="bibr">54</xref>]. There is often then, a marked disconnect between work <italic toggle="yes">‘as imagined'</italic> and work <italic toggle="yes">‘as done.'</italic> More recent approaches to patient safety have highlighted the limitations of solely relying on a reactive and regulatory approach to safety and errors (termed Safety‐I). Adopting a Safety‐II approach, which considers both the context in which hospital errors are made and also the actions which actually improve safety, will allow the development of system resilience [<xref rid="hex70622-bib-0054" ref-type="bibr">54</xref>]. In addition, a better understanding of human factors can improve approaches to patient safety [<xref rid="hex70622-bib-0046" ref-type="bibr">46</xref>], and diverse research methods help to understand contextual factors in complex intervention development [<xref rid="hex70622-bib-0030" ref-type="bibr">30</xref>].</p><p>Our research identified two key areas for interventions (i.e. <italic toggle="yes">‘Safer transitions of care and Right insulin, Right time, Right way')</italic>. The risk of medication errors at transitions of care has been previously identified [<xref rid="hex70622-bib-0019" ref-type="bibr">19</xref>, <xref rid="hex70622-bib-0021" ref-type="bibr">21</xref>, <xref rid="hex70622-bib-0027" ref-type="bibr">27</xref>, <xref rid="hex70622-bib-0028" ref-type="bibr">28</xref>, <xref rid="hex70622-bib-0055" ref-type="bibr">55</xref>]. Breakdown in staff communication and inaccessibility of key information at transitions of care have been identified as contributing factors [<xref rid="hex70622-bib-0021" ref-type="bibr">21</xref>, <xref rid="hex70622-bib-0028" ref-type="bibr">28</xref>, <xref rid="hex70622-bib-0055" ref-type="bibr">55</xref>]. The SHINE model supports the development of standardised handovers which include relevant information about diabetes and critical medications including insulin. This approach warrants further research but has the potential to facilitate other actions through increasing accessibility of information such as patient self‐management of insulin, HCP awareness of insulin treatment and early optimisation of glycaemia and insulin treatment.</p><p>The need for active patient engagement and activation prior to admission has been recognised previously, for example, with the introduction of a perioperative passport for people with diabetes to share key information across services (“<italic toggle="yes">My diabetes passport: planning for surgery</italic>”) [<xref rid="hex70622-bib-0056" ref-type="bibr">56</xref>]. Our study found that lack of preparedness for hospital admission was reported by most participants, hence the development of infographic tools to educate staff and patients (Appendices <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">7</xref> and <xref rid="hex70622-suppl-0001" ref-type="supplementary-material">8</xref>), may enhance patients' motivation to prepare for admission by using simpler and more direct and active messaging (<italic toggle="yes">this is what you can do type messages</italic>). The intervention model identified in this study also equips patients to navigate the different service transitions throughout their surgical admission and ensure they bring the right equipment or product into hospital to self‐manage.</p><p>The three ‘rights' from our data, <italic toggle="yes">right insulin, right time and right way</italic> have long been acknowledged as important in reducing insulin errors [<xref rid="hex70622-bib-0003" ref-type="bibr">3</xref>] and include the importance of appropriate systems and practices which span the whole medication use process [<xref rid="hex70622-bib-0019" ref-type="bibr">19</xref>, <xref rid="hex70622-bib-0021" ref-type="bibr">21</xref>]. The 'rights' are interconnected and include having the correct product and equipment prescribed and at the point of care (<italic toggle="yes">right insulin</italic>), appropriate insulin administration route (intravenous or subcutaneous) and correct administration technique (<italic toggle="yes">right way</italic>); correct timing of insulin administration, and the appropriate coordination of food and nutritional insulin (<italic toggle="yes">right time</italic>). Time‐critical coordination of tasks, people and equipment is crucial in insulin therapy [<xref rid="hex70622-bib-0021" ref-type="bibr">21</xref>]. Patient engagement and self‐management of insulin in hospital have been identified as a tool to improve the timing of insulin injections [<xref rid="hex70622-bib-0002" ref-type="bibr">2</xref>]. Currently, however, there is unacceptable variation in the use of hospital self‐management policies [<xref rid="hex70622-bib-0003" ref-type="bibr">3</xref>, <xref rid="hex70622-bib-0018" ref-type="bibr">18</xref>]. Poor communication with older, frailer adults and incorrect assumptions about their self‐care abilities may further exacerbate this issue [<xref rid="hex70622-bib-0057" ref-type="bibr">57</xref>]. Recognising that not all inpatients are able or want to self‐administer insulin is key [<xref rid="hex70622-bib-0011" ref-type="bibr">11</xref>, <xref rid="hex70622-bib-0012" ref-type="bibr">12</xref>]. Organisations need to have in place appropriate systems to assess and monitor patient desire and suitability for safe self‐administration and management of insulin and to mitigate potential risks [<xref rid="hex70622-bib-0058" ref-type="bibr">58</xref>], but these should not place barriers for engaging patients in self‐management of insulin.</p><p>The right timing of insulin administration was particularly important for people with diabetes. Targeted staff education and process changes have been found to improve the timing of insulin administration [<xref rid="hex70622-bib-0005" ref-type="bibr">5</xref>, <xref rid="hex70622-bib-0059" ref-type="bibr">59</xref>]. For example, staff should be able to recognise that the timing of ‘time‐critical' drugs may fall outside usual drug round times and may need stricter coordination with meals. One recommendation in the SHINE model was to initiate a “time‐critical drug ward round” which includes insulin, recognising that this could also improve patient safety beyond older people with diabetes. Improvements in this area would require adequate staffing levels and changes to culture, processes and systems [<xref rid="hex70622-bib-0050" ref-type="bibr">50</xref>]. Often, diabetes is not the reason for an older person's admission and therefore the staff caring for them may be insufficiently experienced to manage their insulin therapy [<xref rid="hex70622-bib-0007" ref-type="bibr">7</xref>, <xref rid="hex70622-bib-0051" ref-type="bibr">51</xref>]. There is a clear need for upstreaming interventions such as a greater inclusion of diabetes inpatient care and insulin therapy management in healthcare professional training courses [<xref rid="hex70622-bib-0052" ref-type="bibr">52</xref>].</p><p>Finally, several staff members recounted experiences of “<italic toggle="yes">blame”</italic> and others were fearful of consequences of reporting insulin‐related errors [<xref rid="hex70622-bib-0038" ref-type="bibr">38</xref>]. Many considered that review of insulin related incidents focused more on ‘what happened' rather than ‘why' and ‘how' factors and action plans focused frequently on individual/team learning &amp; reflection. Furthermore, there appeared to be limited sharing and critique of learning for effective system change. It was considered that a just culture was still not embedded into the service. To build system resilience, it is recommended that organisations adopt diabetes safety boards with a wide multidisciplinary membership which include regular reviews of hospital insulin safety [<xref rid="hex70622-bib-0007" ref-type="bibr">7</xref>, <xref rid="hex70622-bib-0051" ref-type="bibr">51</xref>, <xref rid="hex70622-bib-0060" ref-type="bibr">60</xref>].</p><sec id="hex70622-sec-0340"><label>4.1</label><title>Strengths and Limitations</title><p>A main strength of this study was that it captured the voice of older adults. When a number of older participants could not attend the workshops, adaptations to methodology (i.e. audio presentation for remote contribution and postal contributions) ensured inclusivity and enabled the views of those with frailty and less mobile participants, or those who disliked group events, still enriched the project process. However, the study has a number of limitations to consider. Research was only conducted in one NHS site, so transferability of our model and prototypes may not be as relevant to other sites either within the UK or internationally. All patient participants were white, which limits the transferability of findings to more diverse populations who may face different cultural or linguistic barriers to insulin safety. Further, more inclusive research is needed, which seeks to engage and involve ethnically diverse populations to understand their specific needs. All patient participants were independent enough to be self‐managing their diabetes and insulin treatment. Further research is needed which includes older adults (and their carers) who cannot self‐manage their diabetes, including people with cognitive impairment, to understand the specific challenges and priorities of these populations when hospitalised, as the current model may not fully address their needs, and they face high risks particularly at transitions of care. By planning more inclusive follow‐up studies which address current limitations and better capture the heterogeneity of the older adult population and their needs, our model and prototypes can be further iterated and expanded, grounded in more diverse perspectives and experiences.</p><p>In addition, it was important to acknowledge both that staff outnumbered older adults in workshop attendance and the potential risk of power imbalance between patients and clinical professionals [<xref rid="hex70622-bib-0061" ref-type="bibr">61</xref>, <xref rid="hex70622-bib-0062" ref-type="bibr">62</xref>]. It was a priority for the research team to ensure that people with diabetes were treated as equal partners across the collaboration and felt heard [<xref rid="hex70622-bib-0062" ref-type="bibr">62</xref>]. This was reiterated at the start of each joint workshop as we recognised the possible power differentials and discussed ground rules. The environment was relaxed, collaborative and inclusive. Evaluation feedback gathered suggested that the older participants felt empowered during the workshops, felt included and were comfortable contributing. Respect, confidentiality, openness and honesty were valued by participants as complex topics such as “blame culture” were discussed sensitively and not shied away from. This led to the identification of the need for willingness to build a just culture approach, as an assumption underpinning the model and the inclusion of fostering safe reporting and system learning as a component within SHINE Wheel.</p><p>Agency staff were not included in this study, and therefore, further studies which capture their experience and perspectives are needed.</p><p>Finally, the lead researcher (CLF) worked clinically at the research site. Whilst this provided benefits such as familiarity with service and organisational issues, their experience had the potential to affect their facilitation of workshops, analysis and reporting. Efforts were taken throughout to minimise such bias, through using researcher reflexivity techniques (such as keeping a journal, and audit trail of decisions) and regular discussion and critique of results with other research team members (HH‐A, AF, KW) who were external to the hospital site.</p></sec></sec><sec sec-type="conclusions" id="hex70622-sec-0350"><label>5</label><title>Conclusion</title><p>Reducing the incidence of insulin errors in hospital sessions is an ongoing challenge, particularly in the context of older people. This study has introduced a conceptual model of an intervention to enhance hospital insulin safety for older people with diabetes during a surgical admission. The model is grounded in the experiences of patients and health professionals and co‐designed by them. The model can be used to guide the development of future insulin safety interventions. Further studies are needed to refine and test the conceptual model and the tools developed in the study to increase patient preparedness for hospital admission. Areas of future focus for follow up study and refinement of the model and tools should include a more ethnically diverse patient sample, and older adults with cognitive impairment or unable to self‐manage their insulin treatment in hospital.</p></sec><sec id="hex70622-sec-0360"><title>Author Contributions</title><p>
+<bold>Christina Lange Ferreira:</bold> conceptualisation, data curation, formal analysis, investigation, validation, methodology, project administration, visualisation, writing original draft, writing – review and editing. <bold>Hellena Habte‐Asres:</bold> conceptualisation, formal analysis, methodology, supervision, validation, writing – review and editing. <bold>Jyothish Govindan:</bold> Methodology, writing – review and editing. <bold>Dionne Mytton:</bold> Investigation, writing – review and editing. <bold>Angus Forbes:</bold> Conceptualisation, formal analysis, methodology, supervision, validation, writing – review and editing. <bold>Kirsty Winkley:</bold> conceptualisation, formal analysis, methodology, supervision, validation, writing – review and editing.</p></sec><sec id="hex70622-sec-0380"><title>Ethics Statement</title><p>National Health Service (NHS) Health Research Authority ethical approval from East Midlands‐Derby Research Ethics Committee (24/EM/0022) and research site approval was gained prior to study commencement.</p></sec><sec sec-type="COI-statement" id="hex70622-sec-0390"><title>Conflicts of Interest</title><p>C.L.F. reports that financial support was provided by the Foundation of European Nurses in Diabetes (FEND). C.L.F. reports having received grants towards research costs from Novo Nordisk UK Research Foundation (NNUKRF), Herefordshire and Mid‐Powis Diabetic Care Fund and Florence Nightingale Faculty of Nursing, Midwifery and Palliative Care Staff Development Fund. H.H.‐A. reports having received speaker honoraria from AstraZeneca and Bayer. K.W., A.F., J.G., D.M.report no conflicts of interest relevant to this article.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="hex70622-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting file 10.2.2026.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="HEX-29-e70622-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="hex70622-sec-0370"><title>Acknowledgements</title><p>To the Foundation of European Nurses in Diabetes (FEND) who funded this study. To the people with diabetes and the healthcare professionals who participated without whom this study would not have been possible. To Chloe Cullen and Dr Nada Aljohani for the support and discussions whilst preparing the workshops. To Dr Rahab Hashim, Georgina Pugh and the diabetes specialist team at Wye Valley NHS Trust, Prof Gerry Rayman and Kim Howson from GIRFT Diabetes and Dr Punith Kempegowda at University of Birmingham for review and feedback on infographic tools developed. To Simon Hammond at Two+One Graphic Design for graphic design services, which were commissioned. To Dr Samantha Coster, Publication Coach at King's College London for support in editing and proofreading the manuscript.</p></ack><sec sec-type="data-availability" id="hex70622-sec-0410"><title>Data Availability Statement</title><p>The data that support the findings of this study are available within the article and in the Supporting Material of this article.</p></sec><ref-list content-type="cited-references" id="hex70622-bibl-0001"><title>References</title><ref id="hex70622-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="hex70622-cit-0001">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bain</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Hasan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z. U. D.</given-names>
+<surname>Babar</surname>
+</string-name>, “<article-title>Interventions to Improve Insulin Prescribing Practice for People With Diabetes in Hospital: A Systematic Review</article-title>,” <source>Diabetic Medicine</source>
+<volume>36</volume>, no. <issue>8</issue> (<year>2019</year>): <fpage>948</fpage>–<lpage>960</lpage>, <pub-id pub-id-type="doi">10.1111/DME.13982</pub-id>.<pub-id pub-id-type="pmid">31050037</pub-id>
+</mixed-citation></ref><ref id="hex70622-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="hex70622-cit-0002">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Gangopadhyay</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ebinesan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Mtemererwa</surname>
+</string-name>, et al., “<article-title>The Timing of Insulin Administration to Hospital Inpatients Is Unsafe: Patient Self‐Administration May Make It Safer</article-title>,” <source>Practical Diabetes International</source>
+<volume>25</volume>, no. <issue>3</issue> (<year>2008</year>): <fpage>96</fpage>–<lpage>98</lpage>, <pub-id pub-id-type="doi">10.1002/PDI.1217</pub-id>.</mixed-citation></ref><ref id="hex70622-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="hex70622-cit-0003">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bain</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Hasan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kavanagh</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z. U. D.</given-names>
+<surname>Babar</surname>
+</string-name>, “<article-title>Strategies to Reduce Insulin Prescribing Errors in UK Hospitals: Results From a National Survey</article-title>,” <source>Diabetic Medicine</source>
+<volume>37</volume>, no. <issue>7</issue> (<year>2020</year>): <fpage>1176</fpage>–<lpage>1184</lpage>, <pub-id pub-id-type="doi">10.1111/DME.14209</pub-id>.<pub-id pub-id-type="pmid">31845373</pub-id>
+</mixed-citation></ref><ref id="hex70622-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="hex70622-cit-0004">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Holton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Rasmussen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Turner</surname>
+</string-name>, et al., “<article-title>Nurse, Midwife and Patient Perspectives and Experiences of Diabetes Management in an Acute Inpatient Setting: A Mixed‐Methods Study</article-title>,” <source>BMC Nursing</source>
+<volume>21</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>249</fpage>, <pub-id pub-id-type="doi">10.1186/S12912-022-01022-W/TABLES/6</pub-id>.<pub-id pub-id-type="pmid">36068537</pub-id>
+<pub-id pub-id-type="pmcid">PMC9446645</pub-id></mixed-citation></ref><ref id="hex70622-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="hex70622-cit-0005">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Cohen</surname>
+</string-name> and <string-name name-style="western">
+<given-names>R. R. S.</given-names>
+<surname>Clark</surname>
+</string-name>, “<article-title>Improving the Timing of Acute Care Insulin Delivery</article-title>,” <source>AJN, American Journal of Nursing</source>
+<volume>124</volume>, no. <issue>2</issue> (<year>2024</year>): <fpage>48</fpage>–<lpage>54</lpage>, <pub-id pub-id-type="doi">10.1097/01.NAJ.0001006704.88157.20</pub-id>.<pub-id pub-id-type="pmid">38270423</pub-id></mixed-citation></ref><ref id="hex70622-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hex70622-cit-0006">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Singh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Adams</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Dudley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Davison</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Jones</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Wales</surname>
+</string-name>, “<article-title>Making Surgical Wards Safer for Patients With Diabetes: Reducing Hypoglycaemia and Insulin Errors</article-title>,” <source>BMJ Open Quality</source>
+<volume>7</volume> (<year>2018</year>): <elocation-id>e000312</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmjoq-2017-000312</pub-id>.<pub-id pub-id-type="pmcid">PMC6059342</pub-id><pub-id pub-id-type="pmid">30057957</pub-id></mixed-citation></ref><ref id="hex70622-bib-0007"><label>7</label><mixed-citation publication-type="miscellaneous" id="hex70622-cit-0007">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Rayman</surname>
+</string-name> and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Kar</surname>
+</string-name> Diabetes GIRFT Programme National Specialty Report. <year>2020</year>, accessed March 24, 2025, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://gettingitrightfirsttime.co.uk/wp-content/uploads/2020/11/GIRFT-diabetes-report.pdf" ext-link-type="uri">https://gettingitrightfirsttime.co.uk/wp‐content/uploads/2020/11/GIRFT‐diabetes‐report.pdf</ext-link>.</mixed-citation></ref><ref id="hex70622-bib-0008"><label>8</label><mixed-citation publication-type="book" id="hex70622-cit-0008">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Dhatariya</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Newland‐Jones</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Patel</surname>
+</string-name>, “<article-title>In‐Hospital Treatment and Surgery in People With Diabetes</article-title>,” in <source>Textbook of Diabetes</source>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>R. I. G.</given-names>
+<surname>Holt</surname>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Flyvbjerg</surname>
+</string-name>
+</person-group> (<year>2024</year>), <fpage>559</fpage>–<lpage>578</lpage>, <pub-id pub-id-type="doi">10.1002/9781119697473.CH39</pub-id>.</mixed-citation></ref><ref id="hex70622-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="hex70622-cit-0009">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kwon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Thompson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Dellinger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Yanez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Farrohki</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Flum</surname>
+</string-name>, “<article-title>Importance of Perioperative Glycemic Control in General Surgery: A Report From the Surgical Care and Outcomes Assessment Program</article-title>,” <source>Annals of Surgery</source>
+<volume>257</volume>, no. <issue>1</issue> (<year>2013</year>): <fpage>8</fpage>–<lpage>14</lpage>, <pub-id pub-id-type="doi">10.1097/SLA.0B013E31827B6BBC</pub-id>.<pub-id pub-id-type="pmid">23235393</pub-id>
+<pub-id pub-id-type="pmcid">PMC4208433</pub-id></mixed-citation></ref><ref id="hex70622-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="hex70622-cit-0010">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Frisch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Chandra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Smiley</surname>
+</string-name>, et al., “<article-title>Prevalence and Clinical Outcome of Hyperglycemia in the Perioperative Period in Noncardiac Surgery</article-title>,” <source>Diabetes Care</source>
+<volume>33</volume>, no. <issue>8</issue> (<year>2010</year>): <fpage>1783</fpage>–<lpage>1788</lpage>, <pub-id pub-id-type="doi">10.2337/DC10-0304</pub-id>.<pub-id pub-id-type="pmid">20435798</pub-id>
+<pub-id pub-id-type="pmcid">PMC2909062</pub-id></mixed-citation></ref><ref id="hex70622-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="hex70622-cit-0011">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Whillier</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Hinton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Balcerek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. L.</given-names>
+<surname>Maclaughlin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Donovan</surname>
+</string-name>, “<article-title>Queensland Inpatient Diabetes Survey (QuiDS): Patient Experience Survey Evaluation</article-title>,” <source>Internal Medicine Journal</source>
+<volume>54</volume> (<year>2023</year>): <fpage>639</fpage>–<lpage>646</lpage>, <pub-id pub-id-type="doi">10.1111/imj.16247</pub-id>.<pub-id pub-id-type="pmid">37792317</pub-id>
+</mixed-citation></ref><ref id="hex70622-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hex70622-cit-0012">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Rayman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Page</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hodgson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Henley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>WR Briggs</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W. K.</given-names>
+<surname>Gray</surname>
+</string-name>, “<article-title>Improving the Outcomes for People With Diabetes Undergoing Surgery: An Observational Study of the Improving the Peri‐Operative Pathway of People With Diabetes (IP3D) Intervention</article-title>,” <source>Diabetes Research and Clinical Practice</source>
+<volume>207</volume> (<year>2024</year>): <elocation-id>111062</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.diabres.2023.111062</pub-id>.<pub-id pub-id-type="pmid">38110122</pub-id>
+</mixed-citation></ref><ref id="hex70622-bib-0013"><label>13</label><mixed-citation publication-type="miscellaneous" id="hex70622-cit-0013">
+<collab collab-type="authors">The National Confidential Enquiry into Patient Outcomes and Death. Highs and Lows 2018</collab>
+, accessed January 27, <year>2025</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncepod.org.uk/2018pd.html" ext-link-type="uri">https://www.ncepod.org.uk/2018pd.html</ext-link>.</mixed-citation></ref><ref id="hex70622-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="hex70622-cit-0014">
+<string-name name-style="western">
+<given-names>E. S.</given-names>
+<surname>Schwenk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Mraovic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. P.</given-names>
+<surname>Maxwell</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Ehrenfeld</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. H.</given-names>
+<surname>Epstein</surname>
+</string-name>, “<article-title>Root Causes of Intraoperative Hypoglycemia: A Case Series</article-title>,” <source>Journal of Clinical Anesthesia</source>
+<volume>24</volume>, no. <issue>8</issue> (<year>2012</year>): <fpage>625</fpage>–<lpage>630</lpage>, <pub-id pub-id-type="doi">10.1016/J.JCLINANE.2012.04.009</pub-id>.<pub-id pub-id-type="pmid">23116589</pub-id>
+</mixed-citation></ref><ref id="hex70622-bib-0015"><label>15</label><mixed-citation publication-type="miscellaneous" id="hex70622-cit-0015">
+<collab collab-type="authors">NHS Digital</collab>
+. National Diabetes Inpatient Audit, 2019 Full Report. 2020, accessed May 3, <year>2025</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://files.digital.nhs.uk/F6/49FA05/NaDIA%202019%20-%20Full%20Report%20v1.1.pdf" ext-link-type="uri">https://files.digital.nhs.uk/F6/49FA05/NaDIA%202019%20‐%20Full%20Report%20v1.1.pdf</ext-link>.</mixed-citation></ref><ref id="hex70622-bib-0016"><label>16</label><mixed-citation publication-type="miscellaneous" id="hex70622-cit-0016">
+<collab collab-type="authors">NHS Digital</collab>
+. Insulin, Prescription or Management Errors by Age Group, England, 2015–19 ‐ NHS England Digital. <year>2022</year>, accessed January 27, 2025, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://digital.nhs.uk/supplementary-information/2022/national-diabetes-inpatient-audit-insulin-prescription-or-management-errors-by-age-group-england-2015-19" ext-link-type="uri">https://digital.nhs.uk/supplementary‐information/2022/national‐diabetes‐inpatient‐audit‐insulin‐prescription‐or‐management‐errors‐by‐age‐group‐england‐2015‐19</ext-link>.</mixed-citation></ref><ref id="hex70622-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="hex70622-cit-0017">
+<string-name name-style="western">
+<given-names>C. G.</given-names>
+<surname>Taylor</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Krimholtz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. C.</given-names>
+<surname>Belgrave</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Hambleton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. N.</given-names>
+<surname>George</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Rayman</surname>
+</string-name>, “<article-title>The Extensive Inpatient Burden of Diabetes and Diabetes‐Related Foot Disease in Barbados</article-title>,” <source>Clinical Medicine</source>
+<volume>14</volume>, no. <issue>4</issue> (<year>2014</year>): <fpage>367</fpage>–<lpage>370</lpage>, <pub-id pub-id-type="doi">10.7861/clinmedicine.14-4-367</pub-id>.<pub-id pub-id-type="pmid">25099836</pub-id>
+<pub-id pub-id-type="pmcid">PMC4952828</pub-id></mixed-citation></ref><ref id="hex70622-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="hex70622-cit-0018">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Donovan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Eccles‐Smith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Hinton</surname>
+</string-name>, et al., “<article-title>The Queensland Inpatient Diabetes Survey (QuiDS) 2019: The Bedside Audit of Practice</article-title>,” <source>Medical Journal of Australia</source>
+<volume>215</volume>, no. <issue>3</issue> (<year>2021</year>): <fpage>119</fpage>–<lpage>124</lpage>, <pub-id pub-id-type="doi">10.5694/MJA2.51048</pub-id>.<pub-id pub-id-type="pmid">33940660</pub-id>
+</mixed-citation></ref><ref id="hex70622-bib-0019"><label>19</label><mixed-citation publication-type="miscellaneous" id="hex70622-cit-0019">
+<collab collab-type="authors">World Health Organization</collab>
+. Medication Without Harm: Strategic Framework for the Global Patient Safety Challenge. <year>2018</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/initiatives/medication-without-harm" ext-link-type="uri">https://www.who.int/initiatives/medication‐without‐harm</ext-link>.</mixed-citation></ref><ref id="hex70622-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="hex70622-cit-0020">
+<string-name name-style="western">
+<given-names>M. N.</given-names>
+<surname>Munshi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. S.</given-names>
+<surname>Meneilly</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Rodríguez‐Mañas</surname>
+</string-name>, et al., “<article-title>Diabetes in Ageing: Pathways for Developing the Evidence Base for Clinical Guidance</article-title>,” <source>Lancet Diabetes &amp; Endocrinology</source>
+<volume>8</volume>, no. <issue>10</issue> (<year>2020</year>): <fpage>855</fpage>–<lpage>867</lpage>, <pub-id pub-id-type="doi">10.1016/S2213-8587(20)30230-8/ASSET/4DFF8F20-51C2-492D-94CC-EEB7E918889F/MAIN.ASSETS/GR1.SML</pub-id>.<pub-id pub-id-type="pmid">32946822</pub-id>
+<pub-id pub-id-type="pmcid">PMC8223534</pub-id></mixed-citation></ref><ref id="hex70622-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="hex70622-cit-0021">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lange Ferreira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Forbes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Hashim</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Winkley</surname>
+</string-name>, “<article-title>Insulin Errors and Contributing Factors Affecting People With Diabetes in Hospital: A Scoping Review</article-title>,” <source>International Journal of Nursing Studies</source>
+<volume>167</volume> (<year>2025</year>): <elocation-id>105074</elocation-id>, <pub-id pub-id-type="doi">10.1016/J.IJNURSTU.2025.105074</pub-id>.<pub-id pub-id-type="pmid">40239448</pub-id>
+</mixed-citation></ref><ref id="hex70622-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hex70622-cit-0022">
+<string-name name-style="western">
+<given-names>V. L.</given-names>
+<surname>Rowse</surname>
+</string-name>, “<article-title>Implementing Self‐Administration of Insulin in Hospital: A Journey of Discovery and Innovation. Part 2: Implementing Change</article-title>,” <source>British Journal of Diabetes</source>
+<volume>18</volume>, no. <issue>2</issue> (<year>2018</year>): <fpage>66</fpage>–<lpage>68</lpage>, <pub-id pub-id-type="doi">10.15277/BJD.2018.159</pub-id>.</mixed-citation></ref><ref id="hex70622-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="hex70622-cit-0023">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Aimar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Orozov</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Spencer‐Jones</surname>
+</string-name>, et al., “<article-title>Perioperative Variable Rate Intravenous Insulin Infusion: A Quality Improvement Project on a Vascular Surgery Ward</article-title>,” <source>BMJ Open Quality</source>
+<volume>12</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>e002048</elocation-id>, <pub-id pub-id-type="doi">10.1136/BMJOQ-2022-002048</pub-id>.<pub-id pub-id-type="pmcid">PMC9950905</pub-id><pub-id pub-id-type="pmid">36813469</pub-id></mixed-citation></ref><ref id="hex70622-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hex70622-cit-0024">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kopanz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Sendlhofer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Lichtenegger</surname>
+</string-name>, et al., “<article-title>Evaluation of an Implemented New Insulin Chart to Improve Quality and Safety of Diabetes Care in a Large University Hospital: A Follow‐up Study</article-title>,” <source>BMJ Open</source>
+<volume>11</volume>, no. <issue>1</issue> (<year>2021</year>): <elocation-id>e041298</elocation-id>, <pub-id pub-id-type="doi">10.1136/BMJOPEN-2020-041298</pub-id>.<pub-id pub-id-type="pmcid">PMC7839871</pub-id><pub-id pub-id-type="pmid">33500281</pub-id></mixed-citation></ref><ref id="hex70622-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="hex70622-cit-0025">
+<string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Botsford</surname>
+</string-name>, “<article-title>Building on a Safety Culture With Transparency by Participating in a Mentored Quality‐Improvement Program for Insulin Pen Safety</article-title>,” supplement, <source>American Journal of Health‐System Pharmacy</source>
+<volume>73</volume>, no. <issue>19_Suppl_5</issue> (<year>2016</year>): <fpage>S38</fpage>–<lpage>S44</lpage>, <pub-id pub-id-type="doi">10.2146/AJHP160419</pub-id>.<pub-id pub-id-type="pmid">27647098</pub-id>
+</mixed-citation></ref><ref id="hex70622-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="hex70622-cit-0026">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Abu‐Naser</surname>
+</string-name>, “<article-title>Impact of Clinical Pharmacist Interventions in Prescribing Errors in Hospitalized Diabetic Patients With Major Polypharmacy</article-title>,” <source>Hospital Pharmacy</source>
+<volume>56</volume>, no. <issue>4</issue> (<year>2021</year>): <fpage>392</fpage>–<lpage>399</lpage>, <pub-id pub-id-type="doi">10.1177/0018578720985428/SUPPL_FILE/SJ-PDF-1-HPX-10.1177_0018578720985428.PDF</pub-id>.<pub-id pub-id-type="pmid">34381280</pub-id>
+<pub-id pub-id-type="pmcid">PMC8326857</pub-id></mixed-citation></ref><ref id="hex70622-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="hex70622-cit-0027">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bain</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Silcock</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kavanagh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Quinn</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Fonseca</surname>
+</string-name>, “<article-title>Improving the Quality of Insulin Prescribing for People With Diabetes Being Discharged From Hospital</article-title>,” <source>BMJ Open Quality</source>
+<volume>8</volume> (<year>2019</year>): <elocation-id>e000655</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmjoq-2019-000655</pub-id>.<pub-id pub-id-type="pmcid">PMC6711447</pub-id><pub-id pub-id-type="pmid">31523740</pub-id></mixed-citation></ref><ref id="hex70622-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="hex70622-cit-0028">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Leon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Crowley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Hogan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y. H.</given-names>
+<surname>Jani</surname>
+</string-name>, “<article-title>Exploring the Complexity of Safe Insulin Management During Transfer of Care Using Qualitative Methods</article-title>,” <source>Diabetic Medicine</source>
+<volume>42</volume>, no. <issue>8</issue> (<year>2025</year>): <elocation-id>e70054</elocation-id>, <pub-id pub-id-type="doi">10.1111/DME.70054</pub-id>.<pub-id pub-id-type="pmid">40324886</pub-id>
+<pub-id pub-id-type="pmcid">PMC12257437</pub-id></mixed-citation></ref><ref id="hex70622-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="hex70622-cit-0029">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lange Ferreira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Donetto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Habte‐Asres</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Govindan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Forbes</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Winkley</surname>
+</string-name>, “<article-title>SHINE Study: Developing an Intervention for Safe Hospital Insulin Use for Older or Frail Adults With Diabetes Undergoing Surgical Hospital Admission: Study Protocol</article-title>,” <source>PLoS One</source>
+<volume>19</volume>, no. <issue>12</issue> (<year>2024</year>): <elocation-id>e0315387</elocation-id>, <pub-id pub-id-type="doi">10.1371/JOURNAL.PONE.0315387</pub-id>.<pub-id pub-id-type="pmid">39666732</pub-id>
+<pub-id pub-id-type="pmcid">PMC11637288</pub-id></mixed-citation></ref><ref id="hex70622-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="hex70622-cit-0030">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Skivington</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Matthews</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Simpson</surname>
+</string-name>, et al., “<article-title>Framework for the Development and Evaluation of Complex Interventions: Gap Analysis, Workshop and Consultation‐Informed Update</article-title>,” <source>Health Technology Assessment</source>
+<volume>25</volume>, no. <issue>57</issue> (<year>2021</year>): <fpage>1</fpage>–<lpage>132</lpage>, <pub-id pub-id-type="doi">10.3310/HTA25570</pub-id>.<pub-id pub-id-type="pmcid">PMC7614019</pub-id><pub-id pub-id-type="pmid">34590577</pub-id></mixed-citation></ref><ref id="hex70622-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="hex70622-cit-0031">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Brown</surname>
+</string-name> and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Katz</surname>
+</string-name>, “<article-title>Change by Design</article-title>,” <source>Journal of Product Innovation Management</source>
+<volume>28</volume>, no. <issue>3</issue> (<year>2011</year>): <fpage>381</fpage>–<lpage>383</lpage>, <pub-id pub-id-type="doi">10.1111/J.1540-5885.2011.00806.X</pub-id>.</mixed-citation></ref><ref id="hex70622-bib-0032"><label>32</label><mixed-citation publication-type="book" id="hex70622-cit-0032">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Lewrick</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Link</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Leifer</surname>
+</string-name>, <source>The Design Thinking Toolbox: A Guide to Mastering the Most Popular and Valuable Innovation Methods</source> (<publisher-name>Wiley</publisher-name>, <year>2020</year>).</mixed-citation></ref><ref id="hex70622-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="hex70622-cit-0033">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Due‐Christensen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. E.</given-names>
+<surname>Joensen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sarre</surname>
+</string-name>, et al., “<article-title>A Co‐Design Study to Develop Supportive Interventions to Improve Psychological and Social Adaptation Among Adults With New‐Onset Type 1 Diabetes in Denmark and the UK</article-title>,” <source>BMJ Open</source>
+<volume>11</volume>, no. <issue>11</issue> (<year>2021</year>): <elocation-id>e051430</elocation-id>, <pub-id pub-id-type="doi">10.1136/BMJOPEN-2021-051430</pub-id>.<pub-id pub-id-type="pmcid">PMC8565545</pub-id><pub-id pub-id-type="pmid">34728449</pub-id></mixed-citation></ref><ref id="hex70622-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="hex70622-cit-0034">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Aljohani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Forbes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Daqrashawi</surname>
+</string-name>, et al., “<article-title>You Decided I Am Old Enough for the Transition, but Not Old Enough to Have a Say?’: Exploring Young People's, Parents', and Healthcare Providers' Views and Experiences of Type 1 Diabetes Paediatric to Adult Healthcare Transition in Saudi Arabia</article-title>,” <source>PLoS One</source>
+<volume>20</volume>, no. <issue>10</issue> (<year>2025</year>): <elocation-id>e0335347</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pone.0335347</pub-id>.<pub-id pub-id-type="pmid">41160562</pub-id>
+<pub-id pub-id-type="pmcid">PMC12571242</pub-id></mixed-citation></ref><ref id="hex70622-bib-0035"><label>35</label><mixed-citation publication-type="miscellaneous" id="hex70622-cit-0035">
+<collab collab-type="authors">Design Council</collab>
+. Systemic Design Framework—Design Council, accessed, May 8 <year>2025</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.designcouncil.org.uk/our-resources/systemic-design-framework/" ext-link-type="uri">https://www.designcouncil.org.uk/our‐resources/systemic‐design‐framework/</ext-link>.</mixed-citation></ref><ref id="hex70622-bib-0036"><label>36</label><mixed-citation publication-type="book" id="hex70622-cit-0036">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Hollnagel</surname>,</string-name>
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Braithwaite</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Wears</surname>
+</string-name>, <source>Delivering Resilient Health Care</source>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Hollnagel</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Braithwaite</surname>
+</string-name>
+</person-group>, and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Wears</surname>
+</string-name>
+</person-group>. <publisher-name>Routledge</publisher-name>, <year>2019</year>).</mixed-citation></ref><ref id="hex70622-bib-0037"><label>37</label><mixed-citation publication-type="miscellaneous" id="hex70622-cit-0037">
+<collab collab-type="authors">IDEO</collab>
+. Field Guide to Human‐Centered Design IDEO. <year>2015</year>.</mixed-citation></ref><ref id="hex70622-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="hex70622-cit-0038">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lange Ferreira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Habte‐Asres</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Forbes</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Winkley</surname>
+</string-name>, “<article-title>‘It Is a False Safety Net’: A Qualitative Exploration of Multiprofessional Staff Experiences of Insulin Management in Hospitalised Older or Frail Adults With Diabetes Undergoing Surgery</article-title>,” <source>PLoS One</source>
+<volume>20</volume>, no. <issue>10</issue> (<year>2025</year>): <elocation-id>e0332088</elocation-id>, <pub-id pub-id-type="doi">10.1371/JOURNAL.PONE.0332088</pub-id>.<pub-id pub-id-type="pmid">41056325</pub-id>
+<pub-id pub-id-type="pmcid">PMC12503304</pub-id></mixed-citation></ref><ref id="hex70622-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="hex70622-cit-0039">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lange Ferreira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Habte‐Asres</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Forbes</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Winkley</surname>
+</string-name>, “<article-title>Why, Can I Not Have Control of My Own Insulin?’: Qualitative Exploration Amongst Older Adults With Diabetes With Lived Experience of Surgical Hospital Admission</article-title>,” <source>Health Expectations</source>
+<volume>28</volume>, no. <issue>6</issue> (<year>2025</year>), <pub-id pub-id-type="doi">10.1111/HEX.70509</pub-id>.<pub-id pub-id-type="pmcid">PMC12683602</pub-id><pub-id pub-id-type="pmid">41358572</pub-id></mixed-citation></ref><ref id="hex70622-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="hex70622-cit-0040">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Duncan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>O'Cathain</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Rousseau</surname>
+</string-name>, et al., “<article-title>Guidance for Reporting Intervention Development Studies in Health Research (GUIDED): An Evidence‐Based Consensus Study</article-title>,” <source>BMJ Open</source>
+<volume>10</volume>, no. <issue>4</issue> (<year>2020</year>): <elocation-id>e033516</elocation-id>, <pub-id pub-id-type="doi">10.1136/BMJOPEN-2019-033516</pub-id>.<pub-id pub-id-type="pmcid">PMC7245409</pub-id><pub-id pub-id-type="pmid">32273313</pub-id></mixed-citation></ref><ref id="hex70622-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="hex70622-cit-0041">
+<string-name name-style="western">
+<given-names>G. U.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Towell‐Barnard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>McLean</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Robert</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Ewens</surname>
+</string-name>, “<article-title>Co‐Designing a Digital Family‐Led Intervention for Delirium Prevention and Management in Adult Critically Ill Patients: An Application of the Double Diamond Design Process</article-title>,” <source>International Journal of Nursing Studies</source>
+<volume>160</volume> (<year>2024</year>): <elocation-id>104888</elocation-id>, <pub-id pub-id-type="doi">10.1016/J.IJNURSTU.2024.104888</pub-id>.<pub-id pub-id-type="pmid">39303642</pub-id>
+</mixed-citation></ref><ref id="hex70622-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="hex70622-cit-0042">
+<string-name name-style="western">
+<given-names>M. A. L.</given-names>
+<surname>Tanay</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Armes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Oakley</surname>
+</string-name>, et al., “<article-title>Co‐Designing a Behavioural Intervention for Reducing the Impact of Chemotherapy‐Induced Peripheral Neuropathy Symptoms: An Evidence‐ and Theory‐Driven Approach</article-title>,” <source>European Journal of Cancer Care</source>
+<volume>31</volume>, no. <issue>6</issue> (<year>2022</year>): <elocation-id>e13671</elocation-id>, <pub-id pub-id-type="doi">10.1111/ECC.13671</pub-id>.<pub-id pub-id-type="pmid">35959639</pub-id>
+<pub-id pub-id-type="pmcid">PMC9786800</pub-id></mixed-citation></ref><ref id="hex70622-bib-0043"><label>43</label><mixed-citation publication-type="book" id="hex70622-cit-0043">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ritchie</surname>
+</string-name> and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Spencer</surname>
+</string-name>, “<part-title>Qualitative Data Analysis for Applied Policy Research</part-title>,” in <source>Analyzing Qualitative Data</source>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bryman</surname>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>R. G.</given-names>
+<surname>Burgess</surname>
+</string-name>
+</person-group>. <publisher-name>Routledge</publisher-name>, <year>1994</year>), <fpage>173</fpage>–<lpage>194</lpage>, <pub-id pub-id-type="doi">10.4324/9780203413081-10</pub-id>.</mixed-citation></ref><ref id="hex70622-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="hex70622-cit-0044">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Klingberg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. E.</given-names>
+<surname>Stalmeijer</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Varpio</surname>
+</string-name>, “<article-title>Using Framework Analysis Methods for Qualitative Research: AMEE Guide No. 164</article-title>,” <source>Medical Teacher</source>
+<volume>46</volume>, no. <issue>5</issue> (<year>2024</year>): <fpage>603</fpage>–<lpage>610</lpage>, <pub-id pub-id-type="doi">10.1080/0142159X.2023.2259073</pub-id>.<pub-id pub-id-type="pmid">37734451</pub-id>
+</mixed-citation></ref><ref id="hex70622-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="hex70622-cit-0045">
+<string-name name-style="western">
+<given-names>N. K.</given-names>
+<surname>Gale</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Heath</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Cameron</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Rashid</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Redwood</surname>
+</string-name>, “<article-title>Using the Framework Method for the Analysis of Qualitative Data in Multi‐Disciplinary Health Research</article-title>,” <source>BMC Medical Research Methodology</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2013</year>): <fpage>117</fpage>, <pub-id pub-id-type="doi">10.1186/1471-2288-13-117/METRICS</pub-id>.<pub-id pub-id-type="pmid">24047204</pub-id>
+<pub-id pub-id-type="pmcid">PMC3848812</pub-id></mixed-citation></ref><ref id="hex70622-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="hex70622-cit-0046">
+<string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>Holden</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Carayon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. P.</given-names>
+<surname>Gurses</surname>
+</string-name>, et al., “<article-title>SEIPS 2.0: A Human Factors Framework for Studying and Improving the Work of Healthcare Professionals and Patients</article-title>,” <source>Ergonomics</source>
+<volume>56</volume>, no. <issue>11</issue> (<year>2013</year>): <fpage>1669</fpage>–<lpage>1686</lpage>, <pub-id pub-id-type="doi">10.1080/00140139.2013.838643;PAGE:STRING:ARTICLE/CHAPTER</pub-id>.<pub-id pub-id-type="pmid">24088063</pub-id>
+<pub-id pub-id-type="pmcid">PMC3835697</pub-id></mixed-citation></ref><ref id="hex70622-bib-0047"><label>47</label><mixed-citation publication-type="book" id="hex70622-cit-0047">
+<string-name name-style="western">
+<given-names>W. K.</given-names>
+<surname>Kellogg Foundation</surname>
+</string-name>, <source>Logic Model Development Guide</source> (<publisher-name>W. K. Kellog Foundation</publisher-name>, <year>2004</year>).</mixed-citation></ref><ref id="hex70622-bib-0048"><label>48</label><mixed-citation publication-type="book" id="hex70622-cit-0048">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Higginbottom</surname>
+</string-name> and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Liamputtong</surname>
+</string-name>, “<part-title>Engaging Older People in Participatory Research</part-title>,” in <source>Participatory Qualitative Research Methodologies in Health</source>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Higginbottom</surname>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Liamputtong</surname>
+</string-name>
+</person-group>. <publisher-name>SAGE Publications Ltd</publisher-name>, <year>2015</year>), <fpage>90</fpage>–<lpage>108</lpage>, <pub-id pub-id-type="doi">10.4135/9781473919945</pub-id>.</mixed-citation></ref><ref id="hex70622-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="hex70622-cit-0049">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Dornan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Findlay‐White</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Gillespie</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Conn</surname>
+</string-name>, “<article-title>Acting Wisely in Complex Clinical Situations: ‘Mutual Safety' for Clinicians as Well as Patients</article-title>,” <source>Medical Teacher</source>
+<volume>43</volume>, no. <issue>12</issue> (<year>2021</year>): <fpage>1419</fpage>–<lpage>1429</lpage>, <pub-id pub-id-type="doi">10.1080/0142159X.2021.1951693</pub-id>.<pub-id pub-id-type="pmid">34372748</pub-id>
+</mixed-citation></ref><ref id="hex70622-bib-0050"><label>50</label><mixed-citation publication-type="miscellaneous" id="hex70622-cit-0050">
+<collab collab-type="authors">Queen's University Belfast</collab>
+. MITS: Making Insulin Treatment Safer. <year>2020</year>, accessed February 17, 2025, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.med.qub.ac.uk/mits/" ext-link-type="uri">https://www.med.qub.ac.uk/mits/</ext-link>.</mixed-citation></ref><ref id="hex70622-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="hex70622-cit-0051">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Hellman</surname>
+</string-name>, “<article-title>A Systems Approach to Reducing Errors in Insulin Therapy in the Inpatient Setting</article-title>,” supplement, <source>Endocrine Practice</source>
+<volume>10</volume>, no. <issue>SUPPL. 2</issue> (<year>2004</year>): <fpage>100</fpage>–<lpage>108</lpage>, <pub-id pub-id-type="doi">10.4158/ep.10.s2.100</pub-id>.<pub-id pub-id-type="pmid">15251647</pub-id>
+</mixed-citation></ref><ref id="hex70622-bib-0052"><label>52</label><mixed-citation publication-type="miscellaneous" id="hex70622-cit-0052">
+<collab collab-type="authors">Diabetes UK</collab>
+. Making Hospitals Safe for People with Diabetes: Evaluating Progress Over the Last Four Years. <year>2022</year>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.diabetes.org.uk/sites/default/files/2022-08/Making%20Hospitals%20Safe%20Survey%20Report.pdf?VersionId=.IQiYsw5rPaTPPLUPycJTgrc5ivPfxyU" ext-link-type="uri">https://www.diabetes.org.uk/sites/default/files/2022‐08/Making%20Hospitals%20Safe%20Survey%20Report.pdf?VersionId=.IQiYsw5rPaTPPLUPycJTgrc5ivPfxyU</ext-link>.</mixed-citation></ref><ref id="hex70622-bib-0053"><label>53</label><mixed-citation publication-type="book" id="hex70622-cit-0053">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Braithwaite</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Clay‐Williams</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Nugus</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Plumb</surname>
+</string-name>, “<part-title>Health Care as a Complex Adaptive System</part-title>,” in <source>Resilient Health Care</source>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Hollnagel</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Braithwaite</surname>
+</string-name>
+</person-group>, and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Wears</surname>
+</string-name>
+</person-group> (<publisher-name>Ashgate Publishing</publisher-name>, <year>2013</year>), <fpage>57</fpage>–<lpage>73</lpage>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://researchers.mq.edu.au/en/publications/health-care-as-a-complex-adaptive-system" ext-link-type="uri">https://researchers.mq.edu.au/en/publications/health‐care‐as‐a‐complex‐adaptive‐system</ext-link>.</mixed-citation></ref><ref id="hex70622-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="hex70622-cit-0054">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Braithwaite</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Wears</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Hollnagel</surname>
+</string-name>, “<article-title>Resilient Health Care: Turning Patient Safety on Its Head</article-title>,” <source>International Journal for Quality in Health Care</source>
+<volume>27</volume>, no. <issue>5</issue> (<year>2015</year>): <fpage>418</fpage>–<lpage>420</lpage>, <pub-id pub-id-type="doi">10.1093/INTQHC/MZV063</pub-id>.<pub-id pub-id-type="pmid">26294709</pub-id>
+</mixed-citation></ref><ref id="hex70622-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="hex70622-cit-0055">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Ashley‐Fenn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Janjua</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Monir</surname>
+</string-name>, et al., “<article-title>An Audit of Inpatient Insulin Prescriptions – How Error Relates to Information Source</article-title>,” <source>Future Healthcare Journal</source>
+<volume>11</volume>, no. <issue>2</issue> (<year>2024</year>): <elocation-id>100146</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.fhj.2024.100146</pub-id>.<pub-id pub-id-type="pmid">38966834</pub-id>
+<pub-id pub-id-type="pmcid">PMC11223069</pub-id></mixed-citation></ref><ref id="hex70622-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="hex70622-cit-0056">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Rayman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Page</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hodgson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Henley</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>WR Briggs</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W. K.</given-names>
+<surname>Gray</surname>
+</string-name>, “<article-title>Improving the Outcomes for People With Diabetes Undergoing Surgery: An Observational Study of the Improving the Peri‐Operative Pathway of People With Diabetes (IP3D) Intervention</article-title>,” <source>Diabetes Research and Clinical Practice</source>
+<volume>207</volume> (<year>2024</year>): <elocation-id>111062</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.jcjd.2023.05.001</pub-id>.<pub-id pub-id-type="pmid">38110122</pub-id>
+</mixed-citation></ref><ref id="hex70622-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="hex70622-cit-0057">
+<string-name name-style="western">
+<given-names>L. E.</given-names>
+<surname>Selman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. A.</given-names>
+<surname>Daveson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Smith</surname>
+</string-name>, et al., “<article-title>How Empowering Is Hospital Care for Older People With Advanced Disease? Barriers and Facilitators From a Cross‐National Ethnography in England, Ireland and the USA</article-title>,” <source>Age and Ageing</source>
+<volume>46</volume>, no. <issue>2</issue> (<year>2017</year>): <fpage>300</fpage>–<lpage>309</lpage>, <pub-id pub-id-type="doi">10.1093/AGEING/AFW193</pub-id>.<pub-id pub-id-type="pmid">27810850</pub-id>
+<pub-id pub-id-type="pmcid">PMC5860377</pub-id></mixed-citation></ref><ref id="hex70622-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="hex70622-cit-0058">
+<string-name name-style="western">
+<given-names>V. L.</given-names>
+<surname>Rowse</surname>
+</string-name>, “<article-title>Implementing Self‐Administration of Insulin in Hospital: A Journey of Discovery and Innovation. Part 1: Culture and Storage</article-title>,” <source>British Journal of Diabetes</source>
+<volume>18</volume>, no. <issue>1</issue> (<year>2018</year>): <fpage>18</fpage>–<lpage>21</lpage>, <pub-id pub-id-type="doi">10.15277/BJD.2018.160</pub-id>.</mixed-citation></ref><ref id="hex70622-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="hex70622-cit-0059">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yamamoto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Abraham</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Malatestinic</surname>
+</string-name>, “<article-title>Improving Insulin Distribution and Administration Safety Using Lean Six Sigma Methodologies</article-title>,” <source>Hospital Pharmacy</source>
+<volume>45</volume>, no. <issue>3</issue> (<year>2010</year>): <fpage>212</fpage>–<lpage>224</lpage>, <pub-id pub-id-type="doi">10.1310/HPJ4503-212</pub-id>.</mixed-citation></ref><ref id="hex70622-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="hex70622-cit-0060">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bain</surname>
+</string-name>, “<article-title>Hospital Insulin Errors Remain High, but We Can Improve the Safety of Inpatients With Diabetes</article-title>,” <source>Pharmaceutical Journal</source>
+<volume>307</volume>, no. <issue>7951</issue> (<year>2021</year>), <pub-id pub-id-type="doi">10.1211/PJ.2021.1.95382</pub-id>.</mixed-citation></ref><ref id="hex70622-bib-0061"><label>61</label><mixed-citation publication-type="book" id="hex70622-cit-0061">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Robert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Donetto</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Williams</surname>
+</string-name>, “<part-title>Co‐Designing Healthcare Services With Patients</part-title>,” in <source>The Palgrave Handbook of Co‐Production of Public Services and Outcomes</source>, eds. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Loeffler</surname>
+</string-name>
+</person-group> and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Bovaird</surname>
+</string-name>
+</person-group>. <publisher-name>Springer International Publishing</publisher-name>, <year>2021</year>), <fpage>313</fpage>–<lpage>333</lpage>, <pub-id pub-id-type="doi">10.1007/978-3-030-53705-0_16</pub-id>.</mixed-citation></ref><ref id="hex70622-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="hex70622-cit-0062">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Cantarero‐Arevalo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kaae</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jacobsen</surname>
+</string-name>, et al., “<article-title>Empowering Patients as Co‐Researchers in Social Pharmacy: Lessons Learned and Practical Tips for Meaningful Partnership and Impact</article-title>,” <source>Research in Social and Administrative Pharmacy</source>
+<volume>20</volume>, no. <issue>3</issue> (<year>2024</year>): <fpage>372</fpage>–<lpage>376</lpage>, <pub-id pub-id-type="doi">10.1016/J.SAPHARM.2023.12.006</pub-id>.<pub-id pub-id-type="pmid">38158303</pub-id>
+</mixed-citation></ref></ref-list></back></article></pmc-articleset>

@@ -1,0 +1,1132 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="apha70188" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Acta Physiol (Oxf)</journal-id><journal-id journal-id-type="iso-abbrev">Acta Physiol (Oxf)</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">APHA</journal-id><journal-title-group><journal-title>Acta Physiologica (Oxford, England)</journal-title></journal-title-group><issn pub-type="ppub">1748-1708</issn><issn pub-type="epub">1748-1716</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12960837</article-id><article-id pub-id-type="pmcid-ver">PMC12960837.1</article-id><article-id pub-id-type="pmcaid">12960837</article-id><article-id pub-id-type="pmcaiid">12960837</article-id><article-id pub-id-type="pmid">41782211</article-id><article-id pub-id-type="doi">10.1111/apha.70188</article-id><article-id pub-id-type="publisher-id">APHA70188</article-id><article-id pub-id-type="other">9772359</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Paper</subject></subj-group></article-categories><title-group><article-title>Kisspeptin Restores Placental <styled-content style="fixed-case" toggle="no">mTOR</styled-content> Signaling and Improves Glucose Homeostasis Mediators Disrupted by Maternal Hypothyroidism in Rats</article-title></title-group><contrib-group><contrib id="apha70188-cr-0001" contrib-type="author"><name name-style="western"><surname>Santos</surname><given-names initials="BR">Bianca Reis</given-names></name><xref rid="apha70188-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="apha70188-cr-0002" contrib-type="author"><name name-style="western"><surname>dos Anjos Cordeiro</surname><given-names initials="JM">Jeane Martinha</given-names></name><xref rid="apha70188-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="apha70188-cr-0003" contrib-type="author"><name name-style="western"><surname>Santos</surname><given-names initials="LC">Luciano Cardoso</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7679-1353</contrib-id><xref rid="apha70188-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="apha70188-cr-0004" contrib-type="author"><name name-style="western"><surname>Oliveira</surname><given-names initials="CS">Cleisla Souza</given-names></name><xref rid="apha70188-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="apha70188-cr-0005" contrib-type="author"><name name-style="western"><surname>Alvarez</surname><given-names initials="MCPS">Maria Clara Pascoal Santos</given-names></name><xref rid="apha70188-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="apha70188-cr-0006" contrib-type="author"><name name-style="western"><surname>Rodrigues</surname><given-names initials="NP">Natália Panhoca</given-names></name><xref rid="apha70188-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="apha70188-cr-0007" contrib-type="author"><name name-style="western"><surname>Lopez‐Tello</surname><given-names initials="J">Jorge</given-names></name><xref rid="apha70188-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="apha70188-cr-0008" contrib-type="author"><name name-style="western"><surname>Sferruzzi‐Perri</surname><given-names initials="AN">Amanda N.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4931-4233</contrib-id><xref rid="apha70188-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="apha70188-cr-0009" contrib-type="author"><name name-style="western"><surname>Serakides</surname><given-names initials="R">Rogéria</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5374-6242</contrib-id><xref rid="apha70188-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="apha70188-cr-0010" contrib-type="author" corresp="yes"><name name-style="western"><surname>Silva</surname><given-names initials="JF">Juneo Freitas</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9881-1236</contrib-id><xref rid="apha70188-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>jfsilva@uesc.br</email></address></contrib></contrib-group><aff id="apha70188-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Centro de Microscopia Eletronica, Departamento de Ciencias Biologicas</named-content>
+<institution>Universidade Estadual de Santa Cruz</institution>
+<city>Ilheus</city>
+<country country="BR">Brazil</country>
+</aff><aff id="apha70188-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Physiology, Faculty of Medicine</named-content>
+<institution>Autonomous University of Madrid</institution>
+<city>Madrid</city>
+<country country="ES">Spain</country>
+</aff><aff id="apha70188-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Centre for Trophoblast Research, Department of Physiology, Development and Neuroscience</named-content>
+<institution>University of Cambridge</institution>
+<city>Cambridge</city>
+<country country="GB">UK</country>
+</aff><aff id="apha70188-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Departamento de Clinica e Cirurgia Veterinarias, Escola de Veterinaria</named-content>
+<institution>Universidade Federal de Minas Gerais</institution>
+<city>Belo Horizonte</city>
+<country country="BR">Brazil</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Juneo Freitas Silva (<email>jfsilva@uesc.br</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>3</month><year>2026</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2026</year></pub-date><volume>242</volume><issue seq="70">4</issue><issue-id pub-id-type="pmc-issue-id">508872</issue-id><issue-id pub-id-type="doi">10.1111/apha.v242.4</issue-id><elocation-id>e70188</elocation-id><history><date date-type="rev-recd"><day>13</day><month>1</month><year>2026</year></date><date date-type="received"><day>24</day><month>9</month><year>2025</year></date><date date-type="accepted"><day>19</day><month>2</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>05</day><month>03</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>06</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-06 07:25:13.380"><day>06</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Acta Physiologica</italic> published by John Wiley &amp; Sons Ltd on behalf of Scandinavian Physiological Society.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="APHA-242-e70188.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:APHA-242-e70188.pdf"/><abstract><title>ABSTRACT</title><sec id="apha70188-sec-0001"><title>Aim</title><p>Reduced placental mTOR signaling is associated with intrauterine growth restriction and impaired maternal and placental metabolism. Since maternal hypothyroidism induces intrauterine growth restriction, and maternal treatment with kisspeptin‐10 (Kp10) has been shown to improve feto‐placental development in hypothyroid rats, this study aimed to evaluate the effects of maternal hypothyroidism, with and without kisspeptin‐10 treatment, on maternal energy homeostasis and placental expression of mTOR and glucose metabolism mediators.</p></sec><sec id="apha70188-sec-0002"><title>Methods</title><p>Maternal hypothyroidism was induced by administration of propylthiouracil, and kisspeptin‐10 treatment began on gestational day 8.</p></sec><sec id="apha70188-sec-0003"><title>Results</title><p>Maternal hypothyroidism caused glucose intolerance, decreased insulin and HDL levels, reduced fetal and placental weights, and thinned the placental interhaemal barrier. It also increased INSRβ and AKT, while downregulating placental p‐mTOR/mTOR and Glut1. Although kisspeptin‐10 treatment did not improve maternal glucose homeostasis or prevent feto‐placental growth restriction, it attenuated maternal hypothyroidism‐induced placental Glut1 dysregulation, upregulated the IGF1/IGF1R axis, and restored placental AKT/mTOR expression.</p></sec><sec id="apha70188-sec-0004"><title>Conclusion</title><p>These findings suggest that kisspeptin‐10 treatment in hypothyroid pregnant rats improves placental mTOR signaling and glucose metabolism mediators, highlighting novel pathways through which kisspeptin may modulate placental physiology.</p></sec></abstract><abstract abstract-type="highlights" id="APHA70188-abs-5001"><title>Summary</title><p>
+<list list-type="bullet" id="apha70188-list-0001"><list-item id="apha70188-li-0001"><p>Hypothyroidism disrupts maternal and placental metabolism impairing nutrient sensing, fetal growth, and long‐term metabolic health.</p></list-item><list-item id="apha70188-li-0002"><p>Kisspeptin restores placental mTOR signaling and glucose metabolism mediators in hypothyroid pregnant rats.</p></list-item><list-item id="apha70188-li-0003"><p>Targeting kisspeptin signaling may represent a novel therapeutic strategy to mitigate pregnancy complications.</p></list-item></list>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="apha70188-kwd-0001">fetus</kwd><kwd id="apha70188-kwd-0002">glucose</kwd><kwd id="apha70188-kwd-0003">Kiss1</kwd><kwd id="apha70188-kwd-0004">metabolism</kwd><kwd id="apha70188-kwd-0005">PTU</kwd><kwd id="apha70188-kwd-0006">thyroid</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</institution><institution-id institution-id-type="doi">10.13039/501100002322</institution-id></institution-wrap>
+</funding-source></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Conselho Nacional de Desenvolvimento Científico e Tecnológico</institution><institution-id institution-id-type="doi">10.13039/501100003593</institution-id></institution-wrap>
+</funding-source><award-id>402515/2021‐8</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>Attraction of Talent Grant from the Community of Madrid</institution></institution-wrap>
+</funding-source><award-id>2023‐T1/SAL‐GL‐28960</award-id></award-group><award-group id="funding-0004"><funding-source>
+<institution-wrap><institution>Lister Institute of Preventative Medicine Research Grant</institution></institution-wrap>
+</funding-source><award-id>RG93692</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="16"/><word-count count="10000"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:05.03.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="apha70188-body-0001"><sec id="apha70188-sec-0005"><label>1</label><title>Introduction</title><p>The placenta plays a central endocrine role during pregnancy by regulating maternal metabolism and supporting fetal growth, particularly through adaptations in glucose homeostasis, including peripheral insulin resistance and increased basal glucose levels, which facilitate transplacental glucose transport [<xref rid="apha70188-bib-0001" ref-type="bibr">1</xref>, <xref rid="apha70188-bib-0002" ref-type="bibr">2</xref>, <xref rid="apha70188-bib-0003" ref-type="bibr">3</xref>, <xref rid="apha70188-bib-0004" ref-type="bibr">4</xref>, <xref rid="apha70188-bib-0005" ref-type="bibr">5</xref>]. This regulation is mediated by placental hormones such as placental lactogens (PL), insulin‐like growth factor 1 (IGF‐1), leptin, and prolactin, which modulate maternal insulin sensitivity and pancreatic β‐cell function via the placental–pancreatic axis [<xref rid="apha70188-bib-0001" ref-type="bibr">1</xref>, <xref rid="apha70188-bib-0004" ref-type="bibr">4</xref>, <xref rid="apha70188-bib-0005" ref-type="bibr">5</xref>, <xref rid="apha70188-bib-0006" ref-type="bibr">6</xref>, <xref rid="apha70188-bib-0007" ref-type="bibr">7</xref>, <xref rid="apha70188-bib-0008" ref-type="bibr">8</xref>]. Disruption of these pathways has been implicated in gestational disorders such as gestational diabetes mellitus (GDM), preeclampsia, and intrauterine growth restriction (IUGR) [<xref rid="apha70188-bib-0001" ref-type="bibr">1</xref>, <xref rid="apha70188-bib-0002" ref-type="bibr">2</xref>, <xref rid="apha70188-bib-0009" ref-type="bibr">9</xref>].</p><p>At the molecular level, changes in placenta insulin signaling and metabolism also play a role in determining pregnancy outcomes and long‐term health. Alterations in the IRS/PI3K/mTOR signaling pathway in the placenta have been implicated in abnormal fetal growth and GDM [<xref rid="apha70188-bib-0010" ref-type="bibr">10</xref>, <xref rid="apha70188-bib-0011" ref-type="bibr">11</xref>, <xref rid="apha70188-bib-0012" ref-type="bibr">12</xref>]. The mTOR complex 1 (mTORC1), a key placental nutrient sensor, has been proposed as a mediator linking placental function to the programming of metabolic dysfunction and insulin resistance in adult offspring [<xref rid="apha70188-bib-0011" ref-type="bibr">11</xref>, <xref rid="apha70188-bib-0013" ref-type="bibr">13</xref>, <xref rid="apha70188-bib-0014" ref-type="bibr">14</xref>]. Furthermore, dysregulation of the IRS/PI3K/AKT/mTOR pathway is associated with structural and functional changes in the placenta that are linked to IUGR, obesity, GDM, and preeclampsia [<xref rid="apha70188-bib-0011" ref-type="bibr">11</xref>, <xref rid="apha70188-bib-0015" ref-type="bibr">15</xref>, <xref rid="apha70188-bib-0016" ref-type="bibr">16</xref>], highlighting mTOR as a potential therapeutic target for gestational disorders [<xref rid="apha70188-bib-0012" ref-type="bibr">12</xref>]. In addition, accumulating evidence indicates that placental mTOR signaling is sexually dimorphic, with male fetuses favoring growth‐promoting strategies and female fetuses prioritizing adaptive and reserve pathways [<xref rid="apha70188-bib-0017" ref-type="bibr">17</xref>], thereby contributing to differences in fetal growth trajectories and susceptibility to gestational complications [<xref rid="apha70188-bib-0008" ref-type="bibr">8</xref>].</p><p>Maternal hypothyroidism is a significant gestational metabolic disorder associated with placental dysfunction and IUGR [<xref rid="apha70188-bib-0018" ref-type="bibr">18</xref>, <xref rid="apha70188-bib-0019" ref-type="bibr">19</xref>, <xref rid="apha70188-bib-0020" ref-type="bibr">20</xref>]. However, its potential impact on placental mTOR signaling has not yet been investigated. It is also linked with impaired maternal glucose homeostasis and reduced placental hormones, including PL‐II [<xref rid="apha70188-bib-0021" ref-type="bibr">21</xref>, <xref rid="apha70188-bib-0022" ref-type="bibr">22</xref>] and kisspeptin in hypothyroid rats [<xref rid="apha70188-bib-0023" ref-type="bibr">23</xref>]. Administration of kisspeptin‐10 in hypothyroid pregnant rats has been shown to improve the intrauterine environment by reducing inflammation and oxidative stress, and enhance fetal development [<xref rid="apha70188-bib-0024" ref-type="bibr">24</xref>, <xref rid="apha70188-bib-0025" ref-type="bibr">25</xref>].</p><p>Although kisspeptin is primarily known for its role in regulating the hypothalamic–pituitary‐gonadal (HPG) axis [<xref rid="apha70188-bib-0026" ref-type="bibr">26</xref>, <xref rid="apha70188-bib-0027" ref-type="bibr">27</xref>], it is now acknowledged as a key peptide for maintaining a healthy pregnancy [<xref rid="apha70188-bib-0028" ref-type="bibr">28</xref>, <xref rid="apha70188-bib-0029" ref-type="bibr">29</xref>, <xref rid="apha70188-bib-0030" ref-type="bibr">30</xref>]. Emerging evidence also indicates that kisspeptin contributes to glucose homeostasis by modulating insulin release and stimulating pancreatic β‐cell adaptation during pregnancy [<xref rid="apha70188-bib-0031" ref-type="bibr">31</xref>, <xref rid="apha70188-bib-0032" ref-type="bibr">32</xref>, <xref rid="apha70188-bib-0033" ref-type="bibr">33</xref>, <xref rid="apha70188-bib-0034" ref-type="bibr">34</xref>]. Notably, oscillations in plasma and placental kisspeptin levels have been associated with GDM [<xref rid="apha70188-bib-0033" ref-type="bibr">33</xref>, <xref rid="apha70188-bib-0035" ref-type="bibr">35</xref>, <xref rid="apha70188-bib-0036" ref-type="bibr">36</xref>], suggesting that disrupted placental kisspeptin signaling may impair maternal glucose regulation and contribute to GDM pathogenesis signaling [<xref rid="apha70188-bib-0006" ref-type="bibr">6</xref>, <xref rid="apha70188-bib-0033" ref-type="bibr">33</xref>, <xref rid="apha70188-bib-0034" ref-type="bibr">34</xref>, <xref rid="apha70188-bib-0037" ref-type="bibr">37</xref>]. In fact, exogenous kisspeptin‐10 administration in hypothyroid rats increases placental expression of placental growth factor (PlGF), IGF‐1, and glucose transporter 1 (GLUT1) [<xref rid="apha70188-bib-0025" ref-type="bibr">25</xref>], supporting its modulatory role in placental glucose homeostasis.</p><p>Despite these advances, significant gaps remain in our understanding of the placental molecular pathways through which kisspeptin exerts its metabolic effects during pregnancy. Notably, impaired placental mTOR signaling and reduced circulating kisspeptin levels have each been independently associated with intrauterine growth restriction (IUGR) and adverse pregnancy outcomes [<xref rid="apha70188-bib-0014" ref-type="bibr">14</xref>, <xref rid="apha70188-bib-0016" ref-type="bibr">16</xref>, <xref rid="apha70188-bib-0028" ref-type="bibr">28</xref>, <xref rid="apha70188-bib-0038" ref-type="bibr">38</xref>]. However, to date, no studies have directly investigated the potential cross‐talk between kisspeptin signaling and placental mTOR–mediated metabolic regulation. Therefore, we hypothesized that maternal hypothyroidism disrupts placental mTOR signaling and glucose metabolism, and that kisspeptin‐10 treatment could restore these pathways, thereby improving maternal glucose homeostasis. Using a rat model, this study aimed to evaluate the effects of maternal hypothyroidism, with and without kisspeptin‐10 treatment, on maternal glucose homeostasis and placental expression of mTOR and key mediators of glucose metabolism.</p></sec><sec sec-type="results" id="apha70188-sec-0006"><label>2</label><title>Results</title><sec id="apha70188-sec-0007"><label>2.1</label><title>Maternal Kp10 Treatment Did Not Affect Glycemic Dysfunction, Reduced Plasma Insulin, and Decreased <styled-content style="fixed-case" toggle="no">HDL</styled-content> Levels Induced by Hypothyroidism in Pregnant Rats</title><p>As MH impairs maternal glycemia [<xref rid="apha70188-bib-0039" ref-type="bibr">39</xref>], we first evaluated Kp10 effects on glucose homeostasis in hypothyroid pregnant rats. The induction of hypothyroidism was confirmed by significantly reduced plasma free T4 levels in the hypothyroid group compared to controls (<italic toggle="yes">p</italic> &lt; 0.0001). Kp10 treatment did not affect free T4 plasma levels, which remained comparable to those in the hypothyroid group (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0001" ref-type="fig">1A</xref>).</p><fig position="float" fig-type="FIGURE" id="apha70188-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Maternal metabolic profile of control, hypothyroid, and Kisspeptin‐10 (Kp10)‐treated hypothyroid rats. (A) Maternal plasma level of free T4 at GD 18. (B) Fasting blood glucose at GD 16 (C) Random blood glucose at GD 18 (D) Random plasma insulin at GD 18. (E) Glycemic curve of IPGTT at GD 16. (F) Area under the IPGTT curve. (G) Glycemic curve of the insulin tolerance test at GD 16. (H) Area under the IPITT curve. (I) Representative photomicrograph of the pancreas with insulin immunolabeling (Polymer‐based detection system, Harris hematoxylin, Bar = 20 μm and 50 μm); (J) Pancreas mass relative to maternal body mass at GD 14 and 18. (K) Number of islets of Langerhans per mm<sup>2</sup> at GD 14 and 18. (L–O) Maternal triglycerides, total cholesterol, HDL and LDL levels at GD 18. (A–O, except E and G: One‐way ANOVA <italic toggle="yes">post hoc</italic> SNK; E and G: Two‐way ANOVA <italic toggle="yes">post hoc</italic> SNK; Mean ± SEM). Significant differences are indicated by *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001, ****<italic toggle="yes">p</italic> &lt; 0.0001, except for E where *<italic toggle="yes">p</italic> &lt; 0.05 control vs. Hypothyroid; **<italic toggle="yes">p</italic> &lt; 0.01 control vs. Hypothyroid; <sup>#</sup>
+<italic toggle="yes">p</italic> &lt; 0.05 control vs. <italic toggle="yes">p</italic> &lt; 0.01; <sup>##</sup>
+<italic toggle="yes">p</italic> &lt; 0.01 control vs. <italic toggle="yes">p</italic> &lt; 0.01; <sup>###</sup>
+<italic toggle="yes">p</italic> &lt; 0.001 control vs. Kp10. IPGTT, intraperitoneal glucose tolerance test; IPITT, intraperitoneal insulin tolerance test; GD, gestational day; HDL, high‐density lipoprotein; LDL, low‐density lipoprotein.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="APHA-242-e70188-g002.jpg"/></fig><p>On GD 16, MH significantly increased fasting blood glucose levels compared to the control group (<italic toggle="yes">p</italic> &lt; 0.05), while Kp10 treatment had no significant effect on this parameter (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0001" ref-type="fig">1B</xref>). In contrast, no significant differences were observed in random blood glucose levels among the groups at GD 18 (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0001" ref-type="fig">1C</xref>). However, MH significantly reduced random plasma insulin levels at GD 18 (<italic toggle="yes">p</italic> &lt; 0.01), and this effect was not altered by maternal Kp10 treatment (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0001" ref-type="fig">1D</xref>).</p><p>At GD 16, the IPGTT revealed that MH significantly elevated glucose levels at 0, 30, and 60 min compared to controls (<italic toggle="yes">p</italic> &lt; 0.05; <italic toggle="yes">p</italic> &lt; 0.01; Figure <xref rid="apha70188-fig-0001" ref-type="fig">1E</xref>), indicating impaired glucose intolerance. This was further supported by AUC analysis, which confirmed glucose intolerance in the MH group (<italic toggle="yes">p</italic> &lt; 0.01; Figure <xref rid="apha70188-fig-0001" ref-type="fig">1F</xref>). Kp10 treatment did not ameliorate the glucose intolerance observed in hypothyroid dams, as glucose levels at 0, 30, and 60 min remained significantly elevated compared to controls (<italic toggle="yes">p</italic> &lt; 0.05; <italic toggle="yes">p</italic> &lt; 0.01; <italic toggle="yes">p</italic> &lt; 0.001; Figure <xref rid="apha70188-fig-0001" ref-type="fig">1E,F</xref>). Regarding the IPITT, no significant differences in insulin sensitivity were observed among the groups (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0001" ref-type="fig">1G,H</xref>).</p><p>Maternal pancreatic mass and insulin‐positive islets were quantified on GD 18 to complement glucose and insulin analyses. No significant differences were observed among groups (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0001" ref-type="fig">1I–K</xref>).</p><p>Given the glucose intolerance in hypothyroid groups, lipid metabolism was assessed by measuring triglycerides, total cholesterol, and lipoprotein fractions, due to their close link with glucose metabolism in energy homeostasis [<xref rid="apha70188-bib-0040" ref-type="bibr">40</xref>]. Although no significant differences were found in plasma triglyceride, total cholesterol, or LDL concentrations among the groups (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0001" ref-type="fig">1L,M,O</xref>), MH significantly reduced plasma HDL levels compared to controls (<italic toggle="yes">p</italic> &lt; 0.05). Kp10 treatment did not reverse this reduction (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0001" ref-type="fig">1N</xref>).</p></sec><sec id="apha70188-sec-0008"><label>2.2</label><title>Kp10 Treatment Did Not Mitigate the Fetal Growth Restriction Caused by Hypothyroidism</title><p>MH significantly reduced maternal body mass gain at both GD 14 and GD 18 compared to controls (<italic toggle="yes">p</italic> &lt; 0.0001), and this effect was not alleviated by Kp10 treatment (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0002" ref-type="fig">2A</xref>). Regarding fetal development, no significant differences were observed in the number of viable fetuses, fetal death rates, or fetal plasma glucose and insulin levels at GD18 (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0002" ref-type="fig">2B–E</xref>). However, MH led to a significant reduction in fetal mass at both GD 14 and GD 18 (<italic toggle="yes">p</italic> &lt; 0.01; <italic toggle="yes">p</italic> &lt; 0.0001), and Kp10 treatment did not prevent this reduction (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0002" ref-type="fig">2F</xref>).</p><fig position="float" fig-type="FIGURE" id="apha70188-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Maternal and offspring data from control, hypothyroid, and hypothyroid female rats treated with Kisspeptin‐10 (Kp10). (A) Maternal hysterectomised body mass gain at between GD 0 and GD 14 and GD 18. (B) Number of viable fetuses at GD 18. (C) Fetal death rate at GD 18. (D) Fetal blood glucose at GD 18. (E) Fetal plasma insulin at GD 18. (F) Fetal body mass at GD 14 and 18. (G) Placental mass at GD 14 and 18. (H) Placental efficiency calculated as the ratio of fetal to placental mass at GD 14 and 18. (I) Body mass of neonatal and weaned offspring. (A–C, H, I: One‐way ANOVA <italic toggle="yes">post hoc</italic> SNK; D–G: Linear mixed model <italic toggle="yes">post hoc</italic> Bonferroni; Mean ± SEM). Significant differences are indicated by *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.001, and ****<italic toggle="yes">p</italic> &lt; 0.0001. In (D–G), graphs display the mean ± SEM and were analyzed using linear mixed model analysis. Individual fetal data points are overlaid on the graphs, prepared using Adobe Illustrator. GD, gestational day.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="APHA-242-e70188-g003.jpg"/></fig><p>At GD 14, MH significantly reduced placental mass compared to controls (<italic toggle="yes">p</italic> &lt; 0.05), an effect that was partially mitigated by Kp10 treatment, as no significant difference was observed between the Kp10 treated MH group and controls (<italic toggle="yes">p</italic> &gt; 0.05). However, by GD 18, MH alone no longer affected placental mass (<italic toggle="yes">p</italic> &gt; 0.05), whereas Kp10 treatment of hypothyroid animals led to a significant reduction in placental mass compared to controls (<italic toggle="yes">p</italic> &lt; 0.05; Figure <xref rid="apha70188-fig-0002" ref-type="fig">2G</xref>). No significant differences in placental efficiency were detected among the groups at either gestational age (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0002" ref-type="fig">2H</xref>).</p><p>MH was also associated with a significant reduction in the body mass of both male and female neonatal offspring compared to controls (<italic toggle="yes">p</italic> &lt; 0.001). Kp10 treatment showed a trend toward preventing this reduction in female neonates, though the difference did not reach statistical significance (<italic toggle="yes">p =</italic> 0.0692). No significant differences in the body mass of weaned offspring of either sex were observed among the groups (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0002" ref-type="fig">2I</xref>).</p></sec><sec id="apha70188-sec-0009"><label>2.3</label><title>Kp10 Treatment Prevents Glycogen Accumulation in the Junctional Zone Caused by Hypothyroidism</title><p>Since changes in fetal growth may result from placental structural alterations, stereological analysis was performed [<xref rid="apha70188-bib-0015" ref-type="bibr">15</xref>]. At GD 14, no significant differences in placental layer volumes were observed among the groups (<italic toggle="yes">p</italic> &gt; 0.05). However, at GD 18, MH significantly reduced the volumes of the basal decidua and junctional zone compared to controls (<italic toggle="yes">p</italic> &lt; 0.05), whereas the labyrinth zone did not show a significant difference (<italic toggle="yes">p</italic> &gt; 0.05). Kp10 treatment did not prevent these reductions in hypothyroid animals (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0003" ref-type="fig">3A,B</xref>).</p><fig position="float" fig-type="FIGURE" id="apha70188-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Assessment of placental morphology in control, hypothyroid, and Kisspeptin‐10 (Kp10)‐treated hypothyroid rats. (A) Photomicrographs of placentas at GD 14 (Hematoxylin &amp; Eosin; Bar = 2.5 mm). (B) Absolute volume of the placental zones at GD 14 and 18. (C) Photomicrographs of PAS staining in the junctional zone (PAS; Fast Green; Bar = 50 μm). (D) Area in pixels stained by PAS at GD 14 and 18. (E) Photomicrographs of the double staining by cytokeratin + vimentin (Streptavidin‐biotin‐peroxidase; Alkaline Phosphatase‐BCIP/NBT; nuclear Fast Red; Bar = 20 μm) (F) Absolute volume of the compartments of the labyrinth zone at GD 14 and 18. (G) Surface area of the vasculature of the labyrinth area at GD 14 and 18. (H) Total fetal capillary length at GD 14 and 18. (I) Fetal capillary area at GD 14 and 18. (J) Fetal capillary diameter at GD 14 and 18. (K) Interhaemal membrane thickness at GD 14 and 18. (L) Theoretical diffusion capacity of the interhaemal membrane at GD 14 and 18. (M) Specific diffusion capacity of the interhaemal membrane at GD 14 and 18. (Mean ± SEM). Significant differences are indicated by *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01 for one‐way ANOVA followed by SNK test, and <sup>#</sup>
+<italic toggle="yes">p</italic> &lt; 0.05 for Student's <italic toggle="yes">t</italic>‐test. BD, basal decidua; GD, gestational day; Gly, glycogen cells; Green bar, interhaemal membraneJZ, junctional zone; LZ, labyrinth zone; MVS, maternal vascular space; PAS, Periodic acid‐Schiff; SpT, spongiotrophoblast; TB, trophoblast; TGC, trophoblast giant cells.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="APHA-242-e70188-g004.jpg"/></fig><p>PAS staining (Figure <xref rid="apha70188-fig-0003" ref-type="fig">3C</xref>) revealed that glycogen accumulation in the junctional zone was significantly increased by MH at GD 14 (<italic toggle="yes">p</italic> &lt; 0.01), and this effect was completely ameliorated by Kp10 treatment (<italic toggle="yes">p</italic> &gt; 0.05). By GD 18, no significant differences in glycogen accumulation were observed among the groups (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0003" ref-type="fig">3D</xref>).</p><p>Double‐label immunostaining for cytokeratin and vimentin (Figure <xref rid="apha70188-fig-0003" ref-type="fig">3E</xref>) showed no significant differences among groups in the absolute volumes or surface areas of fetal capillaries, maternal blood spaces and trophoblast (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0003" ref-type="fig">3F,G</xref>). Similarly, there were no differences in fetal capillary length, area, or diameter (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0003" ref-type="fig">3H–J</xref>). However, MH significantly thinned the interhaemal membrane compared to controls (<italic toggle="yes">p</italic> &lt; 0.05), an effect not reverse by Kp10 treatment (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0003" ref-type="fig">3K</xref>). No significant differences were found among the groups in theoretical diffusion capacity and specific interhaemal membrane diffusion (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0003" ref-type="fig">3L,M</xref>).</p></sec><sec id="apha70188-sec-0010"><label>2.4</label><title>Kp10 Treatment Attenuated the Placental Glut1 Dysregulation Caused by Hypothyroidism</title><p>Given the essential role of placental glucose transfer in fetal growth [<xref rid="apha70188-bib-0005" ref-type="bibr">5</xref>], we assessed the expression of glucose transporter GLUT1, along with placental hormones involved in maternal metabolic adaptations that support nutrient supply, including PL‐II, rPRL, and Leptin. GLUT1 immunostaining was most prominent in the labyrinth zone, particularly at GD 14 (Figure <xref rid="apha70188-fig-0004" ref-type="fig">4A,D</xref>). At GD 14, MH significantly reduced GLUT1 immunostaining in the labyrinth zone compared to controls (<italic toggle="yes">p</italic> &lt; 0.01), and this reduction was not prevented by Kp10 treatment (<italic toggle="yes">p</italic> &gt; 0.05). No significant differences were observed in the junctional zone at this gestational age (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0004" ref-type="fig">4B</xref>). At the transcript level, no significant differences in the expression of <italic toggle="yes">Glut1</italic>, <italic toggle="yes">PlII</italic>, <italic toggle="yes">rPrl</italic>, or <italic toggle="yes">Leptin</italic> were detected among groups when whole placentas were analyzed (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0004" ref-type="fig">4C</xref>).</p><fig position="float" fig-type="FIGURE" id="apha70188-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Assessment of GLUT1 expression and hormonal factors in placental tissue from control, hypothyroid, and Kisspeptin‐10 (Kp10)‐treated hypothyroid rats. (A) Photomicrographs of GLUT1 immunolabeling in the placenta at GD 14 (Polymer‐based detection system; Harris hematoxylin). (B) Area in pixels of GLUT1 immunolabeling at GD 14. (C) Gene expression of <italic toggle="yes">Glut1</italic>, <italic toggle="yes">PlII</italic>, <italic toggle="yes">rPrl and Leptin</italic> at GD 14. (D) Photomicrographs of GLUT1 immunolabeling in the placenta at GD 18 (Polymer‐based detection system; Harris hematoxylin). (E) Area in pixels of GLUT1 immunolabeling at GD 18. (F) Gene expression of <italic toggle="yes">Glut1</italic>, <italic toggle="yes">PlII</italic>, <italic toggle="yes">rPrl and Leptin</italic> at GD 18 (Mean ± SEM). Significant differences are indicated by *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ****<italic toggle="yes">p</italic> &lt; 0.0001, using one‐way ANOVA followed by SNK post hoc test. GD, gestational day. Bar = 50 μm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="APHA-242-e70188-g005.jpg"/></fig><p>By GD 18, MH significantly increased GLUT1 immunostaining in both the junctional and labyrinth zones compared to controls (<italic toggle="yes">p</italic> &lt; 0.0001, <italic toggle="yes">p</italic> &lt; 0.05). Kp10 treatment prevented the increase in the junctional zone (<italic toggle="yes">p</italic> &lt; 0.01), although GLUT1 levels remained moderately but significantly elevated compared to controls (<italic toggle="yes">p</italic> &lt; 0.01). In the labyrinth zone, Kp10 treatment partially prevented the increase, resulting in no significant difference compared to controls (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0004" ref-type="fig">4E</xref>). Interestingly, while MH alone had no significant effect on <italic toggle="yes">Glut1</italic> mRNA levels, Kp10 treatment increased significantly increased <italic toggle="yes">Glut1</italic> expression compared to both control and hypothyroid groups (<italic toggle="yes">p</italic> &lt; 0.05). No differences were observed in the expression of <italic toggle="yes">PlII</italic>, <italic toggle="yes">rPrl</italic> or <italic toggle="yes">Leptin</italic> transcripts among the groups (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0004" ref-type="fig">4F</xref>).</p></sec><sec id="apha70188-sec-0011"><label>2.5</label><title>Maternal Hypothyroidism Increased Placental <styled-content style="fixed-case" toggle="no">INSRβ</styled-content> Expression, While Kp10 Upregulated <styled-content style="fixed-case" toggle="no">IGF1</styled-content>/<styled-content style="fixed-case" toggle="no">IGF1R</styled-content> Expression</title><p>Since placental GLUT1 expression was dysregulated in hypothyroid animals, we evaluated the INSR/IGF1/IGF1R system, crucial for growth, metabolic signaling, and fetal‐placental development [<xref rid="apha70188-bib-0041" ref-type="bibr">41</xref>, <xref rid="apha70188-bib-0042" ref-type="bibr">42</xref>]. INSRβ immunostaining in the placenta exhibited heterogeneous cytoplasmic distribution, with prominent labeling in spongiotrophoblasts and giant cells, particularly at GD 14 (Figure <xref rid="apha70188-fig-0005" ref-type="fig">5A,F</xref>). IGF1R immunostaining was predominantly nuclear in the junctional zone, while both nuclear and cytoplasmic staining were observed in the labyrinth zone. A marked reduction in IGF1R was noted at GD 18 compared to GD 14 (Figure <xref rid="apha70188-fig-0005" ref-type="fig">5C,H</xref>).</p><fig position="float" fig-type="FIGURE" id="apha70188-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Assessment of INSR/IGF1/IGF1R system expression in placental tissue from control, hypothyroid, and Kisspeptin‐10 (Kp10)‐treated hypothyroid rats. (A) Photomicrographs of INSRβ immunolabeling in the placenta at GD 14 (Polymer‐based detection system; Harris hematoxylin). (B) Area in pixels of INSRβ immunolabeling at GD 14. (C) Photomicrographs of IGF1R immunolabeling in the placenta at GD 14 (Polymer‐based detection system; Harris hematoxylin). (D) Area in pixels of IGF1R of immunolabeling at GD14. (E) Gene expression of <italic toggle="yes">Insr</italic>, <italic toggle="yes">Irs1</italic>, <italic toggle="yes">Igf1</italic> and <italic toggle="yes">Igf1r</italic> at GD 14. (F) Photomicrographs of INSRβ immunolabeling in the placenta at GD 18 (Polymer‐based detection system; Harris hematoxylin). (G) Area in pixels of INSRβ immunolabeling at GD 18. (H) Photomicrographs of IGF1R immunolabeling in the placenta at GD 18 (Polymer‐based detection system; Harris hematoxylin). (I) Area in pixels of IGF1R immunolabeling at GD 18. (J) Gene expression of <italic toggle="yes">Insr</italic>, <italic toggle="yes">Irs1</italic>, <italic toggle="yes">Igf1</italic> and <italic toggle="yes">Igf1r</italic> at GD 18. (Mean ± SEM). Significant differences are indicated by *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, **<italic toggle="yes">p</italic> &lt; 0.001, ****<italic toggle="yes">p</italic> &lt; 0.0001 for one‐way ANOVA followed by SNK post hoc test; <sup>#</sup>
+<italic toggle="yes">p</italic> &lt; 0.05 for Student's <italic toggle="yes">t</italic>‐test. GD, Gestational Day. Bar = 50 μm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="APHA-242-e70188-g001.jpg"/></fig><p>At GD 14, MH significantly increased INSRβ labeling in both placental zones compared to controls (<italic toggle="yes">p</italic> &lt; 0.001, <italic toggle="yes">p</italic> &lt; 0.01), and this upregulation was not altered by Kp10 treatment (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0005" ref-type="fig">5B</xref>). Although no significant differences were observed in IGF1R expression between MH and control groups (<italic toggle="yes">p</italic> &gt; 0.05), Kp10 treatment significantly increased IGF1R immunostaining in the junctional and labyrinth zones compared to hypothyroid and control groups, respectively (<italic toggle="yes">p</italic> &lt; 0.05; Figure <xref rid="apha70188-fig-0005" ref-type="fig">5D</xref>). At the transcript level (whole placenta analysis), MH significantly upregulated <italic toggle="yes">Igf1</italic> expression compared to controls (<italic toggle="yes">p</italic> &lt; 0.05). This effect was mitigated by Kp10 treatment, which restored Igf1 levels to those similar to the control group (<italic toggle="yes">p</italic> &gt; 0.05). No significant differences were observed in the mRNA expression levels of <italic toggle="yes">Insr</italic>, <italic toggle="yes">Igf1r</italic>, or <italic toggle="yes">Irs1</italic> among groups at GD 14 (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0005" ref-type="fig">5E</xref>).</p><p>At GD 18, no significant differences were observed in the area of INSRβ and IGF1R immunostaining among groups (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0005" ref-type="fig">5G,I</xref>). However, a qualitative reduction in IGF1R staining was noted in both hypothyroid groups (untreated and treated), with expression ranging from weak to absent compared to controls. At the transcript level, while MH did not affect <italic toggle="yes">Igf1</italic> or <italic toggle="yes">Igf1r</italic> expression, Kp10 treatment significantly increased their expression relative to the control group (<italic toggle="yes">p</italic> &lt; 0.05) and/or MH groups (<italic toggle="yes">p</italic> &lt; 0.05). No significant differences were observed in <italic toggle="yes">Insr</italic> and <italic toggle="yes">Irs1</italic> mRNA levels among groups (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0005" ref-type="fig">5J</xref>).</p></sec><sec id="apha70188-sec-0012"><label>2.6</label><title>Maternal Kp10 Treatment Reversed Placental <styled-content style="fixed-case" toggle="no">AKT</styled-content>/<styled-content style="fixed-case" toggle="no">mTOR</styled-content> Dysregulation Induced by Hypothyroidism at <styled-content style="fixed-case" toggle="no">GD</styled-content> 14</title><p>Since mTOR signaling is closely linked to glucose metabolism and functions as a key nutrient sensor in the placenta [<xref rid="apha70188-bib-0014" ref-type="bibr">14</xref>], we evaluated components of the mTOR signaling pathway, namely AKT, p‐mTOR/<italic toggle="yes">mTOR</italic>, and <italic toggle="yes">Raptor</italic>. AKT immunostaining was cytoplasmic and heterogeneous and primarily localized to giant cells and labyrinth trophoblasts, with higher expression at GD 14 compared to GD 18 (Figure <xref rid="apha70188-fig-0006" ref-type="fig">6A,F</xref>).</p><fig position="float" fig-type="FIGURE" id="apha70188-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>Assessment of AKT/mTOR signaling in placental tissue from control, hypothyroid, and Kisspeptin‐10 (Kp10)‐treated hypothyroid rats. (A) Photomicrographs of AKT immunolabeling in the placenta at GD 14 (Polymer‐based detection system; Harris hematoxylin). (B) Area in pixels of AKT immunolabeling at GD 14. (C) Photomicrographs of p‐mTOR immunolabeling in the placenta at GD 14 (Polymer‐based detection system; Harris hematoxylin). (D) Area in pixels of p‐mTOR immunolabeling at GD 14. (E) Gene expression of <italic toggle="yes">mTor</italic> and <italic toggle="yes">Raptor</italic> at GD 14. (F) Photomicrographs of AKT immunolabeling in the placenta at GD 18 (Polymer‐based detection system; Harris hematoxylin). (G) Area in pixels of AKT immunolabeling at GD 18. (H) Photomicrographs of p‐mTOR immunolabeling in the placenta at GD 18 (Polymer‐based detection system; Harris hematoxylin). (I) Area in pixels of p‐mTOR immunolabeling at GD 18. (J) Gene expression of <italic toggle="yes">mTor and Raptor</italic> at GD 18. (Mean ± SEM). Significant differences are indicated by *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, and ****<italic toggle="yes">p</italic> &lt; 0.0001 for one‐way ANOVA followed by SNK post hoc test. GD, gestational day. Bar = 50 μm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="APHA-242-e70188-g006.jpg"/></fig><p>At GD 14, MH significantly increased AKT immunostaining in the labyrinth zone compared to controls (<italic toggle="yes">p</italic> &lt; 0.0001), an effect that was ameliorated by Kp10 treatment, restoring staining area to control levels (<italic toggle="yes">p</italic> &gt; 0.05). No significant differences were found in AKT immunostaining within the junctional zone across groups (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0006" ref-type="fig">6B</xref>).</p><p>Activation of mTOR, as assessed by p‐mTOR immunostaining, revealed intense and homogeneous nuclear labeling throughout the placenta at GD 14. MH significantly reduced expression in both zones (Figure <xref rid="apha70188-fig-0006" ref-type="fig">6C,H</xref>; <italic toggle="yes">p</italic> &lt; 0.05, <italic toggle="yes">p</italic> &lt; 0.01), an effect that was fully prevented by Kp10 treatment (<italic toggle="yes">p</italic> &gt; 0.05 versus controls; Figure <xref rid="apha70188-fig-0006" ref-type="fig">6D</xref>). In line with these findings, placental <italic toggle="yes">mTOR</italic> mRNA expression was also reduced in the MH group compared to controls (<italic toggle="yes">p</italic> &lt; 0.05), and Kp10 treatment restored <italic toggle="yes">mTOR</italic> transcript levels to those seen in controls (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0006" ref-type="fig">6E</xref>). While MH did not significantly alter <italic toggle="yes">Raptor</italic> expression, Kp10 treatment reduced <italic toggle="yes">Raptor</italic> mRNA in hypothyroid animals (<italic toggle="yes">p</italic> &lt; 0.05), aligning expression levels with the control group (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0006" ref-type="fig">6E</xref>).</p><p>At GD 18, no significant differences in AKT immunostaining were observed among group (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0006" ref-type="fig">6F</xref>). However, MH significantly decreased p‐mTOR immunostaining in the labyrinth zone compared to controls (<italic toggle="yes">p</italic> &lt; 0.05), and this reduction was not reversed by Kp10 treatment (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0006" ref-type="fig">6I</xref>). No significant differences were detected in p‐mTOR immunostaining within the junctional zone or in placental <italic toggle="yes">mTor</italic> and <italic toggle="yes">Raptor</italic> mRNA expression at this gestational age (<italic toggle="yes">p</italic> &gt; 0.05; Figure <xref rid="apha70188-fig-0006" ref-type="fig">6I,J</xref>).</p></sec></sec><sec sec-type="discussion" id="apha70188-sec-0013"><label>3</label><title>Discussion</title><p>This study demonstrates that glucose dysregulation and feto‐placental restriction induced by maternal hypothyroidism in pregnant rats are associated with altered placental expression of GLUT1 and INSRβ, as well as disrupted AKT/mTOR signaling. Notably, maternal Kp10 treatment improved GLUT1 expression, normalized AKT/mTOR signaling, while also upregulating the IGF1/IGF1R axis. These findings suggest novel mechanisms through which kisspeptin improves fetal development and the intrauterine environment of hypothyroid conditions [<xref rid="apha70188-bib-0024" ref-type="bibr">24</xref>, <xref rid="apha70188-bib-0025" ref-type="bibr">25</xref>].</p><p>Maternal hypothyroidism led to elevated fasting blood glucose, impaired glucose tolerance, and reduced plasma insulin and HDL levels; metabolic alterations consistent with those observed in pregnant rats treated with the antithyroid drug methimazole [<xref rid="apha70188-bib-0021" ref-type="bibr">21</xref>], and in pregnant women with hypothyroidism [<xref rid="apha70188-bib-0043" ref-type="bibr">43</xref>]. Interestingly, the reduction in circulating insulin was not accompanied by a decrease in pancreatic mass or insulin‐positive islets, suggesting impaired insulin secretion rather than pancreatic islet loss in hypothyroid pregnant rats. Supporting this, Kent et al. also reported no changes in pancreatic mass and β‐cell mass under conditions of severe hypothyroidism during pregnancy in rats. However, the same study showed decreased <italic toggle="yes">Glut4</italic> expression and reduced insulin sensitivity mediators in the skeletal muscle and white adipose tissue of the animals [<xref rid="apha70188-bib-0021" ref-type="bibr">21</xref>]. These alterations, together with the reduced plasma insulin levels observed, may impair glucose uptake by peripheral tissues and account for the increase in circulating plasma glucose levels observed in the present study.</p><p>During pregnancy, maternal metabolism undergoes adaptations driven by placental hormones, including the development of a physiological state of insulin resistance that directs glucose to the fetus for growth [<xref rid="apha70188-bib-0005" ref-type="bibr">5</xref>]. Therefore, the impaired development of this insulin‐resistant environment may contribute to the glycemic dysfunction observed in hypothyroid pregnant rats, since non‐pregnant hypothyroid rats typically do not exhibit glucose intolerance [<xref rid="apha70188-bib-0021" ref-type="bibr">21</xref>]. Given that maternal glycemic disturbances can compromise fetal nutrient supply [<xref rid="apha70188-bib-0008" ref-type="bibr">8</xref>, <xref rid="apha70188-bib-0044" ref-type="bibr">44</xref>, <xref rid="apha70188-bib-0045" ref-type="bibr">45</xref>], these alterations may contribute to the feto‐placental restriction and reduced neonatal body mass observed in this study.</p><p>In contrast, Kp10 treatment failed to improve the glycemic dysfunction induced by hypothyroidism in pregnant rats. While several studies have demonstrated the beneficial effects of kisspeptin on insulin secretion, glucose homeostasis, and pancreatic β‐cell adaptive mechanisms during pregnancy [<xref rid="apha70188-bib-0031" ref-type="bibr">31</xref>, <xref rid="apha70188-bib-0033" ref-type="bibr">33</xref>, <xref rid="apha70188-bib-0034" ref-type="bibr">34</xref>, <xref rid="apha70188-bib-0046" ref-type="bibr">46</xref>, <xref rid="apha70188-bib-0047" ref-type="bibr">47</xref>, <xref rid="apha70188-bib-0048" ref-type="bibr">48</xref>, <xref rid="apha70188-bib-0049" ref-type="bibr">49</xref>, <xref rid="apha70188-bib-0050" ref-type="bibr">50</xref>, <xref rid="apha70188-bib-0051" ref-type="bibr">51</xref>, <xref rid="apha70188-bib-0052" ref-type="bibr">52</xref>], its effects appear to be context dependent. In rats, kisspeptin administration has been shown to stimulate insulin secretion without affecting blood glucose levels [<xref rid="apha70188-bib-0031" ref-type="bibr">31</xref>]. Previous in vitro studies using mouse pancreatic islets have further shown that kisspeptin‐induced insulin secretion occurs only in the presence of glucose stimulation [<xref rid="apha70188-bib-0031" ref-type="bibr">31</xref>, <xref rid="apha70188-bib-0051" ref-type="bibr">51</xref>]. In non‐pregnant mice, prolonged Kp10 exposure improves glycemia during an IPGTT, whereas kisspeptin antagonist (Kp234) administration or pancreatic <italic toggle="yes">Kiss1r</italic> gene deletion impairs glucose tolerance at GD 16 [<xref rid="apha70188-bib-0033" ref-type="bibr">33</xref>].</p><p>Given the short plasma half‐life of Kp10 (~4 min) [<xref rid="apha70188-bib-0053" ref-type="bibr">53</xref>, <xref rid="apha70188-bib-0054" ref-type="bibr">54</xref>] and its rapid, glucose‐dependent effects on insulin secretion [<xref rid="apha70188-bib-0031" ref-type="bibr">31</xref>, <xref rid="apha70188-bib-0051" ref-type="bibr">51</xref>], we hypothesized that its metabolic actions are transient. Thus, the lack of improvement in glucose metabolism in our Kp10‐treated animals may be explained by the 4‐h interval between Kp10 administration and the IPGTT. Therefore, it is plausible that Kp10 exerted effects within the first 30 min after the glucose challenge, which were not captured due to our experimental timing. Further studies are needed to test this hypothesis directly.</p><p>The reduction in fetal and placental mass observed in hypothyroid female rats, along with decreased placental zone dimensions and increased glycogen cell population in the junctional zone, is an established feature of maternal hypothyroidism in rats [<xref rid="apha70188-bib-0023" ref-type="bibr">23</xref>, <xref rid="apha70188-bib-0025" ref-type="bibr">25</xref>, <xref rid="apha70188-bib-0055" ref-type="bibr">55</xref>, <xref rid="apha70188-bib-0056" ref-type="bibr">56</xref>]. However, the observed reduction in placental interhaemal barrier thickness at GD 14 is a unique and novel finding. This morphological alteration may represent an adaptive mechanism by which the placenta attempts to enhance substrate transfer to the growth‐restricted fetus, given that interhaemal barrier thickness is inversely proportional to diffusion capacity [<xref rid="apha70188-bib-0057" ref-type="bibr">57</xref>]. A similar adaptation is observed in placentas from experimental hypoxia models in mice [<xref rid="apha70188-bib-0058" ref-type="bibr">58</xref>], and previous studies have also suggested that maternal hypothyroidism is associated with placental hypoxia [<xref rid="apha70188-bib-0025" ref-type="bibr">25</xref>, <xref rid="apha70188-bib-0059" ref-type="bibr">59</xref>].</p><p>Although Kp10 treatment did not restore feto‐placental growth or normalize the reduced interhaemal barrier thickness in hypothyroid female rats, it did normalize the glycogen cell population in the junctional zone, consistent with findings from our previous study [<xref rid="apha70188-bib-0025" ref-type="bibr">25</xref>]. Additionally, Kp10 showed a trend toward improving body mass in female neonatal offspring. These effects may reflect enhanced placental metabolic function. The junctional zone is a site for glycogen storage, which can be mobilized for fetal growth. In addition, it is the primary placental layer responsible for producing placental hormones critical for fetal and postnatal development [<xref rid="apha70188-bib-0004" ref-type="bibr">4</xref>, <xref rid="apha70188-bib-0060" ref-type="bibr">60</xref>].</p><p>Our findings also demonstrated that maternal hypothyroidism disrupted placental GLUT1 protein expression, with a decrease at GD 14, when fetal growth begins to exponentially [<xref rid="apha70188-bib-0061" ref-type="bibr">61</xref>]. We also found that GLUT1 increased expression was increased at GD 18. Dysregulation of GLUT1 has been reported in various gestational disorders associated with IUGR, including models of iatrogenic hyperadrenocorticism [<xref rid="apha70188-bib-0062" ref-type="bibr">62</xref>] and hypothyroidism in female rats [<xref rid="apha70188-bib-0039" ref-type="bibr">39</xref>], as well as in placentas from women with preeclampsia [<xref rid="apha70188-bib-0063" ref-type="bibr">63</xref>].</p><p>The increased GLUT1 protein expression observed in late pregnancy in hypothyroid female rats may represent a compensatory response to the reduced GLUT1 levels seen at GD 14, potentially ensuring sufficient glucose supply for fetal development. Similarly, the upregulation of the insulin receptor INSRβ and <italic toggle="yes">Igf1</italic>, along with their common downstream effector AKT, may also reflect compensatory mechanisms to enhance placental glucose uptake, since AKT also stimulates this uptake [<xref rid="apha70188-bib-0064" ref-type="bibr">64</xref>, <xref rid="apha70188-bib-0065" ref-type="bibr">65</xref>]. It is noteworthy that although the reduction in IGF1R immunostaining in hypothyroid animals was not statistically significant, the visible decrease may contribute to the observed upregulation of <italic toggle="yes">Igf1</italic> expression; a possibility that requires further studies.</p><p>Since mTOR is considered a nutrient oscillation sensor in the placenta [<xref rid="apha70188-bib-0014" ref-type="bibr">14</xref>, <xref rid="apha70188-bib-0015" ref-type="bibr">15</xref>], its reduced expression in placentas from hypothyroid rats may reflect a cellular response to perceived nutrient restriction. This interpretation is consistent with the decreased GLUT1/<italic toggle="yes">Glut1</italic> and amino acid availability, which has previously been reported in pregnant hypothyroid rats [<xref rid="apha70188-bib-0039" ref-type="bibr">39</xref>]. Similarly, genetic ablation of mTOR in the placenta [<xref rid="apha70188-bib-0011" ref-type="bibr">11</xref>] or trophoblast [<xref rid="apha70188-bib-0012" ref-type="bibr">12</xref>] in mice results in reduced fetal weight [<xref rid="apha70188-bib-0011" ref-type="bibr">11</xref>, <xref rid="apha70188-bib-0012" ref-type="bibr">12</xref>] and a leftward shift in the fetal weight distribution curve [<xref rid="apha70188-bib-0012" ref-type="bibr">12</xref>]. Furthermore, placental mTOR downregulation is a hallmark of gestational disorders associated with IUGR, as demonstrated in rat models of GDM [<xref rid="apha70188-bib-0066" ref-type="bibr">66</xref>] and in placentas from women with preeclampsia and IUGR [<xref rid="apha70188-bib-0016" ref-type="bibr">16</xref>, <xref rid="apha70188-bib-0067" ref-type="bibr">67</xref>]. However, this is the first study to demonstrate reduced placental mTOR expression in maternal hypothyroidism. The increased AKT expression in hypothyroid animals may also represent a compensatory mechanism for reduced mTOR levels, as AKT activation typically precedes mTOR activation following insulin and IGF1 signaling [<xref rid="apha70188-bib-0068" ref-type="bibr">68</xref>, <xref rid="apha70188-bib-0069" ref-type="bibr">69</xref>, <xref rid="apha70188-bib-0070" ref-type="bibr">70</xref>].</p><p>Interestingly, maternal Kp10 treatment restored placental mTOR expression in hypothyroid rats at GD 14. Although more studies are needed to confirm the mechanistic link, an in vitro study has demonstrated that Kp10 can activate the mTOR pathway in bovine mammary epithelial cells [<xref rid="apha70188-bib-0071" ref-type="bibr">71</xref>]. Collectively, these studies indicate that kisspeptin may exert beneficial effects on placental function, at least in part, by positively modulating the mTOR signaling pathway.</p><p>However, in addition to the possibility of direct kisspeptin regulation of the mTOR pathway, an indirect regulation may also be involved. Oxidative stress is known to inhibit mTOR signaling [<xref rid="apha70188-bib-0070" ref-type="bibr">70</xref>], and previous studies have demonstrated the antioxidant potential of Kp10 in placental dysfunction with maternal hypothyroidism in rats [<xref rid="apha70188-bib-0024" ref-type="bibr">24</xref>, <xref rid="apha70188-bib-0025" ref-type="bibr">25</xref>, <xref rid="apha70188-bib-0059" ref-type="bibr">59</xref>]. Notably, Kp10 treatment also increased placental IGF1R expression at GD 14, as well as <italic toggle="yes">Igf1</italic> and <italic toggle="yes">Igf1r</italic> transcripts at GD 18. These changes may reflect the observed upregulation of mTOR, given that IGF1 and IGF1R are upstream regulators of this pathway [<xref rid="apha70188-bib-0070" ref-type="bibr">70</xref>, <xref rid="apha70188-bib-0072" ref-type="bibr">72</xref>], and are associated with GLUT1 expression [<xref rid="apha70188-bib-0064" ref-type="bibr">64</xref>]. This mechanistic relationship also supports the increased <italic toggle="yes">Glut1</italic> expression observed in the placentas of the Kp10‐treated animals in the present study.</p><p>Although the upregulation of mTOR and <italic toggle="yes">Igf1</italic>/IGF1r/<italic toggle="yes">Igf1r</italic> signaling induced by Kp10 treatment was insufficient to reverse the reductions in fetal mass and placental morphological alterations, these molecular adaptations may help mitigate the damage caused by maternal hypothyroidism. Indeed, previous studies have shown that Kp10 alleviates oxidative stress [<xref rid="apha70188-bib-0025" ref-type="bibr">25</xref>] and inhibits pyroptosis [<xref rid="apha70188-bib-0024" ref-type="bibr">24</xref>] in the placentas of hypothyroid rats.</p><p>It is also noteworthy that mTOR signaling participates in mitochondrial function and cellular stress responses by coordinating mitochondrial protein translation in response to metabolic stimuli, thereby ensuring efficient energy production [<xref rid="apha70188-bib-0073" ref-type="bibr">73</xref>]. mTOR regulates the expression of key transcription factors such as PGC1 (peroxisome proliferator‐activated receptor gamma coactivator‐1), a central regulator of mitochondrial biogenesis and function, as well as HIF1α (hypoxia‐inducible factor 1 alpha) and ATF4 (activating transcription factor 4), which are critical for glycolysis, metabolic homeostasis, and redox signaling [<xref rid="apha70188-bib-0070" ref-type="bibr">70</xref>, <xref rid="apha70188-bib-0073" ref-type="bibr">73</xref>]. Therefore, future studies should investigate mitochondrial homeostasis in maternal hypothyroidism and explore how kisspeptin treatment may modulate placental mitochondrial metabolism.</p><p>It is important to note that several mediators showed significant mRNA changes that were not always reflected in protein immunostaining (e.g., GLUT1, INSR, IGF1R, and mTOR). The relationship between mRNA and protein expression is complex, non‐linear, and gene‐ and context‐dependent [<xref rid="apha70188-bib-0074" ref-type="bibr">74</xref>, <xref rid="apha70188-bib-0075" ref-type="bibr">75</xref>]. RT‐qPCR was performed on whole placental homogenates (junctional + labyrinth zones), whereas immunohistochemistry provides spatially resolved protein detection, which may partly explain these discrepancies. Additionally, mRNA and protein differ in synthesis and degradation kinetics: RT‐qPCR captures a snapshot of transcriptional activity, whereas protein levels may reflect cumulative expression over a longer period [<xref rid="apha70188-bib-0075" ref-type="bibr">75</xref>]. These considerations underscore that gene expression and protein levels are complementary, not necessarily proportional.</p><p>Despite the strength of the findings, our work has several limitations. The lack of placental sexing limited the ability to assess the potential role of fetal sex on the response to maternal hypothyroidism and the effects of kisspeptin. Additionally, immunostaining analysis could be corroborated by additional techniques like western blotting. Furthermore, measuring circulating kisspeptin levels would be valuable, as most human studies on kisspeptin in gestational disorders report alterations in plasma concentrations [<xref rid="apha70188-bib-0033" ref-type="bibr">33</xref>, <xref rid="apha70188-bib-0035" ref-type="bibr">35</xref>, <xref rid="apha70188-bib-0036" ref-type="bibr">36</xref>]. However, a major limitation is the current lack of a validated and reliable commercial assay for measuring plasma kisspeptin in rats.</p><p>Collectively, our findings demonstrate that maternal hypothyroidism‐induced glycemic dysfunction and IUGR in rats are associated with reduced placental AKT/mTOR signaling and dysregulated GLUT1/INSRβ expression. In addition, Kp10 treatment attenuated these alterations and positively modulated placental IGF1/IGF1R expression. To our knowledge, this is the first study to evaluate IGF1/mTOR signaling pathway in the placenta of hypothyroid rats and to identify novel mechanisms of kisspeptin action which may influence placental physiology.</p></sec><sec sec-type="materials-and-methods" id="apha70188-sec-0014"><label>4</label><title>Materials and Methods</title><sec id="apha70188-sec-0015"><label>4.1</label><title>Animals</title><p>Wistar rats were obtained from the Animal Breeding, Maintenance and Experimentation Laboratory (LaBIO), State University of Santa Cruz (Uesc). They were housed in groups (5–6 animals/cage) under controlled temperature (22°C ± 2°C) and light–dark cycles (12:12 h), with <italic toggle="yes">ad libitum</italic> access to water and commercial feed. All procedures were approved by Uesc Animal Care and Use Committee (Protocol CEUA N°. 026/22).</p></sec><sec id="apha70188-sec-0016"><label>4.2</label><title>Experimental Design</title><p>Virgin female rats (210 ± 10 g) were randomized into three groups: control (<italic toggle="yes">n</italic> = 28), hypothyroid (<italic toggle="yes">n</italic> = 21), and hypothyroid treated with Kp10 (Kp10; <italic toggle="yes">n</italic> = 21). Hypothyroidism was induced with 6‐propyl‐2‐thiouracil (PTU; 4 mg/kg/day, oral gavage; Sigma‐Aldrich), and Kp10 treatment (8 μg/kg/day, i.p.; Tocris Bioscience) was initiated on gestational day (GD) 8, as described by [<xref rid="apha70188-bib-0025" ref-type="bibr">25</xref>].</p><p>Animals were euthanized at GD14 and GD18 (6–9 per group), corresponding to completion of placentation [<xref rid="apha70188-bib-0076" ref-type="bibr">76</xref>] and peak maternal pancreatic mass [<xref rid="apha70188-bib-0007" ref-type="bibr">7</xref>], respectively. Animals euthanized at GD18 underwent intraperitoneal glucose and insulin tolerance tests on GD16. Additional animals (6–11 per group) were allowed to deliver; litters were standardized to eight pups, and neonatal (3 days post‐birth) and weaning (21 days post‐birth) body mass were recorded.</p></sec><sec id="apha70188-sec-0017"><label>4.3</label><title>Intraperitoneal Glucose Tolerance Test (<styled-content style="fixed-case" toggle="no">IPGTT</styled-content>) and Intraperitoneal Insulin Tolerance Test (<styled-content style="fixed-case" toggle="no">IPITT</styled-content>)</title><p>For the IPGTT, baseline blood glucose was measured after a 6‐h fast (11:00–12:00 h), followed by intraperitoneal glucose (2 g/kg) with measurements at 30, 60, and 120 min. After refeeding and a 1‐h fast, baseline glycemia was reassessed for the IPITT, and insulin (0.75 IU/kg) was administered intraperitoneally, with glucose measured at 30, 60, and 120 min. Tail‐tip samples were used with a glucometer (Accu‐Check Performa, Roche). IPITT was performed the same day to minimize stress, as no differences were observed compared with separate‐day tests (1‐week interval) [<xref rid="apha70188-bib-0077" ref-type="bibr">77</xref>]. Area under the curve (AUC) was calculated by the trapezoidal rule [<xref rid="apha70188-bib-0078" ref-type="bibr">78</xref>].</p></sec><sec id="apha70188-sec-0018"><label>4.4</label><title>Necropsy and Sample Collection</title><p>Euthanasia was performed in the morning (9:00–12:00). Prior to euthanasia, maternal body weight was measured to determine gestational weight gain. Blood glucose levels were measured using a glucometer from maternal tail‐tip and fetal cervical blood. At GD 14 and 18, dams and fetuses were euthanized by decapitation, and blood was collected from the cervical region in heparinized tubes, centrifuged (3000 rpm, 20 min), and plasma stored at −20°C.</p><p>During necropsy, the gravid uterus and maternal pancreas were collected and weighed. Placentas and fetuses were dissected and weighed, viable and non‐viable fetuses (dead and resorbed) were counted. Viable fetuses displayed a healthy pink coloration, whereas non‐viable fetuses were typically small, hemorrhagic and/or emaciated and pale, hysterectomized maternal body mass gain was calculated. Two placentas from viable fetuses per litter were placed in TRIzol, snap‐frozen, and stored at −80°C for real‐time polymerase chain reaction (RT‐qPCR) analysis. Two implantation sites (placenta + decidua) and maternal pancreas samples per litter were fixed in 4% paraformaldehyde (4°C, 24 h), paraffin‐embedded, sectioned (4 μm), and mounted for histological and immunohistochemical analyses. Immunostaining was performed on silanized StarFrost slides (Knittel Glass). All procedures followed Santos et al. (2022b).</p></sec><sec id="apha70188-sec-0019"><label>4.5</label><title>Analysis of Hormones and Metabolites in the Circulation</title><p>Free T4 (IMMULITE, Siemens) and plasma insulin (EZRMI‐13 K; EMD Millipore) were measured by ELISA (sensitivities: 0.4 ng/dL and 0.1 ng/mL). Plasma triglycerides (K117; Bioclin), total cholesterol (100/280–500; VIDA Biotecnologia), and HDL (K071; Bioclin) were quantified on a BIO‐2000 semi‐automated analyzer. All procedures were performed according to manufacturers' instructions. LDL was calculated via the Friedewald formula.</p></sec><sec id="apha70188-sec-0020"><label>4.6</label><title>Histomorphometric Analysis of the Placenta</title><p>Placental histomorphometry was performed on Hematoxylin–Eosin, Periodic Acid‐Schiff (PAS)‐Fast Green, and cytokeratin–vimentin double‐labeled sections. Junctional and labyrinth zone areas were quantified using NDP.view2 software (Hamamatsu Photonics K.K., Hamamatsu). Glycogen accumulation in junctional zone glycogen cells was quantified on PAS‐stained sections using ImageJ software (U.S. National Institutes of Health).</p><p>In the labyrinth zone, dual immunostaining for cytokeratin and vimentin was performed to identify trophoblasts and fetal capillaries, respectively, following a modified protocol from De Clercq et al. Sections were deparaffinized, rehydrated, and endogenous peroxidase blocked (3% H<sub>2</sub>O<sub>2</sub>, 10 min). Antigen retrieval for vimentin was performed in citrate buffer (pH 6, 80°C, 30 min, plus 10 min at room temperature). Sections were blocked (10% goat serum in blocking buffer, 15 min) and incubated overnight at 4°C with anti‐vimentin (ab92547, 1:200, Abcam). The next day, sections were incubated at room temperature (1.5 h), followed by goat secondary antibody (ab6720, 1:1000, Abcam, 1 h) and Strep‐HRP (S000‐03, 1:500, Rockland, 1 h). Vimentin was visualized using DAB (ab64238, Abcam, 10 min). For cytokeratin, a second antigen retrieval was performed with pepsin (0.04% in 0.01 M HCl, 37°C, 10 min), followed by blocking (10% goat serum in blocking buffer, 15 min) and overnight incubation at 4°C with anti‐pan cytokeratin (NB600‐579, 1:75, Novus Biologicals). The next day, sections were kept at room temperature (2 h), and incubated with alkaline phosphatase–conjugated secondary antibody (ab6722, 1:500, Abcam, 1 h) and developed with NBT/BCIP (34 042, Thermo Scientific, 10 min) followed by Fast Red counterstaining (H‐3403, Vector Laboratories, 4 min). Slides were washed with Tris‐buffered saline containing 0.1% Tween‐20 (TBS‐T) between steps [<xref rid="apha70188-bib-0079" ref-type="bibr">79</xref>, <xref rid="apha70188-bib-0080" ref-type="bibr">80</xref>].</p><p>Placental labyrinth compartments volumes (fetal capillaries, maternal blood spaces, and trophoblasts), surface areas (fetal capillaries and maternal blood spaces), fetal capillary measurements (length, area, and diameter), interhaemal barrier thickness, and theoretical and specific diffusion capacities were determined as previously described [<xref rid="apha70188-bib-0057" ref-type="bibr">57</xref>, <xref rid="apha70188-bib-0080" ref-type="bibr">80</xref>].</p></sec><sec id="apha70188-sec-0021"><label>4.7</label><title>Immunohistochemical Analysis of Metabolic Proteins in the Placenta and Maternal Pancreas</title><p>Primary antibodies used were insulin receptor β (INSRβ; 1:50, sc‐711), IGF1R (1:50, sc‐713), p‐mTOR (1:200, sc‐293 133), GLUT1 (1:100, sc‐377 228), and insulin (1:500, sc‐8033) (all Santa Cruz Biotechnology), and AKT (1:200, 9272S; Cell Signaling Technology Inc).</p><p>Immunohistochemistry was performed using the Dako EnVision FLEX, High pH (Link) polymer detection system (Agilent) as described by Santos et al. INSRβ, IGF1R, p‐mTOR, AKT, and GLUT1 protein abundance was assessed descriptively and quantitatively in placental junctional and labyrinth zones [<xref rid="apha70188-bib-0024" ref-type="bibr">24</xref>, <xref rid="apha70188-bib-0025" ref-type="bibr">25</xref>]. Color deconvolution and thresholding were automated for all images using two custom ImageJ macros, ensuring consistent application of a predetermined threshold; scripts are available at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/ReisBia/ImageJ-Scripts-for-IHC-Stained-Area-Quantification" ext-link-type="uri">https://github.com/ReisBia/ImageJ‐Scripts‐for‐IHC‐Stained‐Area‐Quantification</ext-link>.</p><p>In the maternal pancreas, insulin‐positive islets were quantified in three sections per sample, spaced 12 μm apart.</p></sec><sec id="apha70188-sec-0022"><label>4.8</label><title>
+<styled-content style="fixed-case" toggle="no">qRT</styled-content>‐<styled-content style="fixed-case" toggle="no">PCR</styled-content> Analysis of Metabolic Genes in the Placenta</title><p>Total RNA was extracted from placental tissue using TRIzol reagent (15 596 026, Invitrogen). RNA was reverse transcribed using the GoTaq qPCR and RT‐qPCR Systems kit (A6010, PROMEGA). Target gene transcripts were quantified by qPCR using an Applied Biosystems 7500 Real‐Time PCR System (Thermo Scientific). All procedures were performed as reported by Santos et al. (2022b).</p><p>Primers for <italic toggle="yes">Insr</italic>, <italic toggle="yes">Isr‐1</italic>, <italic toggle="yes">Igf1r</italic>, <italic toggle="yes">Igf1</italic>, <italic toggle="yes">mTor</italic>, <italic toggle="yes">Raptor</italic>, <italic toggle="yes">Glut1</italic>, <italic toggle="yes">rPrl</italic>, <italic toggle="yes">PlII</italic> and <italic toggle="yes">Leptin</italic> were selected from previous studies or the National Center for Biotechnology Information based on <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Rattus norvegicus</italic>
+</styled-content> mRNA sequences (Table <xref rid="apha70188-supitem-0003" ref-type="supplementary-material">S4</xref>). Gene expression was calculated using the 2<sup>−ΔΔCT</sup> method, normalized to <italic toggle="yes">Polr2a</italic> (stable across groups), and expressed relative to the control group [<xref rid="apha70188-bib-0081" ref-type="bibr">81</xref>, <xref rid="apha70188-bib-0082" ref-type="bibr">82</xref>].</p></sec><sec id="apha70188-sec-0023"><label>4.9</label><title>Statistical Analysis</title><p>Placental and fetal mass, placental efficiency, and fetal glycemia were analyzed using a mixed linear model with Bonferroni <italic toggle="yes">post hoc</italic> test. Mothers were included as subjects and random factors, treatment as a fixed factor, and litter size as a covariate (IBM SPSS Statistics for Windows, Version 23.0) [<xref rid="apha70188-bib-0083" ref-type="bibr">83</xref>]. Remaining data were analyzed by one‐ or two‐way ANOVA followed by Student–Newman–Keuls (SNK) test or Student's <italic toggle="yes">t</italic>‐test, as appropriate (GraphPad Prism 10.1.2). Data are presented as mean ± standard error of the mean (SEM), and differences were considered statistically significant at <italic toggle="yes">p</italic> &lt; 0.05.</p></sec></sec><sec id="apha70188-sec-0025"><title>Author Contributions</title><p>Conceptualization: B.R.S., J.F.S. Methodology: B.R.S., J.F.S., A.N.S.‐P., J.L.‐T. Investigation: B.R.S., J.M.A.C., L.C.S., C.S.O., M.C.P.S.A., N.P.R. Formal analysis: B.R.S. Validation: J.F.S. Visualization: B.R.S. Resources: J.F.S., R.S., A.N.S.‐P. Funding acquisition: J.F.S., J.L.‐T., A.N.S.‐P. Project administration: J.F.S. Supervision: J.F.S. Writing – original draft: B.R.S., J.F.S. Writing – review and editing: B.R.S., J.F.S., A.N.S.‐P., J.L.‐T. All authors read and approved the final version of the manuscript and contributed equally to the submitted work.</p></sec><sec id="apha70188-sec-0027"><title>Funding</title><p>This work was supported by the Brazilian research agencies Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) and Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq; grant number 402515/2021‐8). J.L.‐T. is currently supported by an Attraction of Talent Grant from the Community of Madrid (grant number. 2023‐T1/SAL‐GL‐28960, CESAR NOMBELA fellowship). A.N.S.‐P. was funded by a Lister Institute of Preventative Medicine Research Grant (RG93692).</p></sec><sec sec-type="COI-statement" id="apha70188-sec-0024"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="apha70188-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S1:</bold> Negative controls for each batch of immunohistochemistry markers.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="APHA-242-e70188-s001.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="apha70188-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>File S2: and S3:</bold> Macro scripts used for automated ImageJ IHC (H–DAB) quantification, including color deconvolution, thresholding, and stained area measurement. Supplementary File_S2.txt performs automated color deconvolution across an entire image set, whereas Supplementary File_S3.txt performs automated thresholding and subsequent measurements across an entire image set.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="APHA-242-e70188-s002.zip" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="apha70188-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S4:</bold> List of genes and nucleotide sequences for RT‐qPCR primers.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="APHA-242-e70188-s003.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="apha70188-sec-0026"><title>Acknowledgments</title><p>This work was supported by the Brazilian research agencies Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) and Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq; grant number 402515/2021‐8). J.L.‐T. is currently supported by an Attraction of Talent Grant from the Community of Madrid (grant number. 2023‐T1/SAL‐GL‐28960, CESAR NOMBELA fellowship). A.N.S.‐P. was funded by a Lister Institute of Preventative Medicine Research Grant (RG93692). The authors also acknowledge support from the National Institutes of Science and Technology, INCT‐DOHaD Brasil. The Article Processing Charge for the publication of this research was funded by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior ‐ Brasil (CAPES) (ROR identifier: 00x0ma614).</p></ack><sec sec-type="data-availability" id="apha70188-sec-0029"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list content-type="cited-references" id="apha70188-bibl-0001"><title>References</title><ref id="apha70188-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="apha70188-cit-0001">
+<string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Costa</surname>
+</string-name>, “<article-title>The Endocrine Function of Human Placenta: An Overview</article-title>,” <source>Reproductive Biomedicine Online</source>
+<volume>32</volume>, no. <issue>1</issue> (<year>2016</year>): <fpage>14</fpage>–<lpage>43</lpage>.<pub-id pub-id-type="pmid">26615903</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.rbmo.2015.10.005</pub-id></mixed-citation></ref><ref id="apha70188-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="apha70188-cit-0002">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Napso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. E. J.</given-names>
+<surname>Yong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lopez‐Tello</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. N.</given-names>
+<surname>Sferruzzi‐Perri</surname>
+</string-name>, “<article-title>The Role of Placental Hormones in Mediating Maternal Adaptations to Support Pregnancy and Lactation</article-title>,” <source>Frontiers in Physiology</source>
+<volume>9</volume> (<year>2018</year>): <fpage>1</fpage>–<lpage>39</lpage>.<pub-id pub-id-type="pmid">30174608</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fphys.2018.01091</pub-id><pub-id pub-id-type="pmcid">PMC6108594</pub-id></mixed-citation></ref><ref id="apha70188-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="apha70188-cit-0003">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>López‐Tello</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Pérez‐García</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Khaira</surname>
+</string-name>, et al., “<article-title>Fetal and Trophoblast PI3K p110α Have Distinct Roles in Regulating Resource Supply to the Growing Fetus in Mice</article-title>,” <source>eLife</source>
+<volume>8</volume> (<year>2019</year>): <fpage>8</fpage>, <pub-id pub-id-type="doi">10.7554/eLife.45282</pub-id>.<pub-id pub-id-type="pmcid">PMC6634971</pub-id><pub-id pub-id-type="pmid">31241463</pub-id></mixed-citation></ref><ref id="apha70188-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="apha70188-cit-0004">
+<string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Fowden</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Forhead</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Coan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Burton</surname>
+</string-name>, “<article-title>The Placenta and Intrauterine Programming</article-title>,” <source>Journal of Neuroendocrinology</source>
+<volume>20</volume>, no. <issue>4</issue> (<year>2008</year>): <fpage>439</fpage>–<lpage>450</lpage>.<pub-id pub-id-type="pmid">18266944</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2826.2008.01663.x</pub-id></mixed-citation></ref><ref id="apha70188-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="apha70188-cit-0005">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Newbern</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Freemark</surname>
+</string-name>, “<article-title>Placental Hormones and the Control of Maternal Metabolism and Fetal Growth</article-title>,” <source>Current Opinion in Endocrinology, Diabetes, and Obesity</source>
+<volume>18</volume>, no. <issue>6</issue> (<year>2011</year>): <fpage>409</fpage>–<lpage>416</lpage>.<pub-id pub-id-type="pmid">21986512</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MED.0b013e32834c800d</pub-id></mixed-citation></ref><ref id="apha70188-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="apha70188-cit-0006">
+<string-name name-style="western">
+<given-names>S. K.</given-names>
+<surname>Szlapinski</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Hill</surname>
+</string-name>, “<article-title>Metabolic Adaptations to Pregnancy in Healthy and Gestational Diabetic Pregnancies: The Pancreas – Placenta Axis</article-title>,” <source>Current Vascular Pharmacology</source>
+<volume>19</volume>, no. <issue>2</issue> (<year>2020</year>): <fpage>141</fpage>–<lpage>153</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1570161118666200320111209</pub-id><pub-id pub-id-type="pmid">32196450</pub-id></mixed-citation></ref><ref id="apha70188-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="apha70188-cit-0007">
+<string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Hill</surname>
+</string-name>, “<article-title>Placental Control of Metabolic Adaptations in the Mother for an Optimal Pregnancy Outcome. What Goes Wrong in Gestational Diabetes?</article-title>,” <source>Placenta</source>
+<volume>69</volume> (<year>2018</year>): <fpage>162</fpage>–<lpage>168</lpage>.<pub-id pub-id-type="pmid">29352600</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.placenta.2018.01.002</pub-id></mixed-citation></ref><ref id="apha70188-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="apha70188-cit-0008">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Stern</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Schwarz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Moser</surname>
+</string-name>, et al., “<article-title>Placental Endocrine Activity: Adaptation and Disruption of Maternal Glucose Metabolism in Pregnancy and the Influence of Fetal Sex</article-title>,” <source>International Journal of Molecular Sciences</source>
+<volume>22</volume>, no. <issue>23</issue> (<year>2021</year>): <fpage>1</fpage>–<lpage>17</lpage>, <pub-id pub-id-type="doi">10.3390/ijms222312722</pub-id>.<pub-id pub-id-type="pmcid">PMC8657775</pub-id><pub-id pub-id-type="pmid">34884524</pub-id></mixed-citation></ref><ref id="apha70188-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="apha70188-cit-0009">
+<string-name name-style="western">
+<given-names>C. E.</given-names>
+<surname>Bowman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Arany</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Wolfgang</surname>
+</string-name>, “<article-title>Regulation of Maternal–Fetal Metabolic Communication</article-title>,” <source>Cellular and Molecular Life Sciences</source>
+<volume>78</volume>, no. <issue>4</issue> (<year>2021</year>): <fpage>1455</fpage>–<lpage>1486</lpage>.<pub-id pub-id-type="pmid">33084944</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00018-020-03674-w</pub-id><pub-id pub-id-type="pmcid">PMC7904600</pub-id></mixed-citation></ref><ref id="apha70188-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="apha70188-cit-0010">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Villalobos‐Labra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Silva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Subiabre</surname>
+</string-name>, et al., “<article-title>Akt/mTOR Role in Human Foetoplacental Vascular Insulin Resistance in Diseases of Pregnancy</article-title>,” <source>Journal Diabetes Research</source>
+<volume>2017</volume> (<year>2017</year>): <elocation-id>5947859</elocation-id>, <pub-id pub-id-type="doi">10.1155/2017/5947859</pub-id>.<pub-id pub-id-type="pmcid">PMC5618766</pub-id><pub-id pub-id-type="pmid">29104874</pub-id></mixed-citation></ref><ref id="apha70188-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="apha70188-cit-0011">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Akhaphong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. C.</given-names>
+<surname>Baumann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Beetch</surname>
+</string-name>, et al., “<article-title>Placental mTOR Complex 1 Regulates Fetal Programming of Obesity and Insulin Resistance in Mice</article-title>,” <source>JCI Insight</source>
+<volume>6</volume>, no. <issue>13</issue> (<year>2021</year>): <fpage>1</fpage>–<lpage>16</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/jci.insight.149271</pub-id><pub-id pub-id-type="pmcid">PMC8410096</pub-id><pub-id pub-id-type="pmid">34032632</pub-id></mixed-citation></ref><ref id="apha70188-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="apha70188-cit-0012">
+<string-name name-style="western">
+<given-names>F. J.</given-names>
+<surname>Rosario</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Urschitz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Razavy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Elston</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. L.</given-names>
+<surname>Powell</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Jansson</surname>
+</string-name>, “<article-title>PiggyBac Transposase‐Mediated Inducible Trophoblast‐Specific Knockdown of Mtor Decreases Placental Nutrient Transport and Fetal Growth</article-title>,” <source>Clinical Science (London)</source>
+<volume>139</volume>, no. <issue>14</issue> (<year>2025</year>): <fpage>825</fpage>–<lpage>845</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/CS20243293</pub-id><pub-id pub-id-type="pmcid">PMC12409993</pub-id><pub-id pub-id-type="pmid">40534504</pub-id></mixed-citation></ref><ref id="apha70188-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="apha70188-cit-0013">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Beetch</surname>
+</string-name> and <string-name name-style="western">
+<given-names>E. U.</given-names>
+<surname>Alejandro</surname>
+</string-name>, “<article-title>Placental mTOR Signaling and Sexual Dimorphism in Metabolic Health Across the Lifespan of Offspring</article-title>,” <source>Children (Basel)</source>
+<volume>8</volume>, no. <issue>11</issue> (<year>2021</year>): <elocation-id>970</elocation-id>.<pub-id pub-id-type="pmid">34828683</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/children8110970</pub-id><pub-id pub-id-type="pmcid">PMC8619510</pub-id></mixed-citation></ref><ref id="apha70188-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="apha70188-cit-0014">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Roos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. L.</given-names>
+<surname>Powell</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Jansson</surname>
+</string-name>, “<article-title>Placental mTOR Links Maternal Nutrient Availability to Fetal Growth</article-title>,” <source>Biochemical Society Transactions</source>
+<volume>37</volume>, no. <issue>1</issue> (<year>2009</year>): <fpage>295</fpage>–<lpage>298</lpage>.<pub-id pub-id-type="pmid">19143650</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/BST0370295</pub-id></mixed-citation></ref><ref id="apha70188-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="apha70188-cit-0015">
+<string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Burton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Fowden</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K. L.</given-names>
+<surname>Thornburg</surname>
+</string-name>, “<article-title>Placental Origins of Chronic Disease</article-title>,” <source>Physiological Reviews</source>
+<volume>96</volume>, no. <issue>4</issue> (<year>2016</year>): <fpage>1509</fpage>–<lpage>1565</lpage>.<pub-id pub-id-type="pmid">27604528</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1152/physrev.00029.2015</pub-id><pub-id pub-id-type="pmcid">PMC5504455</pub-id></mixed-citation></ref><ref id="apha70188-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="apha70188-cit-0016">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Tsai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Tullis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Jensen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Graff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Reynolds</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Arroyo</surname>
+</string-name>, “<article-title>Differential Expression of mTOR Related Molecules in the Placenta From Gestational Diabetes Mellitus (GDM), Intrauterine Growth Restriction (IUGR) and Preeclampsia Patients</article-title>,” <source>Reproductive Biology</source>
+<volume>21</volume>, no. <issue>2</issue> (<year>2021</year>): <elocation-id>100503</elocation-id>.<pub-id pub-id-type="pmid">33826986</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.repbio.2021.100503</pub-id></mixed-citation></ref><ref id="apha70188-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="apha70188-cit-0017">
+<string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Meakin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. S. M.</given-names>
+<surname>Cuffe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. R. T.</given-names>
+<surname>Darby</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Morrison</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>V. L.</given-names>
+<surname>Clifton</surname>
+</string-name>, “<article-title>Let's Talk About Placental Sex, Baby: Understanding Mechanisms That Drive Female‐ and Male‐Specific Fetal Growth and Developmental Outcomes</article-title>,” <source>International Journal of Molecular Sciences</source>
+<volume>22</volume>, no. <issue>12</issue> (<year>2021</year>): <elocation-id>6386</elocation-id>.<pub-id pub-id-type="pmid">34203717</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms22126386</pub-id><pub-id pub-id-type="pmcid">PMC8232290</pub-id></mixed-citation></ref><ref id="apha70188-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="apha70188-cit-0018">
+<string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Silva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. M.</given-names>
+<surname>Ocarino</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Serakides</surname>
+</string-name>, “<article-title>Thyroid Hormones and Female Reproduction†</article-title>,” <source>Biology of Reproduction</source>
+<volume>99</volume>, no. <issue>5</issue> (<year>2018</year>): <fpage>907</fpage>–<lpage>921</lpage>.<pub-id pub-id-type="pmid">29767691</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/biolre/ioy115</pub-id></mixed-citation></ref><ref id="apha70188-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="apha70188-cit-0019">
+<string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Sullivan</surname>
+</string-name>, “<article-title>Hypothyroidism in Pregnancy</article-title>,” <source>Clinical Obstetrics and Gynecology</source>
+<volume>62</volume>, no. <issue>2</issue> (<year>2019</year>): <fpage>308</fpage>–<lpage>319</lpage>.<pub-id pub-id-type="pmid">30985406</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/GRF.0000000000000432</pub-id></mixed-citation></ref><ref id="apha70188-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="apha70188-cit-0020">
+<string-name name-style="western">
+<given-names>D. P.</given-names>
+<surname>Carvalho</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. F.</given-names>
+<surname>Dias</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. N.</given-names>
+<surname>Sferruzzi‐Perri</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T. M.</given-names>
+<surname>Ortiga‐Carvalho</surname>
+</string-name>, “<article-title>Gaps in the Knowledge of Thyroid Hormones and Placental Biology</article-title>,” <source>Biology of Reproduction</source>
+<volume>106</volume>, no. <issue>6</issue> (<year>2022</year>): <fpage>1033</fpage>–<lpage>1048</lpage>.<pub-id pub-id-type="pmid">35098297</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/biolre/ioac006</pub-id></mixed-citation></ref><ref id="apha70188-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="apha70188-cit-0021">
+<string-name name-style="western">
+<given-names>N. L.</given-names>
+<surname>Kent</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Atluri</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. S. M.</given-names>
+<surname>Cuffe</surname>
+</string-name>, “<article-title>Maternal Hypothyroidism in Rats Reduces Placental Lactogen, Lowers Insulin Levels, and Causes Glucose Intolerance</article-title>,” <source>Endocrinology</source>
+<volume>163</volume>, no. <issue>2</issue> (<year>2022</year>): <fpage>1</fpage>–<lpage>22</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/endocr/bqab231</pub-id><pub-id pub-id-type="pmid">34791119</pub-id></mixed-citation></ref><ref id="apha70188-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="apha70188-cit-0022">
+<string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Silva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. M.</given-names>
+<surname>Ocarino</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Serakides</surname>
+</string-name>, “<article-title>Placental Angiogenic and Hormonal Factors Are Affected by Thyroid Hormones in Rats</article-title>,” <source>Pathology, Research and Practice</source>
+<volume>211</volume>, no. <issue>3</issue> (<year>2015</year>): <fpage>226</fpage>–<lpage>234</lpage>.<pub-id pub-id-type="pmid">25499719</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.prp.2014.11.003</pub-id></mixed-citation></ref><ref id="apha70188-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="apha70188-cit-0023">
+<string-name name-style="western">
+<given-names>B. R.</given-names>
+<surname>Santos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>dos Anjos Cordeiro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. C.</given-names>
+<surname>Santos</surname>
+</string-name>, et al., “<article-title>Maternal Hypothyroidism Reduces the Expression of the Kisspeptin/Kiss1r System in the Maternal‐Fetal Interface of Rats</article-title>,” <source>Reproductive Biology</source>
+<volume>22</volume>, no. <issue>2</issue> (<year>2022</year>): <elocation-id>100615</elocation-id>.<pub-id pub-id-type="pmid">35180577</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.repbio.2022.100615</pub-id></mixed-citation></ref><ref id="apha70188-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="apha70188-cit-0024">
+<string-name name-style="western">
+<given-names>B. R.</given-names>
+<surname>Santos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M. d. A.</given-names>
+<surname>Cordeiro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. C.</given-names>
+<surname>Santos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. d. S.</given-names>
+<surname>Santana</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. E. d. J.</given-names>
+<surname>Nascimento</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Silva</surname>
+</string-name>, “<article-title>Kisspeptin Suppresses Inflammasome‐NLRP3 Activation and Pyroptosis Caused by Hypothyroidism at the Maternal‐Fetal Interface of Rats</article-title>,” <source>International Journal of Molecular Sciences</source>
+<volume>24</volume>, no. <issue>7</issue> (<year>2023</year>): <fpage>6820</fpage>.<pub-id pub-id-type="pmid">37047793</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms24076820</pub-id><pub-id pub-id-type="pmcid">PMC10095583</pub-id></mixed-citation></ref><ref id="apha70188-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="apha70188-cit-0025">
+<string-name name-style="western">
+<given-names>B. R.</given-names>
+<surname>Santos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>dos Anjos Cordeiro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. C.</given-names>
+<surname>Santos</surname>
+</string-name>, et al., “<article-title>Kisspeptin Treatment Improves Fetal‐Placental Development and Blocks Placental Oxidative Damage Caused by Maternal Hypothyroidism in an Experimental Rat Model</article-title>,” <source>Front Endocrinol (Lausanne)</source>
+<volume>13</volume> (<year>2022</year>): <fpage>13</fpage>, <pub-id pub-id-type="doi">10.3389/fendo.2022.908240</pub-id>.<pub-id pub-id-type="pmcid">PMC9365946</pub-id><pub-id pub-id-type="pmid">35966095</pub-id></mixed-citation></ref><ref id="apha70188-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="apha70188-cit-0026">
+<string-name name-style="western">
+<given-names>S. B.</given-names>
+<surname>Seminara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Messager</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. E.</given-names>
+<surname>Chatzidaki</surname>
+</string-name>, et al., “<article-title>The GPR54 Gene as a Regulator of Puberty</article-title>,” <source>New England Journal of Medicine</source>
+<volume>349</volume>, no. <issue>17</issue> (<year>2003</year>): <fpage>1614</fpage>–<lpage>1627</lpage>.<pub-id pub-id-type="pmid">14573733</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa035322</pub-id></mixed-citation></ref><ref id="apha70188-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="apha70188-cit-0027">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>de Roux</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Genin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.‐C. J.‐C. J.‐C.</given-names>
+<surname>Carel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Matsuda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.‐L. J.‐L.</given-names>
+<surname>Chaussain</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Milgrom</surname>
+</string-name>, “<article-title>Hypogonadotropic Hypogonadism due to Loss of Function of the KiSS1‐Derived Peptide Receptor GPR54</article-title>,” <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<volume>100</volume>, no. <issue>19</issue> (<year>2003</year>): <fpage>10972</fpage>–<lpage>10976</lpage>.<pub-id pub-id-type="pmid">12944565</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1834399100</pub-id><pub-id pub-id-type="pmcid">PMC196911</pub-id></mixed-citation></ref><ref id="apha70188-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="apha70188-cit-0028">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Szydełko‐Gorzkowicz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Poniedziałek‐Czajkowska</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Mierzyński</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sotowski</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Leszczyńska‐Gorzelak</surname>
+</string-name>, “<article-title>The Role of Kisspeptin in the Pathogenesis of Pregnancy Complications: A Narrative Review</article-title>,” <source>International Journal of Molecular Sciences</source>
+<volume>23</volume>, no. <issue>12</issue> (<year>2022</year>): <fpage>1</fpage>–<lpage>20</lpage>, <pub-id pub-id-type="doi">10.3390/ijms23126611</pub-id>.<pub-id pub-id-type="pmcid">PMC9223875</pub-id><pub-id pub-id-type="pmid">35743054</pub-id></mixed-citation></ref><ref id="apha70188-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="apha70188-cit-0029">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Tsoutsouki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Patel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. N.</given-names>
+<surname>Comninos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. S.</given-names>
+<surname>Dhillo</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Abbara</surname>
+</string-name>, “<article-title>Kisspeptin in the Prediction of Pregnancy Complications</article-title>,” <source>Frontiers in Endocrinology</source>
+<volume>13</volume> (<year>2022</year>): <fpage>1</fpage>–<lpage>12</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fendo.2022.942664</pub-id><pub-id pub-id-type="pmcid">PMC9344876</pub-id><pub-id pub-id-type="pmid">35928889</pub-id></mixed-citation></ref><ref id="apha70188-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="apha70188-cit-0030">
+<string-name name-style="western">
+<given-names>K.‐L. L.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Li</surname>
+</string-name>, “<article-title>Kisspeptin as a Potential Biomarker Throughout Pregnancy</article-title>,” <source>European Journal of Obstetrics &amp; Gynecology and Reproductive Biology</source>
+<volume>240</volume>, no. <issue>1</issue> (<year>2019</year>): <fpage>261</fpage>–<lpage>266</lpage>.<pub-id pub-id-type="pmid">31344665</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejogrb.2019.07.016</pub-id></mixed-citation></ref><ref id="apha70188-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="apha70188-cit-0031">
+<string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Bowe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>King</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Kinsey‐Jones</surname>
+</string-name>, et al., “<article-title>Kisspeptin Stimulation of Insulin Secretion: Mechanisms of Action in Mouse Islets and Rats</article-title>,” <source>Diabetologia</source>
+<volume>52</volume>, no. <issue>5</issue> (<year>2009</year>): <fpage>855</fpage>–<lpage>862</lpage>.<pub-id pub-id-type="pmid">19221709</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00125-009-1283-1</pub-id></mixed-citation></ref><ref id="apha70188-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="apha70188-cit-0032">
+<string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Bowe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V. L.</given-names>
+<surname>Foot</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Amiel</surname>
+</string-name>, et al., “<article-title>GPR54 Peptide Agonists Stimulate Insulin Secretion From Murine, Porcine and Human Islets</article-title>,” <source>Islets</source>
+<volume>4</volume>, no. <issue>1</issue> (<year>2012</year>): <fpage>20</fpage>–<lpage>23</lpage>.<pub-id pub-id-type="pmid">22192948</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4161/isl.18261</pub-id></mixed-citation></ref><ref id="apha70188-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="apha70188-cit-0033">
+<string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Bowe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. G.</given-names>
+<surname>Hill</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. F.</given-names>
+<surname>Hunt</surname>
+</string-name>, et al., “<article-title>A Role for Placental Kisspeptin in β Cell Adaptation to Pregnancy</article-title>,” <source>JCI Insight</source>
+<volume>4</volume>, no. <issue>20</issue> (<year>2019</year>): <fpage>1</fpage>–<lpage>14</lpage>, <pub-id pub-id-type="doi">10.1172/jci.insight.124540</pub-id>.<pub-id pub-id-type="pmcid">PMC6824306</pub-id><pub-id pub-id-type="pmid">31619585</pub-id></mixed-citation></ref><ref id="apha70188-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="apha70188-cit-0034">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Izzi‐Engbeaya</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. G.</given-names>
+<surname>Hill</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Bowe</surname>
+</string-name>, “<article-title>Kisspeptin and Glucose Homeostasis</article-title>,” <source>Seminars in Reproductive Medicine</source>
+<volume>37</volume>, no. <issue>3</issue> (<year>2019</year>): <fpage>141</fpage>–<lpage>146</lpage>.<pub-id pub-id-type="pmid">31869842</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1055/s-0039-3400242</pub-id></mixed-citation></ref><ref id="apha70188-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="apha70188-cit-0035">
+<string-name name-style="western">
+<given-names>R. V.</given-names>
+<surname>Kapustin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. O.</given-names>
+<surname>Drobintseva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. N.</given-names>
+<surname>Alekseenkova</surname>
+</string-name>, et al., “<article-title>Placental Protein Expression of Kisspeptin‐1 (KISS1) and the Kisspeptin‐1 Receptor (KISS1R) in Pregnancy Complicated by Diabetes Mellitus or Preeclampsia</article-title>,” <source>Archives of Gynecology and Obstetrics</source>
+<volume>301</volume>, no. <issue>2</issue> (<year>2020</year>): <fpage>437</fpage>–<lpage>445</lpage>.<pub-id pub-id-type="pmid">31811415</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00404-019-05408-1</pub-id></mixed-citation></ref><ref id="apha70188-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="apha70188-cit-0036">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ćetković</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Miljic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ljubić</surname>
+</string-name>, et al., “<article-title>Plasma Kisspeptin Levels in Pregnancies With Diabetes and Hypertensive Disease as a Potential Marker of Placental Dysfunction and Adverse Perinatal Outcome</article-title>,” <source>Endocrine Research</source>
+<volume>37</volume>, no. <issue>2</issue> (<year>2012</year>): <fpage>78</fpage>–<lpage>88</lpage>.<pub-id pub-id-type="pmid">22489921</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/07435800.2011.639319</pub-id></mixed-citation></ref><ref id="apha70188-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="apha70188-cit-0037">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Musa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Salazar‐Petres</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Vatish</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Levitt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. N.</given-names>
+<surname>Sferruzzi‐Perri</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Matjila</surname>
+</string-name>, “<article-title>Kisspeptin Signalling and Its Correlation With Placental Ultrastructure and Clinical Outcomes in Pregnant South African Women With Obesity and Gestational Diabetes</article-title>,” <source>Placenta</source>
+<volume>154</volume> (<year>2024</year>): <fpage>49</fpage>–<lpage>59</lpage>.<pub-id pub-id-type="pmid">38878622</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.placenta.2024.05.138</pub-id></mixed-citation></ref><ref id="apha70188-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="apha70188-cit-0038">
+<string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Armstrong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. M.</given-names>
+<surname>Reynolds</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Leask</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. H.</given-names>
+<surname>Shearing</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. A.</given-names>
+<surname>Calder</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Riley</surname>
+</string-name>, “<article-title>Decreased Serum Levels of Kisspeptin in Early Pregnancy Are Associated With Intra‐Uterine Growth Restriction and Pre‐Eclampsia</article-title>,” <source>Prenatal Diagnosis</source>
+<volume>29</volume>, no. <issue>10</issue> (<year>2009</year>): <fpage>982</fpage>–<lpage>985</lpage>.<pub-id pub-id-type="pmid">19582702</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pd.2328</pub-id></mixed-citation></ref><ref id="apha70188-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="apha70188-cit-0039">
+<string-name name-style="western">
+<given-names>N. L.</given-names>
+<surname>Kent</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Atluri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. M.</given-names>
+<surname>Moritz</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. S. M.</given-names>
+<surname>Cuffe</surname>
+</string-name>, “<article-title>Maternal Hypothyroidism in Rats Impairs Placental Nutrient Transporter Expression, Increases Labyrinth Zone Size, and Impairs Fetal Growth</article-title>,” <source>Placenta</source>
+<volume>139</volume> (<year>2023</year>): <fpage>148</fpage>–<lpage>158</lpage>.<pub-id pub-id-type="pmid">37406552</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.placenta.2023.06.010</pub-id></mixed-citation></ref><ref id="apha70188-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="apha70188-cit-0040">
+<string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vijayakumar</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B. B.</given-names>
+<surname>Kahn</surname>
+</string-name>, “<article-title>Metabolites as Regulators of Insulin Sensitivity and Metabolism</article-title>,” <source>Nature Reviews. Molecular Cell Biology</source>
+<volume>19</volume>, no. <issue>10</issue> (<year>2018</year>): <fpage>654</fpage>–<lpage>672</lpage>.<pub-id pub-id-type="pmid">30104701</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41580-018-0044-8</pub-id><pub-id pub-id-type="pmcid">PMC6380503</pub-id></mixed-citation></ref><ref id="apha70188-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="apha70188-cit-0041">
+<string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Hiden</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Glitzner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hartmann</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Desoye</surname>
+</string-name>, “<article-title>Insulin and the IGF System in the Human Placenta of Normal and Diabetic Pregnancies</article-title>,” <source>Journal of Anatomy</source>
+<volume>215</volume>, no. <issue>1</issue> (<year>2009</year>): <fpage>60</fpage>–<lpage>68</lpage>.<pub-id pub-id-type="pmid">19467150</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1469-7580.2008.01035.x</pub-id><pub-id pub-id-type="pmcid">PMC2714639</pub-id></mixed-citation></ref><ref id="apha70188-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="apha70188-cit-0042">
+<string-name name-style="western">
+<given-names>A. N.</given-names>
+<surname>Sferruzzi‐Perri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Sandovici</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Constancia</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Fowden</surname>
+</string-name>, “<article-title>Placental Phenotype and the Insulin‐Like Growth Factors: Resource Allocation to Fetal Growth</article-title>,” <source>Journal of Physiology</source>
+<volume>595</volume>, no. <issue>15</issue> (<year>2017</year>): <fpage>5057</fpage>–<lpage>5093</lpage>.<pub-id pub-id-type="pmid">28337745</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1113/JP273330</pub-id><pub-id pub-id-type="pmcid">PMC5538190</pub-id></mixed-citation></ref><ref id="apha70188-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="apha70188-cit-0043">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Xu</surname>
+</string-name> and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Zhong</surname>
+</string-name>, “<article-title>Correlation Between Hypothyroidism During Pregnancy and Glucose and Lipid Metabolism in Pregnant Women and Its Influence on Pregnancy Outcome and Fetal Growth and Development</article-title>,” <source>Frontiers in Surgery</source>
+<volume>9</volume> (<year>2022</year>): <fpage>1</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fsurg.2022.863286</pub-id><pub-id pub-id-type="pmcid">PMC8995499</pub-id><pub-id pub-id-type="pmid">35419407</pub-id></mixed-citation></ref><ref id="apha70188-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="apha70188-cit-0044">
+<string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Perez‐Ramirez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Nakano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>Law</surname>
+</string-name>, et al., “<article-title>Atlas of Fetal Metabolism During Mid‐To‐Late Gestation and Diabetic Pregnancy</article-title>,” <source>Cell</source>
+<volume>187</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>204</fpage>–<lpage>215.e14</lpage>.<pub-id pub-id-type="pmid">38070508</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2023.11.011</pub-id><pub-id pub-id-type="pmcid">PMC10843853</pub-id></mixed-citation></ref><ref id="apha70188-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="apha70188-cit-0045">
+<string-name name-style="western">
+<given-names>K. E.</given-names>
+<surname>Brett</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. M.</given-names>
+<surname>Ferraro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yockell‐Lelievre</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gruslin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K. B.</given-names>
+<surname>Adamo</surname>
+</string-name>, “<article-title>Maternal–Fetal Nutrient Transport in Pregnancy Pathologies: The Role of the Placenta</article-title>,” <source>International Journal of Molecular Sciences</source>
+<volume>15</volume>, no. <issue>9</issue> (<year>2014</year>): <fpage>16153</fpage>–<lpage>16185</lpage>.<pub-id pub-id-type="pmid">25222554</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms150916153</pub-id><pub-id pub-id-type="pmcid">PMC4200776</pub-id></mixed-citation></ref><ref id="apha70188-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="apha70188-cit-0046">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Wahab</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Riaz</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Shahab</surname>
+</string-name>, “<article-title>Study on the Effect of Peripheral Kisspeptin Administration on Basal and Glucose‐Induced Insulin Secretion Under Fed and Fasting Conditions in the Adult Male Rhesus Monkey (<italic toggle="yes">Macaca mulatta</italic>)</article-title>,” <source>Hormone and Metabolic Research = Hormon‐ Und Stoffwechselforschung = Hormones et Metabolisme</source>
+<volume>43</volume>, no. <issue>1</issue> (<year>2011</year>): <fpage>37</fpage>–<lpage>42</lpage>.<pub-id pub-id-type="pmid">21136344</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1055/s-0030-1268458</pub-id></mixed-citation></ref><ref id="apha70188-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="apha70188-cit-0047">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Musa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Matjila</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N. S.</given-names>
+<surname>Levitt</surname>
+</string-name>, “<article-title>Kisspeptins and Glucose Homeostasis in Pregnancy: Implications for Gestational Diabetes Mellitus—A Review Article</article-title>,” <source>Reproductive Sciences</source>
+<volume>29</volume> (<year>2021</year>): <fpage>321</fpage>–<lpage>327</lpage>, <pub-id pub-id-type="doi">10.1007/s43032-020-00437-7</pub-id>.<pub-id pub-id-type="pmid">33398849</pub-id>
+</mixed-citation></ref><ref id="apha70188-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="apha70188-cit-0048">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Andreozzi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. C.</given-names>
+<surname>Mannino</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Mancuso</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Spiga</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Perticone</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Sesti</surname>
+</string-name>, “<article-title>Plasma Kisspeptin Levels Are Associated With Insulin Secretion in Nondiabetic Individuals</article-title>,” <source>PLoS One</source>
+<volume>12</volume>, no. <issue>6</issue> (<year>2017</year>): <fpage>1</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0179834</pub-id><pub-id pub-id-type="pmcid">PMC5479576</pub-id><pub-id pub-id-type="pmid">28636637</pub-id></mixed-citation></ref><ref id="apha70188-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="apha70188-cit-0049">
+<string-name name-style="western">
+<given-names>K. P.</given-names>
+<surname>Tolson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Garcia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Yen</surname>
+</string-name>, et al., “<article-title>Impaired Kisspeptin Signaling Decreases Metabolism and Promotes Glucose Intolerance and Obesity</article-title>,” <source>Journal of Clinical Investigation</source>
+<volume>124</volume>, no. <issue>7</issue> (<year>2014</year>): <fpage>3075</fpage>–<lpage>3079</lpage>.<pub-id pub-id-type="pmid">24937427</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI71075</pub-id><pub-id pub-id-type="pmcid">PMC4071390</pub-id></mixed-citation></ref><ref id="apha70188-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="apha70188-cit-0050">
+<string-name name-style="western">
+<given-names>T. A.</given-names>
+<surname>Schwetz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. A.</given-names>
+<surname>Reissaus</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. W.</given-names>
+<surname>Piston</surname>
+</string-name>, “<article-title>Differential Stimulation of Insulin Secretion by Glp‐1 and Kisspeptin‐10</article-title>,” <source>PLoS One</source>
+<volume>9</volume>, no. <issue>11</issue> (<year>2014</year>): <fpage>1</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0113020</pub-id><pub-id pub-id-type="pmcid">PMC4234631</pub-id><pub-id pub-id-type="pmid">25401335</pub-id></mixed-citation></ref><ref id="apha70188-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="apha70188-cit-0051">
+<string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Hauge‐Evans</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. C.</given-names>
+<surname>Richardson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. M.</given-names>
+<surname>Milne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. R.</given-names>
+<surname>Christie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Persaud</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Jones</surname>
+</string-name>, “<article-title>A Role for Kisspeptin in Islet Function</article-title>,” <source>Diabetologia</source>
+<volume>49</volume>, no. <issue>9</issue> (<year>2006</year>): <fpage>2131</fpage>–<lpage>2135</lpage>.<pub-id pub-id-type="pmid">16826407</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00125-006-0343-z</pub-id></mixed-citation></ref><ref id="apha70188-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="apha70188-cit-0052">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Izzi‐Engbeaya</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. N.</given-names>
+<surname>Comninos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Clarke</surname>
+</string-name>, et al., “<article-title>The Effects of Kisspeptin on β‐Cell Function, Serum Metabolites and Appetite in Humans</article-title>,” <source>Diabetes, Obesity &amp; Metabolism</source>
+<volume>20</volume>, no. <issue>12</issue> (<year>2018</year>): <fpage>2800</fpage>–<lpage>2810</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/dom.13460</pub-id><pub-id pub-id-type="pmcid">PMC6282711</pub-id><pub-id pub-id-type="pmid">29974637</pub-id></mixed-citation></ref><ref id="apha70188-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="apha70188-cit-0053">
+<string-name name-style="western">
+<given-names>C. N.</given-names>
+<surname>Jayasena</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. M. K. K.</given-names>
+<surname>Nijher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. N.</given-names>
+<surname>Comninos</surname>
+</string-name>, et al., “<article-title>The Effects of Kisspeptin‐10 on Reproductive Hormone Release Show Sexual Dimorphism in Humans</article-title>,” <source>Journal of Clinical Endocrinology and Metabolism</source>
+<volume>96</volume>, no. <issue>12</issue> (<year>2011</year>): <fpage>1963</fpage>–<lpage>1972</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1210/jc.2011-1408</pub-id><pub-id pub-id-type="pmcid">PMC3232613</pub-id><pub-id pub-id-type="pmid">21976724</pub-id></mixed-citation></ref><ref id="apha70188-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="apha70188-cit-0054">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Jones</surname>
+</string-name>, et al., “<article-title>LC–MS/MS Quantification of a Neuropeptide Fragment Kisspeptin‐10 (NSC 741805) and Characterization of Its Decomposition Product and Pharmacokinetics in Rats</article-title>,” <source>Journal of Chromatography B</source>
+<volume>926</volume> (<year>2013</year>): <fpage>1</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jchromb.2013.02.027</pub-id><pub-id pub-id-type="pmcid">PMC3955120</pub-id><pub-id pub-id-type="pmid">23524040</pub-id></mixed-citation></ref><ref id="apha70188-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="apha70188-cit-0055">
+<string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Silva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. N.</given-names>
+<surname>Vidigal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. D.</given-names>
+<surname>Galvão</surname>
+</string-name>, et al., “<article-title>Fetal Growth Restriction in Hypothyroidism Is Associated With Changes in Proliferative Activity, Apoptosis and Vascularisation of the Placenta</article-title>,” <source>Reproduction, Fertility, and Development</source>
+<volume>24</volume>, no. <issue>7</issue> (<year>2012</year>): <fpage>923</fpage>–<lpage>931</lpage>.<pub-id pub-id-type="pmid">22935153</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1071/RD11219</pub-id></mixed-citation></ref><ref id="apha70188-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="apha70188-cit-0056">
+<string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>dos Anjos Cordeiro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. C.</given-names>
+<surname>Santos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. R.</given-names>
+<surname>Santos</surname>
+</string-name>, et al., “<article-title>Manganese Porphyrin‐Based Treatment Improves Fetal‐Placental Development and Protects Against Oxidative Damage and NLRP3 Inflammasome Activation in a Rat Maternal Hypothyroidism Model</article-title>,” <source>Redox Biology</source>
+<volume>74</volume>, no. <issue>June</issue> (<year>2024</year>): <elocation-id>103238</elocation-id>.<pub-id pub-id-type="pmid">38870780</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.redox.2024.103238</pub-id><pub-id pub-id-type="pmcid">PMC11225907</pub-id></mixed-citation></ref><ref id="apha70188-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="apha70188-cit-0057">
+<string-name name-style="western">
+<given-names>P. M.</given-names>
+<surname>Coan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Ferguson‐Smith</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G. J.</given-names>
+<surname>Burton</surname>
+</string-name>, “<article-title>Developmental Dynamics of the Definitive Mouse Placenta Assessed by Stereology</article-title>,” <source>Biology of Reproduction</source>
+<volume>70</volume>, no. <issue>6</issue> (<year>2004</year>): <fpage>1806</fpage>–<lpage>1813</lpage>.<pub-id pub-id-type="pmid">14973263</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1095/biolreprod.103.024166</pub-id></mixed-citation></ref><ref id="apha70188-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="apha70188-cit-0058">
+<string-name name-style="western">
+<given-names>J. S.</given-names>
+<surname>Higgins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O. R.</given-names>
+<surname>Vaughan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Fernandez de Liger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Fowden</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. N.</given-names>
+<surname>Sferruzzi‐Perri</surname>
+</string-name>, “<article-title>Placental Phenotype and Resource Allocation to Fetal Growth Are Modified by the Timing and Degree of Hypoxia During Mouse Pregnancy</article-title>,” <source>Journal of Physiology</source>
+<volume>594</volume>, no. <issue>5</issue> (<year>2016</year>): <fpage>1341</fpage>–<lpage>1356</lpage>.<pub-id pub-id-type="pmid">26377136</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1113/JP271057</pub-id><pub-id pub-id-type="pmcid">PMC4771776</pub-id></mixed-citation></ref><ref id="apha70188-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="apha70188-cit-0059">
+<string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>dos Anjos Cordeiro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. C.</given-names>
+<surname>Santos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. S.</given-names>
+<surname>de Oliveira</surname>
+</string-name>, et al., “<article-title>Maternal Hypothyroidism Causes Oxidative Stress and Endoplasmic Reticulum Stress in the Maternal‐Fetal Interface of Rats</article-title>,” <source>Free Radical Biology &amp; Medicine</source>
+<volume>191</volume>, no. <issue>January</issue> (<year>2022</year>): <fpage>24</fpage>–<lpage>39</lpage>.<pub-id pub-id-type="pmid">36038036</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.freeradbiomed.2022.08.033</pub-id></mixed-citation></ref><ref id="apha70188-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="apha70188-cit-0060">
+<string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Kramer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Jansson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. L.</given-names>
+<surname>Bale</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T. L.</given-names>
+<surname>Powell</surname>
+</string-name>, “<article-title>Maternal‐Fetal Cross‐Talk via the Placenta: Influence on Offspring Development and Metabolism</article-title>,” <source>Development</source>
+<volume>150</volume>, no. <issue>20</issue> (<year>2023</year>): <fpage>1</fpage>–<lpage>13</lpage>, <pub-id pub-id-type="doi">10.1242/dev.202088</pub-id>.<pub-id pub-id-type="pmcid">PMC10617615</pub-id><pub-id pub-id-type="pmid">37831056</pub-id></mixed-citation></ref><ref id="apha70188-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="apha70188-cit-0061">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Mu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Slevin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Qu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>McCormick</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. L.</given-names>
+<surname>Adamson</surname>
+</string-name>, “<article-title>In Vivo Quantification of Embryonic and Placental Growth During Gestation in Mice Using Micro‐Ultrasound</article-title>,” <source>Reproductive Biology and Endocrinology</source>
+<volume>6</volume> (<year>2008</year>): <fpage>1</fpage>–<lpage>13</lpage>.<pub-id pub-id-type="pmid">18700008</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1477-7827-6-34</pub-id><pub-id pub-id-type="pmcid">PMC2527569</pub-id></mixed-citation></ref><ref id="apha70188-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="apha70188-cit-0062">
+<string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Langdown</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Sugden</surname>
+</string-name>, “<article-title>Enhanced Placental GLUT1 and GLUT3 Expression in Dexamethasone‐Induced Fetal Growth Retardation</article-title>,” <source>Molecular and Cellular Endocrinology</source>
+<volume>185</volume>, no. <issue>1–2</issue> (<year>2001</year>): <fpage>109</fpage>–<lpage>117</lpage>.<pub-id pub-id-type="pmid">11738800</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0303-7207(01)00629-3</pub-id></mixed-citation></ref><ref id="apha70188-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="apha70188-cit-0063">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Pei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Bai</surname>
+</string-name>, et al., “<article-title>Dysregulated GLUT1 Results in the Pathogenesis of Preeclampsia by Impairing the Function of Trophoblast Cells</article-title>,” <source>Scientific Reports</source>
+<volume>14</volume>, no. <issue>1</issue> (<year>2024</year>): <elocation-id>23761</elocation-id>.<pub-id pub-id-type="pmid">39390043</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-024-74489-z</pub-id><pub-id pub-id-type="pmcid">PMC11467397</pub-id></mixed-citation></ref><ref id="apha70188-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="apha70188-cit-0064">
+<string-name name-style="western">
+<given-names>M. U.</given-names>
+<surname>Baumann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Schneider</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Malek</surname>
+</string-name>, et al., “<article-title>Regulation of Human Trophoblast GLUT1 Glucose Transporter by Insulin‐Like Growth Factor I (IGF‐I)</article-title>,” <source>PLoS One</source>
+<volume>9</volume>, no. <issue>8</issue> (<year>2014</year>): <fpage>1</fpage>–<lpage>8</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0106037</pub-id><pub-id pub-id-type="pmcid">PMC4144961</pub-id><pub-id pub-id-type="pmid">25157747</pub-id></mixed-citation></ref><ref id="apha70188-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="apha70188-cit-0065">
+<string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Yoon</surname>
+</string-name>, “<article-title>The Role of Mammalian Target of Rapamycin (mTOR) in Insulin Signaling</article-title>,” <source>Nutrients</source>
+<volume>9</volume>, no. <issue>11</issue> (<year>2017</year>): <fpage>1</fpage>–<lpage>17</lpage>, <pub-id pub-id-type="doi">10.3390/nu9111176</pub-id>.<pub-id pub-id-type="pmcid">PMC5707648</pub-id><pub-id pub-id-type="pmid">29077002</pub-id></mixed-citation></ref><ref id="apha70188-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="apha70188-cit-0066">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Cao</surname>
+</string-name>, et al., “<article-title>Downregulation of Placental Amino Acid Transporter Expression and mTORC1 Signaling Activity Contributes to Fetal Growth Retardation in Diabetic Rats</article-title>,” <source>International Journal of Molecular Sciences</source>
+<volume>21</volume>, no. <issue>5</issue> (<year>2020</year>): <fpage>1</fpage>–<lpage>12</lpage>, <pub-id pub-id-type="doi">10.3390/ijms21051849</pub-id>.<pub-id pub-id-type="pmcid">PMC7084659</pub-id><pub-id pub-id-type="pmid">32156054</pub-id></mixed-citation></ref><ref id="apha70188-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="apha70188-cit-0067">
+<string-name name-style="western">
+<given-names>T.‐H.</given-names>
+<surname>Hung</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.‐P.</given-names>
+<surname>Wu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.‐F.</given-names>
+<surname>Chen</surname>
+</string-name>, “<article-title>Differential Changes in Akt and AMPK Phosphorylation Regulating mTOR Activity in the Placentas of Pregnancies Complicated by Fetal Growth Restriction and Gestational Diabetes Mellitus With Large‐For‐Gestational Age Infants</article-title>,” <source>Frontiers in Medicine</source>
+<volume>8</volume> (<year>2021</year>): <fpage>8</fpage>, <pub-id pub-id-type="doi">10.3389/fmed.2021.788969</pub-id>.<pub-id pub-id-type="pmcid">PMC8685227</pub-id><pub-id pub-id-type="pmid">34938752</pub-id></mixed-citation></ref><ref id="apha70188-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="apha70188-cit-0068">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Vadlakonda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Dash</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Pasupuleti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Kumar</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Reddanna</surname>
+</string-name>, “<article-title>The Paradox of Akt‐mTOR Interactions</article-title>,” <source>Frontiers in Oncology</source>
+<volume>3</volume> (<year>2013</year>): <fpage>1</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">23802099</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fonc.2013.00165</pub-id><pub-id pub-id-type="pmcid">PMC3687210</pub-id></mixed-citation></ref><ref id="apha70188-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="apha70188-cit-0069">
+<string-name name-style="western">
+<given-names>K. E.</given-names>
+<surname>O'Reilly</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Rojo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.‐B.</given-names>
+<surname>She</surname>
+</string-name>, et al., “<article-title>mTOR Inhibition Induces Upstream Receptor Tyrosine Kinase Signaling and Activates Akt</article-title>,” <source>Cancer Research</source>
+<volume>66</volume>, no. <issue>3</issue> (<year>2006</year>): <fpage>1500</fpage>–<lpage>1508</lpage>.<pub-id pub-id-type="pmid">16452206</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-05-2925</pub-id><pub-id pub-id-type="pmcid">PMC3193604</pub-id></mixed-citation></ref><ref id="apha70188-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="apha70188-cit-0070">
+<string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Saxton</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Sabatini</surname>
+</string-name>, “<article-title>mTOR Signaling in Growth, Metabolism, and Disease</article-title>,” <source>Cell</source>
+<volume>168</volume>, no. <issue>6</issue> (<year>2017</year>): <fpage>960</fpage>–<lpage>976</lpage>.<pub-id pub-id-type="pmid">28283069</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cell.2017.02.004</pub-id><pub-id pub-id-type="pmcid">PMC5394987</pub-id></mixed-citation></ref><ref id="apha70188-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="apha70188-cit-0071">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, et al., “<article-title>Kisspeptin‐10 Maintains the Activation of the mTOR Signaling Pathway by Inhibiting SIRT6 to Promote the Synthesis of Milk in Bovine Mammary Epithelial Cells</article-title>,” <source>Journal of Agricultural and Food Chemistry</source>
+<volume>69</volume>, no. <issue>14</issue> (<year>2021</year>): <fpage>4093</fpage>–<lpage>4100</lpage>.<pub-id pub-id-type="pmid">33818062</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.jafc.0c07613</pub-id></mixed-citation></ref><ref id="apha70188-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="apha70188-cit-0072">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ardestani</surname>
+</string-name> and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Maedler</surname>
+</string-name>, “<article-title>mTORC1 and IRS1: Another Deadly Kiss</article-title>,” <source>Trends in Endocrinology and Metabolism</source>
+<volume>29</volume>, no. <issue>11</issue> (<year>2018</year>): <fpage>737</fpage>–<lpage>739</lpage>.<pub-id pub-id-type="pmid">30082207</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tem.2018.07.003</pub-id></mixed-citation></ref><ref id="apha70188-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="apha70188-cit-0073">
+<string-name name-style="western">
+<given-names>C. F.</given-names>
+<surname>Bennett</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Latorre‐Muro</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Puigserver</surname>
+</string-name>, “<article-title>Mechanisms of Mitochondrial Respiratory Adaptation</article-title>,” <source>Nature Reviews. Molecular Cell Biology</source>
+<volume>23</volume>, no. <issue>12</issue> (<year>2022</year>): <fpage>817</fpage>–<lpage>835</lpage>.<pub-id pub-id-type="pmid">35804199</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41580-022-00506-6</pub-id><pub-id pub-id-type="pmcid">PMC9926497</pub-id></mixed-citation></ref><ref id="apha70188-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="apha70188-cit-0074">
+<string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Upadhya</surname>
+</string-name> and <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Ryan</surname>
+</string-name>, “<article-title>Experimental Reproducibility Limits the Correlation Between mRNA and Protein Abundances in Tumor Proteomic Profiles</article-title>,” <source>Cell Reports Methods</source>
+<volume>2</volume>, no. <issue>9</issue> (<year>2022</year>): <elocation-id>100288</elocation-id>.<pub-id pub-id-type="pmid">36160043</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.crmeth.2022.100288</pub-id><pub-id pub-id-type="pmcid">PMC9499981</pub-id></mixed-citation></ref><ref id="apha70188-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="apha70188-cit-0075">
+<string-name name-style="western">
+<given-names>S. H.</given-names>
+<surname>Payne</surname>
+</string-name>, “<article-title>The Utility of Protein and mRNA Correlation</article-title>,” <source>Trends in Biochemical Sciences</source>
+<volume>40</volume>, no. <issue>1</issue> (<year>2015</year>): <fpage>1</fpage>–<lpage>3</lpage>.<pub-id pub-id-type="pmid">25467744</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tibs.2014.10.010</pub-id><pub-id pub-id-type="pmcid">PMC4776753</pub-id></mixed-citation></ref><ref id="apha70188-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="apha70188-cit-0076">
+<string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Silva</surname>
+</string-name> and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Serakides</surname>
+</string-name>, “<article-title>Intrauterine Trophoblast Migration: A Comparative View of Humans and Rodents</article-title>,” <source>Cell Adhesion &amp; Migration</source>
+<volume>10</volume>, no. <issue>1–2</issue> (<year>2016</year>): <fpage>88</fpage>–<lpage>110</lpage>.<pub-id pub-id-type="pmid">26743330</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/19336918.2015.1120397</pub-id><pub-id pub-id-type="pmcid">PMC4853047</pub-id></mixed-citation></ref><ref id="apha70188-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="apha70188-cit-0077">
+<string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>da Silva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. R.</given-names>
+<surname>Santos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. C.</given-names>
+<surname>Santos</surname>
+</string-name>, et al., “<article-title>Manganese Porphyrin [MnTE‐2‐PyP]5+ Improves Maternal and Offspring Glycemic Homeostasis, Placental Morphology, and Redox Balance in Diabetic Pregnant Rats</article-title>,” <source>Biomedicine &amp; Pharmacotherapy</source>
+<volume>192</volume> (<year>2025</year>): <elocation-id>118694</elocation-id>.<pub-id pub-id-type="pmid">41160997</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.biopha.2025.118694</pub-id></mixed-citation></ref><ref id="apha70188-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="apha70188-cit-0078">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Altman</surname>
+</string-name>, “<article-title>Analysis of Serial Measurements</article-title>,” <source>BMJ</source>
+<volume>300</volume> (<year>1990</year>): <fpage>230</fpage>–<lpage>236</lpage>.<pub-id pub-id-type="pmid">2106931</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.300.6719.230</pub-id><pub-id pub-id-type="pmcid">PMC1662068</pub-id></mixed-citation></ref><ref id="apha70188-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="apha70188-cit-0079">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>de Clercq</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lopez‐Tello</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Vriens</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. N.</given-names>
+<surname>Sferruzzi‐Perri</surname>
+</string-name>, “<article-title>Double‐Label Immunohistochemistry to Assess Labyrinth Structure of the Mouse Placenta With Stereology</article-title>,” <source>Placenta</source>
+<volume>94</volume> (<year>2020</year>): <fpage>44</fpage>–<lpage>47</lpage>.<pub-id pub-id-type="pmid">32421534</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.placenta.2020.03.014</pub-id></mixed-citation></ref><ref id="apha70188-bib-0080"><label>80</label><mixed-citation publication-type="book" id="apha70188-cit-0080">
+<string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Veras</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. S. X.</given-names>
+<surname>Costa</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Mayhew</surname>
+</string-name>, <source>Best Practice for Quantifying the Microscopic Structure of Mouse Placenta</source> (<publisher-name>Elsevier</publisher-name>, <year>2014</year>), <pub-id pub-id-type="doi">10.1016/B978-0-12-394445-0.00046-1</pub-id>.</mixed-citation></ref><ref id="apha70188-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="apha70188-cit-0081">
+<string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Silva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. M.</given-names>
+<surname>Ocarino</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Serakides</surname>
+</string-name>, “<article-title>Maternal Thyroid Dysfunction Affects Placental Profile of Inflammatory Mediators and the Intrauterine Trophoblast Migration Kinetics</article-title>,” <source>Reproduction</source>
+<volume>147</volume>, no. <issue>6</issue> (<year>2014</year>): <fpage>803</fpage>–<lpage>816</lpage>.<pub-id pub-id-type="pmid">24534949</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1530/REP-13-0374</pub-id></mixed-citation></ref><ref id="apha70188-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="apha70188-cit-0082">
+<string-name name-style="western">
+<given-names>M. E.</given-names>
+<surname>Solano</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Thiele</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. K.</given-names>
+<surname>Kowal</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. C.</given-names>
+<surname>Arck</surname>
+</string-name>, “<article-title>Identification of Suitable Reference Genes in the Mouse Placenta</article-title>,” <source>Placenta</source>
+<volume>39</volume> (<year>2016</year>): <fpage>7</fpage>–<lpage>15</lpage>.<pub-id pub-id-type="pmid">26992668</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.placenta.2015.12.017</pub-id></mixed-citation></ref><ref id="apha70188-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="apha70188-cit-0083">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lopez‐Tello</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. E. J.</given-names>
+<surname>Yong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Sandovici</surname>
+</string-name>, et al., “<article-title>Fetal Manipulation of Maternal Metabolism Is a Critical Function of the Imprinted Igf2 Gene</article-title>,” <source>Cell Metabolism</source>
+<volume>35</volume>, no. <issue>7</issue> (<year>2023</year>): <fpage>1195</fpage>–<lpage>1208.e6</lpage>.<pub-id pub-id-type="pmid">37437545</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cmet.2023.06.007</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

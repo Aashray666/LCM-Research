@@ -1,0 +1,943 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="cjp270079" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Pathol Clin Res</journal-id><journal-id journal-id-type="iso-abbrev">J Pathol Clin Res</journal-id><journal-id journal-id-type="pmc-domain-id">2938</journal-id><journal-id journal-id-type="pmc-domain">cjp</journal-id><journal-id journal-id-type="publisher-id">CJP2</journal-id><journal-title-group><journal-title>The Journal of Pathology: Clinical Research</journal-title></journal-title-group><issn pub-type="epub">2056-4538</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12960061</article-id><article-id pub-id-type="pmcid-ver">PMC12960061.1</article-id><article-id pub-id-type="pmcaid">12960061</article-id><article-id pub-id-type="pmcaiid">12960061</article-id><article-id pub-id-type="pmid">41781345</article-id><article-id pub-id-type="doi">10.1002/2056-4538.70079</article-id><article-id pub-id-type="publisher-id">CJP270079</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Frequent <italic toggle="no">NPM1</italic> mutation, monoblastic/monocytic origin and prognostic significance of organ and system involvement in myeloid sarcoma: a multicenter study</article-title><alt-title alt-title-type="right-running-head">Clinicopathological aspects of myeloid sarcoma</alt-title><alt-title alt-title-type="left-running-head">A Jenei <italic toggle="no">et al</italic>
+</alt-title></title-group><contrib-group><contrib id="cjp270079-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Jenei</surname><given-names initials="A">Alex</given-names></name><xref rid="cjp270079-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>jeneialexander91@gmail.com</email><email>jenei.alex@semmelweis.hu</email></address></contrib><contrib id="cjp270079-cr-0002" contrib-type="author"><name name-style="western"><surname>Kajtár</surname><given-names initials="B">Béla</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5551-3709</contrib-id><xref rid="cjp270079-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cjp270079-cr-0003" contrib-type="author"><name name-style="western"><surname>László</surname><given-names initials="T">Tamás</given-names></name><xref rid="cjp270079-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cjp270079-cr-0004" contrib-type="author"><name name-style="western"><surname>Juratli</surname><given-names initials="HA">Hazem A</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2406-7280</contrib-id><xref rid="cjp270079-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cjp270079-cr-0005" contrib-type="author"><name name-style="western"><surname>Vida</surname><given-names initials="L">Livia</given-names></name><xref rid="cjp270079-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cjp270079-cr-0006" contrib-type="author"><name name-style="western"><surname>Szepesi</surname><given-names initials="Á">Ágota</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0706-1178</contrib-id><xref rid="cjp270079-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cjp270079-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cjp270079-cr-0007" contrib-type="author"><name name-style="western"><surname>Mózes</surname><given-names initials="R">Réka</given-names></name><xref rid="cjp270079-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cjp270079-cr-0008" contrib-type="author"><name name-style="western"><surname>Timár</surname><given-names initials="B">Botond</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6210-8154</contrib-id><xref rid="cjp270079-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cjp270079-cr-0009" contrib-type="author"><name name-style="western"><surname>Halter</surname><given-names initials="J">Jörg</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4304-1956</contrib-id><xref rid="cjp270079-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="cjp270079-cr-0010" contrib-type="author"><name name-style="western"><surname>Dirnhofer</surname><given-names initials="S">Stefan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0008-5250-3159</contrib-id><xref rid="cjp270079-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="cjp270079-cr-0011" contrib-type="author" corresp="yes"><name name-style="western"><surname>Tzankov</surname><given-names initials="A">Alexandar</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1100-3819</contrib-id><xref rid="cjp270079-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><address><email>alexandar.tzankov@usb.ch</email></address></contrib></contrib-group><aff id="cjp270079-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pathology and Experimental Cancer Research</named-content>
+<institution>Semmelweis University, Faculty of Medicine</institution>
+<city>Budapest</city>
+<country country="HU">Hungary</country>
+</aff><aff id="cjp270079-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<institution>University of Pécs Medical School, Clinical Centre</institution>
+<city>Pécs</city>
+<country country="HU">Hungary</country>
+</aff><aff id="cjp270079-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Histological Diagnostics</named-content>
+<institution>Kempf and Pfaltz</institution>
+<city>Zurich</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="cjp270079-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Ekvimed Healthcare Service Ltd.</institution>
+<city>Budapest</city>
+<country country="HU">Hungary</country>
+</aff><aff id="cjp270079-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>University Hospital Basel</institution>
+<city>Basel</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="cjp270079-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Medical Genetics and Pathology</named-content>
+<institution>University Hospital Basel</institution>
+<city>Basel</city>
+<country country="CH">Switzerland</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Correspondence to: Alexandar Tzankov, Institute of Medical Genetics and Pathology, University Hospital Basel, Schoenbeinstrasse 40, CH‐4031 Basel, Switzerland. E‐mail: <email>alexandar.tzankov@usb.ch</email>
+<break/>
+Alex Jenei, Department of Pathology and Experimental Cancer Research, Semmelweis University, Faculty of Medicine, Üllői út 26, HU‐1082, Budapest, Hungary. E‐mail: <email>jeneialexander91@gmail.com</email> and <email>jenei.alex@semmelweis.hu</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>3</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2026</year></pub-date><volume>12</volume><issue seq="83">2</issue><issue-id pub-id-type="pmc-issue-id">507609</issue-id><issue-id pub-id-type="doi">10.1002/cjp2.v12.2</issue-id><elocation-id>e70079</elocation-id><history><date date-type="rev-recd"><day>12</day><month>1</month><year>2026</year></date><date date-type="received"><day>15</day><month>9</month><year>2025</year></date><date date-type="accepted"><day>04</day><month>2</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>04</day><month>03</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>06</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-06 17:25:12.540"><day>06</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">The Journal of Pathology: Clinical Research</italic> published by The Pathological Society of Great Britain and Ireland and John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CJP2-12-e70079.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CJP2-12-e70079.pdf"/><abstract><title>Abstract</title><p>Myeloid sarcoma (MS) is a tumorous extramedullary proliferation of blast or blast equivalent cells (e.g., promonocytes or promyelocytes). The most frequent cutaneous presentation is often referred to as leukemia cutis (LC). These lesions, especially without the clinical context of a known bone marrow disease, pose a differential diagnostic challenge. In this retrospective multicenter clinico‐pathological study on 154 patients with MS or LC, 169 samples were analyzed by morphology, immunohistochemistry, and fluorescent <italic toggle="no">in situ</italic> hybridization, and a subset by additional sequencing [<italic toggle="no">TP53</italic>]. The majority of cases were lysozyme positive (diffuse in 91% and focal in 5%), 51% showed diffuse and 6% focal expression of CD56, and IRF8 was strongly positive in 31% of the lesions. Lack of myeloperoxidase (MPO), CD117, and CD34 expression was observed in 27%, 39%, and 58%, respectively. PU.1 was positive in almost all instances (95%), but BRAF V600E was consistently negative. CD123 was diffusely (13%) or focally (25%) positive, which, in addition to frequent CD4 (73%) and CD56 expression, pointed to a phenotypic overlap with blastic plasmacytoid dendritic cell neoplasms. Survival analysis revealed that MS occurring at sanctuary sites (CNS, orbit, ovary, and testis) was characterized by excellent survival. Similarly to histiocytoses, there was a prognostic difference between isolated and multisystemic involvement by MS. Patients who underwent allogeneic hematopoietic stem cell transplantation showed significantly improved survival. In conclusion, this multicenter study suggests that most MS are of myelomonocytic/monoblastic origin, a high proportion of them are <italic toggle="no">NPM1</italic> mutated, and may lack expression of MPO and CD34. NPM1 mutation‐specific antibodies should be integrated into the diagnostic panels for MS or LC, while IRF8 and PU.1 are not recommended as they cannot distinguish MS from histiocytic neoplasms.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cjp270079-kwd-0001">myeloid sarcoma</kwd><kwd id="cjp270079-kwd-0002">leukemia cutis</kwd><kwd id="cjp270079-kwd-0003">extramedullary myeloid proliferation</kwd><kwd id="cjp270079-kwd-0004">histiocytosis</kwd><kwd id="cjp270079-kwd-0005">monocyte</kwd><kwd id="cjp270079-kwd-0006">NPM1</kwd></kwd-group><counts><fig-count count="6"/><table-count count="2"/><page-count count="14"/><word-count count="8200"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:04.03.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="cjp270079-ntgp-0001"><fn id="cjp270079-note-0001"><p>No conflicts of interest were declared.</p></fn></fn-group></notes></front><body id="cjp270079-body-0001"><sec id="cjp270079-sec-0001"><title>Introduction</title><p>Extramedullary (EM) presentations of myeloid diseases are rare. Besides some recently described emerging and sometimes conflicting entities that represent the more mature spectrum of EM myeloid tumors, for example, myelodysplasia cutis [<xref rid="cjp270079-bib-0001" ref-type="bibr">1</xref>] and sclerosing extramedullary hematopoietic tumor (SEMHT) [<xref rid="cjp270079-bib-0002" ref-type="bibr">2</xref>], the most frequent EM manifestation is the proliferation of myeloid blasts or blast equivalents (immature precursors, such as promonocytes in monocytic leukemias, NPM1‐positive myeloid precursors in <italic toggle="yes">NPM1</italic>‐mutated AML or the promyelocytes in acute promyelocytic leukemia with <italic toggle="yes">PML::RARA</italic> fusion), referred to as myeloid sarcoma (MS) by both the recent WHO and ICC classifications [<xref rid="cjp270079-bib-0003" ref-type="bibr">3</xref>, <xref rid="cjp270079-bib-0004" ref-type="bibr">4</xref>]. However, the nomenclature of immature EM myeloid tumors is still not completely consistent: while the historical names like chloroma and granulocytic sarcoma are no longer used, some authors have raised reasonable questions regarding the term MS as well and propose the use of extramedullary acute myeloid leukemia (AML) instead [<xref rid="cjp270079-bib-0005" ref-type="bibr">5</xref>].</p><p>The reported incidence of MS is highly variable [<xref rid="cjp270079-bib-0006" ref-type="bibr">6</xref>, <xref rid="cjp270079-bib-0007" ref-type="bibr">7</xref>, <xref rid="cjp270079-bib-0008" ref-type="bibr">8</xref>], which is mainly due to inconsistent use of terminology; it is similar in the pediatric and adult age groups [<xref rid="cjp270079-bib-0009" ref-type="bibr">9</xref>] and shows a male predominance [<xref rid="cjp270079-bib-0010" ref-type="bibr">10</xref>]. MS is repeatedly underdiagnosed [<xref rid="cjp270079-bib-0006" ref-type="bibr">6</xref>, <xref rid="cjp270079-bib-0011" ref-type="bibr">11</xref>, <xref rid="cjp270079-bib-0012" ref-type="bibr">12</xref>] and represents a major source of misdiagnoses. The most involved sites are the skin, also referred to as leukemia cutis (LC), lymph nodes, and gastrointestinal tract, but virtually any anatomical site can be affected. Agreement on which organ involvements should be considered as MS is lacking. Most studies, including the present work, do not consider spleen and liver (being hematopoietic organs) involvement as MS (except when there is a mass lesion detectable), and some authors go further and do not accept lymph node infiltration as MS either [<xref rid="cjp270079-bib-0005" ref-type="bibr">5</xref>, <xref rid="cjp270079-bib-0010" ref-type="bibr">10</xref>].</p><p>Investigations into the pathogenesis of MS have implicated the potential role of several factors, such as the adhesion molecule CD56, the surface protein CD11b, the chemokine receptors CCR2, CCR5, CXCR4, CXCR7, and the complement factor C1Q, but the background of EM propagation is still not fully understood [<xref rid="cjp270079-bib-0005" ref-type="bibr">5</xref>, <xref rid="cjp270079-bib-0013" ref-type="bibr">13</xref>, <xref rid="cjp270079-bib-0014" ref-type="bibr">14</xref>, <xref rid="cjp270079-bib-0015" ref-type="bibr">15</xref>]. The most common cytogenetic alterations in MS are <italic toggle="yes">RUNX1::RUNX1T1</italic> and <italic toggle="yes">CBFB::MYH11</italic> fusions, and, especially in LC. numerical abnormalities of chromosome 8 [<xref rid="cjp270079-bib-0016" ref-type="bibr">16</xref>, <xref rid="cjp270079-bib-0017" ref-type="bibr">17</xref>]. In addition to the <italic toggle="yes">NPM1</italic> mutation, which is slightly more common in MS than in AML [<xref rid="cjp270079-bib-0018" ref-type="bibr">18</xref>], RAS pathway abnormalities are significantly more common in the former [<xref rid="cjp270079-bib-0019" ref-type="bibr">19</xref>, <xref rid="cjp270079-bib-0020" ref-type="bibr">20</xref>]. A recent study by Nann <italic toggle="yes">et al</italic> identified frequent alterations in the MAPK/ERK pathway, as well as <italic toggle="yes">NPM1</italic> and <italic toggle="yes">EZH2</italic> mutations [<xref rid="cjp270079-bib-0021" ref-type="bibr">21</xref>]. Other frequent mutations include <italic toggle="yes">FLT3</italic>‐ITD and TKD, <italic toggle="yes">TET2, DNMT3A</italic>, and <italic toggle="yes">IDH2</italic> [<xref rid="cjp270079-bib-0016" ref-type="bibr">16</xref>, <xref rid="cjp270079-bib-0017" ref-type="bibr">17</xref>, <xref rid="cjp270079-bib-0022" ref-type="bibr">22</xref>].</p><p>Because of the potential therapeutic consequences, the screening for rearrangements of <italic toggle="yes">PDGFRA, PDGFRB, FGFR1, FLT3</italic>, and <italic toggle="yes">JAK2</italic>, or <italic toggle="yes">ETV6::ABL1</italic> fusion in MS is crucial to exclude an underlying myeloid/lymphoid neoplasm with eosinophilia and tyrosine kinase gene fusions (MLN‐Eo with TKF). This applies especially to <italic toggle="yes">NPM1</italic> wild type cases, as <italic toggle="yes">NPM1</italic> mutations characteristically define a distinct molecular cluster of AML and are uncommon in cases harboring the canonical eosinophilia‐associated tyrosine‐kinase fusions, which is underpinned by the practical mutual exclusivity seen in reported cohorts [<xref rid="cjp270079-bib-0023" ref-type="bibr">23</xref>, <xref rid="cjp270079-bib-0024" ref-type="bibr">24</xref>]. Of note, the EM presentation of MLN‐Eo with TKFs is common [<xref rid="cjp270079-bib-0025" ref-type="bibr">25</xref>, <xref rid="cjp270079-bib-0026" ref-type="bibr">26</xref>, <xref rid="cjp270079-bib-0027" ref-type="bibr">27</xref>] and their general low incidence, variegated presentation, and the occasional lack of eosinophilia can make the proper diagnosis challenging.</p><p>In most instances MS presents synchronously with intramedullary AML or, commonly, emerges as extramedullary relapse following chemotherapy or allogeneic hematopoietic stem cell transplantation (HSCT). The latter is characterized by a wide anatomical distribution with a more common presentation at immunological sanctuary sites (testes, ovaries, CNS) [<xref rid="cjp270079-bib-0028" ref-type="bibr">28</xref>, <xref rid="cjp270079-bib-0029" ref-type="bibr">29</xref>]. It is suggested that while graft‐versus‐leukemia (GVL) effect – regulated by alloreactive T cells via PD‐L1‐PD‐1 and CD80 interaction – enables remission in the bone marrow, it shows decreased effectiveness at EM sites [<xref rid="cjp270079-bib-0030" ref-type="bibr">30</xref>, <xref rid="cjp270079-bib-0031" ref-type="bibr">31</xref>]. MS can also develop as a transformation of myeloproliferative neoplasms (MPN), myelodysplastic syndromes/neoplasms (MDS) or overlap myelodysplastic/myeloproliferative neoplasms (MDS/MPN) [<xref rid="cjp270079-bib-0032" ref-type="bibr">32</xref>]. Isolated MS without intramedullary disease is one of the rarest clinical scenarios raising diagnostic problems [<xref rid="cjp270079-bib-0033" ref-type="bibr">33</xref>].</p><p>As with nomenclature, prevalence and pathogenesis, there are discrepant findings on prognosis. While some authors found that MS is associated with shorter survival compared to AML [<xref rid="cjp270079-bib-0009" ref-type="bibr">9</xref>], many could not detect significant differences between the two [<xref rid="cjp270079-bib-0034" ref-type="bibr">34</xref>]. Conflictingly, even better event‐free‐ and overall survival has been documented too [<xref rid="cjp270079-bib-0035" ref-type="bibr">35</xref>].</p><p>Thus, MS are diagnostically (and therapeutically) challenging entities for which, despite increasing literature data, only a limited number of comprehensive studies are available, and many questions remain to be answered. The goal of this multicentric study was to analyze a large series of MS focusing on morphological, clinicopathological, and differential diagnostic aspects. Since most of the diagnostic problems arise from the variegated immunophenotype of MS, we aimed, besides the re‐evaluation of the markers used for original diagnosis, at applying markers that have not been evaluated previously on a larger series of MS.</p></sec><sec sec-type="materials-and-methods" id="cjp270079-sec-0002"><title>Materials and methods</title><p>A multi‐center retrospective study was designed. A total of 169 samples from 154 patients (94 from the Semmelweis University Department of Pathology and Experimental Cancer Research in Budapest, Hungary; 43 from the Institute of Medical Genetics and Pathology of the University Hospital Basel, Switzerland; and 17 from the Department of Pathology, University of Pécs, Faculty of Medicine, Pécs, Hungary), diagnosed between 2010 and 2024, re‐classified according to the WHO 5 and ICC 2022 criteria were enrolled in this study. All Swiss patients have given general informed consent for their archival tissue to be used for scientific research, and in accordance with the Swiss Federal Act on Research involving Human Beings, article 38, postulating that small quantities of (such archived) bodily substances from generally consented patients are allowed to be used for irreversibly anonymized research purposes. The procedure, in accordance with the Declaration of Helsinki, was approved as such by the ethics committee of Northwestern and Central Switzerland (EKNZ 2023‐00907). All Hungarian patients gave informed consent for the research use of archival tissue material and clinical data. The study was conducted in accordance with the Declaration of Helsinki and approved by the Ethics Committee of the Hungarian Medical Research Council (BM/29372‐3/2024).</p><p>A database was constructed containing the exact immunophenotype assessed at the time of diagnosis, cytogenetic and molecular findings of the MS and, in cases in which bone marrow samples of patients were available, the diagnosis, phenotype, cytogenetic and molecular findings of the intramedullary disease as well as relevant clinical data such as sex and age, the diagnosis date and site of MS, the therapy applied, the date of last presentation and/or death, and the cause of death.</p><p>Forty‐four percent of the samples had been sent to the participating departments from external institutions for a second opinion. Most of these could not, or could only partially be used for additional immunohistochemical or cytogenetic testing, since there was very limited tissue left over after diagnostic panels had been performed. Very small samples had to be excluded as per ethics committee regulations to avoid the entire diagnostic material being used up.</p><p>Every sample was reviewed by two expert hematopathologists (AT and AJ). An immunohistochemical panel of 10 antibodies was applied, depending on the amount of material available (mutated NPM1 <italic toggle="yes">n</italic> = 71; IRF8 <italic toggle="yes">n</italic> = 54; CD123 <italic toggle="yes">n</italic> = 53; p53 <italic toggle="yes">n</italic> = 50; lysozyme <italic toggle="yes">n</italic> = 52; CD56 <italic toggle="yes">n</italic> = 51; BRAFV600E <italic toggle="yes">n</italic> = 46; PU.1 <italic toggle="yes">n</italic> = 44; PDL1 <italic toggle="yes">n</italic> = 43; PD1 <italic toggle="yes">n</italic> = 42). The panel contained antibodies related to the monocytic/histiocytic lineage (lysozyme, IRF8, PU.1), proteins playing a role in homing and immune regulation and evasion (CD56, PD1 and PDL1), and mutation specific or mutation‐suggesting antibodies (BRAF V600E, p53 and mutational‐specific NPM1) (Table <xref rid="cjp270079-tbl-0001" ref-type="table">1</xref>). Either whole slides or, for a subset of cases, tissue microarrays (TMA) were used for IHC staining; TMA (6 × 9 cores, diameter 2 mm) with double cores per tissue block were constructed using a TMA Master (3DHISTECH, Budapest, Hungary). In addition, a FISH panel (break‐apart probes for <italic toggle="yes">PDGFRA, PDGFRB, FGFR1, JAK2</italic>, double‐color probes for <italic toggle="yes">TP53/CEN17</italic>, double‐fusion probes for <italic toggle="yes">RUNX1::RUNX1T1, CBFB::MYH11, GATA2::MECOM, BCR::ABL1</italic>) was applied to 24 cases (Table <xref rid="cjp270079-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="cjp270079-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>List of the immunohistochemical markers and fluorescent <italic toggle="no">in situ</italic> hybridization (FISH) probes applied</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Antigen/Locus</th><th align="left" valign="bottom" rowspan="1" colspan="1">Clone/Probe</th><th align="left" valign="bottom" rowspan="1" colspan="1">Source</th><th align="center" valign="bottom" rowspan="1" colspan="1">Dilution</th><th align="center" valign="bottom" rowspan="1" colspan="1">Retrieval</th><th align="center" valign="bottom" rowspan="1" colspan="1">Incubation</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">BRAF V600E</td><td align="left" valign="top" rowspan="1" colspan="1">VE1</td><td align="left" valign="top" rowspan="1" colspan="1">Abcam ab228461</td><td align="center" valign="top" rowspan="1" colspan="1">1:100</td><td align="center" valign="top" rowspan="1" colspan="1">CC1 64 min</td><td align="center" valign="top" rowspan="1" colspan="1">12 min</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CD56</td><td align="left" valign="top" rowspan="1" colspan="1">MRQ‐42</td><td align="left" valign="top" rowspan="1" colspan="1">Ventana 760‐4596</td><td align="center" valign="top" rowspan="1" colspan="1">RTU</td><td align="center" valign="top" rowspan="1" colspan="1">CC1 56 min</td><td align="center" valign="top" rowspan="1" colspan="1">24 min</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CD123</td><td align="left" valign="top" rowspan="1" colspan="1">BR4MS</td><td align="left" valign="top" rowspan="1" colspan="1">Leica NCL‐L‐CD123</td><td align="center" valign="top" rowspan="1" colspan="1">1:20</td><td align="center" valign="top" rowspan="1" colspan="1">CC1 40 min</td><td align="center" valign="top" rowspan="1" colspan="1">32 min</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">IRF8</td><td align="left" valign="top" rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-protein" xlink:href="EPR20441">EPR20441</ext-link></td><td align="left" valign="top" rowspan="1" colspan="1">Abcam ab207418</td><td align="center" valign="top" rowspan="1" colspan="1">1:400</td><td align="center" valign="top" rowspan="1" colspan="1">CC1 40 min</td><td align="center" valign="top" rowspan="1" colspan="1">32 min</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Lysozyme</td><td align="left" valign="top" rowspan="1" colspan="1">Rabbit polyclonal</td><td align="left" valign="top" rowspan="1" colspan="1">Ventana 760‐2656</td><td align="center" valign="top" rowspan="1" colspan="1">RTU</td><td align="center" valign="top" rowspan="1" colspan="1">CC1 8 min</td><td align="center" valign="top" rowspan="1" colspan="1">16 min</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">mut NPM1</td><td align="left" valign="top" rowspan="1" colspan="1">Rabbit polyclonal</td><td align="left" valign="top" rowspan="1" colspan="1">Invitrogen PA1‐46356</td><td align="center" valign="top" rowspan="1" colspan="1">1:800</td><td align="center" valign="top" rowspan="1" colspan="1">CC1 32 min</td><td align="center" valign="top" rowspan="1" colspan="1">24 min</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PD1</td><td align="left" valign="top" rowspan="1" colspan="1">Clone NAT105</td><td align="left" valign="top" rowspan="1" colspan="1">Ventana 760‐4895</td><td align="center" valign="top" rowspan="1" colspan="1">RTU</td><td align="center" valign="top" rowspan="1" colspan="1">CC1 48 min</td><td align="center" valign="top" rowspan="1" colspan="1">12 min</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PDL1</td><td align="left" valign="top" rowspan="1" colspan="1">E1L3N</td><td align="left" valign="top" rowspan="1" colspan="1">Cell signaling 13684</td><td align="center" valign="top" rowspan="1" colspan="1">1:50</td><td align="center" valign="top" rowspan="1" colspan="1">CC1 64 min</td><td align="center" valign="top" rowspan="1" colspan="1">32 min</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PU.1</td><td align="left" valign="top" rowspan="1" colspan="1">EPR 3158Y</td><td align="left" valign="top" rowspan="1" colspan="1">Abcam ab108299</td><td align="center" valign="top" rowspan="1" colspan="1">1:50</td><td align="center" valign="top" rowspan="1" colspan="1">CC1 16 min</td><td align="center" valign="top" rowspan="1" colspan="1">48 min</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">BCR::ABL1</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">22q11.2/BCR_9q34.1/ABL1</td><td align="left" valign="top" rowspan="1" colspan="1">Metasystems D‐5052‐100‐OG</td><td align="center" valign="top" rowspan="1" colspan="1">RTU</td><td align="center" valign="top" rowspan="1" colspan="1">–</td><td align="center" valign="top" rowspan="1" colspan="1">Overnight</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">CBFB::MYH11</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">16q22/CBFB_16p13.1/MYH11</td><td align="left" valign="top" rowspan="1" colspan="1">Metasystems D‐5126‐100‐OG</td><td align="center" valign="top" rowspan="1" colspan="1">RTU</td><td align="center" valign="top" rowspan="1" colspan="1">–</td><td align="center" valign="top" rowspan="1" colspan="1">Overnight</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">FGFR1</italic> break apart</td><td align="left" valign="top" rowspan="1" colspan="1">8p11.2_FGFR1</td><td align="left" valign="top" rowspan="1" colspan="1">Metasystems D‐5041‐100‐OG</td><td align="center" valign="top" rowspan="1" colspan="1">RTU</td><td align="center" valign="top" rowspan="1" colspan="1">–</td><td align="center" valign="top" rowspan="1" colspan="1">Overnight</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">GATA2::MECOM</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">3q21/GATA2_3q26.2/MECOM</td><td align="left" valign="top" rowspan="1" colspan="1">Metasystems D‐5124‐100‐OG</td><td align="center" valign="top" rowspan="1" colspan="1">RTU</td><td align="center" valign="top" rowspan="1" colspan="1">–</td><td align="center" valign="top" rowspan="1" colspan="1">Overnight</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">JAK2</italic> break apart</td><td align="left" valign="top" rowspan="1" colspan="1">9p24_JAK2</td><td align="left" valign="top" rowspan="1" colspan="1">Metasystems D‐5098‐100‐OG</td><td align="center" valign="top" rowspan="1" colspan="1">RTU</td><td align="center" valign="top" rowspan="1" colspan="1">–</td><td align="center" valign="top" rowspan="1" colspan="1">Overnight</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">PDGFRA/CHIC2/FIP1L1</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">4q12_PDGFRA/CHIC2/FIP1l1</td><td align="left" valign="top" rowspan="1" colspan="1">Metasystems D‐5063‐100‐TC</td><td align="center" valign="top" rowspan="1" colspan="1">RTU</td><td align="center" valign="top" rowspan="1" colspan="1">–</td><td align="center" valign="top" rowspan="1" colspan="1">Overnight</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">PDGFRB</italic> break apart</td><td align="left" valign="top" rowspan="1" colspan="1">5q32‐q33_PDGFRB</td><td align="left" valign="top" rowspan="1" colspan="1">Abbott ABT6N2410</td><td align="center" valign="top" rowspan="1" colspan="1">Abbott dilution protocol</td><td align="center" valign="top" rowspan="1" colspan="1">–</td><td align="center" valign="top" rowspan="1" colspan="1">Overnight</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">RUNX1::RUNX1T1</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">8q21.3/RUNX1_21q22RUNX1T1</td><td align="left" valign="top" rowspan="1" colspan="1">Abbott ABT08L70‐20</td><td align="center" valign="top" rowspan="1" colspan="1">Abbott dilution protocol</td><td align="center" valign="top" rowspan="1" colspan="1">–</td><td align="center" valign="top" rowspan="1" colspan="1">Overnight</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">TP53/CEN17</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">17p13_TP53</td><td align="left" valign="top" rowspan="1" colspan="1">Metasystems D‐5103‐100‐OG</td><td align="center" valign="top" rowspan="1" colspan="1">RTU</td><td align="center" valign="top" rowspan="1" colspan="1">–</td><td align="center" valign="top" rowspan="1" colspan="1">Overnight</td></tr></tbody></table><table-wrap-foot id="cjp270079-ntgp-0002"><fn id="cjp270079-note-0002"><p>RTU, ready to use; CC1, cell conditioning 1 solution. Abbott dilution protocol: 7 μl hybridization buffer, 2 μl distilled water, 1 μl probe.</p></fn></table-wrap-foot></table-wrap><p>In cases with pathologic p53 positivity, <italic toggle="yes">TP53</italic> sequencing had been conducted as previously described [<xref rid="cjp270079-bib-0036" ref-type="bibr">36</xref>, <xref rid="cjp270079-bib-0037" ref-type="bibr">37</xref>]. If present in the medical records available, somatic genetic data obtained by the accredited diagnostic platforms that were active at the contributing institutions at the time of initial diagnosis were extracted and used for the purposes of the study.</p><p>Overall survival (OS) was calculated from the time of diagnosis to death or last follow‐up. Kaplan–Meier survival curves were generated and evaluated using the log‐rank test to compare survival times between groups, using IBM SPSS Statistics (version 29.0.1.0). A Cox multivariable analysis was conducted for variables of prognostic significance in the univariable analysis. The <italic toggle="yes">p</italic> values of 0.05 or lower were considered statistically significant.</p></sec><sec sec-type="results" id="cjp270079-sec-0003"><title>Results</title><sec id="cjp270079-sec-0004"><title>Extramedullary disease presentation</title><p>The MS in our series that lacked significant ‘crush’‐artifacts most often (60%) presented as monotonous infiltrates of medium (10–20 μm) to large (&gt;20 μm) immature blasts with abundant basophilic cytoplasm, irregular nuclei, and prominent nucleoli. A ‘starry‐sky’ appearance due to prominent apoptotic activity could be observed in 12% of cases. A subset of cases (19%) consisted of medium sized monocytic cells with folded nuclei without prominent nucleoli. 7% of the MS displayed a degree of maturation and consisted of EM hematopoiesis‐like infiltrates intermingled with a blast population &gt;20%. Rarely (4%) tumors were composed of pleomorphic cells reminiscent of large‐cell lymphomas or even non‐hematopoietic tumors (Figure <xref rid="cjp270079-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="Figure" id="cjp270079-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>H&amp;E features of various MS (A–D; ×20) and cutaneous (E, F; ×4) infiltration patterns. (A) MS with eosinophilia and maturation; (B) monocytic MS; (C) monoblastic MS with starry‐sky pattern; (D) erythroblastic sarcoma with marked pleomorphism; (E) diffuse, dense, destructive infiltration – cutaneous MS pattern; (F) perivascular and periadnexal infiltration <italic toggle="yes">–</italic> leukemia cutis pattern.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CJP2-12-e70079-g001.jpg"/></fig><p>Of all the organs examined histologically, skin involvement was the most common (Figure <xref rid="cjp270079-fig-0001" ref-type="fig">1</xref>). The infiltration of variably dense immature monocytoid or blastoid cells was exclusively dermal without epidermotropism, characteristically with perivascular and/or periadnexal arrangement. Based on the density of the infiltration and its interference with the tissue architecture, we distinguished between tissue‐sparing, so‐called LC (49%) and destructive, dense, tumorous cutaneous MS patterns (51%), which both showed no difference in clinical behavior (data not shown). Lymph node involvement, as the second most frequent location, presented as interfollicular, diffuse, or, rarely, sinusoidal and/or subcapsular infiltration.</p><p>The reviewed IHC stains used for the original diagnosis represented a broad spectrum of antibodies. The panel used was highly dependent on whether intramedullary disease was known before the MS diagnosis or not. Since 21 cases preceded the detection of BM disease and 13 MS turned out to be isolated forms, the initial work‐up of these 34 instances was laborious.</p><p>The results for the most frequently used diagnostic antibodies and the designed panel markers are summarized in Table <xref rid="cjp270079-tbl-0002" ref-type="table">2</xref>.</p><table-wrap position="float" id="cjp270079-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Immunophenotype of MS</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Marker groups</th><th align="left" valign="bottom" rowspan="1" colspan="1">Antigen</th><th align="center" colspan="2" valign="bottom" rowspan="1">Positive</th><th align="center" colspan="2" valign="bottom" rowspan="1">Partial/dim</th><th align="center" colspan="2" valign="bottom" rowspan="1">Negative</th></tr></thead><tbody valign="top"><tr><td align="left" rowspan="3" valign="top" colspan="1">
+<bold>Myeloid and immaturity markers</bold>
+</td><td align="left" style="background-color:#DEEBF7" valign="top" rowspan="1" colspan="1">
+<bold>MPO</bold>
+</td><td align="left" style="background-color:#C5E0B4" valign="top" rowspan="1" colspan="1">65/135</td><td align="left" style="background-color:#C5E0B4" valign="top" rowspan="1" colspan="1">48%</td><td align="left" style="background-color:#FFF2CC" valign="top" rowspan="1" colspan="1">34/135</td><td align="left" style="background-color:#FFF2CC" valign="top" rowspan="1" colspan="1">25%</td><td align="left" style="background-color:#FEDEDE" valign="top" rowspan="1" colspan="1">36/135</td><td align="left" style="background-color:#FEDEDE" valign="top" rowspan="1" colspan="1">27%</td></tr><tr><td align="left" style="background-color:#DEEBF7" valign="top" rowspan="1" colspan="1">
+<bold>CD117</bold>
+</td><td align="left" style="background-color:#C5E0B4" valign="top" rowspan="1" colspan="1">42/98</td><td align="left" style="background-color:#C5E0B4" valign="top" rowspan="1" colspan="1">43%</td><td align="left" style="background-color:#FFF2CC" valign="top" rowspan="1" colspan="1">18/98</td><td align="left" style="background-color:#FFF2CC" valign="top" rowspan="1" colspan="1">18%</td><td align="left" style="background-color:#FEDEDE" valign="top" rowspan="1" colspan="1">38/98</td><td align="left" style="background-color:#FEDEDE" valign="top" rowspan="1" colspan="1">39%</td></tr><tr><td align="left" style="background-color:#DEEBF7" valign="top" rowspan="1" colspan="1">
+<bold>CD34</bold>
+</td><td align="left" style="background-color:#E2F0D9" valign="top" rowspan="1" colspan="1">33/122</td><td align="left" style="background-color:#E2F0D9" valign="top" rowspan="1" colspan="1">27%</td><td align="left" style="background-color:#FFF2CC" valign="top" rowspan="1" colspan="1">18/122</td><td align="left" style="background-color:#FFF2CC" valign="top" rowspan="1" colspan="1">15%</td><td align="left" style="background-color:#FCB2B2" valign="top" rowspan="1" colspan="1">71/122</td><td align="left" style="background-color:#FCB2B2" valign="top" rowspan="1" colspan="1">58%</td></tr><tr><td align="left" rowspan="3" valign="top" colspan="1">
+<bold>Monocytic/histiocytic markers</bold>
+</td><td align="left" style="background-color:#DEEBF7" valign="top" rowspan="1" colspan="1">
+<bold>lysozyme</bold>
+</td><td align="left" style="background-color:#70AD47" valign="top" rowspan="1" colspan="1">100/110</td><td align="left" style="background-color:#70AD47" valign="top" rowspan="1" colspan="1">91%</td><td align="left" style="background-color:#FFF2CC" valign="top" rowspan="1" colspan="1">6/110</td><td align="left" style="background-color:#FFF2CC" valign="top" rowspan="1" colspan="1">5%</td><td align="left" style="background-color:#FEDEDE" valign="top" rowspan="1" colspan="1">4/110</td><td align="left" style="background-color:#FEDEDE" valign="top" rowspan="1" colspan="1">4%</td></tr><tr><td align="left" style="background-color:#DEEBF7" valign="top" rowspan="1" colspan="1">
+<bold>IRF8</bold>
+</td><td align="left" style="background-color:#E2F0D9" valign="top" rowspan="1" colspan="1">17/54</td><td align="left" style="background-color:#E2F0D9" valign="top" rowspan="1" colspan="1">31%</td><td align="left" style="background-color:#FFF2CC" valign="top" rowspan="1" colspan="1">11/54</td><td align="left" style="background-color:#FFF2CC" valign="top" rowspan="1" colspan="1">20%</td><td align="left" style="background-color:#FCB2B2" valign="top" rowspan="1" colspan="1">26/54</td><td align="left" style="background-color:#FCB2B2" valign="top" rowspan="1" colspan="1">48%</td></tr><tr><td align="left" style="background-color:#DEEBF7" valign="top" rowspan="1" colspan="1">
+<bold>PU.1</bold>
+</td><td align="left" style="background-color:#70AD47" valign="top" rowspan="1" colspan="1">42/44</td><td align="left" style="background-color:#70AD47" valign="top" rowspan="1" colspan="1">95%</td><td align="left" style="background-color:#F2F2F2" valign="top" rowspan="1" colspan="1">Ø</td><td align="left" style="background-color:#F2F2F2" valign="top" rowspan="1" colspan="1">Ø</td><td align="left" style="background-color:#FEDEDE" valign="top" rowspan="1" colspan="1">2/43</td><td align="left" style="background-color:#FEDEDE" valign="top" rowspan="1" colspan="1">5%</td></tr><tr><td align="left" rowspan="3" valign="top" colspan="1">
+<bold>Mutation‐specific/related</bold>
+</td><td align="left" style="background-color:#DEEBF7" valign="top" rowspan="1" colspan="1">
+<bold>NPM1 mut</bold>
+</td><td align="left" style="background-color:#C5E0B4" valign="top" rowspan="1" colspan="1">28/71</td><td align="left" style="background-color:#C5E0B4" valign="top" rowspan="1" colspan="1">39%</td><td align="left" style="background-color:#F2F2F2" valign="top" rowspan="1" colspan="1">Ø</td><td align="left" style="background-color:#F2F2F2" valign="top" rowspan="1" colspan="1">Ø</td><td align="left" style="background-color:#FCB2B2" valign="top" rowspan="1" colspan="1">43/71</td><td align="left" style="background-color:#FCB2B2" valign="top" rowspan="1" colspan="1">61%</td></tr><tr><td align="left" style="background-color:#DEEBF7" valign="top" rowspan="1" colspan="1">
+<bold>p53</bold>
+<xref rid="cjp270079-note-0004" ref-type="table-fn">*</xref>
+</td><td align="left" style="background-color:#E2F0D9" valign="top" rowspan="1" colspan="1">10/50</td><td align="left" style="background-color:#E2F0D9" valign="top" rowspan="1" colspan="1">20%</td><td align="left" style="background-color:#FFDC6D" valign="top" rowspan="1" colspan="1">37/50</td><td align="left" style="background-color:#FFDC6D" valign="top" rowspan="1" colspan="1">74%</td><td align="left" style="background-color:#FEDEDE" valign="top" rowspan="1" colspan="1">3/50</td><td align="left" style="background-color:#FEDEDE" valign="top" rowspan="1" colspan="1">6%</td></tr><tr><td align="left" style="background-color:#DEEBF7" valign="top" rowspan="1" colspan="1">
+<bold>BRAF V600E</bold>
+</td><td align="left" style="background-color:#E2F0D9" valign="top" rowspan="1" colspan="1">0/46</td><td align="left" style="background-color:#E2F0D9" valign="top" rowspan="1" colspan="1">0%</td><td align="left" style="background-color:#F2F2F2" valign="top" rowspan="1" colspan="1">Ø</td><td align="left" style="background-color:#F2F2F2" valign="top" rowspan="1" colspan="1">Ø</td><td align="left" style="background-color:#FC8080" valign="top" rowspan="1" colspan="1">46/46</td><td align="left" style="background-color:#FC8080" valign="top" rowspan="1" colspan="1">100%</td></tr><tr><td align="left" rowspan="3" valign="top" colspan="1">
+<bold>Immune regulation and evasion</bold>
+</td><td align="left" style="background-color:#DEEBF7" valign="top" rowspan="1" colspan="1">
+<bold>CD56</bold>
+</td><td align="left" style="background-color:#C5E0B4" valign="top" rowspan="1" colspan="1">34/67</td><td align="left" style="background-color:#C5E0B4" valign="top" rowspan="1" colspan="1">51%</td><td align="left" style="background-color:#FFF2CC" valign="top" rowspan="1" colspan="1">4/67</td><td align="left" style="background-color:#FFF2CC" valign="top" rowspan="1" colspan="1">6%</td><td align="left" style="background-color:#FCB2B2" valign="top" rowspan="1" colspan="1">29/67</td><td align="left" style="background-color:#FCB2B2" valign="top" rowspan="1" colspan="1">43%</td></tr><tr><td align="left" style="background-color:#DEEBF7" valign="top" rowspan="1" colspan="1">
+<bold>PD1</bold>
+</td><td align="left" style="background-color:#E2F0D9" valign="top" rowspan="1" colspan="1">0/42</td><td align="left" style="background-color:#E2F0D9" valign="top" rowspan="1" colspan="1">0%</td><td align="left" style="background-color:#F2F2F2" valign="top" rowspan="1" colspan="1">Ø</td><td align="left" style="background-color:#F2F2F2" valign="top" rowspan="1" colspan="1">Ø</td><td align="left" style="background-color:#FC8080" valign="top" rowspan="1" colspan="1">42/42</td><td align="left" style="background-color:#FC8080" valign="top" rowspan="1" colspan="1">100%</td></tr><tr><td align="left" style="background-color:#DEEBF7" valign="top" rowspan="1" colspan="1">
+<bold>PDL1</bold>
+</td><td align="left" style="background-color:#E2F0D9" valign="top" rowspan="1" colspan="1">5/43</td><td align="left" style="background-color:#E2F0D9" valign="top" rowspan="1" colspan="1">12%</td><td align="left" style="background-color:#F2F2F2" valign="top" rowspan="1" colspan="1">Ø</td><td align="left" style="background-color:#F2F2F2" valign="top" rowspan="1" colspan="1">Ø</td><td align="left" style="background-color:#FC8080" valign="top" rowspan="1" colspan="1">38/43</td><td align="left" style="background-color:#FC8080" valign="top" rowspan="1" colspan="1">88%</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Miscellaneous</bold>
+</td><td align="left" style="background-color:#DEEBF7" valign="top" rowspan="1" colspan="1">
+<bold>CD123</bold>
+</td><td align="left" style="background-color:#E2F0D9" valign="top" rowspan="1" colspan="1">7/53</td><td align="left" style="background-color:#E2F0D9" valign="top" rowspan="1" colspan="1">13%</td><td align="left" style="background-color:#FFF2CC" valign="top" rowspan="1" colspan="1">13/53</td><td align="left" style="background-color:#FFF2CC" valign="top" rowspan="1" colspan="1">25%</td><td align="left" style="background-color:#FCB2B2" valign="top" rowspan="1" colspan="1">33/53</td><td align="left" style="background-color:#FCB2B2" valign="top" rowspan="1" colspan="1">62%</td></tr></tbody></table><table-wrap-foot id="cjp270079-ntgp-0003"><fn id="cjp270079-note-0003"><p>The results for the most frequently used diagnostic antibodies and the designed panel markers (the panel is performed by the Institute of Medical Genetics and Pathology of the University Hospital Basel, Switzerland). Partial refers to the staining pattern, meaning partial positivity, while dim refers to weak staining. Color codes: the different shades (1–30% light, 31–70% medium, 71–100% dark) correlating with the higher percentages.</p></fn><fn id="cjp270079-note-0004"><label>*</label><p>p53 positive = strong expression, suggestive of mutation; partial/dim = wild‐type positive; negative = zero phenotype, suggestive of mutation.</p></fn></table-wrap-foot></table-wrap><p>Monoblastic‐monocytic/myelomonocytic differentiation could be observed in the overwhelming majority of cases and was characterized by the expression of lysozyme (diffuse in 91% and focal in 5% of the cases), often in combination with IRF8 (31% diffuse and 20% partial positive). As expected [<xref rid="cjp270079-bib-0038" ref-type="bibr">38</xref>], a sizable proportion of cases (51% diffuse and 6% focal) expressed the adhesion molecule CD56. MS with erythroid differentiation, supported by the co‐expression of CD71, glycophorin A and E‐cadherin, and LMO2, applied to three cases, while megakaryoblastic differentiation, supported by the positivity of the blasts for CD42b, CD61, osteonectin and factor VIII, to two cases.</p><p>Importantly, the initial diagnosis of samples submitted for consultation was often lymphoma of either B‐ or T‐cell lineage based on the expression of various B‐ and T‐cell lineage markers. Indeed, CD79a expression was detected in three cases, all of them being focal. One of them was a <italic toggle="yes">CBFB::MYH11</italic> rearranged MS, while the others co‐expressed PAX5 and one harbored <italic toggle="yes">RUNX1::RUNX1T1</italic> fusion, which can be observed in respective instances [<xref rid="cjp270079-bib-0039" ref-type="bibr">39</xref>, <xref rid="cjp270079-bib-0040" ref-type="bibr">40</xref>]. In the setting of extramedullary monoblastic/monocytic lesions, CD4 was not surprisingly commonly expressed (22 positive out of the examined 30 cases), which can be a source of misdiagnosis on the basis of phenotypic overlap with blastic plasmacytoid dendritic cell neoplasms (BPDCN) (especially if CD56 and/or CD123 is co‐expressed; see below), as well as T‐cell lymphomas. Six MS displayed CD7 and at least five cases showed focal CD30 positivity. Unlike in most histiocytes, the proliferation rate (Ki67) was uniformly high, ranging between 50% and 90%. The histopathological features, including complete phenotype data of all samples, are available as supplementary material, Table <xref rid="cjp270079-supitem-0001" ref-type="supplementary-material">S1</xref>.</p><p>Mutated NPM1 positivity detected by immunohistochemistry was present in 39% of cases. IRF8 was diffusely nuclear positive in 31% of the instances. PU.1 was positive in almost all cases (95%), but none turned out to be BRAF V600E positive. CD123 was diffusely (13%) or focally (25%) positive in a non‐negligible portion of the cases; the staining was typically moderate and only occasionally strong. 80% of these CD123 positive tumors also expressed CD56, and a half of the tested cases were CD4 positive as well, highlighting further phenotypic overlaps between MS and BPDCN. Mutation‐suggesting pattern of p53 expression was present in 13 cases (10 strong positive and 3 completely negative). PDL1 was expressed by five tumors; surprisingly, none of them homing to immune‐privileged sites (lymph node <italic toggle="yes">n</italic> = 3, skin <italic toggle="yes">n</italic> = 1, tibia <italic toggle="yes">n</italic> = 1), while PD1 was negative in all tested cases, and there were no significant amounts of PD1<sup>+</sup> tumor‐infiltrating lymphocytes (Figure <xref rid="cjp270079-fig-0002" ref-type="fig">2</xref>).</p><fig position="float" fig-type="Figure" id="cjp270079-fig-0002" orientation="portrait"><label>Figure 2</label><caption><p>Immunohistochemical characteristics of MS. (A) MPO positive myeloid blasts; (B) lysozyme positive monoblasts; (C) diffuse CD56 expression; (D) IRF8 positive MS; (E) diffuse PU.1 expression; (F) uniform, strong cytoplasmic expression of mutated NPM1.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CJP2-12-e70079-g005.jpg"/></fig></sec><sec id="cjp270079-sec-0005"><title>Cytogenetic and molecular findings</title><p>In addition to the cases stained for mutated NPM1, eight cases were reported positive by sequencing; thus, altogether <italic toggle="yes">NPM1</italic> mutation was detected in 40% of tested cases, making it the most frequent alteration in this cohort. In seven cases of our cohort, for which both mutational and IHC data were available (<italic toggle="yes">n</italic> = 7), there was a 100% correlation of the obtained results. <italic toggle="yes">TP53</italic> mutation was additionally confirmed in five cases. Interestingly, for four cases, there was IHC and <italic toggle="yes">TP53</italic> mutational data, of which only two of the cases with p53 IHC staining patterns suggestive of mutations turned out harboring a mutation, questioning the robustness of IHC to predict mutations in hematolymphoid tumors [<xref rid="cjp270079-bib-0041" ref-type="bibr">41</xref>]. A <italic toggle="yes">FIP1L1::PDGFRA</italic> fusion was detected in two cases (6% of all tested cases), while <italic toggle="yes">COL1A1::PDGFRB</italic> and <italic toggle="yes">PCM1::JAK2</italic> in one case each (3%). None of the tumors were <italic toggle="yes">BRAF</italic> V600E mutated but non‐V600E mutations were present in two tumors: one MS with <italic toggle="yes">BRAF</italic> G469A and another with <italic toggle="yes">BRAF</italic> K601E mutation. The case harboring G469A showed co‐mutations of <italic toggle="yes">TP53</italic>, <italic toggle="yes">EZH2</italic>, and <italic toggle="yes">NRAS</italic> while the K601E mutated MS was <italic toggle="yes">NPM1</italic> co‐mutated. These findings are in line with other observations that advanced AML can gain <italic toggle="yes">BRAF</italic> mutations [<xref rid="cjp270079-bib-0042" ref-type="bibr">42</xref>]. Further molecular findings extracted from the medical records of diagnostic tests performed on FFPE biopsies of the MS at the time of original diagnosis are shown in (Figure <xref rid="cjp270079-fig-0003" ref-type="fig">3</xref>).</p><fig position="float" fig-type="Figure" id="cjp270079-fig-0003" orientation="portrait"><label>Figure 3</label><caption><p>(A) Cytogenetic and molecular features of MS. The chart shows the percentage of positive cases among those evaluated for the given genetic alteration. <italic toggle="yes">NPM1 n</italic> = 32/81; <italic toggle="yes">TP53 n</italic> = 5/16; <italic toggle="yes">JAK2V617F n</italic> = 3/17; <italic toggle="yes">KMT2A n</italic> = 3/17; <italic toggle="yes">c‐KIT n</italic> = 2/15; <italic toggle="yes">IDH1R132H n</italic> = 2/16; <italic toggle="yes">CEBPA n</italic> = 1/14; <italic toggle="yes">AXSL1 n</italic> = 1/14; <italic toggle="yes">BCR::ABL n</italic> = 3/32; <italic toggle="yes">RUNX1::RUNX1T1 n</italic> = 2/32; <italic toggle="yes">CBFB::MYH11 n</italic> = 2/32; <italic toggle="yes">DEK::NUP214 n</italic> = 2/32; <italic toggle="yes">FIP1L1::PDGFRA n</italic> = 2/32; <italic toggle="yes">ETV6::ABL1 n</italic> = 1/32; <italic toggle="yes">COL1A1::PDGFRB n</italic> = 1/32. (B) The percentage of bone marrow findings in 133 MS patients.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="CJP2-12-e70079-g002.jpg"/></fig></sec><sec id="cjp270079-sec-0006"><title>Bone marrow findings</title><p>Information regarding the bone marrow was available for 133 patients. Thirteen patients had isolated MS with normocellular bone marrows lacking any atypical features. Among bone marrow diseases, AML was the most common finding (<italic toggle="yes">n</italic> = 61).</p><p>In the background of extramedullary transformation, MDS was the most common finding (<italic toggle="yes">n</italic> = 20), followed by CMML (<italic toggle="yes">n</italic> = 12), CML (<italic toggle="yes">n</italic> = 6), MDS/MPN NOS (<italic toggle="yes">n</italic> = 6) and so‐called Philadelphia negative MPN (PV in five cases, PMF in five cases). MLN‐Eo with TKF was diagnosed in four cases (<italic toggle="yes">FIP1L1::PDGFRA</italic> in two cases, <italic toggle="yes">COL1A1::PDGFRB</italic> in one and <italic toggle="yes">PCM1::JAK2</italic> in one); mixed‐phenotype (B/myeloid) acute leukemia in one patient.</p></sec><sec id="cjp270079-sec-0007"><title>Comparative findings</title><p>In comparison to their intramedullary disease counterparts, 64% of the non‐isolated MS cases showed some phenotypic deviation of the neoplastic population from the bone marrow blasts in one or more markers. Loss of CD34 expression was the most frequent deviation (55%), followed by gain of CD56 (31%) and loss of MPO (10%).</p><p>No discrepancies were observed in the cases in which comparative FISH testing of the MS and intramedullary myeloid neoplasia was available, but the number of such cases was low (<italic toggle="yes">n</italic> = 11).</p><p>Comparable information regarding molecular genetic alterations for both bone marrow and extramedullary samples was available for 28 patients. In the vast majority of cases (<italic toggle="yes">n</italic> = 25), the findings from the diagnostic panel performed on the bone marrow samples were confirmed by targeted mutation analysis (or, in the case of NPM1, by immunohistochemical testing) on the MS samples. No discrepancies were observable for <italic toggle="yes">NPM1</italic>, <italic toggle="yes">TP53</italic>, <italic toggle="yes">BRAF</italic> K601E, <italic toggle="yes">ABL1, IDH1</italic> and <italic toggle="yes">KIT</italic> mutated intramedullary myeloid neoplasia and the respective MS pair. In one exceptional case of an extramedullary transformation of a <italic toggle="yes">JAK2</italic> V617F positive PMF, the MS turned out to be NPM1 positive by IHC and <italic toggle="yes">JAK2 V617F</italic> wild‐type, consistent with known negativity for driver mutations in more than 50% of blast phase MPN [<xref rid="cjp270079-bib-0043" ref-type="bibr">43</xref>].</p><p>Large NGS panels run on the intramedullary myeloid neoplasia and MS applied to only four instances. No discrepancies could be detected between an AML with <italic toggle="yes">DEK::NUP214</italic> fusion and <italic toggle="yes">FLT3‐</italic>ITD mutation, an <italic toggle="yes">NPM1</italic> and <italic toggle="yes">IDH1</italic> R132H co‐mutated AML and an <italic toggle="yes">NPM1</italic> mutated AML with 8q trisomy and the respective MS pair. However, in an <italic toggle="yes">NPM1</italic> and <italic toggle="yes">FLT3‐</italic>ITD co‐mutated AML, in the MS, which presented as an extramedullary relapse after transplantation, <italic toggle="yes">NPM1</italic> was mutated, but <italic toggle="yes">FLT3</italic>‐ITD could not be detected, in line with the proposed secondary nature of <italic toggle="yes">FLT3</italic> alterations in <italic toggle="yes">NPM1</italic> mutated AML [<xref rid="cjp270079-bib-0044" ref-type="bibr">44</xref>].</p></sec><sec id="cjp270079-sec-0008"><title>Clinical features and outcomes</title><p>The average age of the patients at diagnosis was 55 years, there was a male predominance with a female‐to‐male ratio of 1:1.4. Almost all anatomical sites were affected (Figure <xref rid="cjp270079-fig-0004" ref-type="fig">4</xref>), but the most common location was the skin (36%), followed by lymph nodes (20%), soft tissues (9%), and the oral cavity (7%), respectively.</p><fig position="float" fig-type="Figure" id="cjp270079-fig-0004" orientation="portrait"><label>Figure 4</label><caption><p>Anatomical distribution of 169 MS samples from 154 patients. The most common locations are marked in bold. Created with BioRender.com.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="CJP2-12-e70079-g006.jpg"/></fig><p>Clinically, skin lesions were usually detected as multiple nodules, plaques, or papules. Lymph node involvement was recognized in the form of solitary or multiple painless lymphadenopathies. MS affecting other organs presented as mass‐forming tumors.</p><p>As mentioned above, MS were most often diagnosed as an extramedullary infiltration in the background of pre‐existing or synchronously detected AML (<italic toggle="yes">n</italic> = 61), but also frequently (<italic toggle="yes">n</italic> = 53) represented the EM transformation of chronic myeloid neoplasms (CMN). EM relapses after HSCT applied to 19 instances. In 13 cases, MS was isolated, without evidence of bone marrow involvement.</p><p>The temporal relationship between the onset of the MS and bone marrow disease is shown in Figure <xref rid="cjp270079-fig-0005" ref-type="fig">5</xref>.</p><fig position="float" fig-type="Figure" id="cjp270079-fig-0005" orientation="portrait"><label>Figure 5</label><caption><p>Temporal relationship between the onset of the MS and bone marrow disease.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="CJP2-12-e70079-g003.jpg"/></fig><p>Information regarding treatment modalities was available for 95 patients, 39 of whom underwent HSCT. The transplantation rate was 75% for the Swiss and 25% for the Hungarian cohort. Clinical characteristics of the 154 patients with MS involved in the study are presented in supplementary material, Table <xref rid="cjp270079-supitem-0002" ref-type="supplementary-material">S2</xref>.</p><p>Survival data was available for 122 patients. Fifty‐three patients died of disease. The median OS was 19 months. Kaplan Meier overall survival curves for assumingly meaningful clinical groups (EM disease in the background of AML/EM transformation in the background of CMN/EM relapse after HSCT/isolated EM disease) are shown in Figure <xref rid="cjp270079-fig-0006" ref-type="fig">6A</xref>, the comparison of single‐ and multisystem involvement by MS in Figure <xref rid="cjp270079-fig-0006" ref-type="fig">6B</xref>, the impact of HSCT in Figure <xref rid="cjp270079-fig-0006" ref-type="fig">6C</xref> and OS according to the anatomic location in Figure <xref rid="cjp270079-fig-0006" ref-type="fig">6D</xref>. Among these variables, the anatomic location (<italic toggle="yes">p</italic> = 0.021) and HSCT (<italic toggle="yes">p</italic> = 0.000372) appeared to have a significant prognostic value on outcome. Furthermore, comparing clinical groups, significant differences were detected between isolated occurrences and extramedullary transformation (<italic toggle="yes">p</italic> = 0.029), and between isolated and multisystemic involvement (<italic toggle="yes">p</italic> = 0.028). However, there were no survival differences regarding NPM1 mutation status or tumorous versus LC presentation of skin lesions. Multivariable analysis showed that HSCT can meaningfully decrease the risk of mortality (relative risk 0.239, 95% CI 0.112–0.510, <italic toggle="yes">p</italic> = 0.000213), while multifocal and especially multisystem involvement is linked to dismal outcomes (relative risk 2.458, 95% CI 1.375–4.452, <italic toggle="yes">p</italic> = 0.003). All other factors did not reach statistical significance.</p><fig position="float" fig-type="Figure" id="cjp270079-fig-0006" orientation="portrait"><label>Figure 6</label><caption><p>Overall survival of MS patients according to (A) clinical groups, (B) systemic involvement, (C) anatomical location and (D) transplant state. *To facilitate the examination of the extremely diverse locations, we have grouped the various organ involvements into categories. Skin: cutaneous infiltration. Lymphoid organs: lymph nodes and tonsils. Bone and soft tissue: as the name indicates. Sanctuary sites and orbit: CNS, testis, ovary. **Orbit is traditionally not considered as an immune‐privileged site <italic toggle="yes">sensu stricto</italic>, yet our decision to include the two cases of orbital MS into this category is based on the susceptibility of this tissue to a plethora of specific immune‐mediated disorders such as Graves' orbitopathy, IgG4‐related orbital disease and other pseudotumors, suggesting that some beyond‐barrier properties may apply to it. Pulmo‐medisatinal: lung and mediastinum. Glandular organs: we have classified organs containing either exocrine or endocrine glandular tissue as glandular organs, such as salivary glands, breast, oral and nasal cavity, gastrointestinal organs, and female genital organs, with the exclusion of ovary.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="CJP2-12-e70079-g004.jpg"/></fig></sec></sec><sec sec-type="discussion" id="cjp270079-sec-0009"><title>Discussion</title><p>This large multi‐center study corroborates known facts and considerably expands current knowledge on the clinical impact and histopathologic presentation of MS.</p><p>We iterate that while the diagnosis of MS in the clinical context of a known myeloid disease is usually straightforward, significant phenotype changes of the blasts may occur making an accurate diagnosis difficult. Although gain of CD56 expression at EM sites has been documented [<xref rid="cjp270079-bib-0045" ref-type="bibr">45</xref>], a particular finding with important diagnostic consideration is the frequent lack of CD34 in 58% and lack of MPO in 27% of cases.</p><p>Recognition of MS outside of the context of a known myeloid disease can be challenging, particularly bearing in mind the possibility of dealing with double negativity for MPO and CD34. This is relevant as, in our large series, both isolated MS and cases in which the MS was detected before intramedullary disease were responsible for 22% of all instances. With respect to diagnostics, our data emphasize the high utility of lysozyme, PU.1, IRF8, and especially mutated NPM1 in recognizing MS. Lysozyme and PU.1, tested on the first occasion in a large series of MS, were positive in &gt;90% of our cases. While lysozyme and PU.1 can be helpful in differentiating MS from other discohesive (skin) tumors, there is a caveat in that respect as histiocytic disorders (including histiocytic sarcoma) also express lysozyme and PU.1 as well as CD4 and CD68, both being also commonly expressed in MS. Convoluted nuclei, frequent skin involvement, and presence of scattered eosinophilic granulocytes are also overlapping features between histiocytic disorders and MS. For the differential diagnosis of MS from histiocytic disorders, additional markers are needed. In respectively mutated cases, BRAF V600E might be helpful, as, also corroborated by our data, V600E <italic toggle="yes">BRAF</italic> mutations are very rare to absent in MS (G466E being reported by Nann <italic toggle="yes">et al</italic> [<xref rid="cjp270079-bib-0021" ref-type="bibr">21</xref>] and G469A and K610E being observed in our series), while affecting up to 50% of histiocytic neoplasms. Another such marker might be PDL1, which is commonly expressed in histiocytoses, while only a few MS cases (in our series – 12%) express PDL1 [<xref rid="cjp270079-bib-0046" ref-type="bibr">46</xref>]. IRF8, originally described as a robust monoblastic, but also a plasmacytoid dendritic cell (PDC), marker [<xref rid="cjp270079-bib-0047" ref-type="bibr">47</xref>, <xref rid="cjp270079-bib-0048" ref-type="bibr">48</xref>, <xref rid="cjp270079-bib-0049" ref-type="bibr">49</xref>], might be another helpful tool in that consideration as it was expressed in 51% of our cases, yet a recent study revealed that it can be observed in a subset of histiocytic lesions, too [<xref rid="cjp270079-bib-0050" ref-type="bibr">50</xref>]. The most reliable marker considering the differential diagnosis MS <italic toggle="yes">vs</italic>. histiocytic neoplasms seems to be detection of mutated NPM1, applying to almost 41% of MS and 50% of LC, that precludes the diagnosis of the latter disease group [<xref rid="cjp270079-bib-0051" ref-type="bibr">51</xref>]. CD123, though rarely (13%) diffusely positive in our MS series, is a caveat with respect to BPDCN, which may be also resolved by application of the mutational‐specific NPM1 antibody as <italic toggle="yes">NPM1</italic> mutated MS (being commonly CD123+) will stain positive, while BPDCN are per definition <italic toggle="yes">NPM1</italic> wild type [<xref rid="cjp270079-bib-0052" ref-type="bibr">52</xref>]. Cases with at least focal CD123 expression (<italic toggle="yes">n</italic> = 20) were heterogenous. Six cases were positive for mutated NPM1. Among the NPM1 negative cases, <italic toggle="yes">TP53</italic> mutation, <italic toggle="yes">KMT2A</italic> rearrangement, <italic toggle="yes">CBFB::MYH11</italic>‐ <italic toggle="yes">BCR::ABL1</italic> fusion, and <italic toggle="yes">CEBPA</italic> mutation were detected in one–one case each. Five cases presented as an extramedullary infiltration of AML, while others the extramedullary transformation of CMML (<italic toggle="yes">n</italic> = 2), CML (<italic toggle="yes">n</italic> = 1), MDS (<italic toggle="yes">n</italic> = 1), and MDS/MPN NOS (<italic toggle="yes">n</italic> = 1).</p><p>Finally, we observed six cases with CD7 and five cases with focal CD30 positivity. While the aberrant CD7 expression on leukemic blasts is well known, applying to 23–29% of AML [<xref rid="cjp270079-bib-0053" ref-type="bibr">53</xref>, <xref rid="cjp270079-bib-0054" ref-type="bibr">54</xref>], the latter is rarely reported [<xref rid="cjp270079-bib-0055" ref-type="bibr">55</xref>, <xref rid="cjp270079-bib-0056" ref-type="bibr">56</xref>] and can be a huge diagnostic pitfall, especially when considering lymphomas. To sum up, expression of the mutated NPM1 protein is robust at extramedullary sites and its detection by mutation‐specific antibodies can and should be diagnostically utilized in any suspected MS [<xref rid="cjp270079-bib-0057" ref-type="bibr">57</xref>]. Application of the V600E mutational‐specific BRAF antibody and to a part of PDL1 might be helpful in selected cases as an expression of these proteins should question the diagnosis of MS.</p><p>MLN‐Eo with TKF presented as extramedullary masses in four cases, being in line with their known propensity for EM manifestation and once again pointing toward the utmost importance of applying purposeful technologies to MS, especially to MS lacking AML‐defining genetic aberrations, to identify such cases [<xref rid="cjp270079-bib-0025" ref-type="bibr">25</xref>, <xref rid="cjp270079-bib-0026" ref-type="bibr">26</xref>, <xref rid="cjp270079-bib-0027" ref-type="bibr">27</xref>].</p><p>Within the study, we identified two specific MS presentations, being worthy of specific discussion. Erythroblastic sarcoma, a rare form of EM presentation [<xref rid="cjp270079-bib-0058" ref-type="bibr">58</xref>], applied to three adult cases in this cohort. All of them affected the lymph nodes and were characterized by the co‐expression of E‐cadherin, glycophorin A, LMO2, and CD71. Interestingly, one case represented an extramedullary manifestation of MLN‐Eo with <italic toggle="yes">PCM1::JAK2</italic> fusion, another was a <italic toggle="yes">JAK2</italic> V617F mutated blastic tumor in a patient suffering from PV, while the third case was an EM transformation of an MDS with <italic toggle="yes">TP53</italic> mutation. The patient with <italic toggle="yes">PCM1::JAK2</italic> is alive after 54 months of follow‐up; the patient with <italic toggle="yes">TP53</italic> mutation died of disease within weeks, while the third patient was lost from follow‐up. Two cases of megakaryoblastic sarcoma, an exceedingly rare subtype of MS [<xref rid="cjp270079-bib-0059" ref-type="bibr">59</xref>], were present. Both cases represented EM transformation of MPN (one arising from CML and one from PV), were multisystemic, and the patients rapidly died of disease.</p><p>The prognostic factors of MS are controversial and our study on a large cohort, yet retrospective, yields important results. The median survival of our patients of 19 months was similar to the findings of other multicenter studies [<xref rid="cjp270079-bib-0026" ref-type="bibr">26</xref>]. Also in line, HSCT significantly improved survival, without evidence of loss of this survival benefit with time, as concluded recently by Sun <italic toggle="yes">et al</italic> [<xref rid="cjp270079-bib-0060" ref-type="bibr">60</xref>].</p><p>The wide range of anatomical locations in our cohort allowed for site‐specific survival analysis and showed that MS occurring at traditional sanctuary sites and the orbit are characterized by excellent survival, which is a particularly new finding deserving further verification and additional research with a focus on site‐specific GVL effects.</p><p>An interesting pilot study [<xref rid="cjp270079-bib-0061" ref-type="bibr">61</xref>] introduced a new perspective on the differences between structure‐preserving infiltration, often referred to as (myeloid) LC, and mass forming skin lesions, called MS. As distinct differences in their expression profiles were identified, the authors suggested that the two should be considered as separate entities. Accordingly, we sought to see if these biological differences could be translated into divergent clinical outcomes. Our data failed to prove a survival impact on whether the skin infiltration was pure LC or cutaneous MS; indeed, by the time a skin biopsy has been performed because of clinical concerns and found positive on histologic examination, the clinical outcome was similar irrespective of the infiltration pattern, a finding which is also supported by the prognostic impact of histologically verified versus clinically suspected MS and LC in a large cohort [<xref rid="cjp270079-bib-0062" ref-type="bibr">62</xref>].</p><p>
+<italic toggle="yes">NPM1</italic> mutation is considered as a favorable prognostic factor in AML [<xref rid="cjp270079-bib-0063" ref-type="bibr">63</xref>]. However, a study by the U.S. Bone Marrow Pathology Group found that <italic toggle="yes">NPM1</italic> mutated AML with MS are genetically distinct and associated with inferior survival compared to <italic toggle="yes">NPM1</italic> mutated AML without MS [<xref rid="cjp270079-bib-0064" ref-type="bibr">64</xref>]. These data raise the possibility that <italic toggle="yes">NPM1</italic> mutated AML with extramedullary manifestation may represent a distinct biological subgroup. Our data indirectly supports this conclusion, as we were not able to observe any survival difference between the <italic toggle="yes">NPM1</italic> mutated and unmutated MS.</p><p>Based on observations in histiocytic disorders, and their frequent clonal relationship with various BM neoplasms [<xref rid="cjp270079-bib-0065" ref-type="bibr">65</xref>], we classified MS into groups according to their association with intramedullary disease and uni‐ or multisystemic presentation. Indeed, the resulting survival curves were reminiscent of those observed in histiocytic neoplasms (e.g., indeterminate cell histiocytosis or Langerhans cell sarcoma) [<xref rid="cjp270079-bib-0066" ref-type="bibr">66</xref>, <xref rid="cjp270079-bib-0067" ref-type="bibr">67</xref>, <xref rid="cjp270079-bib-0068" ref-type="bibr">68</xref>, <xref rid="cjp270079-bib-0069" ref-type="bibr">69</xref>]. MS with intramedullary disease were associated with poorer outcomes, and multisystem involvement resulted in even worse survival rates, while isolated/unisystemic disease was linked to best outcomes. These findings propose that the clinical behavior may be independent of the phenotype, but is rather influenced by the presence of an associated bone marrow disease and/or systemic involvement.</p><p>The main limitations of our study are its retrospective nature with a non‐negligible subset of patients who were lost to follow‐up, and the restricted availability and/or eligibility of FFPE material for additional immunohistochemical and genetic studies. Also, comparative molecular analysis between MS and the intramedullary AML was possible in only a few cases. Yet, these limitations were partly counterbalanced by the size of the collection and its multicentric design.</p><p>Accounting for the limitations of the study, our results nevertheless provide evidence that isolated MS may be different from extramedullary manifestations of otherwise bone marrow‐centered myeloid diseases. This observation may impact on the terminology in the long term, namely the restriction of the use of MS to lesions that are isolated, while other lesions being better designated as extramedullary AML, or extramedullary blastic transformation (in non‐AML patients suffering from MDS or MPN).</p><p>In conclusion, through the analysis of a multicenter cohort of 154 MS we could show that most instances are of myelomonocytic‐monoblastic origin, a high proportion of them are <italic toggle="yes">NPM1</italic> mutated, there is a recurrent lack of traditionally used myeloid markers such as MPO, CD34 and CD117, and occasional aberrant expression of B‐ or T‐cell markers. While based on our findings the inclusion of NPM1 and BRAF V600E mutational‐specific antibodies into the diagnostic panels for MS is highly advisable, IRF8 and PU.1, tested on the first occasion on a large series of MS, are not recommended as they cannot distinguish MS from histiocytic neoplasms and will be expressed by a plethora of B‐cell lymphomas. Besides the phenotypic overlap with histiocytoses, MS cases show similarities in clinical outcomes when categorized analogously into uni‐ and multisystemic diseases.</p></sec><sec id="cjp270079-sec-0010"><title>Author contributions statement</title><p>AJ conducted the investigation, analyzed the data, and drafted the manuscript. BK supplied patient samples and follow‐up data. HAJ evaluated IHC stains. TL contributed to the statistical analysis. LV, ÁS, RM, JH and SD supported clinical data collection and supplied patient samples. AT conceptualized the study, supervised the research, and partially wrote the manuscript. All authors have approved the final version of the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="cjp270079-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S1.</bold> Pathological features of all MS samples of the study</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CJP2-12-e70079-s002.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="cjp270079-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S2.</bold> Clinical characteristics of the 154 patients with MS in the study</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CJP2-12-e70079-s001.xlsx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="cjp270079-sec-8001"><title>Acknowledgement</title><p>Open access publishing facilitated by Universitat Basel, as part of the Wiley ‐ Universitat Basel agreement via the Consortium Of Swiss Academic Libraries.</p></ack><sec sec-type="data-availability" id="cjp270079-sec-0012"><title>Data availability statement</title><p>All the data generated are presented in the study. Further enquiries can be directed to the corresponding authors.</p></sec><ref-list content-type="cited-references" id="cjp270079-bibl-0001"><title>References</title><ref id="cjp270079-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cjp270079-cit-0001">
+<string-name name-style="western">
+<surname>Whittington</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ross</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ramirez</surname>
+<given-names>JA</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Myelodysplasia cutis</article-title>. <source>Arch Pathol Lab Med</source>
+<year>2024</year>; <volume>148</volume>: <fpage>385</fpage>–<lpage>389</lpage>.<pub-id pub-id-type="pmid">37787422</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.5858/arpa.2023-0132-RA</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cjp270079-cit-0002">
+<string-name name-style="western">
+<surname>Remstein</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kurtin</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nascimento</surname>
+<given-names>AG</given-names>
+</string-name>. <article-title>Sclerosing extramedullary hematopoietic tumor in chronic myeloproliferative disorders</article-title>. <source>Am J Surg Pathol</source>
+<year>2000</year>; <volume>24</volume>: <fpage>51</fpage>–<lpage>55</lpage>.<pub-id pub-id-type="pmid">10632487</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00000478-200001000-00006</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cjp270079-cit-0003">
+<string-name name-style="western">
+<surname>Arber</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Orazi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hasserjian</surname>
+<given-names>RP</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>International consensus classification of myeloid neoplasms and acute leukemias: integrating morphologic, clinical, and genomic data</article-title>. <source>Blood</source>
+<year>2022</year>; <volume>140</volume>: <fpage>1200</fpage>–<lpage>1228</lpage>.<pub-id pub-id-type="pmid">35767897</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood.2022015850</pub-id><pub-id pub-id-type="pmcid">PMC9479031</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cjp270079-cit-0004">
+<string-name name-style="western">
+<surname>Khoury</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solary</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abla</surname>
+<given-names>O</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>The 5th edition of the World Health Organization classification of haematolymphoid tumours: myeloid and histiocytic/dendritic neoplasms</article-title>. <source>Leukemia</source>
+<year>2022</year>; <volume>36</volume>: <fpage>1703</fpage>–<lpage>1719</lpage>.<pub-id pub-id-type="pmid">35732831</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41375-022-01613-1</pub-id><pub-id pub-id-type="pmcid">PMC9252913</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cjp270079-cit-0005">
+<string-name name-style="western">
+<surname>Shallis</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gale</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lazarus</surname>
+<given-names>HM</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Myeloid sarcoma, chloroma, or extramedullary acute myeloid leukemia tumor: A tale of misnomers, controversy and the unresolved</article-title>. <source>Blood Rev</source>
+<year>2021</year>; <volume>47</volume>: <elocation-id>100773</elocation-id>.<pub-id pub-id-type="pmid">33213985</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.blre.2020.100773</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cjp270079-cit-0006">
+<string-name name-style="western">
+<surname>Untaaveesup</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Trithiphen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kulchutisin</surname>
+<given-names>K</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Genetic alterations in myeloid sarcoma among acute myeloid leukemia patients: insights from 37 cohort studies and a meta‐analysis</article-title>. <source>Front Oncol</source>
+<year>2024</year>; <volume>14</volume>: <elocation-id>1325431</elocation-id>.<pub-id pub-id-type="pmid">38496752</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fonc.2024.1325431</pub-id><pub-id pub-id-type="pmcid">PMC10940330</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cjp270079-cit-0007">
+<string-name name-style="western">
+<surname>Meyer</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pönisch</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schmidt</surname>
+<given-names>SA</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Clinical and imaging features of myeloid sarcoma: a German multicenter study</article-title>. <source>BMC Cancer</source>
+<year>2019</year>; <volume>19</volume>: <elocation-id>1150</elocation-id>.<pub-id pub-id-type="pmid">31775680</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12885-019-6357-y</pub-id><pub-id pub-id-type="pmcid">PMC6882227</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cjp270079-cit-0008">
+<string-name name-style="western">
+<surname>Goyal</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartley</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patnaik</surname>
+<given-names>MM</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Clinical features and outcomes of extramedullary myeloid sarcoma in the United States: analysis using a national data set</article-title>. <source>Blood Cancer J</source>
+<year>2017</year>; <volume>7</volume>: <elocation-id>e592</elocation-id>.<pub-id pub-id-type="pmid">28841208</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/bcj.2017.79</pub-id><pub-id pub-id-type="pmcid">PMC5596389</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cjp270079-cit-0009">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>ZY</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Myeloid sarcoma is associated with poor clinical outcome in pediatric patients with acute myeloid leukemia</article-title>. <source>J Cancer Res Clin Oncol</source>
+<year>2020</year>; <volume>146</volume>: <fpage>1011</fpage>–<lpage>1020</lpage>.<pub-id pub-id-type="pmid">31919567</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00432-020-03128-7</pub-id><pub-id pub-id-type="pmcid">PMC11804287</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cjp270079-cit-0010">
+<string-name name-style="western">
+<surname>Xing</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Incidence, clinical characteristics, and prognostic nomograms for patients with myeloid sarcoma: A SEER‐based study</article-title>. <source>Front Oncol</source>
+<year>2022</year>; <volume>12</volume>: <elocation-id>989366</elocation-id>.<pub-id pub-id-type="pmid">36059682</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fonc.2022.989366</pub-id><pub-id pub-id-type="pmcid">PMC9433649</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cjp270079-cit-0011">
+<string-name name-style="western">
+<surname>Kudva</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Monappa</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solanke</surname>
+<given-names>G</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Myeloid sarcoma: a clinicopathological study with emphasis on diagnostic difficulties</article-title>. <source>J Cancer Res Ther</source>
+<year>2017</year>; <volume>13</volume>: <fpage>989</fpage>–<lpage>993</lpage>.<pub-id pub-id-type="pmid">29237964</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/0973-1482.220418</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cjp270079-cit-0012">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nong</surname>
+<given-names>W</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Isolated intracranial myeloid sarcoma mimicking malignant lymphoma: a diagnostic challenge and literature reviews</article-title>. <source>Onco Targets Ther</source>
+<year>2020</year>; <volume>13</volume>: <fpage>6085</fpage>–<lpage>6092</lpage>.<pub-id pub-id-type="pmid">32612369</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/OTT.S245828</pub-id><pub-id pub-id-type="pmcid">PMC7323804</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cjp270079-cit-0013">
+<string-name name-style="western">
+<surname>Faaij</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Willemze</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Révész</surname>
+<given-names>T</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Chemokine/chemokine receptor interactions in extramedullary leukaemia of the skin in childhood AML: differential roles for CCR2, CCR5, CXCR4 and CXCR7</article-title>. <source>Pediatr Blood Cancer</source>
+<year>2010</year>; <volume>55</volume>: <fpage>344</fpage>–<lpage>348</lpage>.<pub-id pub-id-type="pmid">20582977</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/pbc.22500</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cjp270079-cit-0014">
+<string-name name-style="western">
+<surname>Yang</surname>
+<given-names>LX</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>MY</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>C1Q labels a highly aggressive macrophage‐like leukemia population indicating extramedullary infiltration and relapse</article-title>. <source>Blood</source>
+<year>2023</year>; <volume>141</volume>: <fpage>766</fpage>–<lpage>786</lpage>.<pub-id pub-id-type="pmid">36322939</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood.2022017046</pub-id><pub-id pub-id-type="pmcid">PMC10651790</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cjp270079-cit-0015">
+<string-name name-style="western">
+<surname>Kawamoto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miyoshi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yoshida</surname>
+<given-names>N</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Clinicopathological, cytogenetic, and prognostic analysis of 131 myeloid sarcoma patients</article-title>. <source>Am J Surg Pathol</source>
+<year>2016</year>; <volume>40</volume>: <fpage>1473</fpage>–<lpage>1483</lpage>.<pub-id pub-id-type="pmid">27631510</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/PAS.0000000000000727</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cjp270079-cit-0016">
+<string-name name-style="western">
+<surname>Loscocco</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vannucchi</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Myeloid sarcoma: more and less than a distinct entity</article-title>. <source>Ann Hematol</source>
+<year>2023</year>; <volume>102</volume>: <fpage>1973</fpage>–<lpage>1984</lpage>.<pub-id pub-id-type="pmid">37286874</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00277-023-05288-1</pub-id><pub-id pub-id-type="pmcid">PMC10345021</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cjp270079-cit-0017">
+<string-name name-style="western">
+<surname>Agis</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weltermann</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fonatsch</surname>
+<given-names>C</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>A comparative study on demographic, hematological, and cytogenetic findings and prognosis in acute myeloid leukemia with and without leukemia cutis</article-title>. <source>Ann Hematol</source>
+<year>2002</year>; <volume>81</volume>: <fpage>90</fpage>–<lpage>95</lpage>.<pub-id pub-id-type="pmid">11907789</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00277-001-0412-9</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cjp270079-cit-0018">
+<string-name name-style="western">
+<surname>Falini</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brunetti</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sportoletti</surname>
+<given-names>P</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>NPM1‐mutated acute myeloid leukemia: from bench to bedside</article-title>. <source>Blood</source>
+<year>2020</year>; <volume>136</volume>: <fpage>1707</fpage>–<lpage>1721</lpage>.<pub-id pub-id-type="pmid">32609823</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood.2019004226</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cjp270079-cit-0019">
+<string-name name-style="western">
+<surname>Choi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jeon</surname>
+<given-names>YK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sun</surname>
+<given-names>CH</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>RTK‐RAS pathway mutation is enriched in myeloid sarcoma</article-title>. <source>Blood Cancer J</source>
+<year>2018</year>; <volume>8</volume>: <elocation-id>43</elocation-id>.<pub-id pub-id-type="pmid">29789584</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41408-018-0083-6</pub-id><pub-id pub-id-type="pmcid">PMC5964090</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cjp270079-cit-0020">
+<string-name name-style="western">
+<surname>Claerhout</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Aelst</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Melis</surname>
+<given-names>C</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Clinicopathological characteristics of de novo and secondary myeloid sarcoma: a monocentric retrospective study</article-title>. <source>Eur J Haematol</source>
+<year>2018</year>; <volume>100</volume>: <fpage>603</fpage>–<lpage>612</lpage>.<pub-id pub-id-type="pmid">29532520</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/ejh.13056</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cjp270079-cit-0021">
+<string-name name-style="western">
+<surname>Nann</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schade</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Overkamp</surname>
+<given-names>M</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Myeloid sarcoma shows a high frequency of mutations activating the MAPK/ERK pathway and association with clonal hematopoiesis</article-title>. <source>J Pathol Clin Res</source>
+<year>2025</year>; <volume>11</volume>: <elocation-id>e70044</elocation-id>.<pub-id pub-id-type="pmid">40906433</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/2056-4538.70044</pub-id><pub-id pub-id-type="pmcid">PMC12410091</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cjp270079-cit-0022">
+<string-name name-style="western">
+<surname>Diamantidis</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>Myeloid sarcoma: novel advances regarding molecular pathogenesis, presentation and therapeutic options</article-title>. <source>J Clin Med</source>
+<year>2024</year>; <volume>13</volume>: <elocation-id>6154</elocation-id>.<pub-id pub-id-type="pmid">39458104</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm13206154</pub-id><pub-id pub-id-type="pmcid">PMC11509401</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cjp270079-cit-0023">
+<string-name name-style="western">
+<surname>Pozdnyakova</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Orazi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kelemen</surname>
+<given-names>K</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Myeloid/Lymphoid neoplasms associated with eosinophilia and rearrangements of PDGFRA, PDGFRB, or FGFR1 or with PCM1‐JAK2</article-title>. <source>Am J Clin Pathol</source>
+<year>2021</year>; <volume>155</volume>: <fpage>160</fpage>–<lpage>178</lpage>.<pub-id pub-id-type="pmid">33367495</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ajcp/aqaa208</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cjp270079-cit-0024">
+<string-name name-style="western">
+<surname>Verhaak</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goudswaard</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Putten</surname>
+<given-names>W</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Mutations in nucleophosmin (NPM1) in acute myeloid leukemia (AML): association with other gene abnormalities and previously established gene expression signatures and their favorable prognostic significance</article-title>. <source>Blood</source>
+<year>2005</year>; <volume>106</volume>: <fpage>3747</fpage>–<lpage>3754</lpage>.<pub-id pub-id-type="pmid">16109776</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2005-05-2168</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cjp270079-cit-0025">
+<string-name name-style="western">
+<surname>Tzankov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reichard</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hasserjian</surname>
+<given-names>RP</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Updates on eosinophilic disorders</article-title>. <source>Virchows Arch</source>
+<year>2023</year>; <volume>482</volume>: <fpage>85</fpage>–<lpage>97</lpage>.<pub-id pub-id-type="pmid">36068374</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00428-022-03402-8</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cjp270079-cit-0026">
+<string-name name-style="western">
+<surname>Saft</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kvasnicka</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boudova</surname>
+<given-names>L</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Myeloid/Lymphoid neoplasms with eosinophilia and tyrosine kinase fusion genes: a workshop report with focus on novel entities and a literature review including paediatric cases</article-title>. <source>Histopathology</source>
+<year>2023</year>; <volume>83</volume>: <fpage>829</fpage>–<lpage>849</lpage>.<pub-id pub-id-type="pmid">37551450</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/his.15021</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cjp270079-cit-0027">
+<string-name name-style="western">
+<surname>Metzgeroth</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steiner</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Naumann</surname>
+<given-names>N</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Myeloid/Lymphoid neoplasms with eosinophilia and tyrosine kinase gene fusions: reevaluation of the defining characteristics in a registry‐based cohort</article-title>. <source>Leukemia</source>
+<year>2023</year>; <volume>37</volume>: <fpage>1860</fpage>–<lpage>1867</lpage>.<pub-id pub-id-type="pmid">37454239</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41375-023-01958-1</pub-id><pub-id pub-id-type="pmcid">PMC10457188</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cjp270079-cit-0028">
+<string-name name-style="western">
+<surname>Lazzarotto</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Candoni</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Filì</surname>
+<given-names>C</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Clinical outcome of myeloid sarcoma in adult patients and effect of allogeneic stem cell transplantation. Results from a multicenter survey</article-title>. <source>Leuk Res</source>
+<year>2017</year>; <volume>53</volume>: <fpage>74</fpage>–<lpage>81</lpage>.<pub-id pub-id-type="pmid">28056398</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.leukres.2016.12.003</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cjp270079-cit-0029">
+<string-name name-style="western">
+<surname>Clark</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strickland</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>John Barrett</surname>
+<given-names>A</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Extramedullary relapses after allogeneic stem cell transplantation for acute myeloid leukemia and myelodysplastic syndrome</article-title>. <source>Haematologica</source>
+<year>2010</year>; <volume>95</volume>: <fpage>860</fpage>–<lpage>863</lpage>.<pub-id pub-id-type="pmid">20513805</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3324/haematol.2010.025890</pub-id><pub-id pub-id-type="pmcid">PMC2878780</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cjp270079-cit-0030">
+<string-name name-style="western">
+<surname>Xie</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Extramedullary relapse of leukemia after allogeneic hematopoietic stem cell transplantation: a retrospective study</article-title>. <source>Medicine</source>
+<year>2019</year>; <volume>98</volume>: <elocation-id>e15584</elocation-id>.<pub-id pub-id-type="pmid">31083240</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MD.0000000000015584</pub-id><pub-id pub-id-type="pmcid">PMC6531281</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cjp270079-cit-0031">
+<string-name name-style="western">
+<surname>Cassady</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zeng</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Regulation of GVHD and GVL activity via PD‐L1 interaction with PD‐1 and CD80</article-title>. <source>Front Immunol</source>
+<year>2018</year>; <volume>9</volume>: <fpage>3061</fpage>.<pub-id pub-id-type="pmid">30622541</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2018.03061</pub-id><pub-id pub-id-type="pmcid">PMC6308317</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cjp270079-cit-0032">
+<string-name name-style="western">
+<surname>Ramia de Cap</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Myeloid sarcoma: an overview</article-title>. <source>Semin Diagn Pathol</source>
+<year>2023</year>; <volume>40</volume>: <fpage>129</fpage>–<lpage>139</lpage>.<pub-id pub-id-type="pmid">37149396</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1053/j.semdp.2023.04.009</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cjp270079-cit-0033">
+<string-name name-style="western">
+<surname>Aslam</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Veeraballi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saeed</surname>
+<given-names>Z</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Isolated myeloid sarcoma: A diagnostic dilemma</article-title>. <source>Cureus</source>
+<year>2022</year>; <volume>14</volume>: <elocation-id>e21200</elocation-id>.<pub-id pub-id-type="pmid">35165636</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7759/cureus.21200</pub-id><pub-id pub-id-type="pmcid">PMC8839873</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cjp270079-cit-0034">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dong</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wan</surname>
+<given-names>D</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Clinical characteristics, treatment, and prognosis of 118 cases of myeloid sarcoma</article-title>. <source>Sci Rep</source>
+<year>2022</year>; <volume>12</volume>: <fpage>6752</fpage>.<pub-id pub-id-type="pmid">35474239</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-022-10831-7</pub-id><pub-id pub-id-type="pmcid">PMC9042854</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cjp270079-cit-0035">
+<string-name name-style="western">
+<surname>Tsimberidou</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kantarjian</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wen</surname>
+<given-names>S</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Myeloid sarcoma is associated with superior event‐free survival and overall survival compared with acute myeloid leukemia</article-title>. <source>Cancer</source>
+<year>2008</year>; <volume>113</volume>: <fpage>1370</fpage>–<lpage>1378</lpage>.<pub-id pub-id-type="pmid">18623376</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cncr.23691</pub-id><pub-id pub-id-type="pmcid">PMC2574728</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cjp270079-cit-0036">
+<string-name name-style="western">
+<surname>Novak</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fehr</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schär</surname>
+<given-names>S</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Combined therapy with ibrutinib and bortezomib followed by ibrutinib maintenance in relapsed or refractory mantle cell lymphoma and high‐risk features: a phase 1/2 trial of the European MCL network (SAKK 36/13)</article-title>. <source>EClinicalMedicine</source>
+<year>2023</year>; <volume>64</volume>: <elocation-id>102221</elocation-id>.<pub-id pub-id-type="pmid">37781158</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.eclinm.2023.102221</pub-id><pub-id pub-id-type="pmcid">PMC10541470</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cjp270079-cit-0037">
+<string-name name-style="western">
+<surname>László</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pinczés</surname>
+<given-names>LI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bátai</surname>
+<given-names>B</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Resistance mechanisms and clonal dynamics in mantle cell lymphoma treated with sequential BTKi and venetoclax therapy</article-title>. <source>J Pathol</source>
+<year>2025</year>; <volume>266</volume>: <fpage>395</fpage>–<lpage>404</lpage>.<pub-id pub-id-type="pmid">40371810</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/path.6434</pub-id><pub-id pub-id-type="pmcid">PMC12256381</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cjp270079-cit-0038">
+<string-name name-style="western">
+<surname>Cronin</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>George</surname>
+<given-names>TI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sundram</surname>
+<given-names>UN</given-names>
+</string-name>. <article-title>An updated approach to the diagnosis of myeloid leukemia cutis</article-title>. <source>Am J Clin Pathol</source>
+<year>2009</year>; <volume>132</volume>: <fpage>101</fpage>–<lpage>110</lpage>.<pub-id pub-id-type="pmid">19864240</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1309/AJCP6GR8BDEXPKHR</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cjp270079-cit-0039">
+<string-name name-style="western">
+<surname>Tiacci</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pileri</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Orleth</surname>
+<given-names>A</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>PAX5 expression in acute leukemias: higher B‐lineage specificity than CD79a and selective association with t(8;21)‐acute myelogenous leukemia</article-title>. <source>Cancer Res</source>
+<year>2004</year>; <volume>64</volume>: <fpage>7399</fpage>–<lpage>7404</lpage>.<pub-id pub-id-type="pmid">15492262</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/0008-5472.CAN-04-1865</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cjp270079-cit-0040">
+<string-name name-style="western">
+<surname>Menter</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lundberg</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wenzel</surname>
+<given-names>F</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>
+<italic toggle="yes">RUNX1</italic> mutations can lead to aberrant expression of CD79a and PAX5 in acute myelogenous leukemias: a potential diagnostic pitfall</article-title>. <source>Pathobiology</source>
+<year>2019</year>; <volume>86</volume>: <fpage>162</fpage>–<lpage>166</lpage>.<pub-id pub-id-type="pmid">30396184</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000493688</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cjp270079-cit-0041">
+<string-name name-style="western">
+<surname>Ivanova</surname>
+<given-names>VS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Menter</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cui</surname>
+<given-names>N</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Distinct subtypes of post‐transplant lymphoproliferative disorders: CHIP‐like mutations in early lesions and substantial mutational differences between EBV‐positive and EBV‐negative diffuse large B‐cell lymphomas</article-title>. <source>Br J Haematol</source>
+<year>2025</year>; <volume>206</volume>: <fpage>484</fpage>–<lpage>504</lpage>.<pub-id pub-id-type="pmid">39777628</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bjh.19952</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cjp270079-cit-0042">
+<string-name name-style="western">
+<surname>Fei</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caporale</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chang</surname>
+<given-names>L</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>
+<italic toggle="yes">BRAF</italic> mutations in patients with myeloid neoplasms: A cancer center multigene next‐generation sequencing analysis experience</article-title>. <source>Int J Mol Sci</source>
+<year>2024</year>; <volume>25</volume>: <fpage>5183</fpage>.<pub-id pub-id-type="pmid">38791222</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms25105183</pub-id><pub-id pub-id-type="pmcid">PMC11121641</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cjp270079-cit-0043">
+<string-name name-style="western">
+<surname>Theocharides</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boissinot</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Girodon</surname>
+<given-names>F</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Leukemic blasts in transformed JAK2‐V617F‐positive myeloproliferative disorders are frequently negative for the JAK2‐V617F mutation</article-title>. <source>Blood</source>
+<year>2007</year>; <volume>110</volume>: <fpage>375</fpage>–<lpage>379</lpage>.<pub-id pub-id-type="pmid">17363731</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2006-12-062125</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cjp270079-cit-0044">
+<string-name name-style="western">
+<surname>Chan</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al Ali</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tashkandi</surname>
+<given-names>H</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Mutations highly specific for secondary AML are associated with poor outcomes in ELN favorable risk NPM1‐mutated AML</article-title>. <source>Blood Adv</source>
+<year>2024</year>; <volume>8</volume>: <fpage>1075</fpage>–<lpage>1083</lpage>.<pub-id pub-id-type="pmid">38170740</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/bloodadvances.2023011173</pub-id><pub-id pub-id-type="pmcid">PMC10907389</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cjp270079-cit-0045">
+<string-name name-style="western">
+<surname>Chang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brandwein</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yi</surname>
+<given-names>QL</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Extramedullary infiltrates of AML are associated with CD56 expression, 11q23 abnormalities and inferior clinical outcome</article-title>. <source>Leuk Res</source>
+<year>2004</year>; <volume>28</volume>: <fpage>1007</fpage>–<lpage>1011</lpage>.<pub-id pub-id-type="pmid">15289011</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.leukres.2004.01.006</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cjp270079-cit-0046">
+<string-name name-style="western">
+<surname>O'Malley</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boisot</surname>
+<given-names>S</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Immunohistochemical detection of PD‐L1 among diverse human neoplasms in a reference laboratory: observations based upon 62,896 cases</article-title>. <source>Mod Pathol</source>
+<year>2019</year>; <volume>32</volume>: <fpage>929</fpage>–<lpage>942</lpage>.<pub-id pub-id-type="pmid">30760860</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41379-019-0210-3</pub-id><pub-id pub-id-type="pmcid">PMC6760643</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cjp270079-cit-0047">
+<string-name name-style="western">
+<surname>Katz</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Edappallath</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>IRF8 is a reliable monoblast marker for acute monocytic leukemias</article-title>. <source>Am J Surg Pathol</source>
+<year>2021</year>; <volume>45</volume>: <fpage>1391</fpage>–<lpage>1398</lpage>.<pub-id pub-id-type="pmid">34172624</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/PAS.0000000000001765</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cjp270079-cit-0048">
+<string-name name-style="western">
+<surname>Tzankov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Facchetti</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mühleisen</surname>
+<given-names>B</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>IRF8 is a reliable monoblast marker for acute monocytic leukemias, but does not discriminate between monoblasts and plasmacytoid dendritic cells</article-title>. <source>Am J Surg Pathol</source>
+<year>2022</year>; <volume>46</volume>: <fpage>725</fpage>–<lpage>727</lpage>.<pub-id pub-id-type="pmid">35195578</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/PAS.0000000000001874</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="cjp270079-cit-0049">
+<string-name name-style="western">
+<surname>McQuaid</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Panse</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>WL</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Global assessment of IRF8 as a novel cancer biomarker</article-title>. <source>Hum Pathol</source>
+<year>2022</year>; <volume>122</volume>: <fpage>1</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="pmid">35085599</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.humpath.2022.01.004</pub-id><pub-id pub-id-type="pmcid">PMC10621657</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="cjp270079-cit-0050">
+<string-name name-style="western">
+<surname>Patwardhan</surname>
+<given-names>PP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bailey</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Monaghan</surname>
+<given-names>SA</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>IRF8 demonstrates positivity in a significant subset of histiocytic and dendritic cell neoplasms</article-title>. <source>Am J Surg Pathol</source>
+<year>2025</year>; <volume>49</volume>: <fpage>98</fpage>–<lpage>103</lpage>.<pub-id pub-id-type="pmid">39569507</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/PAS.0000000000002332</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="cjp270079-cit-0051">
+<string-name name-style="western">
+<surname>Segura</surname>
+<given-names>RNL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nardi</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoang</surname>
+<given-names>MP</given-names>
+</string-name>. <article-title>Role of nucleophosmin 1 immunostain in detecting leukemia cutis of acute myeloid leukemia with NPM1 mutation</article-title>. <source>Am J Clin Pathol</source>
+<year>2025</year>; <volume>164</volume>: <elocation-id>aqaf089</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ajcp/aqaf089</pub-id><pub-id pub-id-type="pmid">40972674</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="cjp270079-cit-0052">
+<string-name name-style="western">
+<surname>Hamdan</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siddon</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Ramia Cap</surname>
+<given-names>M</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Investigation of NPM1 mutation frequency in cutaneous blastic plasmacytoid dendritic cell neoplasms</article-title>. <source>Hum Pathol</source>
+<year>2025</year>; <volume>158</volume>: <elocation-id>105766</elocation-id>.<pub-id pub-id-type="pmid">40216030</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.humpath.2025.105766</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="cjp270079-cit-0053">
+<string-name name-style="western">
+<surname>Jen</surname>
+<given-names>WY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sasaki</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Loghavi</surname>
+<given-names>S</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Characteristics and outcomes of acute myeloid leukaemia patients with baseline CD7 expression</article-title>. <source>Br J Haematol</source>
+<year>2024</year>; <volume>204</volume>: <fpage>2259</fpage>–<lpage>2263</lpage>.<pub-id pub-id-type="pmid">38603594</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bjh.19446</pub-id><pub-id pub-id-type="pmcid">PMC11770636</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="cjp270079-cit-0054">
+<string-name name-style="western">
+<surname>Del Poeta</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stasi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Venditti</surname>
+<given-names>A</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>CD7 expression in acute myeloid leukemia</article-title>. <source>Leuk Lymphoma</source>
+<year>1995</year>; <volume>17</volume>: <fpage>111</fpage>–<lpage>119</lpage>.<pub-id pub-id-type="pmid">7539657</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/10428199509051710</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="cjp270079-cit-0055">
+<string-name name-style="western">
+<surname>Pileri</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ascani</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cox</surname>
+<given-names>MC</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Myeloid sarcoma: clinico‐pathologic, phenotypic and cytogenetic analysis of 92 adult patients</article-title>. <source>Leukemia</source>
+<year>2007</year>; <volume>21</volume>: <fpage>340</fpage>–<lpage>350</lpage>.<pub-id pub-id-type="pmid">17170724</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.leu.2404491</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="cjp270079-cit-0056">
+<string-name name-style="western">
+<surname>Fickers</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Theunissen</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Granulocytic sarcoma with expression of CD30</article-title>. <source>J Clin Pathol</source>
+<year>1996</year>; <volume>49</volume>: <fpage>762</fpage>–<lpage>763</lpage>.<pub-id pub-id-type="pmid">9038763</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/jcp.49.9.762</pub-id><pub-id pub-id-type="pmcid">PMC500728</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="cjp270079-cit-0057">
+<string-name name-style="western">
+<surname>Jenei</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tzankov</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Diagnostic approach to leukemia cutis: A differential diagnostic step‐by‐step algorithm</article-title>. <source>Am J Clin Pathol</source>
+<year>2025</year>; <volume>163</volume>: <fpage>395</fpage>–<lpage>405</lpage>.<pub-id pub-id-type="pmid">39422152</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ajcp/aqae133</pub-id><pub-id pub-id-type="pmcid">PMC11890294</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="cjp270079-cit-0058">
+<string-name name-style="western">
+<surname>Fitzpatrick</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yuan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Capa</surname>
+<given-names>I</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Erythroblastic sarcoma in adults and children: different pathways to the same destination</article-title>. <source>Mod Pathol</source>
+<year>2025</year>; <volume>38</volume>: <elocation-id>100716</elocation-id>.<pub-id pub-id-type="pmid">40126459</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.modpat.2025.100716</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="cjp270079-cit-0059">
+<string-name name-style="western">
+<surname>Nagamine</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miyoshi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kawamoto</surname>
+<given-names>K</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Clinicopathological analysis of myeloid sarcoma with megakaryocytic differentiation</article-title>. <source>Pathology</source>
+<year>2022</year>; <volume>54</volume>: <fpage>442</fpage>–<lpage>448</lpage>.<pub-id pub-id-type="pmid">34852914</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pathol.2021.08.015</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="cjp270079-cit-0060">
+<string-name name-style="western">
+<surname>Sun</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wei</surname>
+<given-names>J</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Outcomes of allogeneic hematopoietic stem cell transplantation versus intensive chemotherapy in patients with myeloid sarcoma: a nationwide representative multicenter study</article-title>. <source>Bone Marrow Transplant</source>
+<year>2025</year>; <volume>60</volume>: <fpage>319</fpage>–<lpage>325</lpage>.<pub-id pub-id-type="pmid">39622998</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41409-024-02485-y</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="cjp270079-cit-0061">
+<string-name name-style="western">
+<surname>Nadro</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lasry</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Loghavi</surname>
+<given-names>S</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>The genomic and transcriptomic landscape of myeloid sarcoma and associated acute myeloid leukemia</article-title>. <source>Blood</source>
+<year>2023</year>; <volume>142</volume>: <elocation-id>292</elocation-id>.</mixed-citation></ref><ref id="cjp270079-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="cjp270079-cit-0062">
+<string-name name-style="western">
+<surname>Eckardt</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stölzel</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kunadt</surname>
+<given-names>D</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Molecular profiling and clinical implications of patients with acute myeloid leukemia and extramedullary manifestations</article-title>. <source>J Hematol Oncol</source>
+<year>2022</year>; <volume>15</volume>: <elocation-id>60</elocation-id>.<pub-id pub-id-type="pmid">35562747</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13045-022-01267-7</pub-id><pub-id pub-id-type="pmcid">PMC9107142</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="cjp270079-cit-0063">
+<string-name name-style="western">
+<surname>Döhner</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schlenk</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Habdank</surname>
+<given-names>M</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Mutant nucleophosmin (NPM1) predicts favorable prognosis in younger adults with acute myeloid leukemia and normal cytogenetics: interaction with other gene mutations</article-title>. <source>Blood</source>
+<year>2005</year>; <volume>106</volume>: <fpage>3740</fpage>–<lpage>3746</lpage>.<pub-id pub-id-type="pmid">16051734</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2005-05-2164</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="cjp270079-cit-0064">
+<string-name name-style="western">
+<surname>Ramia de Cap</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hirt</surname>
+<given-names>C</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Myeloid sarcoma with NPM1 mutation may be clinically and genetically distinct from AML with NPM1 mutation: a study from the Bone Marrow Pathology Group</article-title>. <source>Leuk Lymphoma</source>
+<year>2023</year>; <volume>64</volume>: <fpage>972</fpage>–<lpage>980</lpage>.<pub-id pub-id-type="pmid">36960680</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/10428194.2023.2185091</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="cjp270079-cit-0065">
+<string-name name-style="western">
+<surname>Sadigh</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeAngelo</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garcia</surname>
+<given-names>JS</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Cutaneous manifestations of myeloid neoplasms exhibit broad and divergent morphologic and immunophenotypic features but share ancestral clonal mutations with bone marrow</article-title>. <source>Mod Pathol</source>
+<year>2024</year>; <volume>37</volume>: <elocation-id>100352</elocation-id>.<pub-id pub-id-type="pmid">37839675</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.modpat.2023.100352</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="cjp270079-cit-0066">
+<string-name name-style="western">
+<surname>Goyal</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Acosta‐Medina</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abeykoon</surname>
+<given-names>JP</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Long‐term outcomes among adults with Langerhans cell histiocytosis</article-title>. <source>Blood Adv</source>
+<year>2023</year>; <volume>7</volume>: <fpage>6568</fpage>–<lpage>6578</lpage>.<pub-id pub-id-type="pmid">37698994</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/bloodadvances.2023010706</pub-id><pub-id pub-id-type="pmcid">PMC10641096</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="cjp270079-cit-0067">
+<string-name name-style="western">
+<surname>Zanella</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berti</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bonometti</surname>
+<given-names>A</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Indeterminate cell histiocytosis: A systematic review of the literature with a comprehensive revision of clinical, histopathological, and molecular features</article-title>. <source>J Eur Acad Dermatol Venereol</source>
+<year>2023</year>; <volume>37</volume>: <fpage>1559</fpage>–<lpage>1575</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jdv.19095</pub-id><pub-id pub-id-type="pmid">37016977</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="cjp270079-cit-0068">
+<string-name name-style="western">
+<surname>Ozkaya</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Melloul Benizri</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Venkataraman</surname>
+<given-names>G</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Indeterminate DC histiocytosis is distinct from LCH and often associated with other hematopoietic neoplasms</article-title>. <source>Blood Adv</source>
+<year>2024</year>; <volume>8</volume>: <fpage>5796</fpage>–<lpage>5805</lpage>.<pub-id pub-id-type="pmid">39361706</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/bloodadvances.2024013545</pub-id><pub-id pub-id-type="pmcid">PMC11605356</pub-id></mixed-citation></ref><ref id="cjp270079-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="cjp270079-cit-0069">
+<string-name name-style="western">
+<surname>Dezzani</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Punziano</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berti</surname>
+<given-names>E</given-names>
+</string-name>, <italic toggle="yes">et al</italic>. <article-title>Langerhans cell sarcoma is a clinically, biologically, and prognostically heterogeneous ‘malignant’ histiocytosis: a systematic review of 88 cases from the literature</article-title>. <source>Virchows Arch</source>
+<year>2025</year>; <volume>487</volume>: <fpage>1195</fpage>–<lpage>1207</lpage>.<pub-id pub-id-type="pmid">40848146</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00428-025-04230-2</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

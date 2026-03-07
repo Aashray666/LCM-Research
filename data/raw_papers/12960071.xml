@@ -1,0 +1,1142 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="hel70111" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Helicobacter</journal-id><journal-id journal-id-type="iso-abbrev">Helicobacter</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">HEL</journal-id><journal-title-group><journal-title>Helicobacter</journal-title></journal-title-group><issn pub-type="ppub">1083-4389</issn><issn pub-type="epub">1523-5378</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12960071</article-id><article-id pub-id-type="pmcid-ver">PMC12960071.1</article-id><article-id pub-id-type="pmcaid">12960071</article-id><article-id pub-id-type="pmcaiid">12960071</article-id><article-id pub-id-type="pmid">41781344</article-id><article-id pub-id-type="doi">10.1111/hel.70111</article-id><article-id pub-id-type="publisher-id">HEL70111</article-id><article-id pub-id-type="other">8586920</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>ORIGINAL ARTICLE</subject><subj-group subj-group-type="heading"><subject>Global and Regional Efforts in Preventing Gastric Cancer</subject></subj-group></subj-group></article-categories><title-group><article-title>Optimizing Benefits‐Harms of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> Screen‐and‐Treat Programs Tailored to the Regional Settings</article-title></title-group><contrib-group><contrib id="hel70111-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Mülder</surname><given-names initials="DT">Duco T.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7226-322X</contrib-id><xref rid="hel70111-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="hel70111-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>d.t.mulder@erasmusmc.nl</email></address></contrib><contrib id="hel70111-cr-0002" contrib-type="author"><name name-style="western"><surname>Lee</surname><given-names initials="YC">Yi‐Chia</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8160-1216</contrib-id><xref rid="hel70111-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="hel70111-cr-0003" contrib-type="author"><name name-style="western"><surname>Dinis‐Ribeiro</surname><given-names initials="M">Mario</given-names></name><xref rid="hel70111-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="hel70111-cr-0004" contrib-type="author"><name name-style="western"><surname>McLeod</surname><given-names initials="M">Melissa</given-names></name><xref rid="hel70111-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="hel70111-cr-0005" contrib-type="author"><name name-style="western"><surname>Park</surname><given-names initials="JY">Jin Young</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2491-5099</contrib-id><xref rid="hel70111-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="hel70111-cr-0006" contrib-type="author"><name name-style="western"><surname>Lansdorp‐Vogelaar</surname><given-names initials="I">Iris</given-names></name><xref rid="hel70111-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="hel70111-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Early Detection, Prevention and Infections Branch</named-content>
+<institution>International Agency for Research on Cancer</institution>
+<city>Lyon</city>
+<country country="FR">France</country>
+</aff><aff id="hel70111-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Public Health</named-content>
+<institution>Erasmus Medical Center</institution>
+<city>Rotterdam</city>
+<country country="NL">the Netherlands</country>
+</aff><aff id="hel70111-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Internal Medicine, College of Medicine, National Taiwan University and Departments of Medical Research and Internal Medicine</named-content>
+<institution>National Taiwan University Hospital</institution>
+<city>Taipei</city>
+<country country="TW">Taiwan</country>
+</aff><aff id="hel70111-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Gastroenterology, Porto Comprehensive Cancer Center and RISE@CI‐IPO (Health Research Network), 4200‐072 Porto, Portugal &amp; MEDCIDS (Department of Community Medicine, Health Information, and Decision), Faculty of Medicine</named-content>
+<institution>University of Porto</institution>
+<city>Porto</city>
+<country country="PT">Portugal</country>
+</aff><aff id="hel70111-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Public Health</named-content>
+<institution>University of Otago</institution>
+<city>Wellington</city>
+<country country="NZ">New Zealand</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Duco T. Mülder (<email>d.t.mulder@erasmusmc.nl</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>3</month><year>2026</year></pub-date><pub-date pub-type="ppub"><season>Mar-Apr</season><year>2026</year></pub-date><volume>31</volume><issue seq="50">2</issue><issue-id pub-id-type="pmc-issue-id">508872</issue-id><issue-id pub-id-type="doi">10.1111/hel.v31.2</issue-id><elocation-id>e70111</elocation-id><history><date date-type="rev-recd"><day>20</day><month>1</month><year>2026</year></date><date date-type="received"><day>24</day><month>10</month><year>2025</year></date><date date-type="accepted"><day>24</day><month>1</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>05</day><month>03</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>06</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-06 00:25:15.280"><day>06</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Helicobacter</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="HEL-31-e70111.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:HEL-31-e70111.pdf"/><abstract><title>ABSTRACT</title><p>This article outlines how decision modeling can be used to optimize the cost‐effectiveness of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat programs. Decision models enable the translation of data from pilot studies into locally tailored strategies by adapting test modalities, treatment options, and the need to retest specific to the local setting. We summarize existing evidence from modeling studies, which consistently demonstrate that <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat is cost‐effective across diverse populations. In addition, we discuss how decision modeling can support resource allocation, promote health equity, and guide implementation planning. Integrating <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat into established preventive programs, such as colorectal cancer screening, may further increase efficiency and feasibility. The article concludes with a proposed research agenda to advance efficient <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat programs across the globe.</p></abstract><counts><fig-count count="1"/><table-count count="3"/><page-count count="10"/><word-count count="7600"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March/April 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:04.03.2026</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="hel70111-cit-1001">
+<string-name name-style="western">
+<given-names>D. T.</given-names>
+<surname>Mülder</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.‐C.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Dinis‐Ribeiro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>McLeod</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. Y.</given-names>
+<surname>Park</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Lansdorp‐Vogelaar</surname>
+</string-name>, “<article-title>Optimizing Benefits‐Harms of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> Screen‐and‐Treat Programs Tailored to the Regional Settings</article-title>,” <source>Helicobacter</source>
+<volume>31</volume>, no. <issue>2</issue> (<year>2026</year>): <elocation-id>e70111</elocation-id>, <pub-id pub-id-type="doi">10.1111/hel.70111</pub-id>.<pub-id pub-id-type="pmid">41781344</pub-id>
+<pub-id pub-id-type="pmcid">PMC12960071</pub-id></mixed-citation>
+</p><fn-group id="hel70111-ntgp-0001"><fn id="hel70111-note-0001"><p>Upon invitation to submit to special issue: “Global and Regional Efforts in Preventing Gastric cancer”</p></fn></fn-group></notes></front><body id="hel70111-body-0001"><sec id="hel70111-sec-0001"><label>1</label><title>Introduction</title><p>The articles in this special issue highlight the variety of gastric cancer prevention strategies implemented worldwide, with a strong emphasis on population‐based <italic toggle="yes">
+<styled-content style="fixed-case" toggle="no">Helicobacter pylori</styled-content> (<styled-content style="fixed-case" toggle="no">H. pylori</styled-content>)</italic> screen‐and‐treat programs. Collectively, these articles demonstrate the potential of an <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat approach to reduce the burden of gastric cancer. However, translating success strategies to other settings can be challenging, as the optimal strategy depends on local circumstances, such as the disease burden, resource availability, and the structure of the healthcare system.</p><p>This paper aims to support health policymakers in designing efficient <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat programs tailored to their context. The article starts by delving into the role of decision modeling in the optimal implementation of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat and what information needs to be collected to allow effective decision modeling for the local context. Notwithstanding the need for local evidence, we then discuss currently available international evidence with respect to the cost‐effectiveness of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat, and optimal strategies for implementation (e.g., which test, what age, etc.). Furthermore, we explain the potential synergy when combining <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat with existing preventive interventions.</p><p>The content of this article provides an update of the findings in chapter 9 of the working group report on population‐based <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat strategies for gastric cancer prevention [<xref rid="hel70111-bib-0001" ref-type="bibr">1</xref>]. This report, written by an international interdisciplinary panel convened by the International Agency for Research on Cancer (IARC), aims to provide guidance on program implementation. The authors of this article were part of the working group and participated in the expert meeting in February 2025. Since the publication of the original report, new evidence and modeling studies have emerged warranting an updated synthesis of the literature. We therefore updated the literature search to include all published articles until December 2025. Furthermore, this article extends the original report by exploring how decision modeling can inform <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat programs beyond cost‐effectiveness, such as applications in healthcare resource planning and addressing health disparities.</p></sec><sec id="hel70111-sec-0002"><label>2</label><title>Decision Modeling for Regional <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> Screen‐And‐Treat Optimization</title><p>Although the optimal strategy for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat depends on local conditions, it is not feasible to perform local clinical studies addressing all variables and dimensions of the program. Alternatively, decision modeling can translate findings of clinical studies to the local settings in a different way to estimate whether <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat provides good value for money in the local setting and under what conditions.</p><p>Decision modeling is a structured process that predicts the outcomes of certain scenarios, offering valuable insights to policy makers and stakeholders. This may help in both the implementation and evaluation phase of preventive interventions.</p><p>Similarly, decision modeling should be used in the decision‐making phase of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat programs to establish for the local setting whether its benefits outweigh its harms and whether the required resources are economically balanced with the net benefits. If a positive decision on implementation has been made, decision models can next be used in the preparatory phase before implementation to estimate annual resource requirements for laboratory testing, drug availability, endoscopic follow‐up capacity, etc. to help planning of the <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat program. Different roll‐out schedules can be compared to best accommodate resource constraints, and potential bottlenecks in implementation can be identified and tackled where necessary. After that, during implementation, decision modeling can be used to compare program outcomes (and their distribution over population subgroups) with expectations based on prior modeling and/or pilot studies. Moreover, decision modeling can evaluate how best to adjust the program if it does not perform according to expectations. Finally, modeling can be used to make predictions of the long‐term benefits of the program. This is especially important in the light of the long lag time between the implementation of an <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat strategy and its actual reduction in gastric cancer incidence and mortality.</p></sec><sec id="hel70111-sec-0003"><label>3</label><title>Data Requirements for Regional Modeling</title><p>The aim of decision modeling is to extrapolate findings of clinical studies to different settings and strategies. However, for valid extrapolation to the local setting, two requirements need to be met: (1) evidence for the effectiveness of screening is available for settings comparable to the local situation; and (2) good‐quality data is available to inform model parameters to the local setting. Currently, most trial evidence relies on the long‐term benefits of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat, which comes from studies in Asia; long‐term model results for the non‐Asian context should, therefore, be interpreted with caution.</p><p>With respect to data availability, access to more elaborate and detailed data enables more precise estimations. Data requirements can generally be categorized into three main groups: demographic data, disease &amp; testing data and outcome data (Table <xref rid="hel70111-tbl-0001" ref-type="table">1</xref>).</p><table-wrap position="float" id="hel70111-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>General data requirements for cost‐effectiveness modeling.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Demographic<xref rid="hel70111-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Disease and testing<xref rid="hel70111-note-0002" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Outcome</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Birth tables</td><td align="center" valign="top" rowspan="1" colspan="1">
+<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> prevalence by age</td><td align="center" valign="top" rowspan="1" colspan="1">Costs of and associated to the test and procedure</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Life‐tables (life‐expectancy)</td><td align="center" valign="top" rowspan="1" colspan="1">Gastric cancer incidence by localization (cardia vs. non‐cardia) and histology (Lauren‐classification) by age</td><td align="center" valign="top" rowspan="1" colspan="1">Treatment costs (stage specific, ideally split by phase of care)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Observed cancer stage distribution</td><td align="center" valign="top" rowspan="1" colspan="1">Estimates of disutility per test procedure<xref rid="hel70111-note-0003" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Stage‐specific cancer survival</td><td align="center" valign="top" rowspan="1" colspan="1">Stage‐specific estimates of disutility to gastric cancer</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Test participation in pilot studies (initial participation and treatment adherence)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot id="hel70111-ntgp-0002"><fn id="hel70111-note-0002"><label>
+<sup>a</sup>
+</label><p>Data should be reported stratified by variables of interest such as gender, geographic region, socioeconomic status or migration history.</p></fn><fn id="hel70111-note-0003"><label>
+<sup>b</sup>
+</label><p>Disutility in the context of a <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat refers to individual's negative aspects of the screening strategy, such as physical discomfort related to antibiotic treatment and mental distress about the cancer risk [<xref rid="hel70111-bib-0002" ref-type="bibr">2</xref>]. If unavailable, proxies based on existing literature could be considered for use in decision modeling.</p></fn></table-wrap-foot></table-wrap><p>Developing and calibrating decision models is a complex and time‐consuming task that requires specialized expertise in statistical modeling and epidemiology. Instead of developing independent decision models, health policymakers may choose to collaborate with established modeling consortia such as the Cancer Intervention Screening Network (CISNET) [<xref rid="hel70111-bib-0003" ref-type="bibr">3</xref>] or Decision Analysis in R for Technologies in Health (DARTH) group [<xref rid="hel70111-bib-0004" ref-type="bibr">4</xref>].</p></sec><sec id="hel70111-sec-0004"><label>4</label><title>Current Evidence from Decision Modeling on <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> Screen‐And‐Treat Strategies</title><p>Decision models should always reflect the local demographic and epidemiological data to inform health policy. While such context‐specific studies are needed to maximize the benefits of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat, some lessons can be learnt from existing decision modeling studies. Especially when results are found to be robust across different <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> prevalence and gastric cancer risk settings, it is likely that these results are generalizable to the local setting. Even though decision models can serve multiple purposes, such as evaluating the impact of interventions on healthcare resources or equity, most applications of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat modeling have focused on cost‐effectiveness. The discussion of current evidence will therefore center on that aspect.</p></sec><sec id="hel70111-sec-0005"><label>5</label><title>Evidence for the Cost‐Effectiveness of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> Screen‐And‐Treat</title><p>Four reviews have assessed the cost‐effectiveness of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat [<xref rid="hel70111-bib-0005" ref-type="bibr">5</xref>, <xref rid="hel70111-bib-0006" ref-type="bibr">6</xref>, <xref rid="hel70111-bib-0007" ref-type="bibr">7</xref>, <xref rid="hel70111-bib-0008" ref-type="bibr">8</xref>]. Three reviews included studies from countries all over the world, with different levels of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> prevalence and gastric cancer burden [<xref rid="hel70111-bib-0006" ref-type="bibr">6</xref>, <xref rid="hel70111-bib-0007" ref-type="bibr">7</xref>, <xref rid="hel70111-bib-0008" ref-type="bibr">8</xref>]. One review specifically focused on cost‐effectiveness in Western countries, with a lower burden of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> and gastric cancer [<xref rid="hel70111-bib-0005" ref-type="bibr">5</xref>]. All four reviews concluded that a strategy of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat is cost‐effective in reducing gastric cancer incidence and mortality. Of all 18 studies included in the reviews, only two found <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat to result in net cost‐savings compared to a situation without testing. In these studies, cost‐savings from preventing dyspepsia were also considered in addition to those of gastric cancer prevention.</p><p>The literature was again reviewed for the IARC working group report, finding an additional five studies [<xref rid="hel70111-bib-0001" ref-type="bibr">1</xref>]. Interestingly, four of these studies found that <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat not only gained life years (LY) by preventing gastric cancer but was also cost‐saving to the health system (compared to no testing) [<xref rid="hel70111-bib-0009" ref-type="bibr">9</xref>, <xref rid="hel70111-bib-0010" ref-type="bibr">10</xref>, <xref rid="hel70111-bib-0011" ref-type="bibr">11</xref>, <xref rid="hel70111-bib-0012" ref-type="bibr">12</xref>]. In the fifth study, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat was not found to save costs, but still resulted in a favorable balance between the additional costs and benefits compared to no testing [<xref rid="hel70111-bib-0013" ref-type="bibr">13</xref>].</p><p>The search query (<xref rid="hel70111-supitem-0001" ref-type="supplementary-material">Supporting Information</xref>) was again updated for this study, yielding an additional five studies all conducted in Asian countries with a high gastric cancer risk (Table <xref rid="hel70111-tbl-0002" ref-type="table">2</xref>). Four out of the five studies found <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat to be cost‐saving [<xref rid="hel70111-bib-0011" ref-type="bibr">11</xref>, <xref rid="hel70111-bib-0014" ref-type="bibr">14</xref>, <xref rid="hel70111-bib-0016" ref-type="bibr">16</xref>, <xref rid="hel70111-bib-0017" ref-type="bibr">17</xref>]. The fifth study found <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat to be efficient, yet concluded that risk‐based endoscopy screening was the optimal strategy [<xref rid="hel70111-bib-0015" ref-type="bibr">15</xref>].</p><table-wrap position="float" id="hel70111-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Overview of studies on the cost‐effectiveness of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat published between 2023 and 2025.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Author, year</th><th align="center" valign="bottom" rowspan="1" colspan="1">Country</th><th align="center" valign="bottom" rowspan="1" colspan="1">Population simulated</th><th align="center" valign="bottom" rowspan="1" colspan="1">Strategies evaluated</th><th align="center" valign="bottom" rowspan="1" colspan="1">Test characteristics</th><th align="center" valign="bottom" rowspan="1" colspan="1">Test costs</th><th align="center" valign="bottom" rowspan="1" colspan="1">Costs per QALY/LY</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Nakatani, 2023 [<xref rid="hel70111-bib-0014" ref-type="bibr">14</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Japan</td><td align="center" valign="top" rowspan="1" colspan="1">40 and 50‐year old employees</td><td align="center" valign="top" rowspan="1" colspan="1">Adding HPA test to UGI</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>HPA sensitivity: 93%</p>
+<p>HPA specificity: 79%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">HPA: $9.1</td><td align="center" valign="top" rowspan="1" colspan="1">cost‐saving</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Zheng, 2023 [<xref rid="hel70111-bib-0015" ref-type="bibr">15</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Hypothetical high‐risk country</td><td align="center" valign="top" rowspan="1" colspan="1">&gt; 40 years old</td><td align="center" valign="top" rowspan="1" colspan="1">14C UBT and NGCS risk‐based screening</td><td align="center" valign="top" rowspan="1" colspan="1">14C UBT sensitivity: 96% 14C UBT specificity: 93%</td><td align="center" valign="top" rowspan="1" colspan="1">UBT: $25.56</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>$76.17 UBT compared to no‐screen</p>
+<p>$5492.84 UBT compared to NGCS</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Kowada, 2024 [<xref rid="hel70111-bib-0011" ref-type="bibr">11</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">Japan</td><td align="center" valign="top" rowspan="1" colspan="1">15‐year old cohort</td><td align="center" valign="top" rowspan="1" colspan="1">HPA. If positive, UBT. At ages 15, 18, 20, 30, …, 80</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>HPA sensitivity: 93%</p>
+<p>HPA specificity: 99%</p>
+<p>UBT sensitivity: 96%</p>
+<p>UBT specificity: 93%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>HPA: $16.27</p>
+<p>UBT: $36.90</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Cost‐saving at ages 15–40 and age 80. At ages 50–70: $2476–2479</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ma, 2025 [<xref rid="hel70111-bib-0016" ref-type="bibr">16</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">China</td><td align="center" valign="top" rowspan="1" colspan="1">Families ≥ 2 people</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>Random testing and if positive, test family members vs.</p>
+<p>Random testing. All 13C‐UBT</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>UBT sensitivity: 95.5%</p>
+<p>UBT specificity: 94.7%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">UBT: $24.28</td><td align="center" valign="top" rowspan="1" colspan="1">Family‐based: cost‐saving</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Li, 2025 [<xref rid="hel70111-bib-0017" ref-type="bibr">17</xref>]</td><td align="center" valign="top" rowspan="1" colspan="1">China</td><td align="center" valign="top" rowspan="1" colspan="1">Cohort of 20‐year olds</td><td align="center" valign="top" rowspan="1" colspan="1">UBT at ages 20, 30, 40. One‐time test + every 2/3/5 years until age 50</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>UBT sensitivity: 87.6%</p>
+<p>UBT specificity: 84.8%</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">UBT: $11.63</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>All one‐time tests cost‐saving.</p>
+<p>Costs compared to no‐screen of repeat tests every 2/3/5 years:</p>
+<p>At age 20: $215/$122/$47</p>
+<p>At age 30: $201/$81/$15</p>
+<p>At age 40: $98/cost‐saving/cost‐saving</p>
+</td></tr></tbody></table></table-wrap><p>Gastric cancer burden has an important influence on the cost‐effectiveness of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat programs. With a higher burden of disease, more deaths can be prevented with the same number of tests, resulting in a more favorable balance between benefits and resources required than in lower incidence settings. Although <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat was found to be cost‐effective across all settings, the costs per life‐year gained were therefore typically lower in studies performed in high‐risk areas (Figure <xref rid="hel70111-fig-0001" ref-type="fig">1</xref>). One study explicitly studied the impact of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> prevalence and gastric cancer burden on the cost‐effectiveness of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat [<xref rid="hel70111-bib-0018" ref-type="bibr">18</xref>]. This study concluded that in countries with intermediate to high (in this study ASR ≥ 17 per 100,000 person‐years) gastric cancer incidence, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat would be cost‐saving. However, the study also showed that even in low‐incidence countries (in this study: ASR 6 per 100,000 person‐years) <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat resulted in a favorable balance between costs and health benefits.</p><fig position="float" fig-type="FIGURE" id="hel70111-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Costs per life‐year gained for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat as observed in reviewed cost‐effectiveness analyses, stratified by gastric cancer incidence level. Boxes show the interquartile range, horizontal lines indicate the median, and points represent individual studies. Costs per life‐year gained have been standardized to present value. Studies demonstrating cost savings are set at 0. As willingness‐to‐pay thresholds and price levels differ across settings, the interpretation of costs per life year gained may differ among studies and settings. Data based on Lansdorp‐Vogelaar et al. [<xref rid="hel70111-bib-0001" ref-type="bibr">1</xref>] combined with the extra studies extracted in this study (Table <xref rid="hel70111-tbl-0002" ref-type="table">2</xref>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="HEL-31-e70111-g001.jpg"/></fig><p>It is important to note that a formal quality assessment of the included decision modeling studies has not been performed in any of the reviews, nor have we engaged in such an endeavor ourselves. Nevertheless, the consistency of the finding that <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat is cost‐effective across studies provides additional confidence in the validity and robustness of this finding.</p></sec><sec id="hel70111-sec-0006"><label>6</label><title>Optimizing the Cost‐Effectiveness of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> Screen‐And‐Treat Strategies for Gastric Cancer Prevention</title><p>When <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat is implemented, decisions need to be made on the test modality, screening age (s), which drugs to use for eradication, whether to perform confirmation of eradication testing, and whether to perform resistance testing prior to eradication. In this paragraph, we summarize the current available evidence on which strategies provide most value for money.</p><sec id="hel70111-sec-0007"><label>6.1</label><title>Test Modality</title><p>Only three studies directly compared Carbon Urea Breath Test (<sup>13</sup>C‐UBT) with serology testing, with two of them additionally considering Stool Antigen Test (SAT) [<xref rid="hel70111-bib-0009" ref-type="bibr">9</xref>, <xref rid="hel70111-bib-0019" ref-type="bibr">19</xref>, <xref rid="hel70111-bib-0020" ref-type="bibr">20</xref>]. In these three studies, a strategy based on <sup>13</sup>C‐UBT testing was associated with higher costs than serology testing. However, <sup>13</sup>C‐UBT was also more effective in preventing gastric cancer incidence and mortality and thus gaining more LY. In the study by Yousefi et al. these extra benefits weighed favorably against the extra costs [<xref rid="hel70111-bib-0009" ref-type="bibr">9</xref>]. In the other two studies, the incremental costs per QALY exceeded the considered willingness‐to‐pay threshold, implying that <sup>13</sup>C‐UBT did not provide good value for money compared to serology in these settings [<xref rid="hel70111-bib-0019" ref-type="bibr">19</xref>, <xref rid="hel70111-bib-0020" ref-type="bibr">20</xref>]. Two studies comparing SAT to serology and <sup>13</sup>C‐UBT concluded that SAT was more effective than serology. One of the studies also found SAT to be less expensive than the other test modalities [<xref rid="hel70111-bib-0009" ref-type="bibr">9</xref>] while the other found it to be highly cost‐effective [<xref rid="hel70111-bib-0020" ref-type="bibr">20</xref>].</p><p>Another study compared <sup>13</sup>C‐UBT with polymerase chain reaction (PCR) testing of gastric biopsies and concluded that PCR testing is cost‐effective for gastric cancer prevention [<xref rid="hel70111-bib-0013" ref-type="bibr">13</xref>]. However, testing of gastric biopsies is an invasive strategy and may therefore be less acceptable and scalable than other testing modalities. Moreover, serology and SAT were not considered in this analysis. Consideration of these strategies may have resulted in a less favorable balance between costs and benefits (QALY gained) of PCR testing compared to these strategies.</p><p>In conclusion, there is limited evidence on the optimal test for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat for gastric cancer prevention with only four decision modeling studies performing direct comparisons between tests. These studies suggest that SAT may be more cost‐effective than serology. However, in general, all tests were found to be cost‐effective for gastric cancer prevention compared to no testing, and none of the tests was consistently dominated in all of the analyses. This finding suggests that the choice of the test may be based on local setting and resource considerations rather than cost‐effectiveness.</p></sec><sec id="hel70111-sec-0008"><label>6.2</label><title>Test Age</title><p>Eight studies compared the cost‐effectiveness of different ages for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat [<xref rid="hel70111-bib-0011" ref-type="bibr">11</xref>, <xref rid="hel70111-bib-0017" ref-type="bibr">17</xref>, <xref rid="hel70111-bib-0018" ref-type="bibr">18</xref>, <xref rid="hel70111-bib-0019" ref-type="bibr">19</xref>, <xref rid="hel70111-bib-0021" ref-type="bibr">21</xref>, <xref rid="hel70111-bib-0022" ref-type="bibr">22</xref>, <xref rid="hel70111-bib-0023" ref-type="bibr">23</xref>, <xref rid="hel70111-bib-0024" ref-type="bibr">24</xref>]. Three studies concluded that it was optimal to test for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> infection at a young age (20 or 30 years), because <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> testing in cohorts older than that was both less effective and less cost‐effective.<sup>10,2018</sup> These studies were performed in high‐incidence settings (ASR ≥ 20 per 100,000 person‐years). Another study found that one‐time testing was cost‐effective at all ages 20–40, but that retesting was only cost‐effective at age 40 [<xref rid="hel70111-bib-0017" ref-type="bibr">17</xref>]. The other studies, mostly based in low‐incidence settings (ASR &lt; 10 per 100,000 person‐years) also found <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> testing to be more effective at these younger ages, but this effectiveness was accompanied by higher costs per life‐year gained. They therefore suggested ages for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> testing centered around 40–50 years. These findings suggest that in low‐incidence settings, <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat might not be cost‐effective before age 40, whereas it may be in high‐incidence settings. However, an important caveat with these findings is that many studies compared different screening ages across different birth cohorts. Given the high correlation between birth cohort and gastric cancer risk, this may indicate that it is more cost‐effective to screen older birth cohorts, rather than older individuals. Although not a cost‐effectiveness study, a model‐analysis within one birth cohort in the United States demonstrated that <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat had a substantial larger benefit before age 40, reflected by the number‐needed‐to‐treat to prevent one cancer case [<xref rid="hel70111-bib-0025" ref-type="bibr">25</xref>]. Conversely, screening at younger age poses challenges to cost‐effectiveness, as the benefits of cancer prevention will only become apparent further in the future and therefore have a lower present value due to discounting. More studies looking at the optimal age of screening within the same birth cohort are therefore needed to demonstrate whether the increase in efficacy compensates the lack of cost‐effectiveness due to discounting.</p></sec><sec id="hel70111-sec-0009"><label>6.3</label><title>Repeat Testing for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content>
+</title><p>Evidence was limited with respect to repeat <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat strategies. The purpose of repeated testing might be to account for (re‐)infection or failed eradication therapy. Three studies evaluated repetition of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat [<xref rid="hel70111-bib-0017" ref-type="bibr">17</xref>, <xref rid="hel70111-bib-0018" ref-type="bibr">18</xref>, <xref rid="hel70111-bib-0022" ref-type="bibr">22</xref>]. The studies considered different intervals (varying from 1 to 10 years) and frequencies (one repeat versus multiple) for repeated testing. Two out of three concluded that the extra benefits of repeat testing did not outweigh the extra resources. A third study suggested that repeat testing could be beneficial in China, although cost per life year gained was higher than for a one‐time test [<xref rid="hel70111-bib-0017" ref-type="bibr">17</xref>]. It is important to point out that evidence on re‐infection rates is scarce, although the rates are estimated to be less than 1% [<xref rid="hel70111-bib-0026" ref-type="bibr">26</xref>]. In the absence of strong evidence, policy makers can best implement a once‐only <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat strategy. However, pilot studies within these programs, in which a subset of individuals is rescreened after 5–10 years, should be considered to fill this important gap in knowledge and inform future modeling.</p></sec><sec id="hel70111-sec-0010"><label>6.4</label><title>Management of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> Infection</title><p>None of the cost‐effectiveness analyses on <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat compared different eradication therapy regimens, or the benefit of resistance testing prior to initiating treatment. However, one study each addressed the incremental cost‐effectiveness of confirmation testing of successful eradication [<xref rid="hel70111-bib-0027" ref-type="bibr">27</xref>] and restricting treatment to only those that tested CagA‐positive [<xref rid="hel70111-bib-0028" ref-type="bibr">28</xref>]. Fendrick et al. explicitly compared serological testing with and without confirmatory testing 6 weeks after eradication therapy [<xref rid="hel70111-bib-0027" ref-type="bibr">27</xref>]. Assuming 80% effectiveness of initial eradication therapy, the scenario with the confirmatory test resulted in more life years gained than the strategy without confirmatory testing, but was substantially more costly. This finding suggests that in settings where the eradication rate of initial therapy exceeds 80%, confirmatory testing is not cost‐effective. However, without confirmatory testing in at least a sample of the population it is not possible to establish the <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> eradication rate.</p><p>Harris et al. evaluated the cost‐effectiveness of screening and treating either all <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> strains or CagA‐positive strains only [<xref rid="hel70111-bib-0028" ref-type="bibr">28</xref>]. Testing and treating only CagA‐positive infection reduced the number treated, the number of cases of anaphylaxis and overall costs of screen‐and‐treat, but it also reduced the number of cancers prevented and life years gained. In all countries for which it was evaluated, the incremental cost‐effectiveness ratio (ICER) for treating all <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> compared to CagA‐positive strains only was less than $25,100 per life year gained. These results suggest that it is better to screen‐and‐treat for all <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> rather than CagA‐positive alone.</p></sec><sec id="hel70111-sec-0011"><label>6.5</label><title>Family‐Based Testing</title><p>A novel screening strategy for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> is through family‐based testing, in which family members of positively tested individuals are also tested and treated for infection. This strategy started with a Chinese consensus report [<xref rid="hel70111-bib-0029" ref-type="bibr">29</xref>] and has now been adopted by several clinical guidelines [<xref rid="hel70111-bib-0030" ref-type="bibr">30</xref>, <xref rid="hel70111-bib-0031" ref-type="bibr">31</xref>, <xref rid="hel70111-bib-0032" ref-type="bibr">32</xref>]. From a cost‐effectiveness perspective, Ma et al. demonstrated that family‐based <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat is a cost‐saving strategy and provides better value for money than traditional screen‐and‐treat in China. Further studies on family‐based testing are needed to confirm its effectiveness in different settings.</p></sec></sec><sec id="hel70111-sec-0012"><label>7</label><title>Decision Modeling for Resource Planning</title><p>In addition to cost‐effectiveness, feasibility and successful implementation depend on access to healthcare facilities, availability of trained personnel, and follow‐up care. Decision analysis not only measures costs and benefits, but also the intermediate aspects of the screening process, such as the number <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> tests needed, the number of antibiotic treatments needed, hospital visits, etc. This information helps policymakers prepare to ensure availability of resources and health professionals that are adequately trained to perform their role in the <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat program. Such information is especially important in light of recent shortages of healthcare personnel and antibiotics [<xref rid="hel70111-bib-0033" ref-type="bibr">33</xref>].</p><p>Decision modeling can be used to project the required resources to implement a strategy. An illustrative example is how the MISCAN‐Colon model affected resource planning during the roll‐out of the successful Dutch colorectal cancer (CRC) screening program. In the implementation phase, the chosen FIT resulted in longer waiting lists for colonoscopy than expected. MISCAN‐Colon was considered to address the capacity constraints while maximizing screening benefits. The model analysis demonstrated that adjusting the cut‐off, rather than prolonging test intervals or changing eligible screening ages, was the most effective way to ease colonoscopy demand [<xref rid="hel70111-bib-0034" ref-type="bibr">34</xref>, <xref rid="hel70111-bib-0035" ref-type="bibr">35</xref>].</p><p>The availability of resources and needs for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat programs may differ substantially between low‐and‐middle‐income countries (LMICs) and high‐income countries (HICs). While LMICs may face a higher disease burden and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> prevalence, the lower level of available resources is often reflected in a lower willingness‐to‐pay threshold in CEA. This implies that the costs per life‐year gained need to be lower for the intervention to be considered cost‐effective. In addition to financial constraints, access to tests and antibiotic treatments may be limited in LMICs. Consequently, recommendations developed for HICs may not be feasible in LMICs. Decision modeling can help bridge this gap by integrating evidence with local data to identify the most efficient use of available resources. For instance, in breast cancer screening, modeling demonstrated that starting screening at later ages in LMICs may maximize benefits if screening resources are scarcer than in HICs [<xref rid="hel70111-bib-0036" ref-type="bibr">36</xref>].</p></sec><sec id="hel70111-sec-0013"><label>8</label><title>Addressing Health Disparities</title><p>Decision modeling can also be applied to address health disparities. While traditional CEA often focuses on cost‐effectiveness as the primary output, there is a growing body of literature on CEA methods that can additionally consider the distributional and equity impacts of interventions [<xref rid="hel70111-bib-0037" ref-type="bibr">37</xref>, <xref rid="hel70111-bib-0038" ref-type="bibr">38</xref>]. Two key examples of methods are the distributional cost effectiveness analysis (DCEA) and the extended cost effectiveness (ECEA) analysis. DCEA involves modeling an intervention by population subgroup, incorporating a measure of opportunity cost and then using relative and absolute measures of inequality to identify the service configuration that maximizes health while also minimizing ‘unfair’ health inequality [<xref rid="hel70111-bib-0039" ref-type="bibr">39</xref>]. ECEA is an approach that has been developed to address equity concerns relating to medical impoverishment in low‐ and middle‐income countries, where the majority of health care is funded through out‐of‐pocket payments [<xref rid="hel70111-bib-0040" ref-type="bibr">40</xref>, <xref rid="hel70111-bib-0041" ref-type="bibr">41</xref>].</p><p>One study based in New Zealand examined a screen and treat program targeted by age, sex and ethnicity. This study found that while a population‐wide program would not be cost‐effective, targeting the program to Indigenous Māori (who have a higher burden of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> and gastric cancer) would be cost‐effective [<xref rid="hel70111-bib-0042" ref-type="bibr">42</xref>].</p></sec><sec id="hel70111-sec-0014"><label>9</label><title>Combinations with Colorectal Cancer Screening Programs to Create Synergy</title><p>A ‘one‐stop‐shop’ approach combining <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat with other healthcare interventions may provide synergistic benefits.</p><p>One potential synergistic approach for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat is the combination with CRC screening. Many CRC screening programs across the world are based on non‐invasive collection of feces, which would combine well with SAT. The feasibility of a combined approach has been established both in Asia [<xref rid="hel70111-bib-0043" ref-type="bibr">43</xref>] and Europe [<xref rid="hel70111-bib-0044" ref-type="bibr">44</xref>]. Nieuwenburg et al. demonstrated that <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> antigen measurement can be performed in FIT stool samples with similar test performance compared to standard SAT [<xref rid="hel70111-bib-0044" ref-type="bibr">44</xref>]. Since the FIT is widely used in clinical practice, this approach may conveniently enable dual prevention of cancer in both the upper and lower gastrointestinal tracts.</p><p>Lee et al. combined the SAT with FIT in the screening of both upper and lower gastrointestinal lesions in a population with high prevalence of digestive tract diseases [<xref rid="hel70111-bib-0043" ref-type="bibr">43</xref>]. They compared three scenarios in a hospital cohort: the usage of SAT in all individuals; only among those with negative FIT; or only among those with negative colonoscopy. The SAT and FIT were therefore used as primary tests for the presence of upper and lower gastrointestinal lesions. The sensitivity of SAT for detecting gastric cancer did not differ and was approximately 50%. Importantly, three‐quarters of gastric cancers were diagnosed as stage I‐II disease. In the same study, but within a validation community cohort, the positive predictive value for upper gastrointestinal lesions using SAT was approximately 32%.\n.</p><p>Moreover, a randomized clinical trial inviting approximately 150,000 people to participate in either SAT plus FIT or FIT alone demonstrated an increased participation rate of about 14% of FIT combined with SAT compared with FIT alone [<xref rid="hel70111-bib-0045" ref-type="bibr">45</xref>]. This implies that combined screening attracts a larger proportion of individuals to engage in the screening program. Therefore, utilizing the existing FIT screening framework may be advantageous as outlined in Table <xref rid="hel70111-tbl-0003" ref-type="table">3</xref>.</p><table-wrap position="float" id="hel70111-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Potential advantages of using the FIT program as the foundation for offering screening and treatment for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> infection for gastric cancer prevention.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Eligibility</th><th align="center" valign="bottom" rowspan="1" colspan="1">The eligibility criteria for FIT are shifting towards younger ages, at which <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> treatment is considered to be of greater benefits.</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Invitation</td><td align="center" valign="top" rowspan="1" colspan="1">Stool sample‐based tests are more acceptable and accessible for people compared to invasive procedures like endoscopies</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Participation</td><td align="center" valign="top" rowspan="1" colspan="1">The participation rate of FIT may be increased by adding <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> stool antigen tests</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Testing</td><td align="center" valign="top" rowspan="1" colspan="1">Both tests use stool samples, making it easy to distribute them together</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Management</td><td align="center" valign="top" rowspan="1" colspan="1">The management of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> infection has been well established</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cost‐effectiveness</td><td align="center" valign="top" rowspan="1" colspan="1">The direct and indirect cost of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> testing can be reduced by leveraging the established FIT screening platform</td></tr></tbody></table></table-wrap><p>The effectiveness of using the FIT program to offer <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat depends on the screening age. While most CRC screening programs begin at age 50 [<xref rid="hel70111-bib-0046" ref-type="bibr">46</xref>], the best age to apply <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat is uncertain. Some studies have suggested that <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> has most impact before the onset of precursor lesions or in less severe precursor lesions [<xref rid="hel70111-bib-0047" ref-type="bibr">47</xref>]. In that case, it seems likely that the optimal screening age is lower than the start age of CRC screening. Continuation of the current trend towards starting CRC earlier could lead to more potential for synergistic effects in future screening programs. Nevertheless, an intervention at the age of 50 may still be reasonable to achieve meaningful reductions in gastric cancer risk. A randomized clinical trial evaluating the addition of SAT to FIT included participants with a mean age of 58 years [<xref rid="hel70111-bib-0045" ref-type="bibr">45</xref>]. In this trial, an invitation to <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat reduced gastric cancer incidence by 14% among invited individuals, although the reduction was not statistically significant. However, in post hoc analyses adjusted for non‐adherence to the invitation, a significant 21% reduction in gastric cancer incidence was observed [<xref rid="hel70111-bib-0048" ref-type="bibr">48</xref>]. These analyses should be considered exploratory because of the potential healthy‐screenee bias.</p></sec><sec id="hel70111-sec-0015"><label>10</label><title>Pragmatic Trials</title><p>The potential benefits of adding <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat to existing health interventions highlight the need for pragmatic trials and pilot studies, similar to those conducted in Taiwan [<xref rid="hel70111-bib-0048" ref-type="bibr">48</xref>]. Findings from such studies could inform policy decisions and provide key inputs for decision‐analytic models assessing whether <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat should be implemented as a stand‐alone strategy or integrated within existing infrastructure. Such cost‐effectiveness analysis requires robust evidence on the magnitude of the effectiveness of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> eradication at older ages, as well as data on potential cost reductions when tests and treatments are combined with existing screening programs.</p></sec><sec sec-type="discussion" id="hel70111-sec-0016"><label>11</label><title>Discussion</title><p>This article describes how to optimize the balance between harms and benefits of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat. Using decision models, factors such as the choice of test modality, target age and the need for repeat testing, can be tailored to context‐specific factors such as the local disease burden and the available resources. Current evidence from modeling studies was summarized, demonstrating that <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat was cost‐effective at all investigated levels of gastric cancer incidence. However, the optimal approach differed per setting. We therefore outline practical recommendations for policymakers on the data required to adapt decision models for local use and explore how <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat can be integrated with colorectal cancer screening.</p><p>
+<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> infection is known to be the major contributor to gastric cancer [<xref rid="hel70111-bib-0049" ref-type="bibr">49</xref>]. Efforts to combat <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> should replicate the success seen in other primary prevention programs targeting the elimination of well‐known risk factors, such as human papillomavirus, hepatitis B virus, and hepatitis C virus [<xref rid="hel70111-bib-0050" ref-type="bibr">50</xref>]. Further pilot studies and pragmatic trials are needed to guide the implementation and to inform decision models, such that the optimal strategy can be tailored to the population.</p><p>Although more than 23 cost‐effectiveness analyses have been performed on the topic of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat, considerable gaps in knowledge and limitations still exist. First, none of the cost‐effectiveness analyses considered the impact of widespread <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat on antimicrobial resistance (AMR). This has been challenging given that explicit modeling of AMR requires accounting for biological evolution, human behavior and transmission. As standard Markov‐based and microsimulation models are generally unable to capture interaction, integration of cancer natural history models with infectious disease models is needed, similar to approaches adopted for cervical cancer and human papillomavirus (HPV) [<xref rid="hel70111-bib-0051" ref-type="bibr">51</xref>]. Alternatively, the impact of screen‐and‐treat on AMR rates could be estimated indirectly by modeling the projected increases in antibiotic consumption attributable to screen‐and‐treat, and linking these increases to changes in AMR rates. This approach is similar to that presented in the IARC working group report [<xref rid="hel70111-bib-0052" ref-type="bibr">52</xref>]. Second, few cost‐effectiveness studies considered important side benefits of mass <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> eradication. Such side benefits may include the prevention of peptic ulcer disease, dyspepsia and gastric lymphoma [<xref rid="hel70111-bib-0053" ref-type="bibr">53</xref>]. Associations between <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> and colorectal cancer have also been established [<xref rid="hel70111-bib-0054" ref-type="bibr">54</xref>, <xref rid="hel70111-bib-0055" ref-type="bibr">55</xref>]. However, modeling multiple diseases has remained challenging due to the need for separate natural‐history structures, limited data on symptom trajectories and inconsistent definitions across studies. As a result, only two cost‐effectiveness studies considered additional benefits of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat related to the prevention of PUD and dyspepsia [<xref rid="hel70111-bib-0056" ref-type="bibr">56</xref>, <xref rid="hel70111-bib-0057" ref-type="bibr">57</xref>]. The impact of these ancillary benefits and harms on the cost‐effectiveness of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat could be considerable. Third, many of the evaluated model analyses rely on literature‐based assumptions regarding disease progression and treatment efficacies. As these factors may evolve over time, ongoing model validation and timely updates are warranted. Finally, few cost‐effectiveness analyses have examined the impact of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat programs on health inequalities between subgroups of the target population, such as racial or ethnic minorities or those with lower socioeconomic position.</p><p>Most studies included in this article only estimated cost‐effectiveness of one particular strategy for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat. The maximum number of strategies considered did not exceed five. However, many questions remain on the most cost‐effective approach to implementing <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat. This includes questions on which test to use, at what age range to screen, with what frequency, with what treatment regimen to eradicate, and whether to test for resistance prior to treatment or successful eradication after treatment.</p><p>Cost‐effectiveness is only one part of the financial question of a screening program, budget impact of the strategy being at least as important. An intervention can be highly cost‐effective or even cost‐saving (better health outcome at lower costs), yet the savings occur later in time and investments are needed now before the start of the program. To date, no studies have been performed to help policy makers gain insight into the annual resource requirements of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat. Such decision model studies based on real‐world data from pilot studies are needed for implementation.</p><p>New observational evidence and comprehensive decision modeling analyses help address the knowledge gaps identified here. These studies, that capture both the negative and positive side effects of <italic toggle="yes">H</italic>. <italic toggle="yes">pylori</italic> screen‐and‐treat, can provide a final verdict on the balance between benefits, harms and resources of this strategy, evaluate the optimal way to implement and provide policy makers with estimates on what resources are needed now for successful implementation of the program. In Europe, the first step in this direction is being made with the TOGAS project and the Joint Action EUCancScreen. Both projects combine local pilot studies with decision modeling to provide policy makers throughout Europe with the essential information to make informed decisions about <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">H. pylori</italic>
+</styled-content> screen‐and‐treat.</p></sec><sec id="hel70111-sec-0017"><title>Author Contributions</title><p>All authors contributed to the study conceptualization and interpretation of the results. Duco T. Mülder and Iris Lansdorp‐Vogelaar performed the data analysis. Duco T. Mülder drafted the manuscript. All authors critically reviewed the manuscript and approved the final version.</p></sec><sec id="hel70111-sec-0018"><title>Funding</title><p>The authors have nothing to report.</p></sec><sec sec-type="COI-statement" id="hel70111-sec-0019"><title>Disclosure</title><p>Where authors are identified as personnel of the International Agency for Research on Cancer/World Health Organization, the authors alone are responsible for the views expressed in this article and they do not necessarily represent the decisions, policy, or views of the International Agency for Research on Cancer/World Health Organization.</p></sec><sec sec-type="COI-statement" id="hel70111-sec-0020"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="hel70111-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Data S1:</bold> Supporting Information.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="HEL-31-e70111-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><sec sec-type="data-availability" id="hel70111-sec-0022"><title>Data Availability Statement</title><p>Data sharing not applicable to this article as no datasets were generated or analysed during the current study.</p></sec><ref-list content-type="cited-references" id="hel70111-bibl-0001"><title>References</title><ref id="hel70111-bib-0001"><label>1</label><mixed-citation publication-type="book" id="hel70111-cit-0001">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Lansdorp‐Vogelaar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. T.</given-names>
+<surname>Mülder</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Dinis‐Ribeiro</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>McLeod</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. Y.</given-names>
+<surname>Park</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.‐C.</given-names>
+<surname>Lee</surname>
+</string-name>, “<part-title>How to Optimize Cost‐Benefits of <italic toggle="yes">H. Pylori</italic> Screen‐And‐Treat Programs for Gastric Cancer Prevention</part-title>,” in <source>Population‐Based Helicobacter Pylori Screen‐And‐Treat Strategies for Gastric Cancer Prevention: Guidance on Implementation (IARC Working Group Reports no 12)</source>, ed. <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>J. Y.</given-names>
+<surname>Park</surname>
+</string-name>
+</person-group> (<publisher-name>International Agency for Research on Cancer</publisher-name>, <year>2025</year>).<pub-id pub-id-type="pmid">40601795</pub-id></mixed-citation></ref><ref id="hel70111-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="hel70111-cit-0002">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L. H.</given-names>
+<surname>Severens</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Mandrik</surname>
+</string-name>, “<article-title>Disutility Associated With Cancer Screening Programs: A Systematic Review</article-title>,” <source>PLoS One</source>
+<volume>14</volume>, no. <issue>7</issue> (<year>2019</year>): <elocation-id>e0220148</elocation-id>.<pub-id pub-id-type="pmid">31339958</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0220148</pub-id><pub-id pub-id-type="pmcid">PMC6655768</pub-id></mixed-citation></ref><ref id="hel70111-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="hel70111-cit-0003">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Sereda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Alarid‐Escudero</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. A.</given-names>
+<surname>Bickell</surname>
+</string-name>, et al., “<article-title>Approaches to Developing De Novo Cancer Population Models to Examine Questions About Cancer and Race in Bladder, Gastric, and Endometrial Cancer and Multiple Myeloma: The Cancer Intervention and Surveillance Modeling Network Incubator Program</article-title>,” <source>JNCI Monographs</source>
+<volume>2023</volume>, no. <issue>62</issue> (<year>2023</year>): <fpage>219</fpage>–<lpage>230</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jncimonographs/lgad021</pub-id><pub-id pub-id-type="pmcid">PMC11009510</pub-id><pub-id pub-id-type="pmid">37947329</pub-id></mixed-citation></ref><ref id="hel70111-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="hel70111-cit-0004">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Alarid‐Escudero</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Krijkamp</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Pechlivanoglou</surname>
+</string-name>, et al., “<article-title>A Need for Change! A Coding Framework for Improving Transparency in Decision Modeling</article-title>,” <source>PharmacoEconomics</source>
+<volume>37</volume>, no. <issue>11</issue> (<year>2019</year>): <fpage>1329</fpage>–<lpage>1339</lpage>.<pub-id pub-id-type="pmid">31549359</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40273-019-00837-x</pub-id><pub-id pub-id-type="pmcid">PMC6871515</pub-id></mixed-citation></ref><ref id="hel70111-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="hel70111-cit-0005">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Lansdorp‐Vogelaar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. G. S.</given-names>
+<surname>Meester</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Laszkowska</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. A.</given-names>
+<surname>Escudero</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. J.</given-names>
+<surname>Ward</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Yeh</surname>
+</string-name>, “<article-title>Cost‐Effectiveness of Prevention and Early Detection of Gastric Cancer in Western Countries</article-title>,” <source>Best Practice &amp; Research Clinical Gastroenterology</source>
+<volume>50</volume> (<year>2021</year>): <elocation-id>101735</elocation-id>.<pub-id pub-id-type="pmid">33975689</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bpg.2021.101735</pub-id></mixed-citation></ref><ref id="hel70111-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hel70111-cit-0006">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Lansdorp‐Vogelaar</surname>
+</string-name> and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Sharp</surname>
+</string-name>, “<article-title>Cost‐Effectiveness of Screening and Treating <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Helicobacter pylori</italic>
+</styled-content> for Gastric Cancer Prevention</article-title>,” <source>Best Practice &amp; Research Clinical Gastroenterology</source>
+<volume>27</volume>, no. <issue>6</issue> (<year>2013</year>): <fpage>933</fpage>–<lpage>947</lpage>.<pub-id pub-id-type="pmid">24182612</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bpg.2013.09.005</pub-id><pub-id pub-id-type="pmcid">PMC3880867</pub-id></mixed-citation></ref><ref id="hel70111-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="hel70111-cit-0007">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Areia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Carvalho</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. T.</given-names>
+<surname>Cadime</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Rocha Gonçalves</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Dinis‐Ribeiro</surname>
+</string-name>, “<article-title>Screening for Gastric Cancer and Surveillance of Premalignant Lesions: A Systematic Review of Cost‐Effectiveness Studies</article-title>,” <source>Helicobacter</source>
+<volume>18</volume>, no. <issue>5</issue> (<year>2013</year>): <fpage>325</fpage>–<lpage>337</lpage>, <pub-id pub-id-type="doi">10.1111/hel.12050</pub-id>.<pub-id pub-id-type="pmid">23566268</pub-id>
+</mixed-citation></ref><ref id="hel70111-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="hel70111-cit-0008">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sarmasti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Khoshbaten</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Khalili</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Yousefi</surname>
+</string-name>, “<article-title>Cost‐Effectiveness of Screening <italic toggle="yes">Helicobacter Pylori</italic> for Gastric Cancer Prevention: A Systematic Review</article-title>,” <source>Journal of Gastrointestinal Cancer</source>
+<volume>53</volume> (<year>2022</year>): <fpage>1</fpage>–<lpage>11</lpage>.<pub-id pub-id-type="pmid">34694594</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12029-021-00726-7</pub-id></mixed-citation></ref><ref id="hel70111-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="hel70111-cit-0009">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Yousefi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Rezaei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Khoshbaten</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sarmasti</surname>
+</string-name>, “<article-title>Cost‐Effectiveness Analysis of Different Screening Strategies for <italic toggle="yes">Helicobacter Pylori</italic> Infection in Iran: A Model‐Based Evaluation</article-title>,” <source>Helicobacter</source>
+<volume>28</volume>, no. <issue>6</issue> (<year>2023</year>): <elocation-id>e13027</elocation-id>.<pub-id pub-id-type="pmid">37839058</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/hel.13027</pub-id></mixed-citation></ref><ref id="hel70111-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="hel70111-cit-0010">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Zheng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Gao</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Yu</surname>
+</string-name>, “<article-title>Cost‐Effectiveness Analysis of the <italic toggle="yes">Helicobacter Pylori</italic> Screening Programme in an Asymptomatic Population in China</article-title>,” <source>International Journal of Environmental Research and Public Health</source>
+<volume>19</volume>, no. <issue>16</issue> (<year>2022</year>): <elocation-id>9986</elocation-id>.<pub-id pub-id-type="pmid">36011621</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijerph19169986</pub-id><pub-id pub-id-type="pmcid">PMC9408128</pub-id></mixed-citation></ref><ref id="hel70111-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="hel70111-cit-0011">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kowada</surname>
+</string-name>, “<article-title>Cost‐Effectiveness of Population‐Based <italic toggle="yes">Helicobacter Pylori</italic> Screening With Eradication for Optimal Age of Implementation</article-title>,” <source>Helicobacter</source>
+<volume>29</volume>, no. <issue>4</issue> (<year>2024</year>): <elocation-id>e13120</elocation-id>.<pub-id pub-id-type="pmid">39138610</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/hel.13120</pub-id></mixed-citation></ref><ref id="hel70111-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hel70111-cit-0012">
+<string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Xue</surname>
+</string-name>, et al., “<article-title>Nationwide Gastric Cancer Prevention in China, 2021–2035: A Decision Analysis on Effect, Affordability and Cost‐Effectiveness Optimisation</article-title>,” <source>Gut</source>
+<volume>71</volume>, no. <issue>12</issue> (<year>2022</year>): <fpage>2391</fpage>–<lpage>2400</lpage>.<pub-id pub-id-type="pmid">35902213</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gutjnl-2021-325948</pub-id></mixed-citation></ref><ref id="hel70111-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="hel70111-cit-0013">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Oh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Truong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. D.</given-names>
+<surname>Rustgi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Abrams</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Hur</surname>
+</string-name>, “<article-title>Cost‐Effectiveness of Screening With Polymerase Chain Reaction for <italic toggle="yes">Helicobacter Pylori</italic> to Prevent Gastric Cancer and Peptic Ulcers</article-title>,” <source>Journal of Gastrointestinal Oncology</source>
+<volume>13</volume>, no. <issue>5</issue> (<year>2022</year>): <elocation-id>2186</elocation-id>.<pub-id pub-id-type="pmid">36388653</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.21037/jgo-21-911</pub-id><pub-id pub-id-type="pmcid">PMC9660075</pub-id></mixed-citation></ref><ref id="hel70111-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="hel70111-cit-0014">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Nakatani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Inoue</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Kamae</surname>
+</string-name>, “<article-title>Cost‐Effectiveness of Adding a <italic toggle="yes">Helicobacter Pylori</italic> Antibody Test to the Upper Gastrointestinal Series in Gastric Cancer Screening at the Workplace</article-title>,” <source>Environmental Occupational Health Practice</source>
+<volume>5</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>0010‐OA</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1539/eohp.2023-0010-OA</pub-id><pub-id pub-id-type="pmcid">PMC11841776</pub-id><pub-id pub-id-type="pmid">40059928</pub-id></mixed-citation></ref><ref id="hel70111-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="hel70111-cit-0015">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Zheng</surname>
+</string-name> and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Liu</surname>
+</string-name>, “<article-title>Cost‐Effectiveness Analysis of Hp and New Gastric Cancer Screening Scoring System for Screening and Prevention of Gastric Cancer</article-title>,” <source>Current Oncology</source>
+<volume>30</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>1132</fpage>–<lpage>1145</lpage>, <pub-id pub-id-type="doi">10.3390/curroncol30010086</pub-id>.<pub-id pub-id-type="pmid">36661735</pub-id>
+<pub-id pub-id-type="pmcid">PMC9857951</pub-id></mixed-citation></ref><ref id="hel70111-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="hel70111-cit-0016">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, et al., “<article-title>An Economic Evaluation of Family‐Based Versus Traditional <italic toggle="yes">Helicobacter Pylori</italic> Screen‐and‐Treat Strategy: Based on Real‐World Data and Microsimulation Model</article-title>,” <source>Helicobacter</source>
+<volume>29</volume>, no. <issue>4</issue> (<year>2024</year>): <elocation-id>e13123</elocation-id>.<pub-id pub-id-type="pmid">39108224</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/hel.13123</pub-id></mixed-citation></ref><ref id="hel70111-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="hel70111-cit-0017">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>He</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, “<article-title>Economic Evaluation of Preventing Gastric Cancer by Eliminating <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Helicobacter pylori</italic>
+</styled-content> Infection in China</article-title>,” <source>Scandinavian Journal of Gastroenterology</source>
+<volume>60</volume>, no. <issue>4</issue> (<year>2025</year>): <fpage>327</fpage>–<lpage>335</lpage>.<pub-id pub-id-type="pmid">40035736</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/00365521.2025.2473020</pub-id></mixed-citation></ref><ref id="hel70111-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="hel70111-cit-0018">
+<string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Yeh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. M.</given-names>
+<surname>Kuntz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ezzati</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Goldie</surname>
+</string-name>, “<article-title>Exploring the Cost‐Effectiveness of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Helicobacter pylori</italic>
+</styled-content> Screening to Prevent Gastric Cancer in China in Anticipation of Clinical Trial Results</article-title>,” <source>International Journal of Cancer</source>
+<volume>124</volume>, no. <issue>1</issue> (<year>2009</year>): <fpage>157</fpage>–<lpage>166</lpage>.<pub-id pub-id-type="pmid">18823009</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ijc.23864</pub-id><pub-id pub-id-type="pmcid">PMC2597699</pub-id></mixed-citation></ref><ref id="hel70111-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="hel70111-cit-0019">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Blackhouse</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Goeree</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.‐P.</given-names>
+<surname>Lee</surname>
+</string-name>, “<article-title>Cost‐Effectiveness Analysis of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Helicobacter pylori</italic>
+</styled-content> Screening in Prevention of Gastric Cancer in Chinese</article-title>,” <source>International Journal of Technology Assessment in Health Care</source>
+<volume>24</volume>, no. <issue>1</issue> (<year>2008</year>): <fpage>87</fpage>–<lpage>95</lpage>.<pub-id pub-id-type="pmid">18218173</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1017/S0266462307080117</pub-id></mixed-citation></ref><ref id="hel70111-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="hel70111-cit-0020">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>O'Reilly</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I. L.</given-names>
+<surname>Ferrusi</surname>
+</string-name>, et al., “<article-title>Illustrating Economic Evaluation of Diagnostic Technologies: Comparing <italic toggle="yes">Helicobacter Pylori</italic> Screening Strategies in Prevention of Gastric Cancer in Canada</article-title>,” <source>Journal of the American College of Radiology</source>
+<volume>6</volume>, no. <issue>5</issue> (<year>2009</year>): <fpage>317</fpage>–<lpage>323</lpage>.<pub-id pub-id-type="pmid">19394572</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacr.2009.01.022</pub-id></mixed-citation></ref><ref id="hel70111-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="hel70111-cit-0021">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Leivo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Salomaa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. U.</given-names>
+<surname>Kosunen</surname>
+</string-name>, et al., “<article-title>Cost–Benefit Analysis of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Helicobacter pylori</italic>
+</styled-content> Screening</article-title>,” <source>Health Policy</source>
+<volume>70</volume>, no. <issue>1</issue> (<year>2004</year>): <fpage>85</fpage>–<lpage>96</lpage>.<pub-id pub-id-type="pmid">15312711</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.healthpol.2004.02.004</pub-id></mixed-citation></ref><ref id="hel70111-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hel70111-cit-0022">
+<string-name name-style="western">
+<given-names>Y.‐C.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.‐T.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.‐M.</given-names>
+<surname>Wu</surname>
+</string-name>, et al., “<article-title>Cost‐Effectiveness Analysis Between Primary and Secondary Preventive Strategies for Gastric Cancer</article-title>,” <source>Cancer Epidemiology, Biomarkers &amp; Prevention</source>
+<volume>16</volume>, no. <issue>5</issue> (<year>2007</year>): <fpage>875</fpage>–<lpage>885</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1055-9965.EPI-06-0758</pub-id><pub-id pub-id-type="pmid">17507609</pub-id></mixed-citation></ref><ref id="hel70111-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="hel70111-cit-0023">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Parsonnet</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Harris</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. M.</given-names>
+<surname>Hack</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. K.</given-names>
+<surname>Owens</surname>
+</string-name>, “<article-title>Modelling Cost‐Effectiveness of <italic toggle="yes">Helicobacter Pylori</italic> Screening to Prevent Gastric Cancer: A Mandate for Clinical Trials</article-title>,” <source>Lancet</source>
+<volume>348</volume>, no. <issue>9021</issue> (<year>1996</year>): <fpage>150</fpage>–<lpage>154</lpage>.<pub-id pub-id-type="pmid">8684154</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0140-6736(96)01501-2</pub-id></mixed-citation></ref><ref id="hel70111-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hel70111-cit-0024">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Roderick</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Davies</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Raftery</surname>
+</string-name>, et al., “<article-title>Cost‐Effectiveness of Population Screening for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Helicobacter pylori</italic>
+</styled-content> in Preventing Gastric Cancer and Peptic Ulcer Disease, Using Simulation</article-title>,” <source>Journal of Medical Screening</source>
+<volume>10</volume>, no. <issue>3</issue> (<year>2003</year>): <fpage>148</fpage>–<lpage>156</lpage>.<pub-id pub-id-type="pmid">14561268</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/096914130301000310</pub-id></mixed-citation></ref><ref id="hel70111-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="hel70111-cit-0025">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Mülder</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>O'Mahony</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Sun</surname>
+</string-name>, et al., “<article-title>The Optimal Age of <italic toggle="yes">Helicobacter Pylori</italic> Screen‐and‐Treat for Gastric Cancer Prevention in the United States</article-title>,” <source>Helicobacter</source>
+<volume>30</volume> (<year>2025</year>): <elocation-id>e70039</elocation-id>.<pub-id pub-id-type="pmid">40329483</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/hel.70039</pub-id><pub-id pub-id-type="pmcid">PMC12056297</pub-id></mixed-citation></ref><ref id="hel70111-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="hel70111-cit-0026">
+<string-name name-style="western">
+<given-names>T.‐H.</given-names>
+<surname>Chiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.‐J.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. L.‐S.</given-names>
+<surname>Chen</surname>
+</string-name>, et al., “<article-title>Mass Eradication of <italic toggle="yes">Helicobacter Pylori</italic> to Reduce Gastric Cancer Incidence and Mortality: A Long‐Term Cohort Study on Matsu Islands</article-title>,” <source>Gut</source>
+<volume>70</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>243</fpage>–<lpage>250</lpage>.<pub-id pub-id-type="pmid">32792335</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gutjnl-2020-322200</pub-id><pub-id pub-id-type="pmcid">PMC7815911</pub-id></mixed-citation></ref><ref id="hel70111-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="hel70111-cit-0027">
+<string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Fendrick</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. E.</given-names>
+<surname>Chernew</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Hirth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. S.</given-names>
+<surname>Bloom</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. R.</given-names>
+<surname>Bandekar</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Scheiman</surname>
+</string-name>, “<article-title>Clinical and Economic Effects of Population‐Based <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Helicobacter pylori</italic>
+</styled-content> Screening to Prevent Gastric Cancer</article-title>,” <source>Archives of Internal Medicine</source>
+<volume>159</volume>, no. <issue>2</issue> (<year>1999</year>): <fpage>142</fpage>–<lpage>148</lpage>.<pub-id pub-id-type="pmid">9927096</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archinte.159.2.142</pub-id></mixed-citation></ref><ref id="hel70111-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="hel70111-cit-0028">
+<string-name name-style="western">
+<given-names>R. A.</given-names>
+<surname>Harris</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. K.</given-names>
+<surname>Owens</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Witherell</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Parsonnet</surname>
+</string-name>, “<article-title>Helicobacter Pylori and Gastric Cancer: What Are the Benefits of Screening Only for the CagA Phenotype of <italic toggle="yes">H. Pylori</italic>?</article-title>,” <source>Helicobacter</source>
+<volume>4</volume>, no. <issue>2</issue> (<year>1999</year>): <fpage>69</fpage>–<lpage>76</lpage>.<pub-id pub-id-type="pmid">10382118</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1046/j.1523-5378.1999.98057.x</pub-id></mixed-citation></ref><ref id="hel70111-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="hel70111-cit-0029">
+<string-name name-style="western">
+<given-names>S. Z.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. Q.</given-names>
+<surname>Du</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Lu</surname>
+</string-name>, et al., “<article-title>Chinese Consensus Report on Family‐Based Helicobacter Pylori Infection Control and Management (2021 Edition)</article-title>,” <source>Gut</source>
+<volume>71</volume>, no. <issue>2</issue> (<year>2022</year>): <fpage>238</fpage>–<lpage>253</lpage>.<pub-id pub-id-type="pmid">34836916</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gutjnl-2021-325630</pub-id><pub-id pub-id-type="pmcid">PMC8762011</pub-id></mixed-citation></ref><ref id="hel70111-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="hel70111-cit-0030">
+<string-name name-style="western">
+<given-names>W. D.</given-names>
+<surname>Chey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. W.</given-names>
+<surname>Howden</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. F.</given-names>
+<surname>Moss</surname>
+</string-name>, et al., “<article-title>ACG Clinical Guideline: Treatment of <italic toggle="yes">Helicobacter Pylori</italic> Infection</article-title>,” <source>American Journal of Gastroenterology</source>
+<volume>119</volume>, no. <issue>9</issue> (<year>2024</year>): <fpage>1730</fpage>–<lpage>1753</lpage>.<pub-id pub-id-type="pmid">39626064</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.14309/ajg.0000000000002968</pub-id></mixed-citation></ref><ref id="hel70111-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="hel70111-cit-0031">
+<string-name name-style="western">
+<given-names>J.‐M.</given-names>
+<surname>Liou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Malfertheiner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.‐C.</given-names>
+<surname>Lee</surname>
+</string-name>, et al., “<article-title>Screening and Eradication of <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Helicobacter pylori</italic>
+</styled-content> for Gastric Cancer Prevention: The Taipei Global Consensus</article-title>,” <source>Gut</source>
+<volume>69</volume>, no. <issue>12</issue> (<year>2020</year>): <fpage>2093</fpage>–<lpage>2112</lpage>.<pub-id pub-id-type="pmid">33004546</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gutjnl-2020-322368</pub-id></mixed-citation></ref><ref id="hel70111-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="hel70111-cit-0032">
+<string-name name-style="western">
+<given-names>W. K.</given-names>
+<surname>Leung</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. L.</given-names>
+<surname>Ang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Shah</surname>
+</string-name>, et al., “<article-title>Asian Pacific Association of Gastroenterology Task Force Recommendations on Surveillance for <italic toggle="yes">Helicobacter Pylori</italic> Associated Gastric Premalignant Conditions</article-title>,” <source>Gut</source>
+<volume>74</volume> (<year>2025</year>): <elocation-id>335823</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gutjnl-2025-335823</pub-id><pub-id pub-id-type="pmid">41057234</pub-id></mixed-citation></ref><ref id="hel70111-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="hel70111-cit-0033">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Shafiq</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Pandey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Malhotra</surname>
+</string-name>, et al., “<article-title>Shortage of Essential Antimicrobials: A Major Challenge to Global Health Security</article-title>,” <source>BMJ Global Health</source>
+<volume>6</volume>, no. <issue>11</issue> (<year>2021</year>): <elocation-id>006961</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjgh-2021-006961</pub-id><pub-id pub-id-type="pmcid">PMC8565534</pub-id><pub-id pub-id-type="pmid">34728479</pub-id></mixed-citation></ref><ref id="hel70111-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="hel70111-cit-0034">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Toes‐Zoutendijk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. E.</given-names>
+<surname>van Leerdam</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Dekker</surname>
+</string-name>, et al., “<article-title>Real‐Time Monitoring of Results During First Year of Dutch Colorectal Cancer Screening Program and Optimization by Altering Fecal Immunochemical Test Cut‐Off Levels</article-title>,” <source>Gastroenterology</source>
+<volume>152</volume>, no. <issue>4</issue> (<year>2017</year>): <fpage>767</fpage>–<lpage>775.e2</lpage>.<pub-id pub-id-type="pmid">27890769</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1053/j.gastro.2016.11.022</pub-id></mixed-citation></ref><ref id="hel70111-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="hel70111-cit-0035">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Van Hees</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Zauber</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Van Veldhuizen</surname>
+</string-name>, et al., “<article-title>The Value of Models in Informing Resource Allocation in Colorectal Cancer Screening: The Case of the Netherlands</article-title>,” <source>Gut</source>
+<volume>64</volume>, no. <issue>12</issue> (<year>2015</year>): <fpage>1985</fpage>–<lpage>1997</lpage>.<pub-id pub-id-type="pmid">26063755</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/gutjnl-2015-309316</pub-id><pub-id pub-id-type="pmcid">PMC4672636</pub-id></mixed-citation></ref><ref id="hel70111-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="hel70111-cit-0036">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Bansal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Deshpande</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhao</surname>
+</string-name>, et al., “<article-title>Analysis of Mammography Screening Schedules Under Varying Resource Constraints for Planning Breast Cancer Control Programs in Low‐And Middle‐Income Countries: A Mathematical Study</article-title>,” <source>Medical Decision Making</source>
+<volume>40</volume>, no. <issue>3</issue> (<year>2020</year>): <fpage>364</fpage>–<lpage>378</lpage>.<pub-id pub-id-type="pmid">32160823</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0272989X20910724</pub-id></mixed-citation></ref><ref id="hel70111-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="hel70111-cit-0037">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Cookson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Mirelman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Griffin</surname>
+</string-name>, et al., “<article-title>Using Cost‐Effectiveness Analysis to Address Health Equity Concerns</article-title>,” <source>Value in Health</source>
+<volume>20</volume>, no. <issue>2</issue> (<year>2017</year>): <fpage>206</fpage>–<lpage>212</lpage>.<pub-id pub-id-type="pmid">28237196</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jval.2016.11.027</pub-id><pub-id pub-id-type="pmcid">PMC5340318</pub-id></mixed-citation></ref><ref id="hel70111-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="hel70111-cit-0038">
+<string-name name-style="western">
+<given-names>A. L. V.</given-names>
+<surname>Avanceña</surname>
+</string-name> and <string-name name-style="western">
+<given-names>L. A.</given-names>
+<surname>Prosser</surname>
+</string-name>, “<article-title>Examining Equity Effects of Health Interventions in Cost‐Effectiveness Analysis: A Systematic Review</article-title>,” <source>Value in Health</source>
+<volume>24</volume>, no. <issue>1</issue> (<year>2021</year>): <fpage>136</fpage>–<lpage>143</lpage>.<pub-id pub-id-type="pmid">33431148</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jval.2020.10.010</pub-id></mixed-citation></ref><ref id="hel70111-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="hel70111-cit-0039">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Asaria</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Griffin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Cookson</surname>
+</string-name>, “<article-title>Distributional Cost‐Effectiveness Analysis: A Tutorial</article-title>,” <source>Medical Decision Making</source>
+<volume>36</volume>, no. <issue>1</issue> (<year>2016</year>): <fpage>8</fpage>–<lpage>19</lpage>.<pub-id pub-id-type="pmid">25908564</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0272989X15583266</pub-id><pub-id pub-id-type="pmcid">PMC4853814</pub-id></mixed-citation></ref><ref id="hel70111-bib-0040"><label>40</label><mixed-citation publication-type="book" id="hel70111-cit-0040">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Verguet</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D. T.</given-names>
+<surname>Jamison</surname>
+</string-name>, <source>Health Policy Analysis: Applications of Extended Cost‐Effectiveness Analysis Methodology in Disease Control Priorities</source>, <edition designator="3">3rd ed.</edition> (<publisher-name>Europe PMC</publisher-name>, <year>2018</year>).<pub-id pub-id-type="pmid">30212165</pub-id></mixed-citation></ref><ref id="hel70111-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="hel70111-cit-0041">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Verguet</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. D.</given-names>
+<surname>Olson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. B.</given-names>
+<surname>Babigumira</surname>
+</string-name>, et al., “<article-title>Health Gains and Financial Risk Protection Afforded by Public Financing of Selected Interventions in Ethiopia: An Extended Cost‐Effectiveness Analysis</article-title>,” <source>Lancet Global Health</source>
+<volume>3</volume>, no. <issue>5</issue> (<year>2015</year>): <fpage>e288</fpage>–<lpage>e296</lpage>.<pub-id pub-id-type="pmid">25889470</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2214-109X(14)70346-8</pub-id></mixed-citation></ref><ref id="hel70111-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="hel70111-cit-0042">
+<string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Teng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Kvizhinadze</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Nair</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>McLeod</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Wilson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Blakely</surname>
+</string-name>, “<article-title>A Screening Program to Test and Treat for <italic toggle="yes">Helicobacter Pylori</italic> Infection: Cost‐Utility Analysis by Age, Sex and Ethnicity</article-title>,” <source>BMC Infectious Diseases</source>
+<volume>17</volume>, no. <issue>1</issue> (<year>2017</year>): <elocation-id>156</elocation-id>.<pub-id pub-id-type="pmid">28219322</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12879-017-2259-2</pub-id><pub-id pub-id-type="pmcid">PMC5319166</pub-id></mixed-citation></ref><ref id="hel70111-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="hel70111-cit-0043">
+<string-name name-style="western">
+<given-names>Y.‐C.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.‐M.</given-names>
+<surname>Chiu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.‐H.</given-names>
+<surname>Chiang</surname>
+</string-name>, et al., “<article-title>Accuracy of Faecal Occult Blood Test and <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Helicobacter pylori</italic>
+</styled-content> Stool Antigen Test for Detection of Upper Gastrointestinal Lesions</article-title>,” <source>BMJ Open</source>
+<volume>3</volume>, no. <issue>10</issue> (<year>2013</year>): <elocation-id>e003989</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjopen-2013-003989</pub-id><pub-id pub-id-type="pmcid">PMC3816242</pub-id><pub-id pub-id-type="pmid">24176798</pub-id></mixed-citation></ref><ref id="hel70111-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="hel70111-cit-0044">
+<string-name name-style="western">
+<given-names>S. A. V.</given-names>
+<surname>Nieuwenburg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Mommersteeg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. L.</given-names>
+<surname>Eikenboom</surname>
+</string-name>, et al., “<article-title>Factors Associated With the Progression of Gastric Intestinal Metaplasia: A Multicenter, Prospective Cohort Study</article-title>,” <source>Endosc Int Open</source>
+<volume>9</volume>, no. <issue>3</issue> (<year>2021</year>): <fpage>E297</fpage>–<lpage>E305</lpage>.<pub-id pub-id-type="pmid">33655025</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1055/a-1314-6626</pub-id><pub-id pub-id-type="pmcid">PMC7892268</pub-id></mixed-citation></ref><ref id="hel70111-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="hel70111-cit-0045">
+<string-name name-style="western">
+<given-names>Y. C.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. H.</given-names>
+<surname>Chiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. M.</given-names>
+<surname>Chiu</surname>
+</string-name>, et al., “<article-title>Community‐Based Gastric Cancer Screening Coupled With a National Colorectal Cancer Screening Program: Baseline Results</article-title>,” <source>Gastroenterology</source>
+<volume>160</volume>, no. <issue>6</issue> (<year>2021</year>): <fpage>2159</fpage>–<lpage>2161.e4</lpage>.<pub-id pub-id-type="pmid">33444571</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1053/j.gastro.2021.01.008</pub-id></mixed-citation></ref><ref id="hel70111-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="hel70111-cit-0046">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Shaukat</surname>
+</string-name> and <string-name name-style="western">
+<given-names>T. R.</given-names>
+<surname>Levin</surname>
+</string-name>, “<article-title>Current and Future Colorectal Cancer Screening Strategies</article-title>,” <source>Nature Reviews. Gastroenterology &amp; Hepatology</source>
+<volume>19</volume>, no. <issue>8</issue> (<year>2022</year>): <fpage>521</fpage>–<lpage>531</lpage>.<pub-id pub-id-type="pmid">35505243</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41575-022-00612-y</pub-id><pub-id pub-id-type="pmcid">PMC9063618</pub-id></mixed-citation></ref><ref id="hel70111-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="hel70111-cit-0047">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Li</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhu</surname>
+</string-name>, “<article-title>Effect of <italic toggle="yes">Helicobacter Pylori</italic> Eradication on Gastric Precancerous Lesions: A Systematic Review and Meta‐Analysis</article-title>,” <source>Helicobacter</source>
+<volume>28</volume>, no. <issue>6</issue> (<year>2023</year>): <elocation-id>e13013</elocation-id>.<pub-id pub-id-type="pmid">37602719</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/hel.13013</pub-id></mixed-citation></ref><ref id="hel70111-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="hel70111-cit-0048">
+<string-name name-style="western">
+<given-names>Y.‐C.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.‐H.</given-names>
+<surname>Chiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.‐M.</given-names>
+<surname>Chiu</surname>
+</string-name>, et al., “<article-title>Screening for <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Helicobacter pylori</italic>
+</styled-content> to Prevent Gastric Cancer: A Pragmatic Randomized Clinical Trial</article-title>,” <source>Journal of the American Medical Association</source>
+<volume>332</volume>, no. <issue>19</issue> (<year>2024</year>): <fpage>1642</fpage>–<lpage>1651</lpage>.<pub-id pub-id-type="pmid">39348147</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jama.2024.14887</pub-id><pub-id pub-id-type="pmcid">PMC11581485</pub-id></mixed-citation></ref><ref id="hel70111-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="hel70111-cit-0049">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Plummer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Franceschi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Vignat</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Forman</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>de Martel</surname>
+</string-name>, “<article-title>Global Burden of Gastric Cancer Attributable to <italic toggle="yes">Helicobacter Pylori</italic>
+</article-title>,” <source>International Journal of Cancer</source>
+<volume>136</volume>, no. <issue>2</issue> (<year>2015</year>): <fpage>487</fpage>–<lpage>490</lpage>.<pub-id pub-id-type="pmid">24889903</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ijc.28999</pub-id></mixed-citation></ref><ref id="hel70111-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="hel70111-cit-0050">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>de Martel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Georges</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Bray</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ferlay</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G. M.</given-names>
+<surname>Clifford</surname>
+</string-name>, “<article-title>Global Burden of Cancer Attributable to Infections in 2018: A Worldwide Incidence Analysis</article-title>,” <source>Lancet Global Health</source>
+<volume>8</volume>, no. <issue>2</issue> (<year>2020</year>): <fpage>e180</fpage>–<lpage>e190</lpage>.<pub-id pub-id-type="pmid">31862245</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2214-109X(19)30488-7</pub-id></mixed-citation></ref><ref id="hel70111-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="hel70111-cit-0051">
+<string-name name-style="western">
+<given-names>D. D.</given-names>
+<surname>de Bondt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. E. L.</given-names>
+<surname>Jansen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Stogios</surname>
+</string-name>, et al., “<article-title>Optimizing the Harms and Benefits of Cervical Screening in a Partially Vaccinated Population in Ontario, Canada: A Modeling Study</article-title>,” <source>Medical Decision Making</source>
+<volume>45</volume> (<year>2025</year>): <elocation-id>332597</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/0272989X251332597</pub-id><pub-id pub-id-type="pmcid">PMC12166155</pub-id><pub-id pub-id-type="pmid">40260498</pub-id></mixed-citation></ref><ref id="hel70111-bib-0052"><label>52</label><mixed-citation publication-type="book" id="hel70111-cit-0052">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Moayyedi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.‐C.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gerhard</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Mégraud</surname>
+</string-name>, “<part-title>Antibiotic Stewardship for Population‐Based Helicobacter Pylori Screen‐and‐Treat Programmes, Including Testing of Cure and Monitoring of Antibiotic Resistance</part-title>,” in <source>Population‐Based Helicobacter Pylori Screen‐and‐Treat Strategies for Gastric Cancer Prevention: Guidance on Implementation</source> (<publisher-name>International Agency for Research on Cancer</publisher-name>, <year>2025</year>).<pub-id pub-id-type="pmid">40601795</pub-id></mixed-citation></ref><ref id="hel70111-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="hel70111-cit-0053">
+<string-name name-style="western">
+<given-names>D. T.</given-names>
+<surname>Mülder</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>O'Mahony</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Kapteijn</surname>
+</string-name>, et al., “<article-title>The Disease Burden of <italic toggle="yes">Helicobacter Pylori</italic> Beyond Gastric Cancer: Quantifying the Forgotten Potential Benefits of Mass Eradication</article-title>,” <source>Gastroenterology</source>
+<volume>170</volume> (<year>2025</year>): <fpage>344</fpage>–<lpage>352</lpage>.<pub-id pub-id-type="pmid">41236450</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1053/j.gastro.2025.08.015</pub-id></mixed-citation></ref><ref id="hel70111-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="hel70111-cit-0054">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wernly</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Semmler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Flamm</surname>
+</string-name>, et al., “<article-title>The Association Between Helicobacter Pylori and Colorectal Neoplasia</article-title>,” <source>Medical Principles and Practice</source>
+<volume>32</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>77</fpage>–<lpage>85</lpage>.<pub-id pub-id-type="pmid">36580903</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000528794</pub-id><pub-id pub-id-type="pmcid">PMC10267487</pub-id></mixed-citation></ref><ref id="hel70111-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="hel70111-cit-0055">
+<string-name name-style="western">
+<given-names>D. S.</given-names>
+<surname>Choi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. I.</given-names>
+<surname>Seo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. G.</given-names>
+<surname>Shin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. H.</given-names>
+<surname>Park</surname>
+</string-name>, “<article-title>Risk for Colorectal Neoplasia in Patients With <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Helicobacter pylori</italic>
+</styled-content> Infection: A Systematic Review and Meta‐Analysis</article-title>,” <source>Clinical and Translational Gastroenterology</source>
+<volume>11</volume>, no. <issue>2</issue> (<year>2020</year>): <elocation-id>e00127</elocation-id>.<pub-id pub-id-type="pmid">32032128</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.14309/ctg.0000000000000127</pub-id><pub-id pub-id-type="pmcid">PMC7145030</pub-id></mixed-citation></ref><ref id="hel70111-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="hel70111-cit-0056">
+<string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>Pritchard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Bornschein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Beales</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Beresniak</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Salhi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Malfertheiner</surname>
+</string-name>, “<article-title>Cost‐Effectiveness Modelling of Use of Urea Breath Test for the Management of <italic toggle="yes">Helicobacter Pylori</italic>‐Related Dyspepsia and Peptic Ulcer in the UK</article-title>,” <source>BMJ Open Gastroenterology</source>
+<volume>8</volume>, no. <issue>1</issue> (<year>2021</year>): <elocation-id>e000685</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmjgast-2021-000685</pub-id><pub-id pub-id-type="pmcid">PMC8268888</pub-id><pub-id pub-id-type="pmid">34244244</pub-id></mixed-citation></ref><ref id="hel70111-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="hel70111-cit-0057">
+<string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Long</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Liu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Lu</surname>
+</string-name>, “<article-title>Cost‐Effectiveness Analysis of Screen‐And‐Treat Strategy in Asymptomatic Chinese for Preventing <italic toggle="yes">Helicobacter Pylori</italic>‐Associated Diseases</article-title>,” <source>Helicobacter</source>
+<volume>24</volume>, no. <issue>2</issue> (<year>2019</year>): <elocation-id>e12563</elocation-id>.<pub-id pub-id-type="pmid">30672082</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/hel.12563</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

@@ -1,0 +1,706 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="brb371302" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Brain Behav</journal-id><journal-id journal-id-type="iso-abbrev">Brain Behav</journal-id><journal-id journal-id-type="pmc-domain-id">1650</journal-id><journal-id journal-id-type="pmc-domain">brb</journal-id><journal-id journal-id-type="publisher-id">BRB3</journal-id><journal-title-group><journal-title>Brain and Behavior</journal-title></journal-title-group><issn pub-type="epub">2162-3279</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12961347</article-id><article-id pub-id-type="pmcid-ver">PMC12961347.1</article-id><article-id pub-id-type="pmcaid">12961347</article-id><article-id pub-id-type="pmcaiid">12961347</article-id><article-id pub-id-type="pmid">41782465</article-id><article-id pub-id-type="doi">10.1002/brb3.71302</article-id><article-id pub-id-type="publisher-id">BRB371302</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Neuropsychiatric Disorders and Constipation: Unraveling Causal Links Through Genetic Analysis</article-title></title-group><contrib-group><contrib id="brb371302-cr-0001" contrib-type="author"><name name-style="western"><surname>Zhao</surname><given-names initials="G">Guojie</given-names></name><xref rid="brb371302-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb371302-cr-0002" contrib-type="author"><name name-style="western"><surname>Ren</surname><given-names initials="H">Haixia</given-names></name><xref rid="brb371302-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="brb371302-cr-0003" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="Y">Yi</given-names></name><xref rid="brb371302-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb371302-cr-0004" contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="Z">Zhi</given-names></name><xref rid="brb371302-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb371302-cr-0005" contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="Q">Qiao</given-names></name><xref rid="brb371302-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="brb371302-cr-0006" contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="S">Shuang</given-names></name><xref rid="brb371302-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="brb371302-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="brb371302-cr-0007" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="M">Minzhen</given-names></name><xref rid="brb371302-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="brb371302-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="brb371302-cr-0008" contrib-type="author"><name name-style="western"><surname>Xiang</surname><given-names initials="Z">Zhiyu</given-names></name><xref rid="brb371302-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="brb371302-cr-0009" contrib-type="author" corresp="yes"><name name-style="western"><surname>Liu</surname><given-names initials="J">Jingwen</given-names></name><xref rid="brb371302-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="brb371302-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><address><email>liujingwen@med.uestc.edu.cn</email></address></contrib></contrib-group><aff id="brb371302-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Neurosurgery, Chengdu Women's and Children's Central Hospital, School of Medicine</named-content>
+<institution>University of Electronic Science and Technology of China</institution>
+<city>Chengdu</city>
+<country country="CN">China</country>
+</aff><aff id="brb371302-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Gastroenterology</named-content>
+<institution>Renmin Hospital of Wuhan University</institution>
+<city>Wuhan</city>
+<named-content content-type="country-part">Hubei Province</named-content>
+<country country="CN">China</country>
+</aff><aff id="brb371302-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Sichuan Provincial Center For Mental Health, Sichuan Provincial People's Hospital, School of Medicine</named-content>
+<institution>University of Electronic Science and Technology of China</institution>
+<city>Chengdu</city>
+<country country="CN">China</country>
+</aff><aff id="brb371302-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Key Laboratory of Psychosomatic Medicine</named-content>
+<institution>Chinese Academy of Medical Sciences</institution>
+<city>Chengdu</city>
+<country country="CN">China</country>
+</aff><pub-date pub-type="epub"><day>05</day><month>3</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2026</year></pub-date><volume>16</volume><issue seq="120">3</issue><issue-id pub-id-type="pmc-issue-id">508516</issue-id><issue-id pub-id-type="doi">10.1002/brb3.v16.3</issue-id><elocation-id>e71302</elocation-id><history><date date-type="rev-recd"><day>08</day><month>2</month><year>2026</year></date><date date-type="accepted"><day>20</day><month>2</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>05</day><month>03</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>06</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-06 08:25:13.253"><day>06</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Brain and Behavior</italic> published by Wiley Periodicals LLC.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="BRB3-16-e71302.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:BRB3-16-e71302.pdf"/><abstract><title>ABSTRACT</title><sec id="brb371302-sec-0010"><title>Background</title><p>Numerous observational studies have suggested a relationship between neuropsychiatric disorders and constipation. However, the specific causal relationships remain unclear. Mendelian randomization (MR) serves as a proven strategy for examining the causal relationships between genetic exposures and outcomes. In the present study, we used a two‐sample Mendelian randomization (TSMR) analysis to thoroughly explore the potential bidirectional genetic causal effects between neuropsychiatric disorders and constipation.</p></sec><sec id="brb371302-sec-0020"><title>Methods</title><p>We utilized the R11 data from Finnish genome‐wide association studies (GWAS) to examine the association between twelve common neuropsychiatric disorders and constipation using TSMR analysis. To establish this causal link, we applied the random‐effects inverse variance weighting (IVW) method. Additionally, we conducted various sensitivity analyses, including MR‐Egger analysis, weighted median analysis, and leave‐one‐out analysis, followed by heterogeneity testing. Finally, reverse MR testing was performed to further elucidate the potential causal relationship between constipation and neuropsychiatric disorders.</p></sec><sec id="brb371302-sec-0030"><title>Results:</title><p>The forward MR results indicated that anxiety (IVW OR = 1.133; 95% CI: 1.021–1.258; <italic toggle="yes">p</italic> = 0.020) and depression (IVW OR = 1.149; 95% CI: 1.071–1.232; <italic toggle="yes">p</italic> = 0.000) may increase the risk of constipation. Reverse MR testing further confirmed that constipation increased the risk of anxiety (IVW OR = 1.273; 95% CI: 1.116–1.452; p = 0.000) and depression (IVW OR = 1.207; 95% CI: 1.095–1.331; <italic toggle="yes">p</italic> = 0.000) and was positively correlated with epilepsy (IVW OR = 1.331; 95% CI: 1.103–1.607; <italic toggle="yes">p</italic> = 0.003) and trigeminal neuralgia (IVW OR = 1.897; 95% CI: 1.225–2.936; <italic toggle="yes">p</italic> = 0.004). No pleiotropy or heterogeneity was observed in the MR analysis.</p></sec><sec id="brb371302-sec-0040"><title>Conclusion</title><p>Our research elucidates the underlying bidirectional causal relationship between twelve common neuropsychiatric disorders and constipation. These findings emphasize the importance for clinical practitioners to prioritize the identification and management of constipation symptoms in patients with neuropsychiatric conditions, aiming to enhance their overall health and quality of life.</p></sec></abstract><abstract id="brb371302-abs-0001" abstract-type="graphical"><p>This study employed bidirectional two‐sample Mendelian randomization to explore the causal relationships between 12 neuropsychiatric disorders and constipation. Anxiety and depression might increase the risk of constipation, while constipation elevates the risks of anxiety, depression, epilepsy, and trigeminal neuralgia, emphasizing attention to constipation in neuropsychiatric care.
+<boxed-text position="anchor" content-type="graphic" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="BRB3-16-e71302-g003.jpg"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="brb371302-kwd-0001">causal relationships</kwd><kwd id="brb371302-kwd-0002">constipation</kwd><kwd id="brb371302-kwd-0003">Mendelian randomization</kwd><kwd id="brb371302-kwd-0004">neuropsychiatric disorders</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>National Nature and Science Youth Fund of China</institution></institution-wrap>
+</funding-source><award-id>82200598</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>the National Nature and Science Youth Fund of China</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="5"/><page-count count="11"/><word-count count="5649"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:05.03.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="brb371302-sec-0050"><label>1</label><title>Introduction</title><p>Constipation is a prevalent clinical symptom significantly impacting patients' daily activities and overall quality of life (Rao et al. <xref rid="brb371302-bib-0035" ref-type="bibr">2016</xref>). Insufficient dietary fiber intake, decreased physical activity, and cardiovascular diseases can increase the risk of constipation (Ogasawara et al. <xref rid="brb371302-bib-0033" ref-type="bibr">2022</xref>). Individuals suffering from chronic constipation frequently experience repeated medical attention and may misuse laxatives, delaying treatment and increasing economic burden (Bharucha and Wald <xref rid="brb371302-bib-0008" ref-type="bibr">2019</xref>). The prevalence of constipation is notably high among patients with neuropsychiatric disorders, as evidenced by multiple observational studies (Camilleri, <xref rid="brb371302-bib-0013" ref-type="bibr">2021</xref>; Winge, <xref rid="brb371302-bib-0044" ref-type="bibr">2003</xref>). Research has indicated that psychological factors, such as anxiety and depression, could affect gut function through efferent autonomic neural pathways (Emmanuel et al. <xref rid="brb371302-bib-0018" ref-type="bibr">2001</xref>). Further, patients experiencing constipation are more likely to suffer from major depressive disorder (Wang et al. <xref rid="brb371302-bib-0043" ref-type="bibr">2023</xref>). An NHANES‐based study identified mild depression as a significant predictor of constipation (Ballou et al. <xref rid="brb371302-bib-0006" ref-type="bibr">2019</xref>). In addition, constipation has been reported in severe psychiatric disorders such as schizophrenia and bipolar affective disorder (Gong et al. <xref rid="brb371302-bib-0024" ref-type="bibr">2024</xref>; Tazaki et al. <xref rid="brb371302-bib-0042" ref-type="bibr">2024</xref>). Clinical research suggests that constipation is one of the most common gastrointestinal symptoms of Parkinson's disease, with over 50% of patients experiencing constipation during their illness (Yao et al. <xref rid="brb371302-bib-0047" ref-type="bibr">2023</xref>). Meta‐analyses and cohort studies have highlighted a close association between constipation and the risk of developing Parkinson's disease (Adams‐Carr et al. <xref rid="brb371302-bib-0004" ref-type="bibr">2016</xref>; Svensson et al. <xref rid="brb371302-bib-0041" ref-type="bibr">2016</xref>). A bi‐national cohort study has indicated that constipation increases the risk of Alzheimer's disease, with slow intestinal transit potentially being a key mechanism in Alzheimer's disease pathogenesis (Kang et al. <xref rid="brb371302-bib-0028" ref-type="bibr">2023</xref>). Moreover, studies show a positive correlation between the rates of constipation and the prevalence of dementia (Zhang et al. <xref rid="brb371302-bib-0048" ref-type="bibr">2018</xref>). In stroke rehabilitation wards, 60% of patients suffer from constipation (Harari et al. <xref rid="brb371302-bib-0027" ref-type="bibr">2004</xref>). Patients with multiple sclerosis frequently suffer from gastrointestinal dysfunction, alternating between constipation and fecal incontinence (Bourre et al. <xref rid="brb371302-bib-0010" ref-type="bibr">2023</xref>; Preziosi et al. <xref rid="brb371302-bib-0034" ref-type="bibr">2018</xref>). Constipation is also a common comorbidity in epilepsy patients and may act as a trigger for seizures (Gabrielsson et al. <xref rid="brb371302-bib-0022" ref-type="bibr">2023</xref>; Beck et al. <xref rid="brb371302-bib-0007" ref-type="bibr">2021</xref>). However, observational studies and cross‐sectional surveys may be influenced by confounding factors, such as reverse causation, which could hinder accurate assessments of the relationship between neuropsychiatric disorders and constipation.</p><p>Mendelian randomization (MR) is a commonly used method in epidemiological research to strengthen causal inference. It utilizes genetic variations as instrumental variables (IV) to assess the causal relationship between exposure and outcome. This method effectively mitigates confounding factors and reverse causation that are inherent in observational studies, while also addressing representativeness and feasibility issues that may arise in RCTs (Skrivankova et al. <xref rid="brb371302-bib-0002" ref-type="bibr">2021</xref>). Although recent studies have shown an association between psychosomatic disorders such as anxiety and depression and constipation (Murray et al. <xref rid="brb371302-bib-0031" ref-type="bibr">2020</xref>; Wu et al. <xref rid="brb371302-bib-0045" ref-type="bibr">2024</xref>), no study has systematically employed MR analysis to investigate the causality between a range of common neuropsychiatric disorders and constipation.</p><p>In this research, we investigated potential causal relationships between twelve neuropsychiatric disorders and constipation, including anxiety, depression, bipolar affective disorder, Parkinson's disease, Alzheimer's disease, and trigeminal neuralgia. We employed bidirectional TSMR using the Finnish database to establish a theoretical foundation for the treatment and management of patients with neuropsychiatric disorders.</p></sec><sec id="brb371302-sec-0060"><label>2</label><title>Materials and Methods</title><sec id="brb371302-sec-0070"><label>2.1</label><title>Research Design</title><p>This study employed data from a genome‐wide association study (GWAS) to explore the potential causal relationship between 12 neuropsychiatric disorders and constipation using two‐sample Mendelian randomization analysis, supplemented by sensitivity analyses to assess the robustness of the findings. Mendelian randomization research necessitates adherence to three core assumptions: (a) the instrumental variable must be strongly associated with the exposure; (b) the instrumental variable should not be related to any confounding factors that may affect the exposure‐outcome relationship; and (c) the instrumental variable can only influence the outcome variable through the exposure factor. Given that publicly available data were utilized, ethical review and patient informed consent were not required.</p></sec><sec id="brb371302-sec-0080"><label>2.2</label><title>Data Sources</title><p>All genome‐wide association study (GWAS) data for our phenotypes were sourced from the Finnish database. To minimize the risk of population stratification bias, the data were exclusively obtained from individuals of European descent, as illustrated in <bold>Table</bold> <xref rid="brb371302-tbl-0001" ref-type="table">
+<bold>1</bold>
+</xref>.</p><table-wrap position="float" id="brb371302-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Brief information about the GWAS database research data in this study.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Phenotype</th><th align="center" rowspan="1" colspan="1">ID</th><th align="center" rowspan="1" colspan="1">Number of case</th><th align="center" rowspan="1" colspan="1">Number of controls</th><th align="center" rowspan="1" colspan="1">Number of SNPs</th><th align="center" rowspan="1" colspan="1">Population</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Anxiety disorders</td><td align="center" rowspan="1" colspan="1">finngen_R11_F5_ALLANXIOUS</td><td align="center" rowspan="1" colspan="1">3178</td><td align="center" rowspan="1" colspan="1">40,3817</td><td align="center" rowspan="1" colspan="1">21,306,523</td><td align="center" rowspan="1" colspan="1">European</td></tr><tr><td align="left" rowspan="1" colspan="1">Depression</td><td align="center" rowspan="1" colspan="1">finngen_R11_F5_DEPRESSIO</td><td align="center" rowspan="1" colspan="1">53,313</td><td align="center" rowspan="1" colspan="1">394,756</td><td align="center" rowspan="1" colspan="1">21,306,683</td><td align="center" rowspan="1" colspan="1">European</td></tr><tr><td align="left" rowspan="1" colspan="1">Bipolar affective disorders</td><td align="center" rowspan="1" colspan="1">finngen_R11_F5_BIPO</td><td align="center" rowspan="1" colspan="1">8209</td><td align="center" rowspan="1" colspan="1">394,756</td><td align="center" rowspan="1" colspan="1">21,305,816</td><td align="center" rowspan="1" colspan="1">European</td></tr><tr><td align="left" rowspan="1" colspan="1">Schizophrenia</td><td align="center" rowspan="1" colspan="1">finngen_R11_F5_SCHZPHR</td><td align="center" rowspan="1" colspan="1">6933</td><td align="center" rowspan="1" colspan="1">439,144</td><td align="center" rowspan="1" colspan="1">21,306,637</td><td align="center" rowspan="1" colspan="1">European</td></tr><tr><td align="left" rowspan="1" colspan="1">Parkinson's disease</td><td align="center" rowspan="1" colspan="1">finngen_R11_G6_PARKINSON</td><td align="center" rowspan="1" colspan="1">5150</td><td align="center" rowspan="1" colspan="1">448,583</td><td align="center" rowspan="1" colspan="1">21,306,794</td><td align="center" rowspan="1" colspan="1">European</td></tr><tr><td align="left" rowspan="1" colspan="1">Alzheimer disease</td><td align="center" rowspan="1" colspan="1">finngen_R11_G6_ALZHEIMER</td><td align="center" rowspan="1" colspan="1">11,755</td><td align="center" rowspan="1" colspan="1">441,978</td><td align="center" rowspan="1" colspan="1">21,306,794</td><td align="center" rowspan="1" colspan="1">European</td></tr><tr><td align="left" rowspan="1" colspan="1">Stroke</td><td align="center" rowspan="1" colspan="1">finngen_R11_C_STROKE</td><td align="center" rowspan="1" colspan="1">47,841</td><td align="center" rowspan="1" colspan="1">3280,79</td><td align="center" rowspan="1" colspan="1">21,305,386</td><td align="center" rowspan="1" colspan="1">European</td></tr><tr><td align="left" rowspan="1" colspan="1">Multiple Sclerosis</td><td align="center" rowspan="1" colspan="1">finngen_R11_G6_MS</td><td align="center" rowspan="1" colspan="1">2620</td><td align="center" rowspan="1" colspan="1">449,770</td><td align="center" rowspan="1" colspan="1">21,306,740</td><td align="center" rowspan="1" colspan="1">European</td></tr><tr><td align="left" rowspan="1" colspan="1">Hydrocephalus</td><td align="center" rowspan="1" colspan="1">finngen_R11_G6_HYDROCEPH</td><td align="center" rowspan="1" colspan="1">2642</td><td align="center" rowspan="1" colspan="1">420,369</td><td align="center" rowspan="1" colspan="1">21,306,300</td><td align="center" rowspan="1" colspan="1">European</td></tr><tr><td align="left" rowspan="1" colspan="1">Epilepsy</td><td align="center" rowspan="1" colspan="1">finngen_R11_G6_EPLEPSY</td><td align="center" rowspan="1" colspan="1">14,089</td><td align="center" rowspan="1" colspan="1">341,884</td><td align="center" rowspan="1" colspan="1">21,304,789</td><td align="center" rowspan="1" colspan="1">European</td></tr><tr><td align="left" rowspan="1" colspan="1">Migraine</td><td align="center" rowspan="1" colspan="1">finngen_R11_G6_MIGRAINE</td><td align="center" rowspan="1" colspan="1">23,899</td><td align="center" rowspan="1" colspan="1">341,884</td><td align="center" rowspan="1" colspan="1">21,305,028</td><td align="center" rowspan="1" colspan="1">European</td></tr><tr><td align="left" rowspan="1" colspan="1">Trigeminal neuralgia</td><td align="center" rowspan="1" colspan="1">finngen_R11_G6_TRINEU</td><td align="center" rowspan="1" colspan="1">1973</td><td align="center" rowspan="1" colspan="1">395,832</td><td align="center" rowspan="1" colspan="1">21,305,028</td><td align="center" rowspan="1" colspan="1">European</td></tr><tr><td align="left" rowspan="1" colspan="1">Constipation</td><td align="center" rowspan="1" colspan="1">finngen_R11_K11_CONSTIPATION</td><td align="center" rowspan="1" colspan="1">44,590</td><td align="center" rowspan="1" colspan="1">409,143</td><td align="center" rowspan="1" colspan="1">21,306,794</td><td align="center" rowspan="1" colspan="1">European</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="brb371302-sec-0090"><label>2.3</label><title>Selection Criteria for Genetic Variants</title><p>To meet the three core assumptions necessary for Mendelian randomization studies, we first selected single nucleotide polymorphisms (SNPs) significantly associated with the exposure factor at a genome‐wide level (<italic toggle="yes">p</italic> &lt; 5 × 10<sup>−</sup>
+<sup>8</sup>, <italic toggle="yes">r</italic>
+<sup>2</sup> &lt; 0.001, genetic distance = 10,000 KB). Subsequently, we excluded SNPs exhibiting significant heterogeneity based on heterogeneity testing, ultimately retaining those SNPs that were significantly associated with the exposure factor as instrumental variables. To evaluate whether the selected instrumental variables were subject to weak instrument bias, we calculated the F‐statistic, excluding SNPs with an <italic toggle="yes">F</italic>‐statistic of less than 10.</p></sec><sec id="brb371302-sec-0100"><label>2.4</label><title>Data Analysis</title><p>This study primarily employed random‐effects inverse variance weighting (IVW) along with supplementary methods, including weighted median, MR‐Egger, weighted mode, and simple mode, for sensitivity analysis to evaluate the validity and robustness of the IVW results. Odds ratios (OR) were used to assess the potential causal relationships between twelve neuropsychiatric disorders and constipation, with a significance threshold set at <italic toggle="yes">p</italic> &lt; 0.05. To avoid statistical significance driven by trivial effects, this study incorporates the Region of Practical Equivalence (ROPE) to distinguish between statistical significance and practical relevance. The ROPE range is defined as log OR ∈ [−0.18, 0.18] (equivalent to OR: 0.83 − 1.19), an empirical threshold widely adopted in epidemiology, medical statistics, and Bayesian analysis (Schönbrodt and Wagenmakers <xref rid="brb371302-bib-0036" ref-type="bibr">2018</xref>; Zou et al. <xref rid="brb371302-bib-0032" ref-type="bibr">2024</xref>). We used the leave‐one‐out method for sensitivity analysis to determine the robustness of the results. To mitigate bias from horizontal pleiotropy, we applied the MR‐Egger intercept test to detect pleiotropy within the data, with a <italic toggle="yes">p</italic>‐value &lt; 0.05 indicating the presence of pleiotropy. Finally, to further assess the robustness of statistically significant findings, we utilized Cochran's <italic toggle="yes">Q</italic> test <italic toggle="yes">p</italic>‐value to evaluate heterogeneity in the analysis, with a Cochran <italic toggle="yes">Q</italic>‐derived <italic toggle="yes">p</italic> ≥ 0.05 suggesting no heterogeneity in the causal analysis.</p></sec></sec><sec id="brb371302-sec-0110"><label>3</label><title>Results</title><sec id="brb371302-sec-0120"><label>3.1</label><title>Causal Effect of Neuropsychiatric Disorders on Constipation</title><p>The Mendelian randomization results for 12 neuropsychiatric disorders as exposures and constipation as an outcome are presented in <bold>Table</bold> <xref rid="brb371302-tbl-0002" ref-type="table">
+<bold>2</bold>
+</xref>. We observed that anxiety (IVW OR = 1.133; 95% CI: 1.021–1.258; <italic toggle="yes">p</italic> = 0.020) and depression (IVW OR = 1.149; 95% CI: 1.071–1.232; <italic toggle="yes">p</italic> = 0.000) were significantly associated with an increased risk of constipation. Furthermore, results from supplementary MR methods including weighted median, MR‐Egger, weighted mode, and simple mode were consistent with the IVW estimates, all indicating positive causal effects. Specifically, eight single nucleotide polymorphisms (SNPs) were selected as instrumental variables for anxiety and 25 SNPs for depression.</p><table-wrap position="float" id="brb371302-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Mendelian randomization analysis results (12 neuropsychiatric disorders as exposures, constipation as the outcome).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Exposure</th><th align="center" rowspan="1" colspan="1">Outcome</th><th align="center" rowspan="1" colspan="1">N(SNPs)</th><th align="center" rowspan="1" colspan="1">Method</th><th align="center" rowspan="1" colspan="1">OR(95%CI)</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Anxiety disorders</td><td align="center" rowspan="1" colspan="1">Constipation</td><td align="center" rowspan="1" colspan="1">8</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.133 (1.021–1.258)</td><td align="center" rowspan="1" colspan="1">0.020</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.148 (0.783–1.682)</td><td align="center" rowspan="1" colspan="1">0.507</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.153 (1.013–1.312)</td><td align="center" rowspan="1" colspan="1">0.031</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.178 (0.978–1.420)</td><td align="center" rowspan="1" colspan="1">0.128</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.179 (0.975–1.427)</td><td align="center" rowspan="1" colspan="1">0.134</td></tr><tr><td align="left" rowspan="1" colspan="1">Depression</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">25</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.149 (1.071–1.232)</td><td align="center" rowspan="1" colspan="1">0.000</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.514 (1.116–2.056)</td><td align="center" rowspan="1" colspan="1">0.014</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.143 (1.038–1.258)</td><td align="center" rowspan="1" colspan="1">0.006</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.202 (1.004–1.439)</td><td align="center" rowspan="1" colspan="1">0.057</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.094 (0.918–1.306)</td><td align="center" rowspan="1" colspan="1">0.323</td></tr><tr><td align="left" rowspan="1" colspan="1">Bipolar affective disorders</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">20</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.053 (1.003–1.106)</td><td align="center" rowspan="1" colspan="1">0.038</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.034 (0.900–1.189)</td><td align="center" rowspan="1" colspan="1">0.641</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.064 (1.007–1.125)</td><td align="center" rowspan="1" colspan="1">0.026</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.065 (0.969–1.170)</td><td align="center" rowspan="1" colspan="1">0.205</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.063 (0.965–1.173)</td><td align="center" rowspan="1" colspan="1">0.230</td></tr><tr><td align="left" rowspan="1" colspan="1">Schizophrenia</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">12</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.020 (0.987–1.054)</td><td align="center" rowspan="1" colspan="1">0.243</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.052 (0.983–1.127)</td><td align="center" rowspan="1" colspan="1">0.175</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.014 (0.970–1.061)</td><td align="center" rowspan="1" colspan="1">0.532</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.011 (0.937–1.091)</td><td align="center" rowspan="1" colspan="1">0.784</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.011 (0.931–1.098)</td><td align="center" rowspan="1" colspan="1">0.801</td></tr><tr><td align="left" rowspan="1" colspan="1">Parkinson's disease</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.027 (0.932–1.132)</td><td align="center" rowspan="1" colspan="1">0.590</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.040 (0.760–1.423)</td><td align="center" rowspan="1" colspan="1">0.829</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.025 (0.955–1.100)</td><td align="center" rowspan="1" colspan="1">0.491</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">0.952 (0.803–1.127)</td><td align="center" rowspan="1" colspan="1">0.606</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">0.950 (0.821–1.100)</td><td align="center" rowspan="1" colspan="1">0.545</td></tr><tr><td align="left" rowspan="1" colspan="1">Alzheimer disease</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">17</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.019 (0.963–1.077)</td><td align="center" rowspan="1" colspan="1">0.010</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.019 (0.987–1.053)</td><td align="center" rowspan="1" colspan="1">0.271</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.036 (1.009–1.063)</td><td align="center" rowspan="1" colspan="1">0.009</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.019 (0.963–1.077)</td><td align="center" rowspan="1" colspan="1">0.526</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.034 (1.011–1.058)</td><td align="center" rowspan="1" colspan="1">0.010</td></tr><tr><td align="left" rowspan="1" colspan="1">Stroke</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">13</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.082 (0.992–1.179)</td><td align="center" rowspan="1" colspan="1">0.075</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">0.864 (0.684–1.090)</td><td align="center" rowspan="1" colspan="1">0.243</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">0.996 (0.893–1.111)</td><td align="center" rowspan="1" colspan="1">0.944</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">0.972 (0.777–1.216)</td><td align="center" rowspan="1" colspan="1">0.808</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">0.976 (0.862–1.105)</td><td align="center" rowspan="1" colspan="1">0.705</td></tr><tr><td align="left" rowspan="1" colspan="1">Multiple sclerosis</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">11</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.001 (0.978–1.024)</td><td align="center" rowspan="1" colspan="1">0.942</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.014 (0.973–1.057)</td><td align="center" rowspan="1" colspan="1">0.519</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.015 (0.992–1.039)</td><td align="center" rowspan="1" colspan="1">0.215</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">0.962 (0.905–1.023)</td><td align="center" rowspan="1" colspan="1">0.248</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.020 (0.996–1.044)</td><td align="center" rowspan="1" colspan="1">0.128</td></tr><tr><td align="left" rowspan="1" colspan="1">Hydrocephalus</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">0.995 (0.920–1.077)</td><td align="center" rowspan="1" colspan="1">0.907</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.729 (0.875–3.418)</td><td align="center" rowspan="1" colspan="1">0.256</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">0.996 (0.942–1.052)</td><td align="center" rowspan="1" colspan="1">0.875</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">0.943 (0.825–1.078)</td><td align="center" rowspan="1" colspan="1">0.453</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">0.949 (0.834–1.079)</td><td align="center" rowspan="1" colspan="1">0.481</td></tr><tr><td align="left" rowspan="1" colspan="1">Epilepsy</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">21</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.046 (0.987–1.108)</td><td align="center" rowspan="1" colspan="1">0.131</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.013 (0.896–1.146)</td><td align="center" rowspan="1" colspan="1">0.835</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.053 (0.975–1.137)</td><td align="center" rowspan="1" colspan="1">0.188</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.091 (0.927–1.283)</td><td align="center" rowspan="1" colspan="1">0.306</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.082 (0.915–1.279)</td><td align="center" rowspan="1" colspan="1">0.368</td></tr><tr><td align="left" rowspan="1" colspan="1">Migraine</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">9</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.045 (0.948–1.152)</td><td align="center" rowspan="1" colspan="1">0.374</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.078 (0.685–1.695)</td><td align="center" rowspan="1" colspan="1">0.756</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.073 (0.959–1.202)</td><td align="center" rowspan="1" colspan="1">0.218</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.152 (0.938–1.414)</td><td align="center" rowspan="1" colspan="1">0.215</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.117 (0.942–1.325)</td><td align="center" rowspan="1" colspan="1">0.239</td></tr><tr><td align="left" rowspan="1" colspan="1">Trigeminal neuralgia</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">5</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">0.966 (0.925–1.008)</td><td align="center" rowspan="1" colspan="1">0.112</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.040 (0.932–1.160)</td><td align="center" rowspan="1" colspan="1">0.537</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">0.939 (0.886–0.995)</td><td align="center" rowspan="1" colspan="1">0.032</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">0.934 (0.856–1.019)</td><td align="center" rowspan="1" colspan="1">0.198</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">0.933 (0.849–1.026)</td><td align="center" rowspan="1" colspan="1">0.227</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="brb371302-sec-0130"><label>3.2</label><title>Causal Effect of Constipation on Neuropsychiatric Disorders</title><p>When we conducted a reverse Mendelian randomization analysis with constipation as the exposure factor and twelve neuropsychiatric disorders as the outcomes, the results were shown in Table <xref rid="brb371302-tbl-0003" ref-type="table">3</xref>. We identified 19 SNPs as instrumental variables and observed that constipation may be associated with the occurrence of anxiety (IVW OR = 1.273; 95% CI: 1.116–1.452; <italic toggle="yes">p</italic> = 0.000), depression (IVW OR = 1.207; 95% CI: 1.095–1.331; <italic toggle="yes">p</italic> = 0.000), epilepsy (IVW OR = 1.331; 95% CI: 1.103–1.607; <italic toggle="yes">p</italic> = 0.003), and trigeminal neuralgia (IVW OR = 1.897; 95% CI: 1.225–2.936; <italic toggle="yes">p</italic> = 0.004). Furthermore, supplementary methods, including weighted median, MR‐Egger, weighted mode, and simple mode, were consistent with the direction of the IVW, all indicating a positive effect.</p><table-wrap position="float" id="brb371302-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Mendelian randomization analysis results (constipation as the exposure, 12 neuropsychiatric disorders as the outcomes).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Exposure</th><th align="center" rowspan="1" colspan="1">Outcome</th><th align="center" rowspan="1" colspan="1">N(SNPs)</th><th align="center" rowspan="1" colspan="1">Method</th><th align="center" rowspan="1" colspan="1">OR(95%CI)</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Constipation</td><td align="center" rowspan="1" colspan="1">Anxiety disorders</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.273 (1.116–1.452)</td><td align="center" rowspan="1" colspan="1">0.000</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.167 (0.766–1.778)</td><td align="center" rowspan="1" colspan="1">0.481</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.191 (1.002–1.416)</td><td align="center" rowspan="1" colspan="1">0.047</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.338 (0.958–1.867)</td><td align="center" rowspan="1" colspan="1">0.104</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.226 (0.891–1.687)</td><td align="center" rowspan="1" colspan="1">0.227</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Depression</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.207 (1.095–1.331)</td><td align="center" rowspan="1" colspan="1">0.00</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.395 (1.029–1.892)</td><td align="center" rowspan="1" colspan="1">0.046</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.141 (1.003–1.296)</td><td align="center" rowspan="1" colspan="1">0.044</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.089 (0.855–1.387)</td><td align="center" rowspan="1" colspan="1">0.460</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.089 (0.871–1.361)</td><td align="center" rowspan="1" colspan="1">0.465</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Bipolar affective disorders</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.199 (0.959–1.499)</td><td align="center" rowspan="1" colspan="1">0.111</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">0.980 (0.487–1.977)</td><td align="center" rowspan="1" colspan="1">0.958</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.211 (0.900–1.630)</td><td align="center" rowspan="1" colspan="1">0.207</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.296 (0.717–2.341)</td><td align="center" rowspan="1" colspan="1">0.402</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.271 (0.741–2.181)</td><td align="center" rowspan="1" colspan="1">0.394</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Schizophrenia</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.021 (0.721–1.446)</td><td align="center" rowspan="1" colspan="1">0.905</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.657 (0.554–4.963)</td><td align="center" rowspan="1" colspan="1">0.378</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">0.970 (0.611–1.540)</td><td align="center" rowspan="1" colspan="1">0.897</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">0.853 (0.349–2.084)</td><td align="center" rowspan="1" colspan="1">0.732</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">0.827 (0.360–1.901)</td><td align="center" rowspan="1" colspan="1">0.660</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Parkinson's disease</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.279 (0.981–1.668)</td><td align="center" rowspan="1" colspan="1">0.067</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">0.734 (0.319–1.686)</td><td align="center" rowspan="1" colspan="1">0.476</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.182 (0.812–1.720)</td><td align="center" rowspan="1" colspan="1">0.382</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.209 (0.627–2.333)</td><td align="center" rowspan="1" colspan="1">0.578</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.194 (0.607–2.346)</td><td align="center" rowspan="1" colspan="1">0.614</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Alzheimer disease</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.222 (0.939–1.589)</td><td align="center" rowspan="1" colspan="1">0.136</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.829 (0.800–4.180)</td><td align="center" rowspan="1" colspan="1">0.170</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.233 (0.923–1.646)</td><td align="center" rowspan="1" colspan="1">0.156</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.280 (0.671–2.440)</td><td align="center" rowspan="1" colspan="1">0.463</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.261 (0.697–2.282)</td><td align="center" rowspan="1" colspan="1">0.454</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Stroke</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.072 (0.956–1.202)</td><td align="center" rowspan="1" colspan="1">0.234</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">0.955 (0.663–1.376)</td><td align="center" rowspan="1" colspan="1">0.809</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.078 (0.931–1.248)</td><td align="center" rowspan="1" colspan="1">0.316</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.118 (0.847–1.475)</td><td align="center" rowspan="1" colspan="1">0.442</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.125 (0.851–1.487)</td><td align="center" rowspan="1" colspan="1">0.418</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Multiple sclerosis</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.135(0.786–1.639)</td><td align="center" rowspan="1" colspan="1">0.499</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.880 (0.597–5.920)</td><td align="center" rowspan="1" colspan="1">0.295</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.107 (0.660–1.856)</td><td align="center" rowspan="1" colspan="1">0.701</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.109 (0.485–2.537)</td><td align="center" rowspan="1" colspan="1">0.809</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.109 (0.473–2.602)</td><td align="center" rowspan="1" colspan="1">0.815</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Hydrocephalus</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">0.138 (0.915–1.907)</td><td align="center" rowspan="1" colspan="1">0.138</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.970 (0.622–6.240)</td><td align="center" rowspan="1" colspan="1">0.265</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.388 (0.819–2.360)</td><td align="center" rowspan="1" colspan="1">0.226</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.697 (0.641–4.490)</td><td align="center" rowspan="1" colspan="1">0.301</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.662 (0.610–4.532)</td><td align="center" rowspan="1" colspan="1">0.333</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Epilepsy</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.331 (1.103–1.607)</td><td align="center" rowspan="1" colspan="1">0.003</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">2.215 (1.284–3.823)</td><td align="center" rowspan="1" colspan="1">0.011</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.423 (1.121–1.806)</td><td align="center" rowspan="1" colspan="1">0.004</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.441 (0.896–2.317)</td><td align="center" rowspan="1" colspan="1">0.149</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.415 (0.889–2.252)</td><td align="center" rowspan="1" colspan="1">0.161</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Migraine</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.143 (0.981–1.331)</td><td align="center" rowspan="1" colspan="1">0.087</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">0.975 (0.599–1.587)</td><td align="center" rowspan="1" colspan="1">0.921</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">1.209 (0.997–1.465)</td><td align="center" rowspan="1" colspan="1">0.053</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">1.241 (0.858–1.794)</td><td align="center" rowspan="1" colspan="1">0.267</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">1.235 (0.872–1.748)</td><td align="center" rowspan="1" colspan="1">0.249</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Trigeminal neuralgia</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.897 (1.225–2.936)</td><td align="center" rowspan="1" colspan="1">0.004</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">2.634 (0.650–10.678)</td><td align="center" rowspan="1" colspan="1">0.193</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted median</td><td align="center" rowspan="1" colspan="1">2.440 (1.372–4.339)</td><td align="center" rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Simple mode</td><td align="center" rowspan="1" colspan="1">2.677 (1.026–6.985)</td><td align="center" rowspan="1" colspan="1">0.060</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1">Weighted mode</td><td align="center" rowspan="1" colspan="1">2.677 (1.032–6.945)</td><td align="center" rowspan="1" colspan="1">0.058</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap></sec><sec id="brb371302-sec-0140"><label>3.3</label><title>Sensitivity Analysis</title><p>We further conducted horizontal pleiotropy and heterogeneity tests for the phenotypes with positive results, as summarized in Tables <xref rid="brb371302-tbl-0004" ref-type="table">4</xref> and <xref rid="brb371302-tbl-0005" ref-type="table">5</xref>. As shown in the tables, we found no evidence of horizontal pleiotropy or heterogeneity. We visualized the results of all analyses, creating scatter plots, leave‐one‐out plots, and funnel plots in Figures <xref rid="brb371302-fig-0001" ref-type="fig">1</xref> and <xref rid="brb371302-fig-0002" ref-type="fig">2</xref>.</p><table-wrap position="float" id="brb371302-tbl-0004" content-type="TABLE" orientation="portrait"><label>TABLE 4</label><caption><p>Horizontal pleiotropy (MR‐Egger intercept test).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Exposure</th><th align="center" rowspan="1" colspan="1">Outcome</th><th align="center" rowspan="1" colspan="1">Egger‐Intercept</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody><tr><td rowspan="4" align="left" colspan="1">Constipation</td><td align="center" rowspan="1" colspan="1">Anxiety disorders</td><td align="center" rowspan="1" colspan="1">0.004</td><td align="center" rowspan="1" colspan="1">0.676</td></tr><tr><td align="center" rowspan="1" colspan="1">Depression</td><td align="center" rowspan="1" colspan="1">−0.007</td><td align="center" rowspan="1" colspan="1">0.338</td></tr><tr><td align="center" rowspan="1" colspan="1">Epilepsy</td><td align="center" rowspan="1" colspan="1">−0.025</td><td align="center" rowspan="1" colspan="1">0.070</td></tr><tr><td align="center" rowspan="1" colspan="1">Trigeminal neuralgia</td><td align="center" rowspan="1" colspan="1">−0.016</td><td align="center" rowspan="1" colspan="1">0.634</td></tr><tr><td align="left" rowspan="1" colspan="1">Anxiety disorders</td><td rowspan="4" align="center" colspan="1">Constipation</td><td align="center" rowspan="1" colspan="1">−0.001</td><td align="center" rowspan="1" colspan="1">0.948</td></tr><tr><td align="left" rowspan="1" colspan="1">Depression</td><td align="center" rowspan="1" colspan="1">−0.014</td><td align="center" rowspan="1" colspan="1">0.082</td></tr><tr><td align="left" rowspan="1" colspan="1">Bipolar affective disorders</td><td align="center" rowspan="1" colspan="1">0.002</td><td align="center" rowspan="1" colspan="1">0.787</td></tr><tr><td align="left" rowspan="1" colspan="1">Alzheimer disease</td><td align="center" rowspan="1" colspan="1">0.004</td><td align="center" rowspan="1" colspan="1">0.343</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><table-wrap position="float" id="brb371302-tbl-0005" content-type="TABLE" orientation="portrait"><label>TABLE 5</label><caption><p>Heterogeneity tests (Cochran's <italic toggle="yes">Q</italic> test results).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Exposure</th><th align="center" rowspan="1" colspan="1">Outcome</th><th align="center" rowspan="1" colspan="1">Method</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">Q</italic>‐value</th><th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>‐value</th></tr></thead><tbody><tr><td rowspan="8" align="left" colspan="1">Constipation</td><td rowspan="2" align="center" colspan="1">Anxiety disorders</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">24.393</td><td align="center" rowspan="1" colspan="1">0.142</td></tr><tr><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">24.136</td><td align="center" rowspan="1" colspan="1">0.116</td></tr><tr><td rowspan="2" align="center" colspan="1">Depression</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">21.584</td><td align="center" rowspan="1" colspan="1">0.251</td></tr><tr><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">20.418</td><td align="center" rowspan="1" colspan="1">0.253</td></tr><tr><td rowspan="2" align="center" colspan="1">Epilepsy</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">24.529</td><td align="center" rowspan="1" colspan="1">0.138</td></tr><tr><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">20.110</td><td align="center" rowspan="1" colspan="1">0.269</td></tr><tr><td rowspan="2" align="center" colspan="1">Trigeminal neuralgia</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">19.164</td><td align="center" rowspan="1" colspan="1">0.381</td></tr><tr><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">18.902</td><td align="center" rowspan="1" colspan="1">0.334</td></tr><tr><td rowspan="2" align="left" colspan="1">Anxiety disorders</td><td rowspan="8" align="center" colspan="1">Constipation</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">1.447</td><td align="center" rowspan="1" colspan="1">0.984</td></tr><tr><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">1.442</td><td align="center" rowspan="1" colspan="1">0.963</td></tr><tr><td rowspan="2" align="left" colspan="1">Depression</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">21.859</td><td align="center" rowspan="1" colspan="1">0.588</td></tr><tr><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">18.546</td><td align="center" rowspan="1" colspan="1">0.727</td></tr><tr><td rowspan="2" align="left" colspan="1">Bipolar affective disorders</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">29.466</td><td align="center" rowspan="1" colspan="1">0.059</td></tr><tr><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">29.343</td><td align="center" rowspan="1" colspan="1">0.044</td></tr><tr><td rowspan="2" align="left" colspan="1">Alzheimer disease</td><td align="center" rowspan="1" colspan="1">IVW</td><td align="center" rowspan="1" colspan="1">22.564</td><td align="center" rowspan="1" colspan="1">0.126</td></tr><tr><td align="center" rowspan="1" colspan="1">MR Egger</td><td align="center" rowspan="1" colspan="1">21.208</td><td align="center" rowspan="1" colspan="1">0.130</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><fig position="float" fig-type="FIGURE" id="brb371302-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Twelve neuropsychiatric disorders as exposures and constipation as the outcome. (A) The scatter plots of MR analyses, (B) The leave‐one‐out plots for assessing the robustness, and (C) The funnel plots for assessing heterogeneity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="BRB3-16-e71302-g002.jpg"/></fig><fig position="float" fig-type="FIGURE" id="brb371302-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Constipation as the exposure and 12 neuropsychiatric disorders as the outcomes. (A) The scatter plots of MR analyses, (B) The leave‐one‐out plots for assessing the robustness, and (C) The funnel plots for assessing heterogeneity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="BRB3-16-e71302-g001.jpg"/></fig></sec></sec><sec id="brb371302-sec-0150"><label>4</label><title>Discussion</title><p>The data indicate that genetic susceptibility to anxiety disorder and depression may increase the risk of constipation. Based on the analysis using the ternary decision rule, regarding the association between anxiety disorder and constipation, the 95% ​CIs of the OR values obtained by all analytical methods overlap with the region of ROPE. This suggests that the current evidence is insufficient to confirm the clinically significant causal effect of anxiety disorders on constipation. However, due to the limitation of statistical power, the possibility of a weak association between the two cannot be completely ruled out.​ In the analysis of the association between depression and constipation, the results obtained by different methods show discrepancies; the OR values from the IVW method and the weighted median method fall within the ROPE, while the OR value from the MR‐Egger method lies outside the ROPE. This result suggests that depression may exert a weak enhancing effect on the risk of constipation through mechanisms independent of the emotional pathway. The contradictory nature of the aforementioned results indicates that the conclusions of the main analysis may be disturbed by pleiotropic factors, and their reliability needs to be further verified through additional research. Results from the reverse study indicated that the genetic susceptibility to constipation was associated with the onset of anxiety, depression, epilepsy, and trigeminal neuralgia. However, we found no genetic‐level correlation between neuropsychiatric disorders (e.g., Parkinson's disease, multiple sclerosis) and constipation, despite prior observational evidence supporting this association.</p><p>Constipation is a common clinical symptom characterized by irregular or difficult bowel movements. This condition significantly affects patients' quality of life and increases healthcare burdens (Stern and Davis <xref rid="brb371302-bib-0039" ref-type="bibr">2016</xref>; Cifci et al. <xref rid="brb371302-bib-0015" ref-type="bibr">2023</xref>). Neuropsychiatric disorders are prevalent brain diseases with complex etiologies. Both genetic and non‐genetic factors contribute to disease susceptibility, imposing a significant economic burden on patients' families, healthcare systems, and nations (Kennedy et al. <xref rid="brb371302-bib-0029" ref-type="bibr">2003</xref>). Our Mendelian randomization study based on the Finnish R11 database suggests that there may be a bidirectional causal relationship between constipation and anxiety disorder as well as depression, which is consistent with the findings of previously published observational studies (Cheng et al., <xref rid="brb371302-bib-0014" ref-type="bibr">2003</xref>). A meta‐analysis indicated that the risk of Alzheimer's disease increased among patients with constipation, potentially due to alterations in the gut environment triggering neurodegenerative diseases through the gut‐brain axis, although our findings did not support a clinically meaningful causal relationship between Alzheimer's disease and constipation (Fu et al. <xref rid="brb371302-bib-0019" ref-type="bibr">2020</xref>). Furthermore, we identified an association between constipation and an increased risk of epilepsy and trigeminal neuralgia. Our study found no causal relationship between stroke and constipation, contradicting some cross‐sectional studies but aligning with prior Mendelian randomization findings regarding the relationship between constipation and stroke (Sun et al. <xref rid="brb371302-bib-0040" ref-type="bibr">2022</xref>; Camara‐Lemarroy et al. <xref rid="brb371302-bib-0012" ref-type="bibr">2014</xref>). Similarly, regarding the relationship between Parkinson's disease and constipation, the results do not support a causal association, conflicting with earlier observational studies (Svensson et al. <xref rid="brb371302-bib-0041" ref-type="bibr">2016</xref>). Several factors may account for the differences between our findings and previously published research. First, observational studies can suggest associations between diseases but may not establish causality. Constipation may share common underlying factors with stroke and Parkinson's disease, such as lifestyle and age, while our Mendelian randomization study effectively controlled for these confounding variables at the genetic level (Boden‐Albala et al. <xref rid="brb371302-bib-0009" ref-type="bibr">2011</xref>; Fu et al. <xref rid="brb371302-bib-0021" ref-type="bibr">2022</xref>). Second, our study population may differ from that of the observational study in terms of gender and age structure. Such differences may influence or obscure the relationship between constipation and stroke or Parkinson's disease, leading to different results (Burgess et al. <xref rid="brb371302-bib-0011" ref-type="bibr">2012</xref>).</p><p>Numerous studies have reported gastrointestinal motility disorders among patients with neuropsychiatric disorders, with constipation being the most common (Xu et al. <xref rid="brb371302-bib-0046" ref-type="bibr">2021</xref>). Several physiological mechanisms may clarify the causal relationship between neuropsychiatric disorders and constipation. Research indicated that mood disorders could affect intestinal motility, consequently leading to constipation (Gorard et al. <xref rid="brb371302-bib-0025" ref-type="bibr">1996</xref>). Conversely, constipation may stimulate the release of pro‐inflammatory cytokines, compromising the integrity of the intestinal barrier and triggering systemic chronic low‐grade inflammation (Gao et al. <xref rid="brb371302-bib-0023" ref-type="bibr">2022</xref>). Additionally, pro‐inflammatory cytokines activate the serotonin reuptake transporter (SERT) in the gut, leading to reduced serotonin levels, potentially explaining constipation's role in the development of depression (Mittal et al. <xref rid="brb371302-bib-0001" ref-type="bibr">1996</xref>; Shatri et al. <xref rid="brb371302-bib-0037" ref-type="bibr">2023</xref>). The gut microbiota plays a crucial role in both human physiology and pathology. Recent studies have shown that various neuropsychiatric disorders exhibit alterations in gut microbiota, including depression, anxiety, autism, schizophrenia, Parkinson's disease, Alzheimer's disease, stroke, epilepsy, and multiple sclerosis (Sorboni et al. <xref rid="brb371302-bib-0038" ref-type="bibr">2022</xref>; Zhuang et al. <xref rid="brb371302-bib-0003" ref-type="bibr">2018</xref>). Research suggested that gut microbiota imbalance may contribute to constipation, mainly characterized by a decline in microbial diversity and abundance, a reduction in beneficial bacteria, and an increase in harmful bacteria (Fu et al. <xref rid="brb371302-bib-0020" ref-type="bibr">2021</xref>; Dimidi et al. <xref rid="brb371302-bib-0017" ref-type="bibr">2017</xref>). The causal relationship between constipation and neuropsychiatric disorders may be mediated by gut microbiota dysbiosis. Moreover, a bidirectional communication pathway between the gut microbiota and the brain, known as the gut‐brain axis, has been proposed (Guevara‐Gonzaléz et al. <xref rid="brb371302-bib-0026" ref-type="bibr">2022</xref>). Several studies have confirmed that dysregulation of gut‐brain axis signaling is closely associated with the onset of various neurodegenerative and psychiatric disorders (Anand et al. <xref rid="brb371302-bib-0005" ref-type="bibr">2022</xref>). The complex microbial ecosystem of the gastrointestinal tract regulates central nervous system function through microbial actions and the gut‐brain axis. In addition, research has suggested that probiotics are a promising treatment strategy for various neuropsychiatric disorders and constipation (Liu et al. <xref rid="brb371302-bib-0030" ref-type="bibr">2019</xref>; Dimidi et al. <xref rid="brb371302-bib-0017" ref-type="bibr">2017</xref>; Naomi et al. <xref rid="brb371302-bib-0032" ref-type="bibr">2021</xref>). The gut‐immune‐brain axis has emerged as a new field of research into the mechanisms of neuropsychiatric diseases, potentially revealing how constipation impacts these disorders (Delaney and Hornig <xref rid="brb371302-bib-0016" ref-type="bibr">2018</xref>).</p><p>This study represents the first systematic exploration of the causal relationship between neuropsychiatric disorders and constipation. We employed a bidirectional two‐sample MR method, providing robust causal inference for our findings. Due to ethical constraints, implementing this experimental design was not feasible within randomized controlled trials (RCTs). Furthermore, achieving a sufficient number of endpoint events in RCTs often necessitates large sample sizes and long‐term follow‐up, which may not always be practical. Second, our two‐sample MR approach was based on existing large‐scale GWAS data, ensuring our findings were not confounded by behavioral, social, psychological, or other factors. While previous Mendelian randomization studies have identified causal links between constipation and certain psychiatric disorders, the present study possesses distinct advantages. First, most prior investigations focused solely on associations between constipation and a single or small number of neuropsychiatric disorders (e.g., exclusively examining the depression‐constipation relationship). In contrast, our study incorporates twelve common neuropsychiatric disorders (including anxiety, depression, bipolar affective disorder, Alzheimer's disease, epilepsy, and trigeminal neuralgia), thereby comprehensively covering high‐incidence and high‐impact disease entities. Second, using a bidirectional two‐sample MR design, we not only clarified the positive causal effects of specific neuropsychiatric disorders on constipation but also confirmed the reverse causal impacts of constipation on some neuropsychiatric disorders, thus revealing their complex bidirectional causal relationships. Third, we utilized GWAS datasets distinct from those in previous research. Consistency verification across different databases strengthens the conclusions of earlier studies and enhances the robustness of the causal associations identified. Therefore, our research outcomes hold significant clinical value and offer new perspectives for disease management. However, this study has several limitations. First, the study population consists solely of individuals of European descent, limiting the generalizability of our findings. Second, various neuropsychiatric disorders and constipation exhibit different clinical subtypes, and this study did not perform subgroup analyses to determine specific causal relationships among the subtypes. Future research should conduct more reliable large‐sample, multi‐center clinical studies to elucidate these causal relationships further.</p></sec><sec id="brb371302-sec-0160"><label>5</label><title>Conclusion</title><p>Our research elucidates the underlying bidirectional causal relationship between twelve common neuropsychiatric disorders and constipation. These findings emphasize the importance for clinical practitioners to prioritize the identification and management of constipation symptoms in patients with neuropsychiatric conditions, aiming to enhance their overall health and quality of life.</p></sec><sec id="brb371302-sec-0170"><title>Author Contributions</title><p>
+<bold>Guojie Zhao</bold>: conceptualization, data curation, formal analysis, methodology, resources, software, and writing – original draft. <bold>Haixia Ren</bold>: funding acquisition, methodology, resources, and writing – original draft. <bold>Yi Zhang</bold>: investigation, resources, and visualization. <bold>Zhi Wang and Qiao Yang</bold>: visualization. <bold>Shuang Liu, Minzhen Li, and Zhiyu Xiang</bold>: resources. <bold>Jingwen Liu</bold>: formal analysis, funding acquisition, project administration, supervision, validation, writing – original draft, writing – review and editing.</p></sec><sec id="brb371302-sec-0180"><title>Funding</title><p>This study was supported from the National Nature and Science Youth Fund of China (No. 82200598).</p></sec><sec id="brb371302-sec-0190"><title>Ethics Statement</title><p>The data analyzed in this study are de‐identified data obtained from GWAS summary data, and the ethics approval and consent to participate are not required.</p></sec><sec sec-type="COI-statement" id="brb371302-sec-0200"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><sec sec-type="data-availability" id="brb371302-sec-0220"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list id="brb371302-bibl-0001"><title>References</title><ref id="brb371302-bib-0001"><mixed-citation publication-type="journal" id="brb371302-cite-0001">
+<string-name name-style="western">
+<surname>Mittal</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. H.</given-names>
+<surname>Debs</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. P.</given-names>
+<surname>Patel</surname>
+</string-name>, et al. <year>1996</year>. “<article-title>Neurotransmitters: The Critical Modulators Regulating Gut‐brain Axis</article-title>.” <source>Journal of Cellular Physiology</source>
+<volume>232</volume>, no. <issue>9</issue>: <fpage>2359</fpage>–<lpage>2372</lpage>. <pub-id pub-id-type="doi">10.1002/jcp.25518</pub-id>.<pub-id pub-id-type="pmcid">PMC5772764</pub-id><pub-id pub-id-type="pmid">27512962</pub-id></mixed-citation></ref><ref id="brb371302-bib-0002"><mixed-citation publication-type="journal" id="brb371302-cite-0002">
+<string-name name-style="western">
+<surname>Skrivankova</surname>, <given-names>V. W.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>Richmond</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. A. R.</given-names>
+<surname>Woolf</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>Strengthening the Reporting of Observational Studies in Epidemiology Using Mendelian Randomization: The STROBE‐MR Statement</article-title>.” <source>JAMA</source>
+<volume>326</volume>: <fpage>1614</fpage>. <pub-id pub-id-type="doi">10.1001/jama.2021.18236</pub-id>.<pub-id pub-id-type="pmid">34698778</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0003"><mixed-citation publication-type="journal" id="brb371302-cite-0003">
+<string-name name-style="western">
+<surname>Zhuang</surname>, <given-names>Z. Q.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. L.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. W.</given-names>
+<surname>Li</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>Gut Microbiota Is Altered in Patients With Alzheimer's Disease</article-title>.” <source>Journal of Alzheimer's Disease</source>
+<volume>63</volume>: <fpage>1337</fpage>–<lpage>1346</lpage>. <pub-id pub-id-type="doi">10.3233/JAD-180176</pub-id>.<pub-id pub-id-type="pmid">29758946</pub-id></mixed-citation></ref><ref id="brb371302-bib-0004"><mixed-citation publication-type="journal" id="brb371302-cite-0004">
+<string-name name-style="western">
+<surname>Adams‐Carr</surname>, <given-names>K. L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Bestwick</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Shribman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Lees</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Schrag</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Noyce</surname>
+</string-name>. <year>2016</year>. “<article-title>Constipation Preceding Parkinson's Disease: A Systematic Review and Meta‐Analysis</article-title>.” <source>Journal of Neurology, Neurosurgery, and Psychiatry</source>
+<volume>87</volume>: <fpage>710</fpage>–<lpage>716</lpage>. <pub-id pub-id-type="doi">10.1136/jnnp-2015-311680</pub-id>.<pub-id pub-id-type="pmid">26345189</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0005"><mixed-citation publication-type="journal" id="brb371302-cite-0005">
+<string-name name-style="western">
+<surname>Anand</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>V. R.</given-names>
+<surname>Gorantla</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. B.</given-names>
+<surname>Chidambaram</surname>
+</string-name>. <year>2022</year>. “<article-title>The Role of Gut Dysbiosis in the Pathophysiology of Neuropsychiatric Disorders</article-title>.” <source>Cells</source>
+<volume>12</volume>: <elocation-id>54</elocation-id>. <pub-id pub-id-type="doi">10.3390/cells12010054</pub-id>.<pub-id pub-id-type="pmid">36611848</pub-id>
+<pub-id pub-id-type="pmcid">PMC9818777</pub-id></mixed-citation></ref><ref id="brb371302-bib-0006"><mixed-citation publication-type="journal" id="brb371302-cite-0006">
+<string-name name-style="western">
+<surname>Ballou</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Katon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Singh</surname>
+</string-name>, et al. <year>2019</year>. “<article-title>Chronic Diarrhea and Constipation Are More Common in Depressed Individuals</article-title>.” <source>Clinical Gastroenterology and Hepatology: Official Clinical Practical Journal of American Gastroenterology Association</source>
+<volume>17</volume>, no. <issue>13</issue>: <fpage>2696</fpage>–<lpage>2703</lpage>. <pub-id pub-id-type="doi">10.1016/j.cgh.2019.03.046</pub-id>.<pub-id pub-id-type="pmcid">PMC6776710</pub-id><pub-id pub-id-type="pmid">30954714</pub-id></mixed-citation></ref><ref id="brb371302-bib-0007"><mixed-citation publication-type="journal" id="brb371302-cite-0007">
+<string-name name-style="western">
+<surname>Beck</surname>, <given-names>V. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. L.</given-names>
+<surname>Isom</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. T.</given-names>
+<surname>Berg</surname>
+</string-name>. <year>2021</year>. “<article-title>Gastrointestinal Symptoms and Channelopathy‐Associated Epilepsy</article-title>.” <source>Journal of Pediatrics</source>
+<volume>237</volume>: <fpage>41</fpage>–<lpage>49.e1</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpeds.2021.06.034</pub-id>.<pub-id pub-id-type="pmid">34181986</pub-id>
+<pub-id pub-id-type="pmcid">PMC8478841</pub-id></mixed-citation></ref><ref id="brb371302-bib-0008"><mixed-citation publication-type="journal" id="brb371302-cite-0008">
+<string-name name-style="western">
+<surname>Bharucha</surname>, <given-names>A. E.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Wald</surname>
+</string-name>. <year>2019</year>. “<article-title>Chronic Constipation</article-title>.” <source>Mayo Clinic Proceedings</source>
+<volume>94</volume>: <fpage>2340</fpage>–<lpage>2357</lpage>. <pub-id pub-id-type="doi">10.1016/j.mayocp.2019.01.031</pub-id>.<pub-id pub-id-type="pmid">31054770</pub-id>
+<pub-id pub-id-type="pmcid">PMC6829047</pub-id></mixed-citation></ref><ref id="brb371302-bib-0009"><mixed-citation publication-type="journal" id="brb371302-cite-0009">
+<string-name name-style="western">
+<surname>Boden‐Albala</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Carman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Moran</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Doyle</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. C.</given-names>
+<surname>Paik</surname>
+</string-name>. <year>2011</year>. “<article-title>Perception of Recurrent Stroke Risk Among Black, White and Hispanic Ischemic Stroke and Transient Ischemic Attack Survivors: The SWIFT Study</article-title>.” <source>Neuroepidemiology</source>
+<volume>37</volume>: <fpage>83</fpage>–<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1159/000329522</pub-id>.<pub-id pub-id-type="pmid">21894045</pub-id>
+<pub-id pub-id-type="pmcid">PMC3186718</pub-id></mixed-citation></ref><ref id="brb371302-bib-0010"><mixed-citation publication-type="journal" id="brb371302-cite-0010">
+<string-name name-style="western">
+<surname>Bourre</surname>, <given-names>B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Desprez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Gourcerol</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. P.</given-names>
+<surname>Tavolacci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Duflot</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Leroi</surname>
+</string-name>. <year>2023</year>. “<article-title>Multiple Sclerosis and Bowel Symptoms: Frequency and Barriers to Their Management</article-title>.” <source>Multi Sclerosis and Related Disorders</source>
+<volume>78</volume>: <elocation-id>104919</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.msard.2023.104919</pub-id>.<pub-id pub-id-type="pmid">37579644</pub-id></mixed-citation></ref><ref id="brb371302-bib-0011"><mixed-citation publication-type="journal" id="brb371302-cite-0011">
+<string-name name-style="western">
+<surname>Burgess</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Butterworth</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Malarstig</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. G.</given-names>
+<surname>Thompson</surname>
+</string-name>. <year>2012</year>. “<article-title>Use of Mendelian Randomisation to Assess Potential Benefit of Clinical Intervention</article-title>.” <source>BMJ</source>
+<volume>345</volume>: <fpage>e7325</fpage>–<lpage>e7325</lpage>. <pub-id pub-id-type="doi">10.1136/bmj.e7325</pub-id>.<pub-id pub-id-type="pmid">23131671</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0012"><mixed-citation publication-type="journal" id="brb371302-cite-0012">
+<string-name name-style="western">
+<surname>Camara‐Lemarroy</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B. E.</given-names>
+<surname>Ibarra‐Yruegas</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Gongora‐Rivera</surname>
+</string-name>. <year>2014</year>. “<article-title>Gastrointestinal Complications After Ischemic Stroke</article-title>.” <source>Journal of the Neurological Sciences</source>
+<volume>346</volume>: <fpage>20</fpage>–<lpage>25</lpage>. <pub-id pub-id-type="doi">10.1016/j.jns.2014.08.027</pub-id>.<pub-id pub-id-type="pmid">25214444</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0013"><mixed-citation publication-type="journal" id="brb371302-cite-0013">
+<string-name name-style="western">
+<surname>Camilleri</surname>, <given-names>M.</given-names>
+</string-name>
+<year>2021</year>. “<article-title>Gastrointestinal Motility Disorders in Neurologic Disease</article-title>.” <source>Journal of Clinical Investigation</source>
+<volume>131</volume>, no. <issue>1</issue>: <elocation-id>e143771</elocation-id>. <pub-id pub-id-type="doi">10.1172/JCI143771</pub-id>.<pub-id pub-id-type="pmid">33586685</pub-id>
+<pub-id pub-id-type="pmcid">PMC7880310</pub-id></mixed-citation></ref><ref id="brb371302-bib-0014"><mixed-citation publication-type="journal" id="brb371302-cite-0014">
+<string-name name-style="western">
+<surname>Cheng</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. O. O.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. M.</given-names>
+<surname>Hui</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. K.</given-names>
+<surname>Lam</surname>
+</string-name>. <year>2003</year>. “<article-title>Coping Strategies, Illness Perception, Anxiety and Depression of Patients With Idiopathic Constipation: A Population‐based Study</article-title>.” <source>Alimentary Pharmacology and Therapeutics</source>
+<volume>18</volume>: <fpage>319</fpage>–<lpage>326</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2036.2003.01663.x</pub-id>.<pub-id pub-id-type="pmid">12895216</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0015"><mixed-citation publication-type="journal" id="brb371302-cite-0015">
+<string-name name-style="western">
+<surname>Cifci</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Gokdemir</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Aygun</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Guldal</surname>
+</string-name>. <year>2023</year>. “<article-title>Evaluation of Functional Constipation Frequency and Related Factors</article-title>.” <source>Family Practice</source>
+<volume>40</volume>: <fpage>268</fpage>–<lpage>272</lpage>. <pub-id pub-id-type="doi">10.1093/fampra/cmac108</pub-id>.<pub-id pub-id-type="pmid">36219062</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0016"><mixed-citation publication-type="journal" id="brb371302-cite-0016">
+<string-name name-style="western">
+<surname>Delaney</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hornig</surname>
+</string-name>. <year>2018</year>. “<article-title>Environmental Exposures and Neuropsychiatric Disorders: What Role Does the Gut–Immune–Brain Axis Play?</article-title>” <source>Current Environmental Health Reports</source>
+<volume>5</volume>: <fpage>158</fpage>–<lpage>169</lpage>. <pub-id pub-id-type="doi">10.1007/s40572-018-0186-z</pub-id>.<pub-id pub-id-type="pmid">29423662</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0017"><mixed-citation publication-type="journal" id="brb371302-cite-0017">
+<string-name name-style="western">
+<surname>Dimidi</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Christodoulides</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Scott</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Whelan</surname>
+</string-name>. <year>2017</year>. “<article-title>Mechanisms of Action of Probiotics and the Gastrointestinal Microbiota on Gut Motility and Constipation</article-title>.” <source>Advances in Nutrition</source>
+<volume>8</volume>, no. <issue>3</issue>: <fpage>484</fpage>–<lpage>494</lpage>. <pub-id pub-id-type="doi">10.3945/an.116.014407</pub-id>.<pub-id pub-id-type="pmid">28507013</pub-id>
+<pub-id pub-id-type="pmcid">PMC5421123</pub-id></mixed-citation></ref><ref id="brb371302-bib-0018"><mixed-citation publication-type="journal" id="brb371302-cite-0018">
+<string-name name-style="western">
+<surname>Emmanuel</surname>, <given-names>A. V.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H. J.</given-names>
+<surname>Mason</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Kamm</surname>
+</string-name>. <year>2001</year>. “<article-title>Relationship Between Psychological state and Level of Activity of Extrinsic Gut Innervation in Patients With a Functional Gut Disorder</article-title>.” <source>Gut</source>
+<volume>49</volume>, no. <issue>2</issue>: <fpage>209</fpage>–<lpage>213</lpage>. <pub-id pub-id-type="doi">10.1136/gut.49.2.209</pub-id>.<pub-id pub-id-type="pmid">11454796</pub-id>
+<pub-id pub-id-type="pmcid">PMC1728413</pub-id></mixed-citation></ref><ref id="brb371302-bib-0019"><mixed-citation publication-type="journal" id="brb371302-cite-0019">
+<string-name name-style="western">
+<surname>Fu</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gao</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K. K. L.</given-names>
+<surname>Yung</surname>
+</string-name>. <year>2020</year>. “<article-title>Association of Intestinal Disorders With Parkinson's Disease and Alzheimer's Disease: A Systematic Review and Meta‐Analysis</article-title>.” <source>ACS Chemical Neuroscience</source>
+<volume>11</volume>, no. <issue>3</issue>: <fpage>395</fpage>–<lpage>405</lpage>. <pub-id pub-id-type="doi">10.1021/acschemneuro.9b00607</pub-id>.<pub-id pub-id-type="pmid">31876406</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0020"><mixed-citation publication-type="journal" id="brb371302-cite-0020">
+<string-name name-style="western">
+<surname>Fu</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Shao</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>. <year>2021</year>. “<article-title>The Mechanism of Intestinal Flora Dysregulation Mediated by Intestinal Bacterial Biofilm to Induce Constipation</article-title>.” <source>Bioengineered</source>
+<volume>12</volume>: <fpage>6484</fpage>–<lpage>6498</lpage>. <pub-id pub-id-type="doi">10.1080/21655979.2021.1973356</pub-id>.<pub-id pub-id-type="pmid">34517785</pub-id>
+<pub-id pub-id-type="pmcid">PMC8806846</pub-id></mixed-citation></ref><ref id="brb371302-bib-0021"><mixed-citation publication-type="journal" id="brb371302-cite-0021">
+<string-name name-style="western">
+<surname>Fu</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. C.</given-names>
+<surname>Shih</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. H.</given-names>
+<surname>Wu</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Exploring the Causal Effect of Constipation on Parkinson's Disease Through Mediation Analysis of Microbial Data</article-title>.” <source>Frontiers in Cellular and Infection Microbiology</source>
+<volume>12</volume>: <elocation-id>871710</elocation-id>. <pub-id pub-id-type="doi">10.3389/fcimb.2022.871710</pub-id>.<pub-id pub-id-type="pmid">35646722</pub-id>
+<pub-id pub-id-type="pmcid">PMC9130588</pub-id></mixed-citation></ref><ref id="brb371302-bib-0022"><mixed-citation publication-type="journal" id="brb371302-cite-0022">
+<string-name name-style="western">
+<surname>Gabrielsson</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Tromans</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Watkins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Burrows</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Laugharne</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Shankar</surname>
+</string-name>. <year>2023</year>. “<article-title>Poo Matters! A Scoping Review of the Impact of Constipation on Epilepsy</article-title>.” <source>Seizure ‐ European Journal of Epilepsy</source>
+<volume>108</volume>: <fpage>127</fpage>–<lpage>136</lpage>. <pub-id pub-id-type="doi">10.1016/j.seizure.2023.03.023</pub-id>.<pub-id pub-id-type="pmid">37146516</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0023"><mixed-citation publication-type="journal" id="brb371302-cite-0023">
+<string-name name-style="western">
+<surname>Gao</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>He</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Hua</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Underlying Beneficial Effects of Rhubarb on Constipation‐induced Inflammation, Disorder of Gut Microbiome and Metabolism</article-title>.” <source>Frontiers in Pharmacology</source>
+<volume>13</volume>: <elocation-id>1048134</elocation-id>. <pub-id pub-id-type="doi">10.3389/fphar.2022.1048134</pub-id>.<pub-id pub-id-type="pmid">36545319</pub-id>
+<pub-id pub-id-type="pmcid">PMC9760883</pub-id></mixed-citation></ref><ref id="brb371302-bib-0024"><mixed-citation publication-type="journal" id="brb371302-cite-0024">
+<string-name name-style="western">
+<surname>Gong</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H. C.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Yu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y. T.</given-names>
+<surname>Chen</surname>
+</string-name>. <year>2024</year>. “<article-title>Auricular Acupressure Improve Constipation of Patients With Schizophrenia: A Pilot Randomized Controlled Study</article-title>.” <source>Biological Research for Nursing</source>
+<volume>26</volume>: <fpage>418</fpage>–<lpage>428</lpage>. <pub-id pub-id-type="doi">10.1177/10998004241236947</pub-id>.<pub-id pub-id-type="pmid">38439651</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0025"><mixed-citation publication-type="journal" id="brb371302-cite-0025">
+<string-name name-style="western">
+<surname>Gorard</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Gomborone</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. W.</given-names>
+<surname>Libby</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Farthing</surname>
+</string-name>. <year>1996</year>. “<article-title>Intestinal Transit in Anxiety and Depression</article-title>.” <source>Gut</source>
+<volume>39</volume>: <fpage>551</fpage>–<lpage>555</lpage>. <pub-id pub-id-type="doi">10.1136/gut.39.4.551</pub-id>.<pub-id pub-id-type="pmid">8944564</pub-id>
+<pub-id pub-id-type="pmcid">PMC1383268</pub-id></mixed-citation></ref><ref id="brb371302-bib-0026"><mixed-citation publication-type="journal" id="brb371302-cite-0026">
+<string-name name-style="western">
+<surname>Guevara‐Gonzaléz</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Guevara‐Campos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>González</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Cauli</surname>
+</string-name>. <year>2022</year>. “<article-title>The Effects of Probiotics and Prebiotics on Gastrointestinal and BehaviouralSymptoms in Autism Spectrum Disorder</article-title>.” <source>Current Reviews in Clinical and Experimental Pharmacology</source>
+<volume>17</volume>: <fpage>166</fpage>–<lpage>173</lpage>. <pub-id pub-id-type="doi">10.2174/2772432816666210805141257</pub-id>.<pub-id pub-id-type="pmid">34455945</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0027"><mixed-citation publication-type="journal" id="brb371302-cite-0027">
+<string-name name-style="western">
+<surname>Harari</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Norton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Lockwood</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Swift</surname>
+</string-name>. <year>2004</year>. “<article-title>Treatment of Constipation and Fecal Incontinence in Stroke Patients: Randomized Controlled Trial</article-title>.” <source>Stroke; A Journal of Cerebral Circulation</source>
+<volume>35</volume>: <fpage>2549</fpage>–<lpage>2555</lpage>. <pub-id pub-id-type="doi">10.1161/01.STR.0000144684.46826.62</pub-id>.<pub-id pub-id-type="pmid">15486330</pub-id></mixed-citation></ref><ref id="brb371302-bib-0028"><mixed-citation publication-type="journal" id="brb371302-cite-0028">
+<string-name name-style="western">
+<surname>Kang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Park</surname>
+</string-name>, et al. <year>2023</year>. “<article-title>Slow Gut Transit Increases the Risk of Alzheimer's Disease: An Integrated Study of the bi‐national Cohort in South Korea and Japan and Alzheimer's Disease Model Mice</article-title>.” <source>Journal of Advanced Research</source>
+<elocation-id>2090123223003971</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.jare.2023.12.010</pub-id>.<pub-id pub-id-type="pmcid">PMC11518944</pub-id><pub-id pub-id-type="pmid">38097171</pub-id></mixed-citation></ref><ref id="brb371302-bib-0029"><mixed-citation publication-type="journal" id="brb371302-cite-0029">
+<string-name name-style="western">
+<surname>Kennedy</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. A.</given-names>
+<surname>Farrer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. C.</given-names>
+<surname>Andreasen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Mayeux</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>St George‐Hyslop</surname>
+</string-name>. <year>2003</year>. “<article-title>The Genetics of Adult‐Onset Neuropsychiatric Disease: Complexities and Conundra?</article-title>” <source>Science</source>
+<volume>302</volume>: <fpage>822</fpage>–<lpage>826</lpage>. <pub-id pub-id-type="doi">10.1126/science.1092132</pub-id>.<pub-id pub-id-type="pmid">14593167</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0030"><mixed-citation publication-type="journal" id="brb371302-cite-0030">
+<string-name name-style="western">
+<surname>Liu</surname>, <given-names>R. T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R. F. L.</given-names>
+<surname>Walsh</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. E.</given-names>
+<surname>Sheehan</surname>
+</string-name>. <year>2019</year>. “<article-title>Prebiotics and Probiotics for Depression and Anxiety: A Systematic Review and Meta‐Analysis of Controlled Clinical Trials</article-title>.” <source>Neuroscience and Biobehavioral Reviews</source>
+<volume>102</volume>: <fpage>13</fpage>–<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1016/j.neubiorev.2019.03.023</pub-id>.<pub-id pub-id-type="pmid">31004628</pub-id>
+<pub-id pub-id-type="pmcid">PMC6584030</pub-id></mixed-citation></ref><ref id="brb371302-bib-0031"><mixed-citation publication-type="journal" id="brb371302-cite-0031">
+<string-name name-style="western">
+<surname>Murray</surname>, <given-names>H. B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Flanagan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Banashefski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Silvernale</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Kuo</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Staller</surname>
+</string-name>. <year>2020</year>. “<article-title>Frequency of Eating Disorder Pathology Among Patients With Chronic Constipation and Contribution of Gastrointestinal‐Specific Anxiety</article-title>.” <source>Clinical Gastroenterology and Hepatology</source>
+<volume>18</volume>: <fpage>2471</fpage>–<lpage>2478</lpage>. <pub-id pub-id-type="doi">10.1016/j.cgh.2019.12.030</pub-id>.<pub-id pub-id-type="pmid">31923640</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0032"><mixed-citation publication-type="journal" id="brb371302-cite-0032">
+<string-name name-style="western">
+<surname>Naomi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Embong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Othman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. F.</given-names>
+<surname>Ghazi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Maruthey</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Bahari</surname>
+</string-name>. <year>2021</year>. “<article-title>Probiotics for Alzheimer's Disease: A Systematic Review</article-title>.” <source>Nutrients</source>
+<volume>14</volume>: <elocation-id>20</elocation-id>. <pub-id pub-id-type="doi">10.3390/nu14010020</pub-id>.<pub-id pub-id-type="pmid">35010895</pub-id>
+<pub-id pub-id-type="pmcid">PMC8746506</pub-id></mixed-citation></ref><ref id="brb371302-bib-0033"><mixed-citation publication-type="journal" id="brb371302-cite-0033">
+<string-name name-style="western">
+<surname>Ogasawara</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Funaki</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Kasugai</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Overlap Between Constipation and Gastroesophageal Reflux Disease in Japan: Results From an Internet Survey</article-title>.” <source>Journal of Neurogastroenterology and Motility</source>
+<volume>28</volume>: <fpage>291</fpage>–<lpage>302</lpage>. <pub-id pub-id-type="doi">10.5056/jnm21065</pub-id>.<pub-id pub-id-type="pmid">34801991</pub-id>
+<pub-id pub-id-type="pmcid">PMC8978135</pub-id></mixed-citation></ref><ref id="brb371302-bib-0034"><mixed-citation publication-type="journal" id="brb371302-cite-0034">
+<string-name name-style="western">
+<surname>Preziosi</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gordon‐Dixon</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Emmanuel</surname>
+</string-name>. <year>2018</year>. “<article-title>Neurogenic Bowel Dysfunction in Patients With Multiple Sclerosis: Prevalence, Impact, and Management Strategies</article-title>.” <source>Degenerative Neurological and Neuromuscular Disease</source>
+<volume>8</volume>: <fpage>79</fpage>–<lpage>90</lpage>. <pub-id pub-id-type="doi">10.2147/DNND.S138835</pub-id>.<pub-id pub-id-type="pmid">30584387</pub-id>
+<pub-id pub-id-type="pmcid">PMC6287516</pub-id></mixed-citation></ref><ref id="brb371302-bib-0035"><mixed-citation publication-type="journal" id="brb371302-cite-0035">
+<string-name name-style="western">
+<surname>Rao</surname>, <given-names>S. S. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Rattanakovit</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Patcharatrakul</surname>
+</string-name>. <year>2016</year>. “<article-title>Diagnosis and Management of Chronic Constipation in Adults</article-title>.” <source>Nature Reviews Gastroenterology and Hepatology</source>
+<volume>13</volume>: <fpage>295</fpage>–<lpage>305</lpage>. <pub-id pub-id-type="doi">10.1038/nrgastro.2016.53</pub-id>.<pub-id pub-id-type="pmid">27033126</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0036"><mixed-citation publication-type="journal" id="brb371302-cite-0036">
+<string-name name-style="western">
+<surname>Schönbrodt</surname>, <given-names>F. D.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>E. J.</given-names>
+<surname>Wagenmakers</surname>
+</string-name>. <year>2018</year>. “<article-title>Bayes Factor Design Analysis: Planning for Compelling Evidence</article-title>.” <source>Psychonomic Bulletin and Review</source>
+<volume>25</volume>: <fpage>128</fpage>–<lpage>142</lpage>. <pub-id pub-id-type="doi">10.3758/s13423-017-1230-y</pub-id>.<pub-id pub-id-type="pmid">28251595</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0037"><mixed-citation publication-type="journal" id="brb371302-cite-0037">
+<string-name name-style="western">
+<surname>Shatri</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Faisal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Abdullah</surname>
+</string-name>, et al. <year>2023. "</year>. “<article-title>Depression Symptoms and Inflammation in Chronic Functional Constipation Patients</article-title>.” <source>Acta Medica Indonesiana</source>
+<volume>55</volume>, no. <issue>1</issue>: <fpage>33</fpage>–<lpage>39</lpage>.<pub-id pub-id-type="pmid">36999263</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0038"><mixed-citation publication-type="journal" id="brb371302-cite-0038">
+<string-name name-style="western">
+<surname>Sorboni</surname>, <given-names>S. G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H. S.</given-names>
+<surname>Moghaddam</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jafarzadeh‐Esfehani</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Soleimanpour</surname>
+</string-name>. <year>2022</year>. “<article-title>A Comprehensive Review on the Role of the Gut Microbiome in Human Neurological Disorders</article-title>.” <source>Clinical Microbiology Reviews</source>
+<volume>35</volume>: <elocation-id>e0033820</elocation-id>. <pub-id pub-id-type="doi">10.1128/CMR.00338-20</pub-id>.<pub-id pub-id-type="pmid">34985325</pub-id>
+<pub-id pub-id-type="pmcid">PMC8729913</pub-id></mixed-citation></ref><ref id="brb371302-bib-0039"><mixed-citation publication-type="journal" id="brb371302-cite-0039">
+<string-name name-style="western">
+<surname>Stern</surname>, <given-names>T.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Davis</surname>
+</string-name>. <year>2016</year>. “<article-title>Evaluation and Treatment of Patients With Constipation</article-title>.” <source>JAMA</source>
+<volume>315</volume>: <fpage>192</fpage>. <pub-id pub-id-type="doi">10.1001/jama.2015.16995</pub-id>.<pub-id pub-id-type="pmid">26757468</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0040"><mixed-citation publication-type="journal" id="brb371302-cite-0040">
+<string-name name-style="western">
+<surname>Sun</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Risk Factors for Constipation in Patients With Acute and Subacute Ischemic Stroke: A Retrospective Cohort Study</article-title>.” <source>Journal of Clinical Neuroscience</source>
+<volume>106</volume>: <fpage>91</fpage>–<lpage>95</lpage>. <pub-id pub-id-type="doi">10.1016/j.jocn.2022.10.014</pub-id>.<pub-id pub-id-type="pmid">36274299</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0041"><mixed-citation publication-type="journal" id="brb371302-cite-0041">
+<string-name name-style="western">
+<surname>Svensson</surname>, <given-names>E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>V. W.</given-names>
+<surname>Henderson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Borghammer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Horváth‐Puhó</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H. T.</given-names>
+<surname>Sørensen</surname>
+</string-name>. <year>2016</year>. “<article-title>Constipation and Risk of Parkinson's Disease: A Danish Population‐based Cohort Study</article-title>.” <source>Parkinsonism and Related Disorders</source>
+<volume>28</volume>: <fpage>18</fpage>–<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1016/j.parkreldis.2016.05.016</pub-id>.<pub-id pub-id-type="pmid">27234704</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0042"><mixed-citation publication-type="journal" id="brb371302-cite-0042">
+<string-name name-style="western">
+<surname>Tazaki</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Yamada</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Sato</surname>
+</string-name>, et al. <year>2024</year>. “<article-title>Constipation‐associated Factors in Outpatients With Schizophrenia: A Multicenter Questionnaire Survey</article-title>.” <source>Neuropsychopharmacol Reports</source>
+<volume>44</volume>: <fpage>604</fpage>–<lpage>613</lpage>. <pub-id pub-id-type="doi">10.1002/npr2.12464</pub-id>.<pub-id pub-id-type="pmcid">PMC11544439</pub-id><pub-id pub-id-type="pmid">38957048</pub-id></mixed-citation></ref><ref id="brb371302-bib-0043"><mixed-citation publication-type="journal" id="brb371302-cite-0043">
+<string-name name-style="western">
+<surname>Wang</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Jia</surname>
+</string-name>. <year>2023</year>. “<article-title>Association Between Constipation and Major Depression in Adult Americans: Evidence From NHANES 2005–2010</article-title>.” <source>Front Psychiatry</source>
+<volume>14</volume>: <elocation-id>1152435</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpsyt.2023.1152435</pub-id>.<pub-id pub-id-type="pmid">37654986</pub-id>
+<pub-id pub-id-type="pmcid">PMC10465693</pub-id></mixed-citation></ref><ref id="brb371302-bib-0044"><mixed-citation publication-type="journal" id="brb371302-cite-0044">
+<string-name name-style="western">
+<surname>Winge</surname>, <given-names>K.</given-names>
+</string-name>
+<year>2003</year>. “<article-title>Constipation in Neurological Diseases</article-title>.” <source>Journal of Neurology, Neurosurgery, and Psychiatry</source>
+<volume>74</volume>, no. <issue>1</issue>: <fpage>13</fpage>–<lpage>19</lpage>. <pub-id pub-id-type="doi">10.1136/jnnp.74.1.13</pub-id>.<pub-id pub-id-type="pmid">12486259</pub-id>
+<pub-id pub-id-type="pmcid">PMC1738209</pub-id></mixed-citation></ref><ref id="brb371302-bib-0045"><mixed-citation publication-type="journal" id="brb371302-cite-0045">
+<string-name name-style="western">
+<surname>Wu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Yuan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Zou</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Wu</surname>
+</string-name>. <year>2024</year>. “<article-title>Identifying the Association Between Depression and Constipation: An Observational Study and Mendelian Randomization Analysis</article-title>.” <source>Journal of Affective Disorders</source>
+<volume>359</volume>: <fpage>394</fpage>–<lpage>402</lpage>. <pub-id pub-id-type="doi">10.1016/j.jad.2024.05.124</pub-id>.<pub-id pub-id-type="pmid">38806066</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0046"><mixed-citation publication-type="journal" id="brb371302-cite-0046">
+<string-name name-style="western">
+<surname>Xu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Amdanee</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhang</surname>
+</string-name>. <year>2021</year>. “<article-title>Antipsychotic‐Induced Constipation: A Review of the Pathogenesis, Clinical Diagnosis, and Treatment</article-title>.” <source>CNS Drugs</source>
+<volume>35</volume>: <fpage>1265</fpage>–<lpage>1274</lpage>. <pub-id pub-id-type="doi">10.1007/s40263-021-00859-0</pub-id>.<pub-id pub-id-type="pmid">34427901</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0047"><mixed-citation publication-type="journal" id="brb371302-cite-0047">
+<string-name name-style="western">
+<surname>Yao</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Huang</surname>
+</string-name>. <year>2023</year>. “<article-title>Constipation in Parkinson's Disease: A Systematic Review and Meta‐Analysis</article-title>.” <source>European Neurology</source>
+<volume>86</volume>: <fpage>34</fpage>–<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1159/000527513</pub-id>.<pub-id pub-id-type="pmid">36470230</pub-id>
+</mixed-citation></ref><ref id="brb371302-bib-0048"><mixed-citation publication-type="journal" id="brb371302-cite-0048">
+<string-name name-style="western">
+<surname>Zhang</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Wang</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>Comparative Epidemiological Investigation of Alzheimer's Disease and Colorectal Cancer: The Possible Role of Gastrointestinal Conditions in the Pathogenesis of AD</article-title>.” <source>Frontiers in Aging Neuroscience</source>
+<volume>10</volume>: <elocation-id>176</elocation-id>. <pub-id pub-id-type="doi">10.3389/fnagi.2018.00176</pub-id>.<pub-id pub-id-type="pmid">30323761</pub-id>
+<pub-id pub-id-type="pmcid">PMC6172982</pub-id></mixed-citation></ref><ref id="brb371302-bib-0049"><mixed-citation publication-type="journal" id="brb371302-cite-0049">
+<string-name name-style="western">
+<surname>Zou</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Fazia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Guo</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Berzuini</surname>
+</string-name>. <year>2024</year>. “<article-title>Bayesian Mendelian Randomization With an Interval Causal Null Hypothesis: Ternary Decision Rules and Loss Function Calibration</article-title>.” <source>BMC Medical Research Methodology [Electronic Resource]</source>
+<volume>24</volume>: <fpage>25</fpage>. <pub-id pub-id-type="doi">10.1186/s12874-023-02067-4</pub-id>.<pub-id pub-id-type="pmid">38281047</pub-id>
+<pub-id pub-id-type="pmcid">PMC10821252</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

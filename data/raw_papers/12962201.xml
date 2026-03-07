@@ -1,0 +1,920 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="mrm70239" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Magn Reson Med</journal-id><journal-id journal-id-type="iso-abbrev">Magn Reson Med</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">MRM</journal-id><journal-title-group><journal-title>Magnetic Resonance in Medicine</journal-title></journal-title-group><issn pub-type="ppub">0740-3194</issn><issn pub-type="epub">1522-2594</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12962201</article-id><article-id pub-id-type="pmcid-ver">PMC12962201.1</article-id><article-id pub-id-type="pmcaid">12962201</article-id><article-id pub-id-type="pmcaiid">12962201</article-id><article-id pub-id-type="pmid">41635029</article-id><article-id pub-id-type="doi">10.1002/mrm.70239</article-id><article-id pub-id-type="publisher-id">MRM70239</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Preclinical and Clinical Imaging</subject></subj-group></article-categories><title-group><article-title>Comparison of Signal‐ and Volume‐Based Ventilation‐Weighted Assessment Using <styled-content style="fixed-case" toggle="no">3D FLORET UTE MRI</styled-content> in Patients With Various Pulmonary Disease</article-title></title-group><contrib-group><contrib id="mrm70239-cr-0001" contrib-type="author"><name name-style="western"><surname>Klimeš</surname><given-names initials="F">Filip</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2715-0757</contrib-id><xref rid="mrm70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mrm70239-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="mrm70239-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="mrm70239-cr-0002" contrib-type="author"><name name-style="western"><surname>Plummer</surname><given-names initials="JW">Joseph W.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0200-7869</contrib-id><xref rid="mrm70239-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="mrm70239-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="mrm70239-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="mrm70239-cr-0003" contrib-type="author"><name name-style="western"><surname>Voskrebenzev</surname><given-names initials="A">Andreas</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5699-1841</contrib-id><xref rid="mrm70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mrm70239-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="mrm70239-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="mrm70239-cr-0004" contrib-type="author"><name name-style="western"><surname>Gutberlet</surname><given-names initials="M">Marcel</given-names></name><xref rid="mrm70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mrm70239-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="mrm70239-cr-0005" contrib-type="author"><name name-style="western"><surname>Klein</surname><given-names initials="MM">Marius M.</given-names></name><xref rid="mrm70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mrm70239-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="mrm70239-cr-0006" contrib-type="author"><name name-style="western"><surname>Willmering</surname><given-names initials="MM">Matthew M.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4356-9622</contrib-id><xref rid="mrm70239-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="mrm70239-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="mrm70239-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="mrm70239-cr-0007" contrib-type="author"><name name-style="western"><surname>Matheson</surname><given-names initials="AM">Alexander M.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6022-9507</contrib-id><xref rid="mrm70239-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="mrm70239-cr-0008" contrib-type="author"><name name-style="western"><surname>Bdaiwi</surname><given-names initials="AS">Abdullah S.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7835-7032</contrib-id><xref rid="mrm70239-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="mrm70239-cr-0009" contrib-type="author"><name name-style="western"><surname>Wacker</surname><given-names initials="F">Frank</given-names></name><xref rid="mrm70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mrm70239-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="mrm70239-cr-0010" contrib-type="author"><name name-style="western"><surname>Woods</surname><given-names initials="JC">Jason C.</given-names></name><xref rid="mrm70239-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="mrm70239-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="mrm70239-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="mrm70239-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="mrm70239-cr-0011" contrib-type="author"><name name-style="western"><surname>Cleveland</surname><given-names initials="ZI">Zackary I.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6195-9061</contrib-id><xref rid="mrm70239-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="mrm70239-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="mrm70239-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="mrm70239-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="mrm70239-cr-0012" contrib-type="author"><name name-style="western"><surname>Walkup</surname><given-names initials="LL">Laura L.</given-names></name><xref rid="mrm70239-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="mrm70239-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="mrm70239-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="mrm70239-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="mrm70239-cr-0013" contrib-type="author" corresp="yes"><name name-style="western"><surname>Vogel‐Claussen</surname><given-names initials="J">Jens</given-names></name><xref rid="mrm70239-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mrm70239-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="mrm70239-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>jens.vogel-clausen@charite.de</email></address></contrib></contrib-group><aff id="mrm70239-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Diagnostic and Interventional Radiology</named-content>
+<institution>Hannover Medical School</institution>
+<city>Hannover</city>
+<country country="DE">Germany</country>
+</aff><aff id="mrm70239-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Biomedical Research in Endstage and Obstructive Lung Disease Hannover (BREATH), German Center for Lung Research (DZL)</institution>
+<city>Hannover</city>
+<country country="DE">Germany</country>
+</aff><aff id="mrm70239-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Radiology, Charité ‐ Universitätsmedizin Berlin</named-content>
+<institution>Freie Universität Berlin, Humboldt‐Universität zu Berlin, Berlin Institute of Health</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><aff id="mrm70239-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Center for Pulmonary Imaging Research, Cincinnati Children's Hospital Medical Center</institution>
+<city>Cincinnati</city>
+<named-content content-type="country-part">Ohio</named-content>
+<country country="US">USA</country>
+</aff><aff id="mrm70239-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Biomedical Engineering</named-content>
+<institution>University of Cincinnati</institution>
+<city>Cincinnati</city>
+<named-content content-type="country-part">Ohio</named-content>
+<country country="US">USA</country>
+</aff><aff id="mrm70239-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Cardiovascular Branch, Division of Intramural Research</named-content>
+<institution>National Heart, Lung, and Blood Institute, National Institutes of Health</institution>
+<city>Bethesda</city>
+<named-content content-type="country-part">Maryland</named-content>
+<country country="US">USA</country>
+</aff><aff id="mrm70239-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Imaging Research Center, Department of Radiology</named-content>
+<institution>Cincinnati Children's Hospital Medical Center</institution>
+<city>Cincinnati</city>
+<named-content content-type="country-part">Ohio</named-content>
+<country country="US">USA</country>
+</aff><aff id="mrm70239-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pediatrics</named-content>
+<institution>University of Cincinnati Medical Center</institution>
+<city>Cincinnati</city>
+<named-content content-type="country-part">Ohio</named-content>
+<country country="US">USA</country>
+</aff><aff id="mrm70239-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Department of Physics</named-content>
+<institution>University of Cincinnati</institution>
+<city>Cincinnati</city>
+<named-content content-type="country-part">Ohio</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Jens Vogel‐Claussen (<email>jens.vogel-clausen@charite.de</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>2</month><year>2026</year></pub-date><pub-date pub-type="ppub"><month>5</month><year>2026</year></pub-date><volume>95</volume><issue seq="310">5</issue><issue-id pub-id-type="pmc-issue-id">508872</issue-id><issue-id pub-id-type="doi">10.1002/mrm.v95.5</issue-id><fpage>2814</fpage><lpage>2827</lpage><history><date date-type="rev-recd"><day>10</day><month>12</month><year>2025</year></date><date date-type="received"><day>22</day><month>8</month><year>2025</year></date><date date-type="accepted"><day>16</day><month>12</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>05</day><month>03</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>06</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-06 13:25:12.710"><day>06</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Magnetic Resonance in Medicine</italic> published by Wiley Periodicals LLC on behalf of International Society for Magnetic Resonance in Medicine.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="MRM-95-2814.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:MRM-95-2814.pdf"/><abstract><title>ABSTRACT</title><sec id="mrm70239-sec-0001"><title>Purpose</title><p>3D free‐breathing, proton, contrast‐agent‐free MR methods are increasingly used for pulmonary ventilation‐weighted measurements. The methods are split between: (1) signal‐based, which rely on lung parenchyma signal changes during respiration, and (2) volume‐based that utilize the Jacobian determinant of deformation fields from the image registration. This study compares both proton methods using respiratory‐resolved images acquired using fermat‐looped orthogonally encoded trajectories (FLORET) acquisition.</p></sec><sec id="mrm70239-sec-0002"><title>Methods</title><p>Free‐breathing FLORET data were acquired from participants with various pulmonary conditions (<italic toggle="no">N</italic> = 29) and healthy controls (<italic toggle="no">N</italic> = 7), and reconstructed into respiratory phase‐resolved images. Signal‐based regional ventilation (RVent) was quantified using the 3D phase‐resolved functional lung algorithm, and volume‐based Jacobian ventilation (JVent) was derived as the Jacobian of the deformation field from the direct image registration of the end‐expiratory image to the end‐inspiratory image. Differences between the means, coefficients of variation (CoVs), and their ventilation defect percent (VDP) were quantified by Bland–Altman plots. The spatial overlap of the defect maps was determined by multi‐class Sørensen–Dice coefficient, and Spearman correlations to <sup>129</sup>Xe MRI were assessed.</p></sec><sec id="mrm70239-sec-0003"><title>Results</title><p>In all study participants, statistically significant differences were found between means/CoVs of RVent and JVent parameters (both <italic toggle="no">p</italic> &lt; 0.0001), but not VDP (<italic toggle="no">p</italic> = 0.38). The median spatial overlap of the defect maps was 86%. VDP<sub>RVent</sub> showed stronger correlation (<italic toggle="no">ρ</italic> = 0.78, Meng <italic toggle="no">Z</italic> = 4.36, <italic toggle="no">p</italic> &lt; 0.0001) to VDP<sub>129Xe</sub> than JVent (<italic toggle="no">ρ</italic> = 0.34).</p></sec><sec id="mrm70239-sec-0004"><title>Conclusion</title><p>Although both proton lung MRI methods successfully identified ventilation defects, the stronger correlation between signal‐based and <sup>129</sup>Xe MRI indicates that RVent may provide a more reliable assessment of lung ventilation in clinical applications in comparison to volume‐based parameters.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="mrm70239-kwd-0001">FLORET</kwd><kwd id="mrm70239-kwd-0002">hyperpolarized <sup>129</sup>Xe MRI</kwd><kwd id="mrm70239-kwd-0003">Jacobian</kwd><kwd id="mrm70239-kwd-0004">lung MRI</kwd><kwd id="mrm70239-kwd-0005">PREFUL</kwd><kwd id="mrm70239-kwd-0006">UTE</kwd><kwd id="mrm70239-kwd-0007">ventilation imaging</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>University of Cincinnati, Office of the Vice President for Research ‐ URC Graduate Student Stipend and Research Cost Program for Faculty‐Student Collaboration</institution><institution-id institution-id-type="doi">10.13039/100008102</institution-id></institution-wrap>
+</funding-source><award-id>D700169</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Cincinnati Children's Research Foundation. National Organization for Rare Disorders</institution></institution-wrap>
+</funding-source><award-id>20003</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>Deutsches Zentrum für Lungenforschung</institution><institution-id institution-id-type="doi">10.13039/501100010564</institution-id></institution-wrap>
+</funding-source></award-group><award-group id="funding-0004"><funding-source>
+<institution-wrap><institution>National Institutes of Health</institution><institution-id institution-id-type="doi">10.13039/100000002</institution-id></institution-wrap>
+</funding-source><award-id>2R01HL126771</award-id><award-id>R01HL143011</award-id><award-id>R01HL151588</award-id><award-id>R01HL166335</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="4"/><page-count count="14"/><word-count count="8800"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:05.03.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="mrm70239-body-0001"><sec id="mrm70239-sec-0005"><label>1</label><title>Introduction</title><p>Currently, chest computed tomography (CT) represents the state‐of‐the‐art modality to capture lung parenchyma pathology or monitor changes over time. Beyond morphological assessment, the use of CT has expanded further to evaluate lung function. Such advancements include quantification of air trapping and emphysema using parametric response mapping [<xref rid="mrm70239-bib-0001" ref-type="bibr">1</xref>] or even pulmonary ventilation by spatially aligning inspiratory CT chest scan to the expiratory CT chest scan, and subsequent voxel‐wise analysis of the deformation field. In theory, voxel volume changes quantified by the Jacobian determinant (JD) of the deformation field depict the tissue expansion/shrinkage which corresponds directly to pulmonary ventilation [<xref rid="mrm70239-bib-0002" ref-type="bibr">2</xref>]. It has been shown that regional ventilation quantified using JD has a strong correspondence with Galligas positron emission tomography ventilation measurements [<xref rid="mrm70239-bib-0003" ref-type="bibr">3</xref>] and may serve as a potential biomarker for progression in patients with idiopathic pulmonary fibrosis [<xref rid="mrm70239-bib-0004" ref-type="bibr">4</xref>].</p><p>On the other hand, free‐breathing 3D proton magnetic resonance imaging (MRI) techniques are also increasingly used for indirect ventilation‐weighted lung assessment, providing a radiation‐free alternative to chest CT at the cost of decreased spatial resolution and longer acquisition times. These methods include: (1) signal‐based methods, which track lung signal intensity changes to compute regional ventilation (RVent) [<xref rid="mrm70239-bib-0005" ref-type="bibr">5</xref>, <xref rid="mrm70239-bib-0006" ref-type="bibr">6</xref>, <xref rid="mrm70239-bib-0007" ref-type="bibr">7</xref>]; and (2) volume‐based methods, which borrow concepts from CT and use the JD of the deformation field to measure ventilation (JVent) [<xref rid="mrm70239-bib-0008" ref-type="bibr">8</xref>, <xref rid="mrm70239-bib-0009" ref-type="bibr">9</xref>]. A recent study showed that RVent, derived using 2D proton imaging, correlates stronger with CT‐based parametric response mapping, suggesting it offers a more reliable assessment of lung ventilation [<xref rid="mrm70239-bib-0010" ref-type="bibr">10</xref>]. Given the complexity of 3D lung respiratory motion and advancements in ultrashort echo times (UTE) techniques, that generally provide higher signal‐to‐noise characteristics in lung parenchyma, 3D image registration should theoretically yield improved results with the JVent method. Recent studies have demonstrated a correspondence between signal‐based RVent methods with <sup>129</sup>Xe MRI in patients with chronic obstructive lung disease [<xref rid="mrm70239-bib-0011" ref-type="bibr">11</xref>] and children with cystic fibrosis [<xref rid="mrm70239-bib-0012" ref-type="bibr">12</xref>]. In addition, agreement of volume‐based JVent methods with <sup>129</sup>Xe MRI has been shown in both pediatric and adult cystic fibrosis populations [<xref rid="mrm70239-bib-0013" ref-type="bibr">13</xref>]. However, the correspondence between the two proton‐based methods remains unknown.</p><p>Therefore, the aim of this study is to compare the performance of RVent and JVent ventilation surrogates against the direct measurement of ventilation using <sup>129</sup>Xe MRI and current clinical standard of pulmonary function tests (PFTs) in people with distinct pulmonary disease and healthy volunteers.</p></sec><sec sec-type="methods" id="mrm70239-sec-0006"><label>2</label><title>Methods</title><sec id="mrm70239-sec-0007"><label>2.1</label><title>Study Participants</title><p>All studies were registered under US Food and Drug Administration (IND‐123577), and were approved by the Cincinnati Children's Institutional Review Board. Written informed consent was obtained from all adult participants or parents of pediatric subjects, and age‐appropriate assent was obtained from pediatric participants only. A total of 29 participants with pulmonary diseases (16 male, 13 female, age range: 7–55), including those with cystic fibrosis (CF, <italic toggle="yes">N</italic> = 14, age range: 7–22, 8 male, 6 female), lymphangioleiomyomatosis (LAM, <italic toggle="yes">N</italic> = 7, age range: 39–55, 7 female), post hematopoietic stem cell transplant (post‐HSCT, <italic toggle="yes">N</italic> = 4, age range: 11–21, 4 male), bronchiolitis obliterans syndrome (BOS, <italic toggle="yes">N</italic> = 3, age range: 14–21, 3 male), and neuroendocrine cell hyperplasia of infancy (NEHI, <italic toggle="yes">N</italic> = 1, age: 13, male), and 7 healthy participants (age range: 8–27, 5 male, 2 female) were included in this study. Inclusion criteria were age greater than 7 years and the ability to comply with a breath‐hold. Exclusion criteria included an active respiratory infection, chest tightness, or sinus infection within 1 week prior to MRI; baseline pulse oximetry (SpO<sub>2</sub>) ≤ 95%; pregnancy or a positive urine pregnancy test in females of reproductive age; and standard contraindications to MRI [<xref rid="mrm70239-bib-0014" ref-type="bibr">14</xref>].</p></sec><sec id="mrm70239-sec-0008"><label>2.2</label><title>Image Acquisition and Postprocessing</title><p>The free‐breathing proton and breath‐hold <sup>129</sup>Xe imaging was performed on a Philips Ingenia 3T system (Philips Medical Systems, Best, The Netherlands).</p><sec id="mrm70239-sec-0009"><label>2.2.1</label><title>Free Breathing Proton <styled-content style="fixed-case" toggle="no">MRI</styled-content>
+</title><p>Proton UTE MRI data were acquired using a 3D Fermat looped, orthogonally encoded trajectories (FLORET) sequence, as described by Willmering et al. [<xref rid="mrm70239-bib-0015" ref-type="bibr">15</xref>] Acquisition parameters include: TE/TR 0.1/3.76 ms, readout length = 0.95 ms, flip angle = 4.0°, 140 000 ± 20 000 excitations, FOV of 320 ± 40 mm<sup>3</sup>, and acquisition resolution = (1.6 mm)<sup>3</sup>, with <italic toggle="yes">k</italic>‐space continuously acquired for 7 ± 2 min using a 16‐channel anterior coil and a 12‐channel posterior coil. As described in a previous publication [<xref rid="mrm70239-bib-0014" ref-type="bibr">14</xref>], <italic toggle="yes">k</italic>‐space data were binned into 24 respiratory states using the respiratory bellows signal and the final respiratory‐resolved data were reconstructed to a spatial resolution of 3 mm<sup>3</sup> [<xref rid="mrm70239-bib-0009" ref-type="bibr">9</xref>]. This step was followed by the image registration of the images from the whole respiratory cycle to the end‐inspiratory image using advanced normalization tools (ANTs) [<xref rid="mrm70239-bib-0016" ref-type="bibr">16</xref>]. During image registration, an initial affine transformation was followed by nonrigid, flexible registration. The nonrigid step used a B‐spline symmetric normalization diffeomorphic algorithm with the following parameters: spline order = 3, metric = cross‐correlation with a radius of 4 and metric weight of 1, gradient step = 1, convergence criteria = 150 × 150 × 100 × 80 iterations with a tolerance of 1 × 10<sup>−6</sup> over 10 iterations, shrink factors = 6 × 4 × 2 × 1, smoothing sigmas = 3 × 2 × 1 × 0, updated field mesh size at base level = 40, and total field mesh size at base level = 0. A rectangular mask encompassing the full 3D lung volume was applied for both rigid and nonrigid transformations to reduce convergence time. All ANTs commands were executed via Matlab (The MathWorks Inc., Release R2021a, Natick, MA, USA). Ventilation maps were derived from:</p><p>1. Signal‐based regional ventilation (<styled-content style="fixed-case" toggle="no">RVent</styled-content>) [<xref rid="mrm70239-bib-0017" ref-type="bibr">17</xref>] 
+<disp-formula id="mrm70239-disp-0001">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mtext>RVent</mml:mtext><mml:mo linebreak="goodbreak">=</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mi mathvariant="normal">Reg</mml:mi></mml:msub><mml:mo>*</mml:mo><mml:mfrac><mml:mfenced open="(" close=")" separators=""><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>Exp</mml:mi></mml:msub><mml:mo linebreak="goodbreak">−</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mtext>Insp</mml:mtext></mml:msub></mml:mrow></mml:mfenced><mml:mfenced open="(" close=")" separators=""><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mtext>Insp</mml:mtext></mml:msub><mml:mo>*</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mi>Exp</mml:mi></mml:msub></mml:mrow></mml:mfenced></mml:mfrac><mml:mo>,</mml:mo></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+with target registration (Reg), expiration (Exp), and inspiration (Insp) signals (S). Since the target image for registration was the same as the inspiration image, the previous formula can be simplified to:
+<disp-formula id="mrm70239-disp-0002">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-2" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mtext>RVent</mml:mtext><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfrac><mml:mfenced open="(" close=")" separators=""><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>Exp</mml:mi></mml:msub><mml:mo linebreak="goodbreak">−</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mtext>Insp</mml:mtext></mml:msub></mml:mrow></mml:mfenced><mml:msub><mml:mi>S</mml:mi><mml:mi>Exp</mml:mi></mml:msub></mml:mfrac><mml:mo>.</mml:mo></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p><p>This formula is commonly referred to as fractional ventilation [<xref rid="mrm70239-bib-0018" ref-type="bibr">18</xref>]. For the RVent calculation, image filtering and denoising were performed following a previously published approach [<xref rid="mrm70239-bib-0014" ref-type="bibr">14</xref>].</p><p>2. Deformation field obtained through direct image registration of the end‐expiratory image to the target end‐inspiratory image, producing volume‐based ventilation, <styled-content style="fixed-case" toggle="no">JVent</styled-content>, calculated as follows: 
+<disp-formula id="mrm70239-disp-0003">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-3" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mtext>JVent</mml:mtext><mml:mo linebreak="goodbreak">=</mml:mo><mml:mi>det</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>J</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo linebreak="goodbreak">−</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p><p>With det(<italic toggle="yes">J</italic>) representing the JD [<xref rid="mrm70239-bib-0019" ref-type="bibr">19</xref>].</p><p>A median filter of matrix size (7 × 7 × 7) voxels was applied in the spatial domain to increase the signal‐to‐noise ratio of JVent maps.</p></sec><sec id="mrm70239-sec-0010"><label>2.2.2</label><title>
+<styled-content style="fixed-case" toggle="no">
+<sup>129</sup>Xe MRI</styled-content>
+</title><p>
+<sup>129</sup>Xe acquisitions were carried out with a vest coil (Clinical MR Solutions, Brookfield, WI, USA), using enriched (&gt; 85%) <sup>129</sup>Xe gas polarized to 20%–40% using a Polarean 9820A <sup>129</sup>Xe polarizer (Polarean Imaging PLC, Durham, NC, USA). The dose of <sup>129</sup>Xe was set to 1/6 of the subjects' sex‐ and height‐predicted total lung capacity (not exceeding 1 L) for people with CF [<xref rid="mrm70239-bib-0020" ref-type="bibr">20</xref>], and 1/6 of the predicted forced vital capacity (not exceeding 1 L) for the rest of study participants [<xref rid="mrm70239-bib-0021" ref-type="bibr">21</xref>]. Doses were stored in Tedlar bags (Jensen Inert, Coral Springs, FL, USA) and administered by inhaling from functional residual capacity (FRC).</p><p>
+<sup>129</sup>Xe images were acquired with a multi‐slice 2D spoiled gradient‐echo sequence: TE/TR &lt; 5/&lt; 10 ms, FOV<sub>
+<italic toggle="yes">xy</italic>
+</sub> (300–400 mm)<sup>2</sup>, FOV<sub>z</sub> (150–200 mm), spatial resolution (3 × 3 × 15 mm)<sup>3</sup>, slice gap 0 mm, and scan duration &lt; 15 s breath‐hold. Prior to the <sup>129</sup>Xe ventilation acquisition, calibration scans were performed to determine the optimal flip angle (8°–20°) for each subject's <sup>129</sup>Xe ventilation acquisition, with modifications based on each individual's number of excitations and receiver frequency.</p><p>For the VDP calculations, the <sup>129</sup>Xe images were segmented using a pretrained deep learning network [<xref rid="mrm70239-bib-0022" ref-type="bibr">22</xref>] and corrected for B<sub>1</sub> inhomogeneity using N4 bias field correction [<xref rid="mrm70239-bib-0023" ref-type="bibr">23</xref>]. VDP<sub>129Xe</sub> was calculated from an established threshold as the percentage of the lung voxels with signal intensity below 60% of the mean whole‐lung signal intensity [<xref rid="mrm70239-bib-0024" ref-type="bibr">24</xref>, <xref rid="mrm70239-bib-0025" ref-type="bibr">25</xref>].</p></sec></sec><sec id="mrm70239-sec-0011"><label>2.3</label><title>Pulmonary Function Tests</title><p>Pulmonary function tests (PFTs) were performed according to current American Thoracic Society/European Respiratory Society guidelines [<xref rid="mrm70239-bib-0026" ref-type="bibr">26</xref>]. The assessed parameters included percent predicted forced expiratory volume in 1 s (ppFEV<sub>1</sub>), percent predicted forced vital capacity (ppFVC), and the FEV<sub>1</sub>/FVC ratio.</p></sec><sec id="mrm70239-sec-0012"><label>2.4</label><title>Statistical and Image Analysis</title><p>Image and statistical analysis were performed in Matlab (The MathWorks Inc., Release R2022b, Natick, MA, USA).</p><p>The distributions of all MRI‐derived parameters were tested for normality using the Lilliefors test. As most of the parameters showed non‐normal distribution, non‐parametric tests were used. Unless otherwise stated, the evaluated data are presented as median with interquartile ranges.</p><p>For proton MRI, lung parenchyma regions were segmented at end‐inspiration prior to analysis using a trained convolutional neural network, and verified by expert readers (JWP, 7 years; and FK, 9 years of experience in pulmonary MRI).</p><p>Mean and coefficient of variation (CoV) for RVent/JVent across the whole lung were calculated per subject within the lung parenchyma mask. Subsequently, for both RVent/JVent maps, threshold analysis was performed on all included study participants to find the optimal threshold to distinguish between healthy and diseased participants. For each defined threshold, VDP values were calculated whereby all RVent/JVent values below that specific threshold were considered as ventilation defects. Following that, the receiver operating characteristic (ROC) analysis on those VDP values was performed to determine the area under the curve (AUC) and the optimal operating point of the ROC curve. The operating point was used to re‐label the subjects into “healthy” and “disease” and these labels were compared to the ground truth labels. This led to computation of sensitivity, specificity, and Youden's Index. Additionally, the Spearman correlation evaluated the strength of the relationship to VDP<sub>129Xe</sub>. For each RVent/JVent parameter map, two threshold methods were considered:
+<list list-type="order" id="mrm70239-list-0001"><list-item id="mrm70239-li-0001"><p>A fixed threshold defined as a ventilation‐weighted value ranging from 0.01 to 0.15, incremented by a 0.01 step size,</p></list-item><list-item id="mrm70239-li-0002"><p>A flexible threshold defined as the 90th percentile of all ventilation‐weighted values within the lung parenchyma, multiplied by a factor ranging from 0.1 to 0.9. The multiplication factor increased with a step size of 0.01 between 0.1 and 0.2, and with a step size of 0.05 between 0.2 and 0.9.</p></list-item></list>
+</p><p>Selection criteria for the optimal threshold for RVent/JVent maps were high sensitivity, specificity, Youden's Index, AUC, and strong correlation to VDP from <sup>129</sup>Xe MRI (VDP<sub>129Xe</sub>). Also, the aim was to have median VDP values &lt; 7% for healthy participants and a pronounced VDP difference between healthy and diseased participants.</p><p>The VDP values determined using the optimal thresholds along with mean and CoV of RVent/JVent were compared using paired Wilcoxon‐signed rank tests and Bland–Altman plots. Further, relationships between RVent and JVent parameters were assessed by Spearman correlation. Spatial overlap between both proton defect maps was assessed by the spatial overlap metric and Sørensen‐Dice coefficient for healthy and disease areas. The spatial overlap was defined as the percentage of matching voxels labeled as either ventilated (healthy) or non‐ventilated (defect) between the proton defect maps 
+<disp-formula id="mrm70239-disp-0004">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-4" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mtext>Overlap</mml:mtext><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfenced open="(" close=")" separators=""><mml:mfrac><mml:mrow><mml:mn>2</mml:mn><mml:mo>*</mml:mo><mml:mfenced open="(" close=")" separators=""><mml:mrow><mml:msub><mml:mi>n</mml:mi><mml:mi mathvariant="normal">vv</mml:mi></mml:msub><mml:mo linebreak="goodbreak">+</mml:mo><mml:msub><mml:mi>n</mml:mi><mml:mi mathvariant="italic">dd</mml:mi></mml:msub></mml:mrow></mml:mfenced></mml:mrow><mml:mrow><mml:msub><mml:mi>n</mml:mi><mml:mtext>vRVent</mml:mtext></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>n</mml:mi><mml:mtext>vJvent</mml:mtext></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>n</mml:mi><mml:mtext>dRVent</mml:mtext></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>n</mml:mi><mml:mtext>dJVent</mml:mtext></mml:msub></mml:mrow></mml:mfrac></mml:mfenced><mml:mo>*</mml:mo><mml:mn>100</mml:mn><mml:mo>,</mml:mo></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+where <italic toggle="yes">n</italic>
+<sub>vv</sub> represents number of voxels labeled as ventilated in both maps, and <italic toggle="yes">n</italic>
+<sub>dd</sub> number of voxels labeled as defect in both maps. <italic toggle="yes">n</italic>
+<sub>vRVent</sub> and <italic toggle="yes">n</italic>
+<sub>vJVent</sub> denote the number of ventilated voxels in RVent‐based defect maps and JVent‐based defect maps, respectively; <italic toggle="yes">n</italic>
+<sub>dRVent</sub>, <italic toggle="yes">n</italic>
+<sub>dJVent</sub> denote the number of defect voxels in RVent‐based and JVent‐based defect maps, respectively.</p><p>To assess the relationship to the direct ventilation measurement, Spearman correlations were calculated between proton VDPs and VDP<sub>129Xe</sub> and the bias was quantified by Bland Altman plots and tested for significance using the paired Wilcoxon signed rank test. To compare between the Spearman correlation coefficients, a Meng's <italic toggle="yes">z</italic>‐test was performed [<xref rid="mrm70239-bib-0027" ref-type="bibr">27</xref>].</p><p>Additionally, the SNR for RVent and JVent maps was computed on the central coronal slice at the level of the tracheal bifurcation, using the morphological image that served as the fixed reference for registration. Regions of interest were placed within the lung parenchyma mask and in the background to measure signal and noise, respectively. The differences between the SNR values were quantified by Bland–Altman analysis and tested for significance using the paired Wilcoxon signed rank test.</p><p>Correspondence of all MRI‐derived parameters to measures from PFT was assessed by Spearman correlation analysis.</p><p>To determine the discriminative power of each method, AUC differences between all methods were tested for significance using the DeLong method [<xref rid="mrm70239-bib-0028" ref-type="bibr">28</xref>].</p><p>For all comparisons and statistical tests, <italic toggle="yes">p</italic> values &lt; 0.05 were deemed significant.</p></sec></sec><sec sec-type="results" id="mrm70239-sec-0013"><label>3</label><title>Results</title><sec id="mrm70239-sec-0014"><label>3.1</label><title>Threshold Analysis for Proton <styled-content style="fixed-case" toggle="no">MRI</styled-content>
+</title><p>For RVent, a flexible threshold defined as the 90th percentile multiplied by a factor of 0.25 was selected, yielding a sensitivity of 0.93, specificity of 0.86, a Youden index of 0.79, and a maximum AUC of 0.92. For JVent, a flexible threshold of the 90th percentile multiplied by a factor of 0.16 was chosen, resulting in a sensitivity of 0.66, specificity of 1.00, a Youden index of 0.66, and an AUC of 0.78. Complete results of the threshold analysis are listed in Table <xref rid="mrm70239-supitem-0001" ref-type="supplementary-material">S1</xref> for RVent and Table <xref rid="mrm70239-supitem-0002" ref-type="supplementary-material">S2</xref> for JVent parameters.</p></sec><sec id="mrm70239-sec-0015"><label>3.2</label><title>Comparison Between <styled-content style="fixed-case" toggle="no">RVent</styled-content> and <styled-content style="fixed-case" toggle="no">JVent</styled-content> Maps</title><p>Figures <xref rid="mrm70239-fig-0001" ref-type="fig">1</xref> and <xref rid="mrm70239-fig-0002" ref-type="fig">2</xref> show representative proton ventilation parameter maps for a healthy and a cystic fibrosis participant, alongside <sup>129</sup>Xe images. The RVent maps visually correlate more closely with <sup>129</sup>Xe imaging than JVent.</p><fig position="float" fig-type="FIGURE" id="mrm70239-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>
+<sup>129</sup>Xe ventilation and ventilation defect images (1st and 2nd rows) and corresponding proton ventilation parameter maps of a healthy subject (11‐year‐old male, ppFEV<sub>1</sub> = 100.5). The 3rd and 4th rows display the signal‐based RVent map alongside its defect maps, while the 5th and 6th rows present the unfiltered volume‐based JVent map with its corresponding defect map. The 7th row presents spatial agreement between ventilation defect maps of both proton techniques, with a total spatial overlap of 95.6% across all evaluated slices. Matched defect and healthy areas are shown in dark green, with differences highlighted in blue and yellow.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="MRM-95-2814-g003.jpg"/></fig><fig position="float" fig-type="FIGURE" id="mrm70239-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>
+<sup>129</sup>Xe ventilation and ventilation defect images (1st and 2nd rows) and corresponding proton ventilation maps of a cystic fibrosis participant (23‐year‐old female, ppFEV<sub>1</sub> = 89.8). The 3rd and 4th rows display the signal‐based RVent map alongside its defect maps, while the 5th and 6th rows present the unfiltered volume‐based JVent map with its corresponding defect map. The 7th row presents spatial agreement between ventilation defect maps of both proton techniques, with a total spatial overlap of 79.0% across all evaluated slices. Matched defect and healthy areas are shown in dark green, with differences highlighted in blue and yellow.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="MRM-95-2814-g004.jpg"/></fig><p>Statistically significant differences were found between mean and CoV values of RVent and JVent across all study participants and diseased participants only (mean bias of 0.02 mL/mL for the mean and −6.96% for CoV, respectively; all <italic toggle="yes">p</italic> &lt; 0.0001; see Figure <xref rid="mrm70239-fig-0003" ref-type="fig">3a,b</xref> and Table <xref rid="mrm70239-tbl-0001" ref-type="table">1</xref>). However, no significant difference was observed in VDP values between RVent and JVent for both comparisons (both <italic toggle="yes">p</italic> ≥ 0.38, Figure <xref rid="mrm70239-fig-0003" ref-type="fig">3c</xref>, Table <xref rid="mrm70239-tbl-0001" ref-type="table">1</xref>). Notably, there was a negative bias of 4.20% for VDP<sub>JVent</sub> and 11.8% for CoV JVent when compared to corresponding RVent parameters in the healthy participant group (both <italic toggle="yes">p</italic> = 0.0156, Table <xref rid="mrm70239-tbl-0001" ref-type="table">1</xref>). A positive bias was observed in the SNR of JVent relative to RVent maps across all participants (mean bias of 2.65, <italic toggle="yes">p</italic> = 0.0031), as well as within the subgroup of diseased participants (mean bias of 3.81, <italic toggle="yes">p</italic> = 0.0015).</p><fig position="float" fig-type="FIGURE" id="mrm70239-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Bland–Altman analysis of proton methods along with regression analysis of their VDP values. In the Bland–Altman plots, the red line represents the mean bias, while the dotted black lines indicate the limits of agreement, calculated as the mean bias±1.96 standard deviations. In the regression plots, the black dotted line represents the fitted regression line. In (A), Mean<sub>RVent</sub> versus Mean<sub>JVent</sub>; in (B), CoV<sub>RVent</sub> versus CoV<sub>JVent</sub>; in (C), VDP<sub>RVent</sub> versus VDP<sub>JVent</sub>; in (D), regression analysis between VDP<sub>RVent</sub> and VDP<sub>JVent</sub>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="MRM-95-2814-g005.jpg"/></fig><table-wrap position="float" id="mrm70239-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Analysis of proton MRI lung ventilation quantification methods.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="center" valign="top" style="border-bottom:solid 1px #000000" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1"/><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Descriptive statistics</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Bland–Altman analysis</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Spearman correlation</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">Parameter</th><th align="center" valign="bottom" rowspan="1" colspan="1">RVent</th><th align="center" valign="bottom" rowspan="1" colspan="1">JVent</th><th align="center" valign="bottom" rowspan="1" colspan="1">Absolute mean difference (LoA)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+<xref rid="mrm70239-note-0004" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Spearman rho</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+<xref rid="mrm70239-note-0005" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th></tr></thead><tbody valign="top"><tr><td rowspan="4" align="left" valign="top" colspan="1">All participants (<italic toggle="yes">N</italic> = 36)</td><td align="center" valign="top" rowspan="1" colspan="1">Mean (mL/mL)</td><td align="center" valign="top" rowspan="1" colspan="1">0.13 (0.10–0.15)</td><td align="center" valign="top" rowspan="1" colspan="1">0.10 (0.09–0.12)</td><td align="center" valign="top" rowspan="1" colspan="1">0.02 (−0.04–0.07)</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.0001*</td><td align="center" valign="top" rowspan="1" colspan="1">0.65</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.0001*</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">CoV (%)</td><td align="center" valign="top" rowspan="1" colspan="1">46.6 (40.4–59.9)</td><td align="center" valign="top" rowspan="1" colspan="1">57.2 (48.6–62.4)</td><td align="center" valign="top" rowspan="1" colspan="1">−6.96 (−28.05–14.12)</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.0001*</td><td align="center" valign="top" rowspan="1" colspan="1">0.61</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.0001*</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">VDP (%)</td><td align="center" valign="top" rowspan="1" colspan="1">8.5 (3.9–13.7)</td><td align="center" valign="top" rowspan="1" colspan="1">10.2 (6.6–13.4)</td><td align="center" valign="top" rowspan="1" colspan="1">−0.69 (−12.26–10.88)</td><td align="center" valign="top" rowspan="1" colspan="1">0.38</td><td align="center" valign="top" rowspan="1" colspan="1">0.61</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.0001*</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">SNR (−)</td><td align="center" valign="top" rowspan="1" colspan="1">1.9 (1.3–2.8)</td><td align="center" valign="top" rowspan="1" colspan="1">4.4 (2.5–7.7)</td><td align="center" valign="top" rowspan="1" colspan="1">2.65 (−27.21–32.50)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0031*</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td rowspan="4" align="left" valign="top" colspan="1">Healthy participants (<italic toggle="yes">N</italic> = 7)</td><td align="center" valign="top" rowspan="1" colspan="1">Mean (mL/mL)</td><td align="center" valign="top" rowspan="1" colspan="1">0.14 (0.11–0.14)</td><td align="center" valign="top" rowspan="1" colspan="1">0.11 (0.10–0.13)</td><td align="center" valign="top" rowspan="1" colspan="1">0.01 (−0.05–0.07)</td><td align="center" valign="top" rowspan="1" colspan="1">0.47</td><td align="center" valign="top" rowspan="1" colspan="1">0.43</td><td align="center" valign="top" rowspan="1" colspan="1">0.35</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">CoV (%)</td><td align="center" valign="top" rowspan="1" colspan="1">37.7 (33.3–39.0)</td><td align="center" valign="top" rowspan="1" colspan="1">50.1 (46.2–53.4)</td><td align="center" valign="top" rowspan="1" colspan="1">−11.82 (−22.39–1.24)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0156*</td><td align="center" valign="top" rowspan="1" colspan="1">0.54</td><td align="center" valign="top" rowspan="1" colspan="1">0.24</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">VDP (%)</td><td align="center" valign="top" rowspan="1" colspan="1">3.0 (1.8–3.1)</td><td align="center" valign="top" rowspan="1" colspan="1">6.3 (6.0–9.7)</td><td align="center" valign="top" rowspan="1" colspan="1">−4.20 (−8.48–0.09)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0156*</td><td align="center" valign="top" rowspan="1" colspan="1">0.79</td><td align="center" valign="top" rowspan="1" colspan="1">0.0480*</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">SNR (−)</td><td align="center" valign="top" rowspan="1" colspan="1">2.9 (2.6–3.5)</td><td align="center" valign="top" rowspan="1" colspan="1">3.5 (1.2–5.7)</td><td align="center" valign="top" rowspan="1" colspan="1">−2.16 (−29.37–25.04)</td><td align="center" valign="top" rowspan="1" colspan="1">0.94</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td rowspan="4" align="left" valign="top" colspan="1">Non‐healthy participants (<italic toggle="yes">N</italic> = 29)</td><td align="center" valign="top" rowspan="1" colspan="1">Mean (mL/mL)</td><td align="center" valign="top" rowspan="1" colspan="1">0.13 (0.10–0.15)</td><td align="center" valign="top" rowspan="1" colspan="1">0.10 (0.09–0.12)</td><td align="center" valign="top" rowspan="1" colspan="1">0.02 (−0.03–0.06)</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.0001*</td><td align="center" valign="top" rowspan="1" colspan="1">0.61</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.0001*</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">CoV (%)</td><td align="center" valign="top" rowspan="1" colspan="1">48.5 (44.9–62.6)</td><td align="center" valign="top" rowspan="1" colspan="1">59.0 (49.9–63.2)</td><td align="center" valign="top" rowspan="1" colspan="1">−5.79 (−28.24–16.65)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0141*</td><td align="center" valign="top" rowspan="1" colspan="1">0.54</td><td align="center" valign="top" rowspan="1" colspan="1">0.0029*</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">VDP (%)</td><td align="center" valign="top" rowspan="1" colspan="1">9.2 (6.3–17.8)</td><td align="center" valign="top" rowspan="1" colspan="1">11.2 (8.0–14.1)</td><td align="center" valign="top" rowspan="1" colspan="1">0.16 (−12.03–12.35)</td><td align="center" valign="top" rowspan="1" colspan="1">0.89</td><td align="center" valign="top" rowspan="1" colspan="1">0.54</td><td align="center" valign="top" rowspan="1" colspan="1">0.0029*</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">SNR (−)</td><td align="center" valign="top" rowspan="1" colspan="1">1.8 (1.3–2.2)</td><td align="center" valign="top" rowspan="1" colspan="1">4.5 (2.6–8.2)</td><td align="center" valign="top" rowspan="1" colspan="1">3.81 (−26.65–34.27)</td><td align="center" valign="top" rowspan="1" colspan="1">0.0015*</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr></tbody></table><table-wrap-foot id="mrm70239-ntgp-0002"><fn id="mrm70239-note-0002"><p>
+<italic toggle="yes">Note</italic>: Ventilation parameter values are expressed as a median with interquartile ranges. Statistically significant results between paired comparisons between signal‐based (RVent) and volume‐based (JVent) parameters are marked with *.</p></fn><fn id="mrm70239-note-0003"><p>Abbreviations: CoV, coefficient of variation; JVent, volume‐based ventilation based on Jacobian determinant; LoA, levels of agreement; RVent, signal‐based regional ventilation; VDP, ventilation defect percentage.</p></fn><fn id="mrm70239-note-0004"><label>
+<sup>a</sup>
+</label><p>
+<italic toggle="yes">p</italic> value determined using paired Wilcoxon signed rank test.</p></fn><fn id="mrm70239-note-0005"><label>
+<sup>b</sup>
+</label><p>
+<italic toggle="yes">p</italic> value determined using Fisher's <italic toggle="yes">z</italic>‐transformation.</p></fn></table-wrap-foot></table-wrap><p>In all study participants, all RVent parameters were significantly correlated to their corresponding JVent parameters (all <italic toggle="yes">ρ</italic> ≥ 0.61, all <italic toggle="yes">p</italic> &lt; 0.0001, Table <xref rid="mrm70239-tbl-0001" ref-type="table">1</xref>).</p><p>The proton defect maps showed a median spatial overlap of 85.7% for all study participants with generally lower values for diseased participants (median spatial overlap of 91.0% for healthy vs. 83.3% for diseased participants, respectively; Table <xref rid="mrm70239-tbl-0002" ref-type="table">2</xref>). Median Sørensen–Dice coefficients for defects were 0.13 in the full cohort, 0.05 in healthy participants only, and 0.17 in people with pulmonary disease. For healthy areas, the median Sørensen–Dice coefficient was 0.92 for all study participants, 0.95 for healthy participants only, and 0.91 for people with pulmonary disease.</p><table-wrap position="float" id="mrm70239-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Spatial overlap analysis between proton defect maps derived from signal‐based RVent and volume‐based JVent maps.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Spatial overlap (%)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Sørensen–Dicedisease (−)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Sørensen–Dicehealthy (−)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">All participants</td><td align="center" valign="top" rowspan="1" colspan="1">85.8 (75.9–88.4)</td><td align="center" valign="top" rowspan="1" colspan="1">0.13 (0.07–0.28)</td><td align="center" valign="top" rowspan="1" colspan="1">0.92 (0.88–0.94)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Healthy participants</td><td align="center" valign="top" rowspan="1" colspan="1">91.0 (87.7–92.6)</td><td align="center" valign="top" rowspan="1" colspan="1">0.05 (0.02–0.08)</td><td align="center" valign="top" rowspan="1" colspan="1">0.95 (0.93–0.96)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Non‐healthy participants</td><td align="center" valign="top" rowspan="1" colspan="1">83.3 (79.0–87.5)</td><td align="center" valign="top" rowspan="1" colspan="1">0.17 (0.10–0.31)</td><td align="center" valign="top" rowspan="1" colspan="1">0.91 (0.87–0.93)</td></tr></tbody></table><table-wrap-foot id="mrm70239-ntgp-0003"><fn id="mrm70239-note-0006"><p>
+<italic toggle="yes">Note</italic>: The spatial overlap of the defect maps was determined by multi‐class Sørensen–Dice coefficient.</p></fn></table-wrap-foot></table-wrap></sec><sec id="mrm70239-sec-0016"><label>3.3</label><title>Relationship to <styled-content style="fixed-case" toggle="no">
+<sup>129</sup>Xe MRI</styled-content>
+</title><p>Significant correlations were found between CoV<sub>RVent</sub>, VDP<sub>RVent</sub>, CoV<sub>JVent</sub>, VDP<sub>JVent</sub>, and VDP<sub>129Xe</sub> (all <italic toggle="yes">ρ</italic> &gt; 0.34, all <italic toggle="yes">p</italic> &lt; 0.0403, Table <xref rid="mrm70239-tbl-0003" ref-type="table">3</xref>). There was no significant bias between either VDP<sub>RVent</sub> or VDP<sub>JVent</sub> to VDP<sub>129Xe</sub> (both <italic toggle="yes">p</italic> ≥ 0.41, Figure <xref rid="mrm70239-fig-0004" ref-type="fig">4a,b</xref>, Table <xref rid="mrm70239-tbl-0003" ref-type="table">3</xref>). The levels of agreement (LoA) were broader in the comparison between VDP<sub>JVent</sub> and VDP<sub>129Xe</sub> when compared to the comparison between VDP<sub>RVent</sub> and VDP<sub>129Xe</sub>. Figure <xref rid="mrm70239-fig-0004" ref-type="fig">4c,d</xref> shows the regression analyses of VDP<sub>RVent</sub> versus VDP<sub>129Xe</sub>, and VDP<sub>JVent</sub> versus VDP<sub>129Xe</sub>, respectively. VDP<sub>RVent</sub> was more strongly correlated with VDP<sub>129Xe</sub> (<italic toggle="yes">ρ</italic> = 0.78) than VDP<sub>JVent</sub> was with VDP<sub>129Xe</sub> (<italic toggle="yes">ρ</italic> = 0.34), as confirmed by Meng's <italic toggle="yes">Z</italic> test (<italic toggle="yes">Z</italic> = 4.36, <italic toggle="yes">p</italic> &lt; 0.0001).</p><table-wrap position="float" id="mrm70239-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Spearman correlation analysis of RVent/JVent ventilation parameters to gold standard ventilation measurement of <sup>129</sup>Xe MRI and its ventilation defect percentage values.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="center" valign="top" style="border-bottom:solid 1px #000000" colspan="1">Parameter (<italic toggle="yes">N</italic> = 36)</th><th colspan="4" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">VDP<sub>129Xe</sub>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">Spearmanrho</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+<xref rid="mrm70239-note-0010" ref-type="table-fn">
+<sup>b</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mean bias (LoA)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+<xref rid="mrm70239-note-0009" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean<sub>RVent</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.07</td><td align="center" valign="top" rowspan="1" colspan="1">0.70</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CoV<sub>RVent</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.76</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.0001*</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">VDP<sub>RVent</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.78</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.0001*</td><td align="center" valign="top" rowspan="1" colspan="1">0.23 (−9.52–9.97)</td><td align="center" valign="top" rowspan="1" colspan="1">0.64</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean<sub>JVent</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.13</td><td align="center" valign="top" rowspan="1" colspan="1">0.43</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CoV<sub>JVent</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.34</td><td align="center" valign="top" rowspan="1" colspan="1">0.0437*</td><td align="center" valign="top" rowspan="1" colspan="1">—</td><td align="center" valign="top" rowspan="1" colspan="1">—</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">VDP<sub>JVent</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.34</td><td align="center" valign="top" rowspan="1" colspan="1">0.0403*</td><td align="center" valign="top" rowspan="1" colspan="1">0.92 (−12.98–14.81)</td><td align="center" valign="top" rowspan="1" colspan="1">0.41</td></tr></tbody></table><table-wrap-foot id="mrm70239-ntgp-0004"><fn id="mrm70239-note-0007"><p>
+<italic toggle="yes">Note</italic>: Statistically significant correlations are marked with *. Additionally, the mean bias was quantified using Bland–Altman plots and was calculated as the difference between VDP<sub>RVent</sub> (or VDP<sub>JVent</sub>) and VDP<sub>129Xe</sub>.</p></fn><fn id="mrm70239-note-0008"><p>Abbreviations: CoV, coefficient of variation; JVent, volume‐based ventilation based on Jacobian determinant; LoA, levels of agreement; RVent, signal‐based regional ventilation; VDP, ventilation defect percentage.</p></fn><fn id="mrm70239-note-0009"><label>
+<sup>a</sup>
+</label><p>
+<italic toggle="yes">p</italic> determined using paired Wilcoxon signed rank test.</p></fn><fn id="mrm70239-note-0010"><label>
+<sup>b</sup>
+</label><p>
+<italic toggle="yes">p</italic> determined using Fisher's z‐transformation.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="FIGURE" id="mrm70239-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Bland–Altman analysis between proton methods and <sup>129</sup>Xe MRI along with regression analysis of their VDP values. In the Bland–Altman plots, the red line represents the mean bias, while the dotted black lines indicate the limits of agreement, calculated as the mean bias±1.96 standard deviations. In the regression plots, the black dotted line represents the fitted regression line. In (A), Bland–Altman plot VDP<sub>RVent</sub> versus VDP<sub>129Xe</sub>; in (B), Bland–Altman plot VDP<sub>JVent</sub> versus VDP<sub>129Xe</sub>; in (C), regression analysis VDP<sub>RVent</sub> versus VDP<sub>129Xe</sub>; in (D), regression analysis between VDP<sub>JVent</sub> and VDP<sub>129Xe</sub>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="MRM-95-2814-g002.jpg"/></fig></sec><sec id="mrm70239-sec-0017"><label>3.4</label><title>Relationship of <styled-content style="fixed-case" toggle="no">MRI</styled-content>‐Based Parameters to <styled-content style="fixed-case" toggle="no">PFT</styled-content>
+</title><p>PFT data were not recorded for three healthy volunteers, one LAM subject, and one NEHI patient. Across all participants with PFT (<italic toggle="yes">N</italic> = 31), the median ppFEV<sub>1</sub> was 92.00 with interquartile range (IQR) between 82.77%–107.40%, the median ppFVC was 100.70 (IQR: 90.18–108.65)%, and the median FEV1/FVC ratio was 82.00 (IQR: 74.85–88.59). In the diseased cohort with PFT (<italic toggle="yes">N</italic> = 27), the median ppFEV1 was 89.80 (IQR: 81.85–106.10)%, ppFVC was 99.82 (IQR: 88.15–108.65)%, and the FEV1/FVC ratio was 81.57 (IQR: 74.85–86.09). Among healthy controls with PFT (<italic toggle="yes">N</italic> = 4), the median ppFEV1 was 104.85 (IQR: 99.35–110.40)%, ppFVC was 104.00 (IQR: 102.03–106.88)%, and the FEV1/FVC ratio was 88.23 (IQR: 81.27–94.07).</p><p>There were significant correlations between CoV<sub>RVent</sub>, VDP<sub>RVent</sub>, and VDP<sub>129Xe</sub> with ppFEV<sub>1</sub> and FEV<sub>1</sub>/FVC (all <italic toggle="yes">ρ</italic> ≤ −0.44, all <italic toggle="yes">p</italic> ≤ 0.0131). A significant correlation was also observed between mean RVent and ppFVC (<italic toggle="yes">ρ</italic> = −0.43, <italic toggle="yes">p</italic> = 0.0153). No significant correlations were found between all Jacobian‐derived parameters and all PFT measurements (all <italic toggle="yes">p</italic> ≥ 0.06). Complete results are presented in Table <xref rid="mrm70239-tbl-0004" ref-type="table">4</xref>.</p><table-wrap position="float" id="mrm70239-tbl-0004" content-type="TABLE" orientation="portrait"><label>TABLE 4</label><caption><p>Spearman correlation analysis of RVent/JVent and <sup>129</sup>Xe MRI‐derived ventilation parameters to pulmonary function test parameters (<italic toggle="no">N</italic> = 31, 27 non‐healthy, 4 healthy).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" align="center" valign="top" style="border-bottom:solid 1px #000000" colspan="1">Parameter (<italic toggle="yes">N</italic> = 31)</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">ppFEV<sub>1</sub>
+</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">ppFVC</th><th colspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">FEV<sub>1</sub>/FVC</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">Spearmanrho</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+<xref rid="mrm70239-note-0013" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Spearman rho</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+<xref rid="mrm70239-note-0013" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">Spearman rho</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic>
+<xref rid="mrm70239-note-0013" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">VDP<sub>129Xe</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.65</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.0001*</td><td align="center" valign="top" rowspan="1" colspan="1">−0.26</td><td align="center" valign="top" rowspan="1" colspan="1">0.16</td><td align="center" valign="top" rowspan="1" colspan="1">−0.56</td><td align="center" valign="top" rowspan="1" colspan="1">0.0010*</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean<sub>RVent</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.30</td><td align="center" valign="top" rowspan="1" colspan="1">0.11</td><td align="center" valign="top" rowspan="1" colspan="1">−0.43</td><td align="center" valign="top" rowspan="1" colspan="1">0.0153*</td><td align="center" valign="top" rowspan="1" colspan="1">−0.11</td><td align="center" valign="top" rowspan="1" colspan="1">0.54</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CoV<sub>RVent</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.47</td><td align="center" valign="top" rowspan="1" colspan="1">0.0081*</td><td align="center" valign="top" rowspan="1" colspan="1">−0.12</td><td align="center" valign="top" rowspan="1" colspan="1">0.53</td><td align="center" valign="top" rowspan="1" colspan="1">−0.48</td><td align="center" valign="top" rowspan="1" colspan="1">0.0063*</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">VDP<sub>RVent</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.47</td><td align="center" valign="top" rowspan="1" colspan="1">0.0073*</td><td align="center" valign="top" rowspan="1" colspan="1">−0.16</td><td align="center" valign="top" rowspan="1" colspan="1">0.40</td><td align="center" valign="top" rowspan="1" colspan="1">−0.44</td><td align="center" valign="top" rowspan="1" colspan="1">0.0131*</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Mean<sub>JVent</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.18</td><td align="center" valign="top" rowspan="1" colspan="1">0.32</td><td align="center" valign="top" rowspan="1" colspan="1">−0.20</td><td align="center" valign="top" rowspan="1" colspan="1">0.27</td><td align="center" valign="top" rowspan="1" colspan="1">−0.11</td><td align="center" valign="top" rowspan="1" colspan="1">0.56</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CoV<sub>JVent</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.19</td><td align="center" valign="top" rowspan="1" colspan="1">0.31</td><td align="center" valign="top" rowspan="1" colspan="1">0.05</td><td align="center" valign="top" rowspan="1" colspan="1">0.80</td><td align="center" valign="top" rowspan="1" colspan="1">−0.33</td><td align="center" valign="top" rowspan="1" colspan="1">0.07</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">VDP<sub>JVent</sub>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.26</td><td align="center" valign="top" rowspan="1" colspan="1">0.15</td><td align="center" valign="top" rowspan="1" colspan="1">−0.03</td><td align="center" valign="top" rowspan="1" colspan="1">0.86</td><td align="center" valign="top" rowspan="1" colspan="1">−0.34</td><td align="center" valign="top" rowspan="1" colspan="1">0.06</td></tr></tbody></table><table-wrap-foot id="mrm70239-ntgp-0005"><fn id="mrm70239-note-0011"><p>
+<italic toggle="yes">Note</italic>: Statistically significant correlations are marked with *.</p></fn><fn id="mrm70239-note-0012"><p>Abbreviations: CoV, coefficient of variation; JVent, volume‐based ventilation based on Jacobian determinant; ppFEV<sub>1</sub>, percent predicted forced expiratory volume in 1 s; ppFVC, percent predicted forced vital capacity; RVent, signal‐based regional ventilation; VDP, ventilation defect percentage.</p></fn><fn id="mrm70239-note-0013"><label>
+<sup>a</sup>
+</label><p>
+<italic toggle="yes">p</italic> value determined using Fisher's <italic toggle="yes">z</italic>‐transformation.</p></fn></table-wrap-foot></table-wrap></sec><sec id="mrm70239-sec-0018"><label>3.5</label><title>Discriminative Power</title><p>VDP distributions across the whole cohort and healthy/disease groups are shown in Figure <xref rid="mrm70239-fig-0005" ref-type="fig">5</xref>. Significantly higher VDP<sub>JVent</sub> values were found in the healthy control group when compared to VDP<sub>RVent</sub> and VDP<sub>129Xe</sub> (both <italic toggle="yes">p</italic> ≤ 0.0469).</p><fig position="float" fig-type="FIGURE" id="mrm70239-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Boxplots showing the VDP values distribution in all study participants (left), in healthy participants only (middle), and in diseased participants only (right). Note significantly higher VDP values in the healthy control group for VDP<sub>JVent</sub> when compared to VDP<sub>RVent</sub> and VDP<sub>129Xe</sub>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="MRM-95-2814-g006.jpg"/></fig><p>In all study participants (<italic toggle="yes">N</italic> = 36), AUC value was lower for VDP<sub>JVent</sub> (0.78) compared to VDP<sub>129Xe</sub> (0.89) and VDP<sub>RVent</sub> (0.92, Figure <xref rid="mrm70239-fig-0006" ref-type="fig">6a,b</xref>). However, the DeLong method revealed no significant differences in the performance of all three methods (all <italic toggle="yes">p</italic> ≥ 0.06).</p><fig position="float" fig-type="FIGURE" id="mrm70239-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>ROC analysis displays the three VDP parameters and pulmonary function test derived ppFEV<sub>1</sub> along with their respective AUC values, highlighting the superior performance of VDP<sub>RVent</sub> compared to VDP<sub>JVent</sub>. In (a) ROC analysis for all study participants (<italic toggle="yes">N</italic> = 36) and in (b) ROC analysis in study participants where pulmonary function tests were available (<italic toggle="yes">N</italic> = 31). Note the better differentiation between healthy and diseased patients with VDP<sub>RVent</sub> and VDP<sub>129Xe</sub> compared to VDP<sub>JVent</sub> in (a) and (b) and ppFEV<sub>1</sub> in (b).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="MRM-95-2814-g001.jpg"/></fig><p>In the subset of participants who underwent both spirometry and MRI combined (<italic toggle="yes">N</italic> = 31), no significant differences were observed (all <italic toggle="yes">p</italic> ≥ 0.09). The AUC value for ppFEV<sub>1</sub> (0.74) was the lowest (Figure <xref rid="mrm70239-fig-0006" ref-type="fig">6b</xref>), compared to the AUC values of MRI‐derived parameters: 0.80 for VDP<sub>JVent</sub>, 0.89 for VDP<sub>129Xe</sub> and 0.91 for VDP<sub>RVent</sub>.</p></sec></sec><sec sec-type="discussion" id="mrm70239-sec-0019"><label>4</label><title>Discussion</title><p>Understanding regional lung ventilation is critical to detect and monitor pulmonary abnormalities. Among respiratory‐resolved proton UTE MRI approaches, both Jacobian‐based ventilation (JVent) derived from image registration and signal‐based ventilation (RVent) derived from dynamic signal changes offer complementary pathways to estimate ventilation. In theory, RVent and JVent should yield similar results, as both quantify regional lung volume changes during respiration. While JVent captures geometric expansion derived from image registration, RVent reflects the corresponding change in air content. Ideally, these measures should align closely; however, discrepancies can arise due to physiological differences and technical factors such as registration accuracy, signal‐to‐noise ratio, and susceptibility effects. Despite their shared goal, differences in their underlying assumptions, sensitivity to noise, and image processing demands can lead to varying results and require careful interpretation. Therefore, a direct comparison of these methods is essential to assess their relative accuracy, reliability, and clinical utility, particularly in relation to established benchmarks like hyperpolarized <sup>129</sup>Xe MRI. The goal of this work is to comprehensively compare these approaches against hyperpolarized <sup>129</sup>Xe MRI.</p><p>The results indicate significant differences between the RVent and JVent methods for assessing lung ventilation via 3D proton FLORET UTE MRI. VDP<sub>RVent</sub> demonstrated a stronger correlation with <sup>129</sup>Xe MRI and PFTs, likely due to inferior image quality of the JVent maps. Volume‐based JVent ventilation displayed a blurrier appearance, as previously reported [<xref rid="mrm70239-bib-0029" ref-type="bibr">29</xref>], and showed a weaker correlation with <sup>129</sup>Xe MRI. In the development of the JVent VDP calculation in this study, it was necessary to additionally apply a median filter of 7 × 7 × 7 to derive meaningful VDP values in the expected range while also maintaining correlation to <sup>129</sup>Xe MRI. We also performed threshold analysis on unfiltered JVent maps as well as those processed with 3 × 3 × 3 and 5 × 5 × 5 median filters. However, the 7 × 7 × 7 filter yielded superior AUC values and produced VDP measurements within the expected healthy range for the control group in our study. This filter may have contributed to the observed blurring as well as higher SNR of the JVent maps.</p><p>Threshold analysis was performed to derive the most suitable thresholds for RVent/JVent parameters. Since a variety of pulmonary conditions were included, the determined threshold should be applicable for different pulmonary diseases. For VDP<sub>RVent</sub>, the determined threshold of the 90th percentile multiplied by a factor of 0.25 differs from the previously published threshold (90th percentile multiplied by a factor of 0.4) for 3D phase‐resolved functional lung (PREFUL) MRI [<xref rid="mrm70239-bib-0006" ref-type="bibr">6</xref>], which showed responsiveness to therapy in CF [<xref rid="mrm70239-bib-0030" ref-type="bibr">30</xref>] as well as spatial correspondence to direct ventilation imaging with dynamic <sup>19</sup>F MRI [<xref rid="mrm70239-bib-0031" ref-type="bibr">31</xref>] and breath‐hold <sup>129</sup>Xe MRI [<xref rid="mrm70239-bib-0011" ref-type="bibr">11</xref>]. A threshold considered in this work theoretically means to be less sensitive to ventilation inhomogeneities/changes but also less susceptible to noise. On the other hand, the correlation with <sup>129</sup>Xe MRI was maximized, and the VDP values of healthy participants were in median below 3%, in contrast to earlier publications (reporting 6%–7% VDP for healthy) with the previously established threshold [<xref rid="mrm70239-bib-0032" ref-type="bibr">32</xref>]. This also enabled better VDP matching closer to the <sup>129</sup>Xe MRI VDP values reported for healthy volunteers (mean VDP of 1.6% ± 1.2%) in a previous study [<xref rid="mrm70239-bib-0033" ref-type="bibr">33</xref>]. For the VDP<sub>JVent</sub> values, we used a binary threshold in contrast to a previous study, which used the k‐means clustering methods [<xref rid="mrm70239-bib-0013" ref-type="bibr">13</xref>]. While the authors report systematically higher VDP<sub>JVent</sub> by 5% when compared to VDP<sub>129Xe</sub> in people with CF, we observed no bias (mean difference of 0.9%) using the optimized threshold. Our observations are in line with a recent publication, which showed significant differences between binary and <italic toggle="yes">k</italic>‐means thresholding techniques for <sup>129</sup>Xe MRI, with <italic toggle="yes">k</italic>‐means methods consistently showing systematically higher VDP values in 175 study participants consisting of healthy subjects, asthma and chronic obstructive pulmonary disease patients [<xref rid="mrm70239-bib-0034" ref-type="bibr">34</xref>].</p><p>Both proton methods had similar VDP values, and their corresponding values showed a close relationship as highlighted by a strong positive correlation between them. This result was expected, as both proton methods are performed using the same images and their thresholds were adjusted to produce values within the anticipated range. While the volume‐based methods rely solely on the precise vector estimation during image registration (even small errors in vector calculation can lead to inaccurate results), signal‐based methods require mainly accurate bulk registration (i.e., groups of similar voxels being mapped onto similar voxels) and can further benefit from additional postprocessing parts, such as low‐pass filtering and image guided filtering, which may further improve the signal related to ventilation. Also, the signal‐based methods (such as PREFUL [<xref rid="mrm70239-bib-0035" ref-type="bibr">35</xref>] MRI or 3D flow capacity‐weighted UTE MRI [<xref rid="mrm70239-bib-0007" ref-type="bibr">7</xref>]) enable evaluation of the whole respiratory cycle, further adding value to these methods, as those dynamic metrics have been shown to be sensitive for prediction of future lung transplant loss [<xref rid="mrm70239-bib-0036" ref-type="bibr">36</xref>] or changes associated with post‐COVID‐19 condition [<xref rid="mrm70239-bib-0037" ref-type="bibr">37</xref>]. Analysis of the whole respiratory cycle using the volume‐based methods has been performed in healthy controls, employing parameters such as tidal volume and spontaneous peak expiratory flow [<xref rid="mrm70239-bib-0008" ref-type="bibr">8</xref>, <xref rid="mrm70239-bib-0038" ref-type="bibr">38</xref>], but has not yet been applied to any patient population. However, the dynamic parameters derived from the signal‐based approach might also be of interest for volume‐based approaches and vice versa, both for integration into their analysis and for direct comparison between the two approaches. In this work, the flow‐volume loop analysis of the whole respiratory cycle was not integrated as we primarily concentrated on static ventilation imaging, which is more closely related to the breath‐hold imaging performed using <sup>129</sup>Xe MRI.</p><p>The total spatial agreement between both proton methods was strong (median of 86%); however, the Sørensen–Dice coefficient in the defect areas of the diseased study participants was low (median value of 0.17). This number is likely biased by the class imbalance as there were low VDP values of both ventilation‐weighted measurements (both medians &lt; 11.2%).</p><p>In this study, both proton ventilation‐weighted approaches were significantly correlated to <sup>129</sup>Xe MRI, which represented direct measurement of ventilation. A similar strength of correlation in the range 0.61–0.82 was recently observed between 3D proton methods derived VDP<sub>RVent</sub> and VDP<sub>129Xe</sub> [<xref rid="mrm70239-bib-0012" ref-type="bibr">12</xref>, <xref rid="mrm70239-bib-0014" ref-type="bibr">14</xref>]. As for the volume‐based method, a previous study [<xref rid="mrm70239-bib-0013" ref-type="bibr">13</xref>] reported a higher correlation value of 0.64 between VDP<sub>JVent</sub> and VDP<sub>129Xe</sub> in contrast to our results. While the study used the same registration toolbox, there are differences in the fixed image chosen for registration, as the authors used registration towards the end‐expiratory state and in our work, image registration towards the end‐inspiratory image was performed. The choice of choosing the end‐inspiratory image from the tidal breathing as a fixed image for the image registration was motivated by the similar breathing position to the breath‐hold image (FRC + up to 1L of <sup>129</sup>Xe gas mixture dose) acquired for <sup>129</sup>Xe imaging. Additionally, the authors reported Pearson correlation, which is in contrast to the Spearman correlation used for our non‐normally distributed data. Apart from those technical differences, the study populations were different, as the previous study mainly assessed people with cystic fibrosis and for our study, we had a broader spectrum of pulmonary diseases and ages. Future research could examine patients with other pulmonary conditions and explore the performance of different registration algorithms to improve the image quality of JVent maps.</p><p>JVent VDP values of healthy volunteers were significantly higher than those derived from RVent and <sup>129</sup>Xe MRI. In the previous publication, authors observed a similar trend between VDP<sub>JVent</sub> and VDP<sub>129Xe</sub> MRI in a group consisting of 12 healthy volunteers [<xref rid="mrm70239-bib-0013" ref-type="bibr">13</xref>]. This finding, along with the superior AUC values of RVent, underscores RVent's potential to better distinguish between healthy and disease areas. This finding was supported by correlations to PFT data, where RVent showed significant correlations to ppFEV<sub>1</sub> and FEV<sub>1</sub>/FVC, while JVent did not. A recent publication reported a significant correlation (Pearson <italic toggle="yes">r</italic> = −0.54) between the JVent parameter and ppFEV1. However, that study included 12 healthy volunteers and 45 participants with cystic fibrosis only [<xref rid="mrm70239-bib-0013" ref-type="bibr">13</xref>]. While both RVent and JVent are sensitive to ventilation changes in obstructive and restrictive lung diseases, we assume that the JVent method is more sensitive to detecting larger structural or functional abnormalities, such as those commonly observed in cystic fibrosis, and therefore may be better suited for assessing restrictive disease patterns. In contrast, our study also included patients with more subtle, focal defects, which may be more challenging for JVent to capture accurately due to blurring artifacts present in the JVent maps. This may explain the lower, statistically non‐significant correlations between JVent and PFT measurements observed in our study. Consequently, the signal‐based RVent parameter may be more suitable for obstructive disease, where a more heterogeneous or patchy ventilation pattern is expected.</p><p>Means, CoVs, and VDPs of RVent/JVent capture complementary aspects of regional lung function. Biomarkers reflecting ventilation heterogeneity, such as CoV and VDP, potentially tend to correlate more strongly with FEV<sub>1</sub>, as both are influenced by airway obstruction. In contrast, metrics reflecting global volume change, like mean RVent and mean JVent, are more closely related to FVC, which represents total ventilated lung volume rather than airflow dynamics. The choice of biomarker for clinical practice may therefore depend on the clinical question. In previous studies [<xref rid="mrm70239-bib-0012" ref-type="bibr">12</xref>, <xref rid="mrm70239-bib-0030" ref-type="bibr">30</xref>], CoV and VDP values of RVent have demonstrated higher sensitivity for disease detection and monitoring, while mean RVent/JVent values may be influenced by respiratory rate and tidal volume [<xref rid="mrm70239-bib-0039" ref-type="bibr">39</xref>], limiting their sensitivity.</p><p>While other sequences such as with stack‐of‐stars [<xref rid="mrm70239-bib-0040" ref-type="bibr">40</xref>], stack‐of‐spirals [<xref rid="mrm70239-bib-0041" ref-type="bibr">41</xref>, <xref rid="mrm70239-bib-0042" ref-type="bibr">42</xref>], or “kooshball” [<xref rid="mrm70239-bib-0005" ref-type="bibr">5</xref>] trajectories are available and used in pulmonary imaging research, we selected the FLORET sequence for its efficient <italic toggle="yes">k</italic>‐space coverage, which enables temporally resolved whole lung imaging while preserving sufficient parenchymal signal. Its short readout duration is particularly advantageous for imaging species with rapid T2* decay, such as lung tissue, as it minimizes signal loss and motion‐related blurring. This balance of speed, resolution, and signal preservation makes FLORET a strong choice for pulmonary imaging applications [<xref rid="mrm70239-bib-0043" ref-type="bibr">43</xref>, <xref rid="mrm70239-bib-0044" ref-type="bibr">44</xref>]. In this study, the data was reconstructed at 3 mm isotropic resolution; however, this spatial resolution may limit the detection of small or subsegmental ventilation defects, particularly in patients with mild disease.</p><sec id="mrm70239-sec-0020"><label>4.1</label><title>Limitations</title><p>A limitation of threshold analysis is the small number of healthy subjects, which did not enable balanced relations between healthy and diseased participants. Also, we have evaluated only two methods (fixed and flexible thresholds), which are both commonly used techniques in PREFUL MRI. Techniques like linear‐binning or clustering methods might yield different results.</p><p>The lack of repeatability and reproducibility data for both proton‐based techniques, derived using FLORET UTE MRI, presents a limitation of this study. In the current literature, there are several publications assessing the repeatability of signal‐based methods [<xref rid="mrm70239-bib-0032" ref-type="bibr">32</xref>, <xref rid="mrm70239-bib-0045" ref-type="bibr">45</xref>], but direct comparison to volume‐based methods is missing. This could be targeted in a following study, as included subjects of this study were scanned just once and therefore no repeatability assessment was possible.</p><p>An additional limitation of this work lies in the evolving nature of registration algorithms. While the parameters used here were based on PREFUL research in numerous studies [<xref rid="mrm70239-bib-0046" ref-type="bibr">46</xref>, <xref rid="mrm70239-bib-0047" ref-type="bibr">47</xref>], future improvements are expected to be made. Alternative registration software exists, such as FireANTs [<xref rid="mrm70239-bib-0048" ref-type="bibr">48</xref>] which offers fast GPU based registrations or optical flow based methods [<xref rid="mrm70239-bib-0042" ref-type="bibr">42</xref>, <xref rid="mrm70239-bib-0049" ref-type="bibr">49</xref>, <xref rid="mrm70239-bib-0050" ref-type="bibr">50</xref>] which may offer more accurate representations of dynamic flow.</p><p>Another limitation of this work was that we used a median filter of 7 × 7 × 7 voxels to initially remove artifacts in JVent maps. This may artificially enlarge ventilation defects, obscure smaller ones, or change their shape. Future studies should involve improving the quality of raw JVent maps using more accurate registration or increasing the spatial resolution of the MR images.</p><p>Finally, spatial matching of both proton methods with <sup>129</sup>Xe MRI was not performed in this study. This step is extra challenging due to several factors, such as different breathing maneuvers (free tidal breathing vs. breath‐hold), mismatched image resolutions and field of views.</p></sec></sec><sec sec-type="conclusions" id="mrm70239-sec-0021"><label>5</label><title>Conclusion</title><p>Both RVent and JVent methods are sufficient at detecting regional ventilation abnormalities, but RVent showed significantly stronger correlation with hyperpolarized <sup>129</sup>Xe MRI. While JVent offers a simpler implementation and requires fewer additional processing steps, its reliance on accurate vector estimation during registration limits its performance. Overall, RVent appears better suited for accurate and clinically relevant assessment of lung ventilation using proton MRI.</p></sec><sec id="mrm70239-sec-0023"><title>Funding</title><p>This work was supported by the University of Cincinnati, Office of the Vice President for Research – URC Graduate Student Stipend and Research Cost Program for Faculty—Student Collaboration (D700169), the Cincinnati Children's Research Foundation. National Organization for Rare Disorders (20003), the German Center for Lung Research (DZL), and the National Institutes of Health (2R01HL126771, R01HL143011, R01HL151588, R01HL166335).</p></sec><sec sec-type="COI-statement" id="mrm70239-sec-0022"><title>Conflicts of Interest</title><p>F.K., A.V., and J.V.‐C. are shareholders of BioVisioneers GmbH, a company, which has interest in pulmonary magnetic resonance imaging methods. M.M.K. is an employee of BioVisioneers GmbH, but did not receive funding for this research. M.M.W. and L.L.W. have received consulting fees from Polarean Imaging, PLC, but did not receive funding for this research project. The remaining authors have no conflicts of interest to declare.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="mrm70239-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S1:</bold> VDP threshold analysis for RVent parameter. Sensitivity, specificity, Youden index, AUC, along with correlation to <sup>129</sup>Xe MRI were the most important evaluated parameters.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="MRM-95-2814-s002.xlsx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="mrm70239-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S2:</bold> VDP threshold analysis for JVent parameter. Sensitivity, specificity, Youden index, AUC, along with correlation to <sup>129</sup>Xe MRI were the most important evaluated parameters.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="MRM-95-2814-s001.xlsx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="MRM70239-sec-1001"><title>Acknowledgement</title><p>Open Access funding enabled and organized by Projekt DEAL.</p></ack><sec sec-type="data-availability" id="mrm70239-sec-0025"><title>Data Availability Statement</title><p>The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.</p></sec><ref-list id="mrm70239-bibl-0001" content-type="cited-references"><title>References</title><ref id="mrm70239-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="mrm70239-cit-0001">
+<string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Galbán</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. K.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Boes</surname>
+</string-name>, et al., “<article-title>Computed Tomography–Based Biomarker Provides Unique Signature for Diagnosis of COPD Phenotypes and Disease Progression</article-title>,” <source>Nature Medicine</source>
+<volume>18</volume>, no. <issue>11</issue> (<year>2012</year>): <fpage>1711</fpage>–<lpage>1715</lpage>, <pub-id pub-id-type="doi">10.1038/nm.2971</pub-id>.<pub-id pub-id-type="pmcid">PMC3493851</pub-id><pub-id pub-id-type="pmid">23042237</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="mrm70239-cit-0002">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Castillo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Castillo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Vinogradskiy</surname>
+</string-name>, et al., “<article-title>Robust CT Ventilation From the Integral Formulation of the Jacobian</article-title>,” <source>Medical Physics</source>
+<volume>46</volume>, no. <issue>5</issue> (<year>2019</year>): <fpage>2115</fpage>–<lpage>2125</lpage>, <pub-id pub-id-type="doi">10.1002/mp.13453</pub-id>.<pub-id pub-id-type="pmid">30779353</pub-id>
+<pub-id pub-id-type="pmcid">PMC6510605</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="mrm70239-cit-0003">
+<string-name name-style="western">
+<given-names>H. L.</given-names>
+<surname>Byrne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Eikelis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Dusting</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Fouras</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Keall</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Pirakalathanan</surname>
+</string-name>, “<article-title>More Accessible Functional Lung Imaging: Non‐Contrast CT‐Ventilation Demonstrates Strong Association and Agreement With PET‐Ventilation</article-title>,” <source>Respiratory Research</source>
+<volume>26</volume>, no. <issue>1</issue> (<year>2025</year>): <fpage>163</fpage>, <pub-id pub-id-type="doi">10.1186/s12931-025-03245-2</pub-id>.<pub-id pub-id-type="pmid">40287648</pub-id>
+<pub-id pub-id-type="pmcid">PMC12034206</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="mrm70239-cit-0004">
+<string-name name-style="western">
+<given-names>S. C.</given-names>
+<surname>Scharm</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Vogel‐Claussen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Schaefer‐Prokop</surname>
+</string-name>, et al., “<article-title>Quantification of Dual‐Energy CT‐Derived Functional Parameters as Potential Imaging Markers for Progression of Idiopathic Pulmonary Fibrosis</article-title>,” <source>European Radiology</source>
+<volume>31</volume>, no. <issue>9</issue> (<year>2021</year>): <fpage>6640</fpage>–<lpage>6651</lpage>, <pub-id pub-id-type="doi">10.1007/s00330-021-07798-w</pub-id>.<pub-id pub-id-type="pmid">33725189</pub-id>
+<pub-id pub-id-type="pmcid">PMC8379131</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="mrm70239-cit-0005">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Mendes Pereira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Wech</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Weng</surname>
+</string-name>, et al., “<article-title>UTE‐SENCEFUL: First Results for 3D High‐Resolution Lung Ventilation Imaging</article-title>,” <source>Magnetic Resonance in Medicine</source>
+<volume>81</volume> (<year>2018</year>): <fpage>1</fpage>–<lpage>10</lpage>, <pub-id pub-id-type="doi">10.1002/mrm.27576</pub-id>.<pub-id pub-id-type="pmid">30393947</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="mrm70239-cit-0006">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Klimeš</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Voskrebenzev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gutberlet</surname>
+</string-name>, et al., “<article-title>3D Phase‐Resolved Functional Lung Ventilation MR Imaging in Healthy Volunteers and Patients With Chronic Pulmonary Disease</article-title>,” <source>Magnetic Resonance in Medicine</source>
+<volume>85</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>912</fpage>–<lpage>925</lpage>, <pub-id pub-id-type="doi">10.1002/mrm.28482</pub-id>.<pub-id pub-id-type="pmid">32926451</pub-id>
+</mixed-citation></ref><ref id="mrm70239-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="mrm70239-cit-0007">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kim</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. Y.</given-names>
+<surname>Park</surname>
+</string-name>, “<article-title>Assessment of Pulmonary Ventilation Using 3D Ventilation Flow Capacity‐Weighted and Ventilation‐Weighted Maps From 3D Ultrashort Echo Time (UTE) MRI</article-title>,” <source>Journal of Magnetic Resonance Imaging</source>
+<volume>60</volume>, no. <issue>2</issue> (<year>2024</year>): <fpage>483</fpage>–<lpage>494</lpage>, <pub-id pub-id-type="doi">10.1002/jmri.29129</pub-id>.<pub-id pub-id-type="pmid">37970646</pub-id>
+</mixed-citation></ref><ref id="mrm70239-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="mrm70239-cit-0008">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Boucneau</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Fernandez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Larson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Darrasse</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Maître</surname>
+</string-name>, “<article-title>3D Magnetic Resonance Spirometry</article-title>,” <source>Scientific Reports</source>
+<volume>10</volume>, no. <issue>1</issue> (<year>2020</year>): <fpage>1</fpage>–<lpage>12</lpage>, <pub-id pub-id-type="doi">10.1038/s41598-020-66202-7</pub-id>.<pub-id pub-id-type="pmid">32541799</pub-id>
+<pub-id pub-id-type="pmcid">PMC7295793</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="mrm70239-cit-0009">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Chan</surname>
+</string-name>, et al., “<article-title>Motion‐Compensated Low‐Rank Reconstruction for Simultaneous Structural and Functional UTE Lung MRI</article-title>,” <source>Magnetic Resonance in Medicine</source>
+<volume>90</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>1101</fpage>–<lpage>1113</lpage>, <pub-id pub-id-type="doi">10.1002/mrm.29703</pub-id>.<pub-id pub-id-type="pmid">37158318</pub-id>
+<pub-id pub-id-type="pmcid">PMC10501714</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="mrm70239-cit-0010">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Voskrebenzev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gutberlet</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Klimeš</surname>
+</string-name>, et al., “<article-title>A Synthetic Lung Model (ASYLUM) for Validation of Functional Lung Imaging Methods Shows Significant Differences Between Signal‐Based and Deformation‐Field‐Based Ventilation Measurements</article-title>,” <source>Frontiers in Medicine</source>
+<volume>11</volume>, no. <issue>September</issue> (<year>2024</year>): <fpage>1</fpage>–<lpage>24</lpage>, <pub-id pub-id-type="doi">10.3389/fmed.2024.1418052</pub-id>.<pub-id pub-id-type="pmcid">PMC11409849</pub-id><pub-id pub-id-type="pmid">39296894</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="mrm70239-cit-0011">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Klimeš</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Kern</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Voskrebenzev</surname>
+</string-name>, et al., “<article-title>Free‐Breathing 3D Phase‐Resolved Functional Lung MRI vs Breath‐Hold Hyperpolarized 129Xe Ventilation MRI in Patients With Chronic Obstructive Pulmonary Disease and Healthy Volunteers</article-title>,” <source>European Radiology</source>
+<volume>35</volume> (<year>2025</year>): <fpage>943</fpage>–<lpage>956</lpage>, <pub-id pub-id-type="doi">10.1007/s00330-024-10893-3</pub-id>.<pub-id pub-id-type="pmid">39060494</pub-id>
+<pub-id pub-id-type="pmcid">PMC11782336</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="mrm70239-cit-0012">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Munidasa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Zanette</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. P.</given-names>
+<surname>Dumas</surname>
+</string-name>, et al., “<article-title>Comparison of 3D UTE Free‐Breathing Lung MRI With Hyperpolarized 129Xe MRI in Pediatric Cystic Fibrosis</article-title>,” <source>Magnetic Resonance in Medicine</source>
+<volume>93</volume> (<year>2024</year>): <fpage>1</fpage>–<lpage>13</lpage>, <pub-id pub-id-type="doi">10.1002/mrm.30299</pub-id>.<pub-id pub-id-type="pmcid">PMC11604841</pub-id><pub-id pub-id-type="pmid">39285622</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="mrm70239-cit-0013">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. L.</given-names>
+<surname>Eddy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V. M.</given-names>
+<surname>Diamond</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. H.</given-names>
+<surname>Rayment</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. E. Z.</given-names>
+<surname>Larson</surname>
+</string-name>, “<article-title>Three‐Dimensional Free‐Breathing Ultrashort Echo Time (UTE) 1H MRI Regional Ventilation: Comparison With Hyperpolarized 129Xe MRI and Pulmonary Function Testing in Healthy Volunteers and People With Cystic Fibrosis</article-title>,” <source>NMR in Biomedicine</source>
+<volume>38</volume>, no. <issue>6</issue> (<year>2025</year>): <fpage>1</fpage>–<lpage>10</lpage>, <pub-id pub-id-type="doi">10.1002/nbm.70033</pub-id>.<pub-id pub-id-type="pmid">40235063</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="mrm70239-cit-0014">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Klimeš</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Plummer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Willmering</surname>
+</string-name>, et al., “<article-title>Quantifying Spatial and Dynamic Lung Abnormalities With 3D PREFUL FLORET UTE Imaging: A Feasibility Study</article-title>,” <source>Magnetic Resonance in Medicine</source>
+<volume>93</volume>, no. <issue>5</issue> (<year>2025</year>): <fpage>1984</fpage>–<lpage>1998</lpage>, <pub-id pub-id-type="doi">10.1002/mrm.30416</pub-id>.<pub-id pub-id-type="pmid">39825520</pub-id>
+<pub-id pub-id-type="pmcid">PMC11893037</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="mrm70239-cit-0015">
+<string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Willmering</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. K.</given-names>
+<surname>Robison</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. G.</given-names>
+<surname>Pipe</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Woods</surname>
+</string-name>, “<article-title>Implementation of the FLORET UTE Sequence for Lung Imaging</article-title>,” <source>Magnetic Resonance in Medicine</source>
+<volume>82</volume>, no. <issue>3</issue> (<year>2019</year>): <fpage>1091</fpage>–<lpage>1100</lpage>, <pub-id pub-id-type="doi">10.1002/mrm.27800</pub-id>.<pub-id pub-id-type="pmid">31081961</pub-id>
+<pub-id pub-id-type="pmcid">PMC6559861</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="mrm70239-cit-0016">
+<string-name name-style="western">
+<given-names>B. B.</given-names>
+<surname>Avants</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. J.</given-names>
+<surname>Tustison</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. A.</given-names>
+<surname>Cook</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Klein</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Gee</surname>
+</string-name>, “<article-title>A Reproducible Evaluation of ANTs Similarity Metric Performance in Brain Image Registration</article-title>,” <source>NeuroImage</source>
+<volume>54</volume>, no. <issue>3</issue> (<year>2011</year>): <fpage>2033</fpage>–<lpage>2044</lpage>, <pub-id pub-id-type="doi">10.1016/j.neuroimage.2010.09.025</pub-id>.<pub-id pub-id-type="pmid">20851191</pub-id>
+<pub-id pub-id-type="pmcid">PMC3065962</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="mrm70239-cit-0017">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Klimeš</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Voskrebenzev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gutberlet</surname>
+</string-name>, et al., “<article-title>Free‐Breathing Quantification of Regional Ventilation Derived by Phase‐Resolved Functional Lung (PREFUL) MRI</article-title>,” <source>NMR in Biomedicine</source>
+<volume>32</volume>, no. <issue>6</issue> (<year>2019</year>): <fpage>1</fpage>–<lpage>14</lpage>, <pub-id pub-id-type="doi">10.1002/nbm.4088</pub-id>.<pub-id pub-id-type="pmid">30908743</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="mrm70239-cit-0018">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zapke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.‐G.</given-names>
+<surname>Topf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zenker</surname>
+</string-name>, et al., “<article-title>Magnetic Resonance Lung Function – A Breakthrough for Lung Imaging and Functional Assessment? A Phantom Study and Clinical Trial</article-title>,” <source>Respiratory Research</source>
+<volume>7</volume>, no. <issue>1</issue> (<year>2006</year>): <fpage>106</fpage>, <pub-id pub-id-type="doi">10.1186/1465-9921-7-106</pub-id>.<pub-id pub-id-type="pmid">16889671</pub-id>
+<pub-id pub-id-type="pmcid">PMC1562412</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0019"><label>19</label><mixed-citation publication-type="miscellaneous" id="mrm70239-cit-0019">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Chow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Esch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Haykowsky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Paterson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Thompson</surname>
+</string-name>, <article-title>“Measurement of Regional and Global Lung Ventilation Using Non‐Rigid Image Registration,”</article-title> Proc 17th Sci Meet Int Soc Magn Reson Med. 2009;Honolulu:2008. /MyPathway2009/2008.</mixed-citation></ref><ref id="mrm70239-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="mrm70239-cit-0020">
+<string-name name-style="western">
+<given-names>L. L.</given-names>
+<surname>Walkup</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. P.</given-names>
+<surname>Thomen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. G.</given-names>
+<surname>Akinyi</surname>
+</string-name>, et al., “<article-title>Feasibility, Tolerability and Safety of Pediatric Hyperpolarized 129Xe Magnetic Resonance Imaging in Healthy Volunteers and Children With Cystic Fibrosis</article-title>,” <source>Pediatric Radiology</source>
+<volume>46</volume>, no. <issue>12</issue> (<year>2016</year>): <fpage>1651</fpage>–<lpage>1662</lpage>, <pub-id pub-id-type="doi">10.1007/s00247-016-3672-1</pub-id>.<pub-id pub-id-type="pmid">27492388</pub-id>
+<pub-id pub-id-type="pmcid">PMC5083137</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="mrm70239-cit-0021">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Stocks</surname>
+</string-name> and <string-name name-style="western">
+<given-names>P. H.</given-names>
+<surname>Quanjer</surname>
+</string-name>, “<article-title>Reference Values for Residual Volume, Functional Residual Capacity and Total Lung Capacity: ATS Workshop on Lung Volume Measurements Official Statement of the European Respiratory Society</article-title>,” <source>European Respiratory Journal</source>
+<volume>8</volume>, no. <issue>3</issue> (<year>1995</year>): <fpage>492</fpage>–<lpage>506</lpage>, <pub-id pub-id-type="doi">10.1183/09031936.95.08030492</pub-id>.<pub-id pub-id-type="pmid">7789503</pub-id>
+</mixed-citation></ref><ref id="mrm70239-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="mrm70239-cit-0022">
+<string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Bdaiwi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Willmering</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Plummer</surname>
+</string-name>, et al., “<article-title>129Xe Image Processing Pipeline: An Open‐Source, Graphical User Interface Application for the Analysis of Hyperpolarized 129Xe MRI</article-title>,” <source>Magnetic Resonance in Medicine</source>
+<volume>93</volume> (<year>2024</year>): <fpage>1</fpage>–<lpage>18</lpage>, <pub-id pub-id-type="doi">10.1002/mrm.30347</pub-id>.<pub-id pub-id-type="pmcid">PMC11680735</pub-id><pub-id pub-id-type="pmid">39480807</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="mrm70239-cit-0023">
+<string-name name-style="western">
+<given-names>N. J.</given-names>
+<surname>Tustison</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. B.</given-names>
+<surname>Avants</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. A.</given-names>
+<surname>Cook</surname>
+</string-name>, et al., “<article-title>N4ITK: Improved N3 Bias Correction</article-title>,” <source>IEEE Transactions on Medical Imaging</source>
+<volume>29</volume>, no. <issue>6</issue> (<year>2010</year>): <fpage>1310</fpage>–<lpage>1320</lpage>, <pub-id pub-id-type="doi">10.1109/TMI.2010.2046908</pub-id>.<pub-id pub-id-type="pmid">20378467</pub-id>
+<pub-id pub-id-type="pmcid">PMC3071855</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="mrm70239-cit-0024">
+<string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Roach</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Willmering</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Plummer</surname>
+</string-name>, et al., “<article-title>Hyperpolarized 129Xenon MRI Ventilation Defect Quantification via Thresholding and Linear Binning in Multiple Pulmonary Diseases</article-title>,” <source>Academic Radiology</source>
+<volume>29</volume>, no. <issue>S2</issue> (<year>2022</year>): <fpage>S145</fpage>–<lpage>S155</lpage>, <pub-id pub-id-type="doi">10.1016/j.acra.2021.06.017</pub-id>.<pub-id pub-id-type="pmcid">PMC8837732</pub-id><pub-id pub-id-type="pmid">34393064</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="mrm70239-cit-0025">
+<string-name name-style="western">
+<given-names>R. P.</given-names>
+<surname>Thomen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. L.</given-names>
+<surname>Walkup</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Roach</surname>
+</string-name>, et al., “<article-title>Regional Structure‐Function in Cystic Fibrosis Lung Disease Using Hyperpolarized 129xe and Ultrashort Echo Magnetic Resonance Imaging</article-title>,” <source>American Journal of Respiratory and Critical Care Medicine</source>
+<volume>202</volume>, no. <issue>2</issue> (<year>2020</year>): <fpage>290</fpage>–<lpage>292</lpage>, <pub-id pub-id-type="doi">10.1164/rccm.202001-0031LE</pub-id>.<pub-id pub-id-type="pmid">32243189</pub-id>
+<pub-id pub-id-type="pmcid">PMC7365365</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="mrm70239-cit-0026">
+<string-name name-style="western">
+<given-names>M. R.</given-names>
+<surname>Miller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Hankinson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Brusasco</surname>
+</string-name>, et al., “<article-title>Standardisation of Spirometry</article-title>,” <source>European Respiratory Journal</source>
+<volume>26</volume>, no. <issue>2</issue> (<year>2005</year>): <fpage>319</fpage>–<lpage>338</lpage>, <pub-id pub-id-type="doi">10.1183/09031936.05.00034805</pub-id>.<pub-id pub-id-type="pmid">16055882</pub-id>
+</mixed-citation></ref><ref id="mrm70239-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="mrm70239-cit-0027">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Rosenthal</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. B.</given-names>
+<surname>Rubin</surname>
+</string-name>, “<article-title>Comparing Correlated Correlation Coefficients</article-title>,” <source>Psychological Bulletin</source>
+<volume>111</volume>, no. <issue>1</issue> (<year>1992</year>): <fpage>172</fpage>–<lpage>175</lpage>, <pub-id pub-id-type="doi">10.1037/0033-2909.111.1.172</pub-id>.</mixed-citation></ref><ref id="mrm70239-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="mrm70239-cit-0028">
+<string-name name-style="western">
+<given-names>E. R.</given-names>
+<surname>DeLong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. M.</given-names>
+<surname>DeLong</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. L.</given-names>
+<surname>Clarke‐Pearson</surname>
+</string-name>, “<article-title>Comparing the Areas Under Two or More Correlated Receiver Operating Characteristic Curves: A Nonparametric Approach</article-title>,” <source>Biometrics</source>
+<volume>44</volume>, no. <issue>3</issue> (<year>1988</year>): <fpage>837</fpage>, <pub-id pub-id-type="doi">10.2307/2531595</pub-id>.<pub-id pub-id-type="pmid">3203132</pub-id>
+</mixed-citation></ref><ref id="mrm70239-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="mrm70239-cit-0029">
+<string-name name-style="western">
+<given-names>Å.</given-names>
+<surname>Kjørstad</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. M. R.</given-names>
+<surname>Corteville</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Henzler</surname>
+</string-name>, et al., “<article-title>Quantitative Lung Ventilation Using Fourier Decomposition MRI; Comparison and Initial Study</article-title>,” <source>Magnetic Resonance Materials in Physics, Biology and Medicine</source>
+<volume>27</volume>, no. <issue>6</issue> (<year>2014</year>): <fpage>467</fpage>–<lpage>476</lpage>, <pub-id pub-id-type="doi">10.1007/s10334-014-0432-9</pub-id>.<pub-id pub-id-type="pmid">24519657</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="mrm70239-cit-0030">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Klimeš</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Voskrebenzev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gutberlet</surname>
+</string-name>, et al., “<article-title>Effect of CFTR Modulator Therapy With Elexacaftor/Tezacaftor/Ivacaftor on Pulmonary Ventilation Derived by 3D Phase‐Resolved Functional Lung MRI in Cystic Fibrosis Patients</article-title>,” <source>European Radiology</source>
+<volume>34</volume> (<year>2023</year>): <elocation-id>0123456789</elocation-id>, <pub-id pub-id-type="doi">10.1007/s00330-023-09912-6</pub-id>.<pub-id pub-id-type="pmcid">PMC10791851</pub-id><pub-id pub-id-type="pmid">37548691</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="mrm70239-cit-0031">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Klimeš</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Obert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Scheller</surname>
+</string-name>, et al., “<article-title>Comparison of Free‐Breathing 3D Phase‐Resolved Functional Lung (PREFUL) MRI With Dynamic 19F Ventilation MRI in Patients With Obstructive Lung Disease and Healthy Volunteers</article-title>,” <source>Journal of Magnetic Resonance Imaging</source>
+<volume>60</volume>, no. <issue>4</issue> (<year>2024</year>): <fpage>1416</fpage>–<lpage>1431</lpage>, <pub-id pub-id-type="doi">10.1002/jmri.29221</pub-id>.<pub-id pub-id-type="pmid">38214459</pub-id>
+</mixed-citation></ref><ref id="mrm70239-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="mrm70239-cit-0032">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Klimeš</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Voskrebenzev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gutberlet</surname>
+</string-name>, et al., “<article-title>Repeatability of Dynamic 3D Phase‐Resolved Functional Lung (PREFUL) Ventilation MR Imaging in Patients With Chronic Obstructive Pulmonary Disease and Healthy Volunteers</article-title>,” <source>Journal of Magnetic Resonance Imaging</source>
+<volume>54</volume>, no. <issue>2</issue> (<year>2021</year>): <fpage>618</fpage>–<lpage>629</lpage>, <pub-id pub-id-type="doi">10.1002/jmri.27543</pub-id>.<pub-id pub-id-type="pmid">33565215</pub-id>
+</mixed-citation></ref><ref id="mrm70239-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="mrm70239-cit-0033">
+<string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>McIntosh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Biancaniello</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. K.</given-names>
+<surname>Kooner</surname>
+</string-name>, et al., “<article-title>129Xe MRI Ventilation Defects in Asthma: What Is the Upper Limit of Normal and Minimal Clinically Important Difference?</article-title>,” <source>Academic Radiology</source>
+<volume>30</volume>, no. <issue>12</issue> (<year>2023</year>): <fpage>3114</fpage>–<lpage>3123</lpage>, <pub-id pub-id-type="doi">10.1016/j.acra.2023.03.010</pub-id>.<pub-id pub-id-type="pmid">37032278</pub-id>
+</mixed-citation></ref><ref id="mrm70239-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="mrm70239-cit-0034">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Durom</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mozaffaripour</surname>
+</string-name>, et al., “<article-title>Quantification of 129Xe MRI Ventilation‐Defect‐Percent Using Binary‐Threshold, Gaussian Linear‐Binning and K‐Means Methods: Differences in Asthma and COPD</article-title>,” <source>Academic Radiology</source>
+<volume>32</volume> (<year>2025</year>): <fpage>1</fpage>–<lpage>10</lpage>, <pub-id pub-id-type="doi">10.1016/j.acra.2025.04.030</pub-id>.<pub-id pub-id-type="pmid">40328537</pub-id>
+</mixed-citation></ref><ref id="mrm70239-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="mrm70239-cit-0035">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Voskrebenzev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gutberlet</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Klimeš</surname>
+</string-name>, et al., “<article-title>Feasibility of Quantitative Regional Ventilation and Perfusion Mapping With Phase‐Resolved Functional Lung (PREFUL) MRI in Healthy Volunteers and COPD, CTEPH, and CF Patients</article-title>,” <source>Magnetic Resonance in Medicine</source>
+<volume>79</volume>, no. <issue>4</issue> (<year>2018</year>): <fpage>2306</fpage>–<lpage>2314</lpage>, <pub-id pub-id-type="doi">10.1002/mrm.26893</pub-id>.<pub-id pub-id-type="pmid">28856715</pub-id>
+</mixed-citation></ref><ref id="mrm70239-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="mrm70239-cit-0036">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Vogel‐Claussen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. F.</given-names>
+<surname>Kaireit</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Voskrebenzev</surname>
+</string-name>, et al., “<article-title>Phase‐Resolved Functional Lung (PREFUL) MRI–Derived Ventilation and Perfusion Parameters Predict Future Lung Transplant Loss</article-title>,” <source>Radiology</source>
+<volume>307</volume>, no. <issue>4</issue> (<year>2023</year>): <elocation-id>e221958</elocation-id>, <pub-id pub-id-type="doi">10.1148/radiol.221958</pub-id>.<pub-id pub-id-type="pmid">37070996</pub-id>
+</mixed-citation></ref><ref id="mrm70239-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="mrm70239-cit-0037">
+<string-name name-style="western">
+<given-names>G. H.</given-names>
+<surname>Pöhler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Voskrebenzev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Heinze</surname>
+</string-name>, et al., “<article-title>Phase‐Resolved Functional Lung MRI Reveals Distinct Lung Perfusion Phenotype in Children and Adolescents With Post–COVID‐19 Condition</article-title>,” <source>Radiology</source>
+<volume>314</volume>, no. <issue>2</issue> (<year>2025</year>): <elocation-id>e241596</elocation-id>, <pub-id pub-id-type="doi">10.1148/radiol.241596</pub-id>.<pub-id pub-id-type="pmid">39998374</pub-id>
+<pub-id pub-id-type="pmcid">PMC11868851</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="mrm70239-cit-0038">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Barrau</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Duwat</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Fetita</surname>
+</string-name>, et al., “<article-title>Functional Patterns of Healthy Human Respiratory Dynamics by 3D MR Spirometry</article-title>,” <source>European Radiology</source> (<year>2025</year>), <pub-id pub-id-type="doi">10.1007/s00330-025-11838-0</pub-id>.<pub-id pub-id-type="pmcid">PMC12953252</pub-id><pub-id pub-id-type="pmid">40779164</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="mrm70239-cit-0039">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Voskrebenzev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gutberlet</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Becker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Wacker</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Vogel‐Claussen</surname>
+</string-name>, “<article-title>Reproducibility of Fractional Ventilation Derived by Fourier Decomposition After Adjusting for Tidal Volume With and Without an MRI Compatible Spirometer</article-title>,” <source>Magnetic Resonance in Medicine</source>
+<volume>76</volume>, no. <issue>5</issue> (<year>2016</year>): <fpage>1542</fpage>–<lpage>1550</lpage>, <pub-id pub-id-type="doi">10.1002/mrm.26047</pub-id>.<pub-id pub-id-type="pmid">26745750</pub-id>
+</mixed-citation></ref><ref id="mrm70239-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="mrm70239-cit-0040">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Balasch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Büttner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Metze</surname>
+</string-name>, et al., “<article-title>Tiny Golden Angle Stack‐Of‐Stars (tygaSoS) Free‐Breathing Functional Lung Imaging</article-title>,” <source>Magnetic Resonance Imaging</source>
+<volume>82</volume>, no. <issue>June</issue> (<year>2021</year>): <fpage>24</fpage>–<lpage>30</lpage>, <pub-id pub-id-type="doi">10.1016/j.mri.2021.06.016</pub-id>.<pub-id pub-id-type="pmid">34153438</pub-id>
+</mixed-citation></ref><ref id="mrm70239-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="mrm70239-cit-0041">
+<string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Dournes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Yazbek</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Benhassen</surname>
+</string-name>, et al., “<article-title>3D Ultrashort Echo Time MRI of the Lung Using Stack‐Of‐Spirals and Spherical k‐Space Coverages: Evaluation in Healthy Volunteers and Parenchymal Diseases</article-title>,” <source>Journal of Magnetic Resonance Imaging</source>
+<volume>48</volume>, no. <issue>6</issue> (<year>2018</year>): <fpage>1489</fpage>–<lpage>1497</lpage>, <pub-id pub-id-type="doi">10.1002/jmri.26212</pub-id>.<pub-id pub-id-type="pmid">30203889</pub-id>
+</mixed-citation></ref><ref id="mrm70239-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="mrm70239-cit-0042">
+<string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Plummer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Daudé</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Tsakirellis</surname>
+</string-name>, et al., “<article-title>Coil Sketching for Fast and Efficient 4D Lung MRI Reconstruction</article-title>,” <source>Magnetic Resonance in Medicine</source>
+<volume>95</volume>, no. <issue>4</issue> (<year>2026</year>): <fpage>2241</fpage>–<lpage>2253</lpage>, <pub-id pub-id-type="doi">10.1002/mrm.70169</pub-id>.<pub-id pub-id-type="pmid">41204059</pub-id>
+<pub-id pub-id-type="pmcid">PMC12850557</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="mrm70239-cit-0043">
+<string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Willmering</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Krishnamoorthy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. K.</given-names>
+<surname>Robison</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. T.</given-names>
+<surname>Rosenberg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Woods</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. G.</given-names>
+<surname>Pipe</surname>
+</string-name>, “<article-title>High‐Quality FLORET UTE Imaging for Clinical Translation</article-title>,” <source>Magnetic Resonance in Medicine</source>
+<volume>93</volume>, no. <issue>1</issue> (<year>2025</year>): <fpage>276</fpage>–<lpage>288</lpage>, <pub-id pub-id-type="doi">10.1002/mrm.30277</pub-id>.<pub-id pub-id-type="pmid">39219306</pub-id>
+</mixed-citation></ref><ref id="mrm70239-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="mrm70239-cit-0044">
+<string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Bdaiwi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. M.</given-names>
+<surname>Willmering</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Plummer</surname>
+</string-name>, et al., “<article-title>Evaluating Stack‐of‐Stars and FLORET 3D Ultrashort Echo Time MRI to Assess Structural Pathology in Cystic Fibrosis Lung Disease</article-title>,” <source>Academic Radiology</source>
+<volume>7</volume> (<year>2025</year>): <fpage>1</fpage>–<lpage>14</lpage>, <pub-id pub-id-type="doi">10.1016/j.acra.2025.09.036</pub-id>.<pub-id pub-id-type="pmid">41087234</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="mrm70239-cit-0045">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Klimeš</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. T.</given-names>
+<surname>Foo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gutberlet</surname>
+</string-name>, et al., “<article-title>Dual‐Center Repeatability, Consistency, and Comparison of 3D Phase‐Resolved Functional (PREFUL) Ventilation MRI at 3 and 1.5 T in Healthy Volunteers</article-title>,” <source>NMR in Biomedicine</source>
+<volume>38</volume>, no. <issue>9</issue> (<year>2025</year>): <elocation-id>e70101</elocation-id>, <pub-id pub-id-type="doi">10.1002/nbm.70101</pub-id>.<pub-id pub-id-type="pmid">40662621</pub-id>
+<pub-id pub-id-type="pmcid">PMC12261876</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="mrm70239-cit-0046">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Dohna</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Voskrebenzev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Klimeš</surname>
+</string-name>, et al., “<article-title>PREFUL MRI for Monitoring Perfusion and Ventilation Changes After Elexacaftor‐Tezacaftor‐Ivacaftor Therapy for Cystic Fibrosis: A Feasibility Study</article-title>,” <source>Radiology: Cardiothoracic Imaging</source>
+<volume>6</volume>, no. <issue>2</issue> (<year>2024</year>): <elocation-id>e230104</elocation-id>, <pub-id pub-id-type="doi">10.1148/ryct.230104</pub-id>.<pub-id pub-id-type="pmid">38573129</pub-id>
+<pub-id pub-id-type="pmcid">PMC11056757</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="mrm70239-cit-0047">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Voskrebenzev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. F.</given-names>
+<surname>Kaireit</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Klimeš</surname>
+</string-name>, et al., “<article-title>PREFUL MRI Depicts Dual Bronchodilator Changes in COPD: A Retrospective Analysis of a Randomized Controlled Trial</article-title>,” <source>Radiologic Clinics of North America</source>
+<volume>4</volume>, no. <issue>2</issue> (<year>2022</year>): <elocation-id>e210147</elocation-id>, <pub-id pub-id-type="doi">10.1148/ryct.210147</pub-id>.<pub-id pub-id-type="pmcid">PMC9059092</pub-id><pub-id pub-id-type="pmid">35506142</pub-id></mixed-citation></ref><ref id="mrm70239-bib-0048"><label>48</label><mixed-citation publication-type="miscellaneous" id="mrm70239-cit-0048">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jena</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Chaudhari</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Gee</surname>
+</string-name>, <article-title>“FireANTs: Adaptive Riemannian Optimization for Multi‐Scale Diffeomorphic Matching,”</article-title> preprint, arXiv, 2025, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://arxiv.org/abs/2404.01249" ext-link-type="uri">http://arxiv.org/abs/2404.01249</ext-link>.</mixed-citation></ref><ref id="mrm70239-bib-0049"><label>49</label><mixed-citation publication-type="miscellaneous" id="mrm70239-cit-0049">
+<string-name name-style="western">
+<given-names>C.‐K.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Yong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. T.</given-names>
+<surname>She</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C. T.</given-names>
+<surname>Lim</surname>
+</string-name>, <article-title>“Surface Curvature and Basal Hydraulic Stress Induce Spatial Bias in Cell Extrusion,”</article-title> bioRxiv, 2022, 2022.04.01.486717, <pub-id pub-id-type="doi">10.1101/2022.04.01.486717</pub-id>.</mixed-citation></ref><ref id="mrm70239-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="mrm70239-cit-0050">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Javed</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Ramasawmy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Ozenne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Chow</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Campbell‐Washburn</surname>
+</string-name>, “<article-title>Increasing the Scan‐Efficiency of Pulmonary Imaging at 0.55 T Using Iterative Concomitant Field and Motion‐Corrected Reconstruction</article-title>,” <source>Magnetic Resonance in Medicine</source>
+<volume>92</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>173</fpage>–<lpage>185</lpage>, <pub-id pub-id-type="doi">10.1002/mrm.30054</pub-id>.<pub-id pub-id-type="pmid">38501940</pub-id>
+<pub-id pub-id-type="pmcid">PMC11055666</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

@@ -1,0 +1,793 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="ejp70231" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Eur J Pain</journal-id><journal-id journal-id-type="iso-abbrev">Eur J Pain</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">EJP</journal-id><journal-title-group><journal-title>European Journal of Pain (London, England)</journal-title></journal-title-group><issn pub-type="ppub">1090-3801</issn><issn pub-type="epub">1532-2149</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12962290</article-id><article-id pub-id-type="pmcid-ver">PMC12962290.1</article-id><article-id pub-id-type="pmcaid">12962290</article-id><article-id pub-id-type="pmcaiid">12962290</article-id><article-id pub-id-type="pmid">41784951</article-id><article-id pub-id-type="doi">10.1002/ejp.70231</article-id><article-id pub-id-type="publisher-id">EJP70231</article-id><article-id pub-id-type="other">EURJPAIN-D-25-00604</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Differential Alterations in Offset Analgesia and Conditioned Pain Modulation in Fibromyalgia: Evidence for Distinct Central Dysregulation</article-title></title-group><contrib-group><contrib id="ejp70231-cr-0001" contrib-type="author"><name name-style="western"><surname>Agbaria</surname><given-names initials="Y">Yara</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0003-4356-1211</contrib-id><xref rid="ejp70231-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ejp70231-cr-0002" contrib-type="author"><name name-style="western"><surname>Jacob</surname><given-names initials="G">Giris</given-names></name><xref rid="ejp70231-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="ejp70231-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="ejp70231-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="ejp70231-cr-0003" contrib-type="author"><name name-style="western"><surname>Preger</surname><given-names initials="R">Raz</given-names></name><xref rid="ejp70231-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ejp70231-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="ejp70231-cr-0004" contrib-type="author"><name name-style="western"><surname>Ablin</surname><given-names initials="JN">Jacob N.</given-names></name><xref rid="ejp70231-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="ejp70231-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="ejp70231-cr-0005" contrib-type="author"><name name-style="western"><surname>Aloush</surname><given-names initials="V">Valerie</given-names></name><xref rid="ejp70231-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="ejp70231-cr-0006" contrib-type="author" corresp="yes"><name name-style="western"><surname>Sharon</surname><given-names initials="H">Haggai</given-names></name><xref rid="ejp70231-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ejp70231-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="ejp70231-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="ejp70231-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><address><email>haggaisharon@gmail.com</email></address></contrib></contrib-group><aff id="ejp70231-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Sagol School of Neuroscience</named-content>
+<institution>Tel Aviv University</institution>
+<city>Tel Aviv</city>
+<country country="IL">Israel</country>
+</aff><aff id="ejp70231-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Internal Medicine F, Tel Aviv Sourasky Medical Center</institution>
+<city>Tel Aviv</city>
+<country country="IL">Israel</country>
+</aff><aff id="ejp70231-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>Recanati Autonomic Dysfunction Center, Tel Aviv Sourasky Medical Center</institution>
+<city>Tel Aviv</city>
+<country country="IL">Israel</country>
+</aff><aff id="ejp70231-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">School of Medicine, Gray Faculty of Medical and Health Sciences</named-content>
+<institution>Tel Aviv University</institution>
+<city>Tel Aviv</city>
+<country country="IL">Israel</country>
+</aff><aff id="ejp70231-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Sagol Brain Institute, Wohl Institute for Advanced Imaging, Tel Aviv Sourasky Medical Center</institution>
+<city>Tel Aviv</city>
+<country country="IL">Israel</country>
+</aff><aff id="ejp70231-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Internal Medicine H</named-content>
+<institution>Tel Aviv Sourasky Medical Center</institution>
+<city>Tel Aviv</city>
+<country country="IL">Israel</country>
+</aff><aff id="ejp70231-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Internal Medicine A</named-content>
+<institution>Tel Aviv Sourasky Medical Center</institution>
+<city>Tel Aviv</city>
+<country country="IL">Israel</country>
+</aff><aff id="ejp70231-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Pain Medicine, Department of Anesthesiology, Critical Care and Pain</named-content>
+<institution>Tel Aviv Sourasky Medical Center</institution>
+<city>Tel Aviv</city>
+<country country="IL">Israel</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Haggai Sharon (<email>haggaisharon@gmail.com</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>3</month><year>2026</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2026</year></pub-date><volume>30</volume><issue seq="250">3</issue><issue-id pub-id-type="pmc-issue-id">508872</issue-id><issue-id pub-id-type="doi">10.1002/ejp.v30.3</issue-id><elocation-id>e70231</elocation-id><history><date date-type="rev-recd"><day>20</day><month>1</month><year>2026</year></date><date date-type="received"><day>17</day><month>7</month><year>2025</year></date><date date-type="accepted"><day>22</day><month>1</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>05</day><month>03</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>06</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-06 13:25:12.710"><day>06</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">European Journal of Pain</italic> published by John Wiley &amp; Sons Ltd on behalf of European Pain Federation ‐ EFIC ®.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="EJP-30-0.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:EJP-30-0.pdf"/><abstract><title>ABSTRACT</title><sec id="ejp70231-sec-0001"><title>Background</title><p>Chronic pain often involves abnormalities in central pain processing. Two commonly used experimental methods for central pain modulation are conditioned pain modulation (CPM) and offset analgesia (OA). However, it is uncertain how similar the underlying processes they measure are. Here, we applied CPM and OA in patients with fibromyalgia, a model disease of central sensitization, to explore these questions further.</p></sec><sec id="ejp70231-sec-0002"><title>Methods</title><p>Fifty‐four female participants (27 fibromyalgia patients and 27 healthy participants) completed the Fibromyalgia Impact Questionnaire (FIQ) and the McGill questionnaire and underwent CPM and OA in a randomised order.</p></sec><sec id="ejp70231-sec-0003"><title>Results</title><p>CPM and OA were positively correlated in healthy participants (<italic toggle="no">R</italic>
+<sub>s</sub> = 0.40, <italic toggle="no">p</italic> = 0.03) but negatively correlated in patients (<italic toggle="no">R</italic>
+<sub>s</sub> = −0.47, <italic toggle="no">p</italic> = 0.01). Additionally, we divided patients into responders and nonresponders for CPM and found that a significant negative correlation existed exclusively in nonresponders (<italic toggle="no">R</italic>
+<sub>s</sub> = −0.64, <italic toggle="no">p</italic> = 0.02), whereas no correlation existed in responders. Furthermore, CPM in patients was positively correlated with FIQ (<italic toggle="no">R</italic>
+<sub>s</sub> = 0.4, <italic toggle="no">p</italic> = 0.04) and McGill (<italic toggle="no">R</italic>
+<sub>s</sub> = 0.65, <italic toggle="no">p</italic> = 0.003), whereas OA was negatively correlated with both FIQ (<italic toggle="no">R</italic>
+<sub>s</sub> = −0.445, <italic toggle="no">p</italic> = 0.02) and McGill (<italic toggle="no">R</italic>
+<sub>s</sub> = −0.47, <italic toggle="no">p</italic> = 0.03).</p></sec><sec id="ejp70231-sec-0004"><title>Conclusions</title><p>This study is the first to show that OA, not just CPM, is correlated with clinical features in fibromyalgia patients and that these two paradigms are inversely correlated and differentially related to disease symptomatology in fibromyalgia patients.</p></sec><sec id="ejp70231-sec-0005"><title>Statement of Significance</title><p>This study is the first to demonstrate that conditioned pain modulation (CPM) and offset analgesia (OA) are inversely correlated in patients with fibromyalgia compared with healthy controls and show distinct associations with symptom severity. These findings reveal divergent mechanisms of central pain inhibition in chronic pain, highlighting the potential of both OA and CPM as novel markers for disease characterisation.</p></sec></abstract><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Tel Aviv Sourasky Medical Center</institution><institution-id institution-id-type="doi">10.13039/501100009437</institution-id></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="7"/><table-count count="1"/><page-count count="13"/><word-count count="10200"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:05.03.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="ejp70231-body-0001"><sec id="ejp70231-sec-0006"><label>1</label><title>Introduction</title><p>Fibromyalgia syndrome (FMS) is a chronic pain disorder characterised by widespread musculoskeletal pain and systematic symptoms (Clauw <xref rid="ejp70231-bib-0008" ref-type="bibr">2009</xref>). Although a peripheral pain generator has not been conclusively identified, FMS has been associated with marked alterations in central nervous system (CNS) pain processing (Woolf <xref rid="ejp70231-bib-0057" ref-type="bibr">2011</xref>). These features have led to its classification under the emerging category of nociplastic pain—a mechanism‐based designation describing dysfunctional modulation of nociceptive signalling at multiple CNS levels rather than tissue injury—which is increasingly recognised as a core component of several primary centralised pain syndromes (Fitzcharles et al. <xref rid="ejp70231-bib-0011" ref-type="bibr">2021</xref>).</p><p>Among the defining neurophysiological characteristics of nociplastic pain are reduced efficacy of endogenous pain inhibition and increased facilitation of nociceptive input (Arendt‐Nielsen <xref rid="ejp70231-bib-0004" ref-type="bibr">2015</xref>). Experimental paradigms such as conditioned pain modulation (CPM) and offset analgesia (OA) have been developed to probe these processes (Hermans et al. <xref rid="ejp70231-bib-0018" ref-type="bibr">2016</xref>).</p><p>The CPM is a widely used proxy for descending inhibitory control, reflecting the capacity of a noxious conditioning stimulus to suppress the perception of a separate test stimulus (Nir and Yarnitsky <xref rid="ejp70231-bib-0037" ref-type="bibr">2015</xref>). This mechanism is believed to involve many brain areas, especially brainstem structures, particularly the periaqueductal grey (PAG) and rostral ventromedial medulla (RVM) (Nahman‐Averbuch and Timmers <xref rid="ejp70231-bib-0034" ref-type="bibr">2023</xref>). OA, by contrast, refers to a disproportionately large reduction in perceived pain following a minor decrease in stimulus intensity (Julien et al. <xref rid="ejp70231-bib-0023" ref-type="bibr">2005</xref>) and is thought to reflect cortically mediated temporal filtering, engaging regions such as the anterior cingulate cortex (ACC) and insula (Li et al. <xref rid="ejp70231-bib-0028" ref-type="bibr">2022</xref>).</p><p>Unsurprisingly, impairments in both CPM and OA have been widely reported in FMS, which is consistent with dysregulated central pain modulation (Potvin and Marchand <xref rid="ejp70231-bib-0045" ref-type="bibr">2016</xref>; Oudejans et al. <xref rid="ejp70231-bib-0043" ref-type="bibr">2015</xref>). However, most studies have investigated these mechanisms in isolation, and only a few have assessed them concurrently in the same cohort (Honigman et al. <xref rid="ejp70231-bib-0020" ref-type="bibr">2013</xref>; Nahman‐Averbuch et al. <xref rid="ejp70231-bib-0032" ref-type="bibr">2014</xref>). Although CPM and OA are generally believed to rely on distinct mechanisms, each reflecting different aspects of endogenous pain modulation, the exact nature of the relationship between these two paradigms remains unclear and incompletely understood. While both CPM and OA responses are typically preserved in healthy individuals, who usually demonstrate robust pain inhibitory capacity, there is nonetheless substantial interindividual variability in how effectively pain is modulated, even within healthy populations (Nuwailati et al. <xref rid="ejp70231-bib-0038" ref-type="bibr">2022</xref>). Importantly, from a clinical standpoint, it is still uncertain what it means to exhibit an intact CPM response in relation to OA and vice versa in healthy individuals; that is, whether individuals who show effective descending pain inhibition through CPM also demonstrate efficient temporal filtering of nociceptive input, as captured by OA. Despite the limited body of research directly examining this relationship, only a few studies in healthy individuals have explored the relationships between these two paradigms within the same cohort, yielding significant (Honigman et al. <xref rid="ejp70231-bib-0020" ref-type="bibr">2013</xref>) and nonsignificant (Nahman‐Averbuch et al. <xref rid="ejp70231-bib-0032" ref-type="bibr">2014</xref>) results. This lack of consistency might be explained by the fact that although these tests probably manipulate distinct mechanisms, as discussed above, there is still considerable neural overlap in the brain areas that modulate them (Nahman‐Averbuch et al. <xref rid="ejp70231-bib-0032" ref-type="bibr">2014</xref>; Nahman‐Averbuch and Timmers <xref rid="ejp70231-bib-0034" ref-type="bibr">2023</xref>). Conversely, individuals with central chronic pain conditions, including FMS, demonstrate marked deficits in endogenous pain modulation, including in CPM and OA (Lewis et al. <xref rid="ejp70231-bib-0027" ref-type="bibr">2012</xref>). However, it remains unclear whether alterations in one of these paradigms are directly associated with changes in the other or whether these impairments reflect independent and unrelated dysfunctions within the broader pain modulatory system.</p><p>The aim of this study was to examine the relationship between CPM and OA in individuals with FMS and in healthy controls, as both paradigms are widely used experimental measures of endogenous pain modulation. We tested two primary hypotheses. First, we hypothesized that the association between CPM and OA would differ between healthy individuals and patients with FMS, reflecting altered integration of pain modulatory mechanisms in FMS. Second, we hypothesized that CPM and OA abnormalities in FMS would be differentially related to clinical and disease‐specific symptoms, with each paradigm showing distinct associations with specific aspects of the FMS symptom profile. In addition to group‐level comparisons, we aimed to characterise individual‐level relationships between CPM and OA and to examine how inter‐individual variability in these measures relates to symptom heterogeneity in FMS.</p></sec><sec sec-type="methods" id="ejp70231-sec-0007"><label>2</label><title>Methods</title><p>The study was approved by the Tel Aviv Sourasky Medical Center Research Ethics Committee (Protocol No. TLV‐320‐016) and conducted in accordance with the principles of the Declaration of Helsinki. Before participation, all the subjects provided written informed consent after receiving a detailed explanation of the study's aims and procedures (Protocol Version 3.4, approved on 22 March 2022). The study was prospectively registered on <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://clinicaltrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05644054">NCT05644054</ext-link>).</p><sec id="ejp70231-sec-0008"><label>2.1</label><title>Participant's Characteristics</title><p>Initially, 29 patients with FMS were enrolled, and 28 healthy controls were subsequently recruited and matched to the FMS group by age and sex. Age matching was performed by recruiting healthy controls to mirror the age range and distribution of the FMS group, with no evidence of systematic age imbalance between groups. One healthy participant did not complete the CPM test because of elevated sensory sensitivity, and her data were excluded from all analyses. Overall, 27 FMS patients completed both the OA and CPM assessments (two FMS patients completed only the CPM, whereas two others completed only the OA). Data regarding the inclusion of participants in the study are presented in Figure <xref rid="ejp70231-fig-0001" ref-type="fig">1</xref>. The inclusion of only female participants in the study was performed to minimise bias, given that most FMS patients are female (Shaver <xref rid="ejp70231-bib-0050" ref-type="bibr">2004</xref>). Additionally, the symptom profiles of FMS differ between men and women, further supporting the rationale for focusing the study population on females to ensure the consistency and relevance of the findings (Ruschak et al. <xref rid="ejp70231-bib-0048" ref-type="bibr">2023</xref>). The study included female participants aged 20–55 years. This age range was chosen to promote sample homogeneity and minimise confounding effects related to developmental and age‐associated variability in presentation. Research indicates that both symptom expression and sensory processing in FMS vary significantly across the lifespan. Individuals under the age of 20 typically fall under the classification of juvenile‐onset fibromyalgia, which presents with distinct clinical characteristics, pathophysiological mechanisms and psychological profiles compared with adult‐onset FMS (Kashikar‐Zuck et al. <xref rid="ejp70231-bib-0024" ref-type="bibr">2014</xref>; Yunus <xref rid="ejp70231-bib-0062" ref-type="bibr">2002</xref>). At the other end of the spectrum, older adults with FMS often exhibit increased pain sensitivity, greater symptom severity and age‐related changes in brain structure and function, which may further complicate group‐level analyses (Di Carlo et al. <xref rid="ejp70231-bib-0009" ref-type="bibr">2021</xref>; Pomares et al. <xref rid="ejp70231-bib-0044" ref-type="bibr">2017</xref>). All participants were required to have no history of chronic illnesses, acute pain at the time of testing, serious systemic conditions, severe psychiatric or neurological disorders, or substance abuse. These criteria were set to avoid potential confounding factors from other medical conditions that could influence pain perception or sensory processing independently of FMS. For the FMS group, participants needed a confirmed diagnosis made at least 3 months before enrollment, in accordance with the 2016 American College of Rheumatology criteria (ACR 16) and were instructed to discontinue the use of centrally acting drugs 48 h before participation. Healthy controls were required to meet the same general health criteria and, additionally, to have no history of chronic pain or rheumatic conditions. FMS patients were recruited from the Pain Clinic and Rheumatology Department at Sourasky Medical Center, whereas healthy participants were recruited via social media advertisements. Recruitment took place between 1 August 2022 and 30 April 2023. The participants' questionnaire scores and psychophysical measurements are shown in Table <xref rid="ejp70231-tbl-0001" ref-type="table">1</xref>. Only six FMS participants reported the regular use of medications with potential CNS effects on pain processing (four used serotonin‐norepinephrine reuptake inhibitors [SNRIs], and one used tetracyclic antidepressant); one participant used a CGRP pathway antagonist for migraine prevention (which is not primarily centrally active, given the limited blood–brain barrier penetration described for CGRP monoclonal antibodies). All six participants withheld these medications for 48 h before experimental testing. This interval was selected to reduce acute pharmacologic effects on psychophysical pain modulation measures while avoiding a prolonged washout period that could increase participant burden and introduce additional variability.</p><fig position="float" fig-type="FIGURE" id="ejp70231-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Flowchart illustrating participant inclusion in the study. CPM, conditioned pain modulation; FIQ, Fibromyalgia Impact Questionnaire; FMS, fibromyalgia; HC, healthy controls; McGill, Short‐Form McGill Pain Questionnaire; OA, offset analgesia.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="EJP-30-0-g006.jpg"/></fig><table-wrap position="float" id="ejp70231-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>General characteristics of the participants. The values are presented as the means ± SD.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">FMS patients (<italic toggle="yes">N</italic> = 27)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Healthy participants (<italic toggle="yes">N</italic> = 27)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">p</italic> value</th></tr></thead><tbody valign="top"><tr><td align="left" colspan="4" valign="top" rowspan="1">Clinical variables</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">FIQ score (items 11–20)</td><td align="center" valign="top" rowspan="1" colspan="1">69.75 (14.09)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Short form McGill score</td><td align="center" valign="top" rowspan="1" colspan="1">19.43 (10.81)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="4" valign="top" rowspan="1">Psychophysical tests</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Mean VAS60 temperature (°C)</td><td align="center" valign="top" rowspan="1" colspan="1">43.6 (2.79)</td><td align="center" valign="top" rowspan="1" colspan="1">45.15 (3.43)</td><td align="center" valign="top" rowspan="1" colspan="1">0.126</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Mean pain rating during test stimulus (TS_alone)</td><td align="center" valign="top" rowspan="1" colspan="1">65.7 (32.4)</td><td align="center" valign="top" rowspan="1" colspan="1">55.6 (15.6)</td><td align="center" valign="top" rowspan="1" colspan="1">0.01</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Mean pain rating during CPM (Ts_Conditioned)</td><td align="center" valign="top" rowspan="1" colspan="1">66.3 (30.1)</td><td align="center" valign="top" rowspan="1" colspan="1">40.1 (35.6)</td><td align="center" valign="top" rowspan="1" colspan="1">&lt; 0.001</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Peak pain rating at T2 temperature during OA</td><td align="center" valign="top" rowspan="1" colspan="1">80.07 (15.5)</td><td align="center" valign="top" rowspan="1" colspan="1">76.8 (18)</td><td align="center" valign="top" rowspan="1" colspan="1">0.145</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Minimum pain rating during T3 temperature (first 10 s) during OA</td><td align="center" valign="top" rowspan="1" colspan="1">38.15 (9.6)</td><td align="center" valign="top" rowspan="1" colspan="1">13.4 (10.2)</td><td align="center" valign="top" rowspan="1" colspan="1">0.01</td></tr></tbody></table><table-wrap-foot id="ejp70231-ntgp-0001"><fn id="ejp70231-note-0001"><p>Abbreviations: CPM, conditioned pain modulation; FIQ, Fibromyalgia Impact Questionnaire; FMS, fibromyalgia; McGill, Short‐Form McGill Pain Questionnaire; OA, offset analgesia.</p></fn></table-wrap-foot></table-wrap><p>All participants provided written informed consent following a comprehensive briefing on the objectives and methodologies of the research (protocol version 3.3, approved: 27 July 2022). The Tel Aviv Sourasky Medical Center's research ethics committee approved the study, which was conducted in accordance with the Declaration of the World Medical Association.</p></sec><sec id="ejp70231-sec-0009"><label>2.2</label><title>Study Procedure</title><p>On arrival, a rheumatologist or a pain specialist evaluated the FMS patients and healthy participants, selected as previously outlined. All participants provided informed consent after the physician thoroughly explained the experimental procedure. The participants subsequently completed the questionnaires, underwent the Visual Analog Scale‐60 (VAS60) determination task followed by a 10‐min break, and were tested for OA and CPM in a randomised order. A break of at least 5 min was provided between CPM and OA, along with repositioning the thermode to prevent any possible carry‐over effects. The experimental design is detailed in Figure <xref rid="ejp70231-fig-0002" ref-type="fig">2</xref>.</p><fig position="float" fig-type="FIGURE" id="ejp70231-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Experimental design. (A) Prefilled demographic and clinical questionnaires. (B) A VAS60 search was initially conducted to determine the conditioned pain modulation (CPM) and offset analgesia temperature. Nine phasic thermal stimuli were applied to the dominant volar forearm, with each stimulus lasting 7 s. The interstimulus intervals (ISIs) varied randomly between 4 and 6 s. (C) A parallel CPM paradigm was conducted using a thermal stimulus, with the test stimulus set to a VAS60 temperature and applied for 30 s to the volar forearm of the dominant hand. The participants immersed their nondominant hand in a cold‐water bath (temperature range: 9°C–12°C) for 60 s, which included 30 s of the parallel test stimulus. (D) Offset analgesia was administered to the dominant volar forearm, starting at 5 s at T1 (corresponding to the VAS60 temperature), followed by 5 s at T2 (T1 + 1°C), and then returning to T3 (equivalent to T1) for 2 s. The thermode was removed after every three stimuli during the VAS60 search and after each trial in offset analgesia to prevent sensory habituation. VAS60: Visual analogue scale 60; T1: Initial temperature applied during the offset analgesia test; T2: Second temperature (equal to T1 + 1°C); T3: Third temperature, identical to T1.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="EJP-30-0-g007.jpg"/></fig></sec><sec id="ejp70231-sec-0010"><label>2.3</label><title>Questionnaires</title><p>One to two days before the experimental session, participants with FMS completed an online questionnaire assessing their medical history, along with two validated self‐report measures: the Fibromyalgia Impact Questionnaire (FIQ) and the 12‐Item Short‐Form McGill Pain Questionnaire. The FIQ (Burckhardt et al. <xref rid="ejp70231-bib-0006" ref-type="bibr">1991</xref>; Buskila et al. <xref rid="ejp70231-bib-0007" ref-type="bibr">1996</xref>) is a 20‐item instrument assessing fibromyalgia‐related symptomatology, comprising a physical functioning component (items 1–11) and symptom‐focused items evaluating pain, fatigue, stiffness, sleep, mood and overall well‐being (items 11–20). Total scores range from 0 to 100, with higher scores indicating greater disease impact. For analyses focusing on symptom burden, we used the symptom‐focused items (items 11–20) to better align with the mechanistic aims of the study; this approach is supported by prior prespecified sensitivity analyses that excluded the functional impact items (items 1–11) when addressing symptom or mechanism‐focused research questions (Hedman‐Lagerlöf et al. <xref rid="ejp70231-bib-0017" ref-type="bibr">2024</xref>).</p><p>The McGill questionnaire (Melzack <xref rid="ejp70231-bib-0031" ref-type="bibr">1987</xref>; Sloman et al. <xref rid="ejp70231-bib-0051" ref-type="bibr">2005</xref>) evaluates the quality and intensity of pain through 12 descriptors (e.g., throbbing, stabbing, aching), rated on a numerical scale. It includes both sensory and affective components, providing a multidimensional assessment of the patient's pain experience. A total of 28 FMS patients completed the FIQ, while 20 participants completed the McGill questionnaire.</p><p>For the OA‐FIQ correlation analysis, data from 27 participants were included, whereas data from 26 participants were included in the CPM‐FIQ correlation analysis (out of the 28 FIQ respondents, 27 completed OA and 26 completed CPM). For the McGill score correlation analyses, data from all 20 McGill respondents were included in the OA‐McGill correlation analysis, whereas 18 participants who also completed the CPM were included in the CPM‐McGill correlation analysis. Details regarding participant inclusion are presented in Figure <xref rid="ejp70231-fig-0001" ref-type="fig">1</xref>. The FIQ correlation analysis included items 11–20 of the questionnaire (excluding the physical impairment subscale). Patients who had not completed the questionnaires were asked to do so. Although unsuccessful, attempts were made to contact those who had not filled out all the questionnaires. Additional detailed data on the questionnaire assessment and the psychophysical tests conducted for each FMS patient can be found in Table <xref rid="ejp70231-supitem-0001" ref-type="supplementary-material">S1</xref>.</p></sec><sec id="ejp70231-sec-0011"><label>2.4</label><title>
+<styled-content style="fixed-case" toggle="no">VAS60</styled-content> Determination</title><p>Before the VAS60 determination test, all the participants underwent a brief training session to familiarise themselves with the equipment and the perceived sensations. To determine the VAS60 score (the temperature that induces a pain rating of 60 on a numeric pain scale from 0 to 100), the participants were instructed to focus on their sensations and distinguish between thermal (nonpainful) and painful sensations. In this test and all the following sensory pain tests conducted in this study, all participants were provided with a visual, coloured VAS scale to help them deliver an accurate pain rating. Each participant was exposed to several thermal stimuli at varying temperatures on the volar aspect of their dominant arm via a level method (Medoc Main Station). The participants were asked to rate the intensity of perceived pain on a numerical scale from 0 (no pain) to 100 (worst imaginable pain) immediately after stimulus initiation. The baseline temperature was set at 32°C, with each stimulus lasting for 7 s and an increment and decrease rate of 5°C per second, with randomised intervals between stimuli ranging from 4 to 7 s. The temperature returned to the baseline temperature (32°C) between each stimulus application, allowing participants to rate the perceived pain intensity. Notably, VAS60, which is used in pain assessments such as CPM and OA, is typically administered in a phasic manner. The 7‐s duration is sufficient to evoke a pain sensation while providing enough time for participants to rate their experience. In repetitive‐phasic stimulation, each stimulus acts as a distinct unit, resulting in clearer and more defined pain perception than does tonic stimulation (Granot et al. <xref rid="ejp70231-bib-0013" ref-type="bibr">2006</xref>; Yarnitsky et al. <xref rid="ejp70231-bib-0060" ref-type="bibr">2012</xref>).</p><p>The test consisted of nine trials with randomly ordered temperature intensities between 37°C and 47°C. The thermode was slightly moved every three trials to prevent sensory habituation. The VAS60 score was calculated via simple linear regression based on each participant's pain rating.</p><p>Thermal stimulation for all pain tests was delivered with a Peltier‐based contact thermode (TSA II; Medoc Ltd., Ramat‐Ishay, Israel) with a 30 × 30 mm contact probe. In each sensory test, the thermode was moved slightly on the volar forearm between repetitions to minimise habituation.</p></sec><sec id="ejp70231-sec-0012"><label>2.5</label><title>Conditioned Pain Modulation</title><p>CPM was conducted via a parallel paradigm in which two identical noxious ‘test stimuli’ were applied: one before and one simultaneously with a noxious ‘conditioning stimulus’ (Granot et al. <xref rid="ejp70231-bib-0013" ref-type="bibr">2006</xref>; Nir and Yarnitsky <xref rid="ejp70231-bib-0037" ref-type="bibr">2015</xref>; Yarnitsky et al. <xref rid="ejp70231-bib-0058" ref-type="bibr">2015</xref>). Although sequential designs are often recommended to minimise attentional influences, previous studies (Pud et al. <xref rid="ejp70231-bib-0046" ref-type="bibr">2005</xref>; Yarnitsky et al. <xref rid="ejp70231-bib-0058" ref-type="bibr">2015</xref>) suggest that parallel CPM paradigms can produce stronger and more robust inhibitory effects than sequential paradigms can produce, possibly due to the overlapping activation of pain modulation circuits. This is particularly relevant in FMS, where descending inhibition is often impaired (Julien et al. <xref rid="ejp70231-bib-0023" ref-type="bibr">2005</xref>) and where dynamic, concurrent stimulation may better reveal individual differences in pain modulation capacity. Additionally, the parallel design has been validated in multiple CPM studies involving both healthy individuals and patients with chronic pain, including FMS (Yarnitsky et al. <xref rid="ejp70231-bib-0059" ref-type="bibr">2008</xref>). This makes it a widely accepted and standardised protocol for comparative studies in clinical populations.</p><p>To assess pain induced by the test stimulus (TS_alone), each participant received a 30‐s tonic heat stimulation on the volar aspect of the dominant arm at the temperature previously identified to elicit a VAS60 pain sensation (this temperature was individualised for each participant). The baseline temperature was set to 32°C, with rates of increase and decrease of 2°C per second. The participants were instructed to rate the pain intensity on a scale of 0–100 at three time points during the stimulus: 0, 15 and 30 s. Following a 15‐min break, the nondominant hand was immersed in a cold‐water bath (up to the wrist) for 60 s. During the final 30 s of immersion, the ‘test stimulus’ was reapplied, and the participants rated their pain intensity again at three time points (0, 15 and 30 s after the reapplication of the test stimulus). The CPM magnitude was determined by subtracting the average pain ratings obtained from the test stimulus alone (Ts_alone) from the average rating obtained when the test stimulus was applied simultaneously with the conditioned stimulus (Ts_conditioned). Negative values indicate inhibitory (effective) CPM.</p><p>The temperature of the cold‐water bath ranged from 9°C to 12°C and was needed to elicit a mild to moderate pain rating of over 20 on a numeric scale from 0 to 100 (Yarnitsky et al. <xref rid="ejp70231-bib-0058" ref-type="bibr">2015</xref>).</p></sec><sec id="ejp70231-sec-0013"><label>2.6</label><title>Offset Analgesia</title><p>The OA was implemented via a three‐temperature paradigm for the volar aspect of the dominant arm (Ligato et al. <xref rid="ejp70231-bib-0029" ref-type="bibr">2018</xref>; Szikszay et al. <xref rid="ejp70231-bib-0054" ref-type="bibr">2019</xref>). The temperature of the heat probe was increased at a rate of 2°C per second from a baseline of 32°C to the individual's test temperature (VAS60 temperature), which was held constant for 5 s. The temperature was then raised to 1°C for another 5 s before the samples were returned to the individual's test temperature (a decrease of 1°C). This temperature was maintained for 20 s, followed by a rapid return to the baseline temperature at a rate of 5°C per second. We defined the initial temperature increase reaching VAS 60 as T1, the 1°C increase maintained for 5 s as T2 and the phase of returning to the VAS 60 temperature, held for 20 s, as T3.</p><p>The participants sequentially rated the intensity of the perceived pain via a computerised visual analog scale (CoVAS) device. The magnitude of OA was computed by subtracting the peak CoVAS score at T2 from the minimum CoVAS score within the initial 10 s of T3 (Kobinata et al. <xref rid="ejp70231-bib-0025" ref-type="bibr">2017</xref>). A negative OA magnitude indicates efficient OA.</p><p>OA was conducted over three trials, with each trial separated by an interstimulus interval of at least 5 min. The thermode was slightly moved to reduce habituation between trials. The final OA magnitude was calculated by averaging the results from all three trials, with outliers excluded. Outliers were identified via Z scores, and values greater than 3 or less than −3 were excluded from the analysis (Ligato et al. <xref rid="ejp70231-bib-0029" ref-type="bibr">2018</xref>; Oudejans et al. <xref rid="ejp70231-bib-0043" ref-type="bibr">2015</xref>; Szikszay et al. <xref rid="ejp70231-bib-0053" ref-type="bibr">2021</xref>).</p></sec><sec id="ejp70231-sec-0014"><label>2.7</label><title>Statistical Analysis</title><p>We conducted the statistical analyses via GraphPad Prism version 9.5.0 for Windows (San Diego, CA, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.graphpad.com/" ext-link-type="uri">www.graphpad.com</ext-link>) and IBM SPSS, version 20 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ibm.com/spss" ext-link-type="uri">https://www.ibm.com/spss</ext-link>).</p><p>The sample size calculation was conducted via a power analysis with G*Power software (version 3.1.9.7). The analysis aimed to ensure sufficient statistical power to detect significant differences and correlations between both test groups. In accordance with previous studies (Lewis et al. <xref rid="ejp70231-bib-0027" ref-type="bibr">2012</xref>; Nuwailati et al. <xref rid="ejp70231-bib-0038" ref-type="bibr">2022</xref>; Szikszay et al. <xref rid="ejp70231-bib-0054" ref-type="bibr">2019</xref>), we set the effect size at 0.8, an alpha level of 0.05% and 80% power. A two‐tailed independent <italic toggle="yes">t</italic>‐test was used to determine that a minimum of 26 participants per group would be needed for the OA test. With respect to CPM, the Mann–Whitney test with the same parameters indicated a need for at least 27 participants per group.</p><p>The results of the Shapiro–Wilk test, which was used to assess normality, yielded nonsignificant results for all datasets except for the healthy participants' CPM data. Therefore, we exclusively utilised the nonparametric Mann–Whitney test to compare CPM between healthy participants and FMS patients. To compare OA in the FMS group and the healthy participants group, we used an unpaired Student's <italic toggle="yes">t</italic>‐test.</p><p>To evaluate whether CPM and OA reflect related or independent phenomena at the individual level, we assessed the associations between participants' CPM magnitude and OA magnitude within each group via correlation analysis (primarily Spearman's ρ). In addition, we conducted stratified analyses and multivariable linear regression models to further examine the relationship between CPM and OA. Specifically, OA responses were compared across CPM responder categories using group‐based analyses. To assess the independent and shared contributions of CPM and OA to clinical outcomes, we fitted multivariable linear regression models in which CPM and OA were entered simultaneously as predictors of clinical and disease‐specific measures (with models adjusted for relevant covariates, where applicable). This approach allowed us to test whether one pain modulation paradigm explained variance in clinical outcomes beyond that accounted for by the other. A significant association between CPM and OA was interpreted as evidence of shared variance, whereas weak or absent associations were interpreted as relative behavioural independence, within the constraints of a cross‐sectional design. To account for the modest sample size and to provide more robust estimates of the correlation coefficients, all correlation analyses were conducted with bias‐corrected and accelerated (BCa) 95% confidence intervals, which were calculated by bootstrapping with 1000 resamples in SPSS. This nonparametric method does not rely on assumptions of normality and is particularly suitable for smaller samples, enhancing the stability and interpretability of the estimated confidence intervals. Correlations were considered statistically significant when the 95% bootstrap confidence interval did not include zero (DiCiccio and Efron <xref rid="ejp70231-bib-0010" ref-type="bibr">1996</xref>; Puth et al. <xref rid="ejp70231-bib-0047" ref-type="bibr">2015</xref>).</p><p>All analyses were conducted using complete case data. Participants with missing values for any of the variables included in a given analysis were excluded from that specific analysis. No imputation methods were applied.</p><p>A significance level of 0.05 was used for determining statistical significance in all analyses. Both parametric and nonparametric tests were conducted with two‐tailed considerations.</p></sec></sec><sec sec-type="results" id="ejp70231-sec-0015"><label>3</label><title>Results</title><sec id="ejp70231-sec-0016"><label>3.1</label><title>Demographic Characteristics</title><p>The mean age of the FMS patients was 33.94 years (SD = 14.54), whereas that of the healthy participants was 30.66 years (SD = 9.30). The mean height of the FMS patients was 163.8 cm (SD = 6.10), with a mean weight of 66.88 kg (SD = 13.76). The average BMI for FMS patients was 25.68 kg/m<sup>2</sup> (SD = 6.73). The average time since diagnosis for FMS patients was 5.35 (± 6.20) years. The general characteristics of the participants are presented in Table <xref rid="ejp70231-tbl-0001" ref-type="table">1</xref>.</p></sec><sec id="ejp70231-sec-0017"><label>3.2</label><title>Efficacy of <styled-content style="fixed-case" toggle="no">OA</styled-content> and <styled-content style="fixed-case" toggle="no">CPM</styled-content>
+</title><p>The effectiveness of OA was significantly lower in FMS patients than in healthy participants. FMS patients (<italic toggle="yes">N</italic> = 27) presented a mean OA magnitude of −33.12 ± 24.16, whereas healthy participants (<italic toggle="yes">N</italic> = 27) presented a magnitude of −48.45 ± 20.10, as shown in Figure <xref rid="ejp70231-fig-0003" ref-type="fig">3A</xref>. An unpaired <italic toggle="yes">t</italic>‐test revealed statistical significance (<italic toggle="yes">t</italic>(54) = 2.535, df = 52, <italic toggle="yes">p</italic> = 0.014, Cohen's <italic toggle="yes">d</italic> = 0.68). Similarly, CPM was significantly impaired in FMS patients compared with healthy controls (HCs). While HCs displayed the expected decrease in pain ratings with the conditioned stimulus, with a median of −10.03, FMS patients showed an increase in the conditioned stimulus rating, resulting in a less negative CPM magnitude (median = −1.305). The mean pain rating during the test stimulus was 65.7 (SD = 32.4) in patients with FMS and 55.6 (SD = 15.6) in healthy controls. During the conditioning stimulus, mean pain ratings were 66.3 (SD = 30.1) in the FMS group and 40.1 (SD = 35.6) in healthy controls. This difference was significant according to the nonparametric Mann–Whitney test (<italic toggle="yes">U</italic> = 131, <italic toggle="yes">p</italic> &lt; 0.0001, Cohen's <italic toggle="yes">d</italic> = −1.273), as illustrated in Figure <xref rid="ejp70231-fig-0003" ref-type="fig">3B</xref>. As baseline pain ratings in the CPM during testing were markedly higher in the FMS group than in the healthy controls (Table <xref rid="ejp70231-tbl-0001" ref-type="table">1</xref>), as a sensitivity analysis, we repeated the between‐group comparisons via a regression/ANCOVA model adjusting for baseline test‐stimulus pain (and, for OA, peak T2 pain), and the overall pattern of results remained unchanged.</p><fig position="float" fig-type="FIGURE" id="ejp70231-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Offset analgesia (OA) and conditioned pain modulation (CPM) efficacy in fibromyalgia (FMS) patients and healthy participants (HCs). Twenty‐seven FMS patients and 27 HCs delivered consecutive VAS ratings in the OA and CPM. The OA magnitude (A) was calculated by subtracting the peak VAS rating at the end of T2 from the lowest VAS rating in the first 10 s of T3. The results of the unpaired <italic toggle="yes">t</italic> test were <italic toggle="yes">p</italic> = 0.014 and Cohen's <italic toggle="yes">d</italic> = 0.68. CPM (B) was calculated by subtracting the average VAS ratings of Ts_alone on the dominant hand from the average VAS rating in Ts_conditioned while the non‐dominant hand was immersed in a cold‐water bath. A notable difference between the two groups was observed, as evidenced by a <italic toggle="yes">p</italic> value of &lt; 0.0001 and Cohen's <italic toggle="yes">d</italic> of −1.273 in a nonparametric Mann–Whitney test. TS, test stimulus; T1, Initial temperature applied during the offset analgesia test; T2, Second temperature (equal to T1 + 1°C); T3, Third temperature, identical to T1. <italic toggle="yes">p</italic> &lt; 0.05; ****<italic toggle="yes">p</italic> &lt; 0.0001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="EJP-30-0-g002.jpg"/></fig><p>All participants (FMS patients and healthy controls) rated the pain evoked by the conditioning stimulus alone on a 0–100 scale; the minimum reported rating was 40. Negative CPM values indicate more significant pain inhibition during CPM.</p></sec><sec id="ejp70231-sec-0018"><label>3.3</label><title>Correlations Between <styled-content style="fixed-case" toggle="no">OA</styled-content> and <styled-content style="fixed-case" toggle="no">CPM</styled-content>
+</title><p>In healthy participants, there was a statistically significant positive correlation between OA and CPM, as indicated by Spearman's correlation coefficient (<italic toggle="yes">R</italic>
+<sub>s</sub>(25) = 0.405, <italic toggle="yes">p</italic> = 0.03, 95% CI [0.150, 0.680]), as shown in Figure <xref rid="ejp70231-fig-0004" ref-type="fig">4</xref>. Conversely, FMS patients exhibited the opposite effect, with a negative correlation coefficient (<italic toggle="yes">R</italic>
+<sub>s</sub>(25) = −0.478, <italic toggle="yes">p</italic> = 0.012, 95% CI [−0.690, −0.220]), as illustrated in Figure <xref rid="ejp70231-fig-0005" ref-type="fig">5A</xref>. Furthermore, FMS patients were classified into CPM responders and nonresponders based on their individual CPM effects. Responders (<italic toggle="yes">n</italic> = 14) were defined as those who exhibited a reduction in pain intensity during the conditioning stimulus compared with the baseline test stimulus (i.e., Δpain &lt; 0), reflecting an intact inhibitory response. In contrast, nonresponders (<italic toggle="yes">n</italic> = 13) were defined as individuals who showed no change or an increase in pain intensity during the conditioning phase (i.e., Δpain ≥ 0), indicating impaired endogenous pain inhibition. This classification approach is consistent with previous studies (Harper et al. <xref rid="ejp70231-bib-0014" ref-type="bibr">2018</xref>; Hoegh et al. <xref rid="ejp70231-bib-0019" ref-type="bibr">2019</xref>; Potvin and Marchand <xref rid="ejp70231-bib-0045" ref-type="bibr">2016</xref>) that define CPM effectiveness based on within‐subject changes in pain ratings between the preconditioning and conditioning phases, using a cutoff of zero as the threshold for inhibition. The relationship between CPM classification and OA was subsequently reexamined within each subgroup to explore differential modulation patterns. Notably, there was no significant correlation between inhibitory CPM and OA (<italic toggle="yes">R</italic>
+<sub>s</sub>(12) = −0.08, <italic toggle="yes">p</italic> = 0.76, 95% CI [−0.586, 0.360]), whereas noninhibitory CPM was significantly negatively correlated with OA according to Spearman's correlation test (<italic toggle="yes">R</italic>
+<sub>s</sub>(11) = −0.64, <italic toggle="yes">p</italic> = 0.02, 95% CI [−0.744, −0.443]), as illustrated in Figure <xref rid="ejp70231-fig-0005" ref-type="fig">5B,C</xref>, respectively.</p><fig position="float" fig-type="FIGURE" id="ejp70231-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Correlation between offset analgesia (OA) and conditioned pain modulation (CPM) in healthy participants (HCs). A statistically significant positive relationship was found for <italic toggle="yes">N</italic> = 27, identified via Spearman's correlation (<italic toggle="yes">R</italic>
+<sub>s</sub>(25) = 0.405, <italic toggle="yes">p</italic> = 0.03).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="EJP-30-0-g005.jpg"/></fig><fig position="float" fig-type="FIGURE" id="ejp70231-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Correlation between offset analgesia (OA) and conditioned pain modulation (CPM) in fibromyalgia (FMS) patients. (A) A statistically significant negative relationship was found via Spearman's correlation (<italic toggle="yes">R</italic>
+<sub>s</sub>(25) = −0.478, <italic toggle="yes">p</italic> = 0.01), <italic toggle="yes">N</italic> = 27. (B) The correlation of CPM responders (<italic toggle="yes">N</italic> = 14) with OA is shown in green. No significant associations were detected via Spearman's correlation test (<italic toggle="yes">R</italic>
+<sub>s</sub>(12) = −0.08, <italic toggle="yes">p</italic> = 0.76). (C) The correlation of nonresponders (<italic toggle="yes">N</italic> = 13) with OA is shown in red. CPM and OA had a significant negative correlation (<italic toggle="yes">R</italic>
+<sub>s</sub>(11) = −0.64, <italic toggle="yes">p</italic> = 0.02).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="EJP-30-0-g004.jpg"/></fig><p>To examine whether responders and nonresponders differed in additional demographic or clinical characteristics, we compared age, BMI, McGill and FIQ scores between groups. The responders and nonresponders had mean (SD) ages of 35.94 (11.34) and 31.92 (9.58) years, BMIs of 25.02 (4.73) and 26.34 (5.12) kg/m<sup>2</sup>, McGill scores of 24.03 (13.24) and 27.45 (11.45) and FIQ scores of 73.56 (18.43) and 75.83 (20.43), respectively. No statistically significant differences were observed for any of these measures.</p></sec><sec id="ejp70231-sec-0019"><label>3.4</label><title>Association of <styled-content style="fixed-case" toggle="no">OA</styled-content> and <styled-content style="fixed-case" toggle="no">CPM</styled-content> With Clinical Attributes</title><p>We first examined associations between CPM, OA and the total FIQ score. No significant correlations were observed between the total FIQ score and either CPM (<italic toggle="yes">R</italic>
+<sub>s</sub>(24) = 0.12, <italic toggle="yes">p</italic> = 0.54) or OA (<italic toggle="yes">R</italic>
+<sub>s</sub>(25) = 0.23, <italic toggle="yes">p</italic> = 0.36). Given the mechanistic focus of the study on endogenous pain modulation and its relationship to FMS symptom burden, subsequent analyses focused on the symptom‐related FIQ items (items 11–20), as presented in Table <xref rid="ejp70231-tbl-0001" ref-type="table">1</xref>.</p><p>Using this symptom‐focused FIQ score, a significant positive correlation was observed between symptom severity and CPM (<italic toggle="yes">R</italic>
+<sub>s</sub>(24) = 0.40, <italic toggle="yes">p</italic> = 0.04, 95% CI [0.057, 0.690], <italic toggle="yes">N</italic> = 26). In contrast, OA magnitude was significantly negatively correlated with the symptom‐focused FIQ score (<italic toggle="yes">R</italic>
+<sub>s</sub>(25) = −0.45, <italic toggle="yes">p</italic> = 0.02, 95% CI [−0.715, −0.01], <italic toggle="yes">N</italic> = 27), as illustrated in Figure <xref rid="ejp70231-fig-0006" ref-type="fig">6</xref>.</p><fig position="float" fig-type="FIGURE" id="ejp70231-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>Association of the Fibromyalgia Impact Questionnaire (FIQ) score with conditioned pain modulation (CPM) and offset analgesia (OA). CPM (<italic toggle="yes">N</italic> = 26) was significantly and positively correlated with FIQ scores (A). We used items 11–20, excluding only the physical impairment score. The CPM magnitude represents the final CPM score after subtracting the pain ratings of Ts_alone and Ts_conditioned (<italic toggle="yes">R</italic>
+<sub>s</sub>(24) = 0.4, <italic toggle="yes">p</italic> = 0.04). OA magnitude (<italic toggle="yes">N</italic> = 27) was negatively correlated with 11–20 items of the FIQ (<italic toggle="yes">R</italic>
+<sub>s</sub>(25) = −0.45, <italic toggle="yes">p</italic> = 0.02). The OA magnitude represents subtracting the peak pain rating at the end of T2 from the lowest pain rating in the first 10 s of T3 (B). The colours (purple, blue, pink and burgundy) were used to enhance the clarity of the overlaid samples in correlation analysis of the FIQ‐CPM ([49, −2.59], [49, −5.62], [50, −6.11] and [50, −4.50]), and the FIQ‐OA ([64, −52], [66, −52], [68, −48] and [66.54, −45.21]). T1, Initial temperature applied during the offset analgesia test; T2, Second temperature (equal to T1 + 1°C); T3, Third temperature, identical to T1.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="EJP-30-0-g001.jpg"/></fig><p>The results of the Twelve‐Item Short‐Form McGill questionnaire were also examined for correlations with both CPM (<italic toggle="yes">N</italic> = 18) and OA (<italic toggle="yes">N</italic> = 20). A significant positive correlation was found with CPM (<italic toggle="yes">R</italic>
+<sub>s</sub>(16) = 0.65, <italic toggle="yes">p</italic> = 0.003, 95% CI [0.245, 0.795]), whereas a significant negative correlation was demonstrated with OA (<italic toggle="yes">R</italic>
+<sub>s</sub>(18) = −0.476, <italic toggle="yes">p</italic> = 0.03, 95% CI [−0.682, 0.108]), as shown in Figure <xref rid="ejp70231-fig-0007" ref-type="fig">7</xref>.</p><fig position="float" fig-type="FIGURE" id="ejp70231-fig-0007" orientation="portrait"><label>FIGURE 7</label><caption><p>Association of the McGill questionnaire score with conditioned pain modulation (CPM) and offset analgesia (OA). CPM (<italic toggle="yes">N</italic> = 18) was positively correlated with the McGill score. The CPM magnitude represents the final CPM score after subtracting the pain ratings of Ts_alone and Ts_conditioned (A), whereas the correlation with OA (<italic toggle="yes">N</italic> = 20) was negative. The OA magnitude represents subtracting the peak VAS rating at the end of T2 from the lowest VAS rating in the first 10 s of T3. (B) Both correlations were significant (R<sub>
+<bold>s</bold>
+</sub>(16) = 0.65, <italic toggle="yes">p</italic> = 0.003) for McGill and CPM and (R<sub>s</sub>(18) = −0.476, <italic toggle="yes">p</italic> = 0.03) for McGill and OA according to Spearman's correlation. T1: initial temperature applied during the offset analgesia test; T2: second temperature (equal to T1 + 1°C); T3: third temperature, identical to T1.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="EJP-30-0-g003.jpg"/></fig><p>To evaluate predictive utility (beyond correlation), we fitted complete‐case linear regression models with (i) FIQ and (ii) McGill pain score as dependent variables and CPM, OA, or both as predictors. Model performance was quantified both in‐sample (<italic toggle="yes">R</italic>
+<sup>2</sup>, RMSE) and via leave‐one‐out cross‐validation (LOOCV) to estimate out‐of‐sample performance. For FIQ prediction, CPM alone was significant (<italic toggle="yes">N</italic> = 26; <italic toggle="yes">b</italic> = 0.353, 95% CI 0.015–0.690; <italic toggle="yes">p</italic> = 0.041; <italic toggle="yes">R</italic>
+<sup>2</sup>_LOOCV = 0.041; RMSE_LOOCV = 12.94), OA alone was also significant (<italic toggle="yes">N</italic> = 27; <italic toggle="yes">b</italic> = −0.216, 95% CI −0.411 to 0.022; <italic toggle="yes">p</italic> = 0.031; <italic toggle="yes">R</italic>
+<sup>2</sup>_LOOCV = 0.022; RMSE_LOOCV = 12.80) and the joint model showed improved cross‐validated fit (<italic toggle="yes">N</italic> = 26; <italic toggle="yes">R</italic>
+<sup>2</sup>_LOOCV = 0.099; RMSE_LOOCV = 12.42), with the OA remaining significant (<italic toggle="yes">b</italic> = −0.220, 95% CI −0.433 to 0.006; <italic toggle="yes">p</italic> = 0.045) and the CPM not significant (<italic toggle="yes">b</italic> = 0.187, 95% CI −0.161 to 0.536; <italic toggle="yes">p</italic> = 0.277). For McGill prediction, CPM alone was significant (<italic toggle="yes">N</italic> = 18; <italic toggle="yes">b</italic> = 0.218, 95% CI 0.0065–0.430; <italic toggle="yes">p</italic> = 0.044; <italic toggle="yes">R</italic>
+<sup>2</sup>_LOOCV = 0.084; RMSE_LOOCV = 8.55), whereas OA alone was significant but provided minimal predictive value under LOOCV (<italic toggle="yes">N</italic> = 20; <italic toggle="yes">b</italic> = −0.188, 95% CI −0.375 to −0.0015; <italic toggle="yes">p</italic> = 0.048; <italic toggle="yes">R</italic>
+<sup>2</sup>_LOOCV = 0.0039; RMSE_LOOCV = 10.03); the joint McGill model did not improve prediction (<italic toggle="yes">N</italic> = 18; <italic toggle="yes">R</italic>
+<sup>2</sup>_LOOCV = −0.039; RMSE_LOOCV = 9.23), and neither predictor was significant (CPM <italic toggle="yes">p</italic> = 0.172; OA <italic toggle="yes">p</italic> = 0.199).</p></sec></sec><sec sec-type="discussion" id="ejp70231-sec-0020"><label>4</label><title>Discussion</title><p>This study directly examined, for the first time, the relationship between two widely used experimental paradigms probing central pain modulation, CPM and OA, in healthy participants and in patients with chronic pain, specifically FMS, which is often conceptualised as a test case of a central sensitization syndrome. As expected, FMS patients presented substantially lower levels of both CPM and OA than healthy participants. In addition, our results indicate that these two indices of supraspinal pain modulation are inversely related in patients with FMS, in contrast to the pattern observed in healthy controls. Furthermore, the paradigms exhibit divergent relationships with clinical symptomatology, such that greater disease severity is associated with deficient (non‐inhibitory) CPM but, conversely, with enhanced OA.</p><p>Studies investigating endogenous pain modulation in chronic pain patients have revealed diminished pain‐related activity within inhibitory pathways, explicitly involving the rostral anterior cingulate cortex (rACC), the PAG and the RVM (Harper et al. <xref rid="ejp70231-bib-0014" ref-type="bibr">2018</xref>; Zhang et al. <xref rid="ejp70231-bib-0063" ref-type="bibr">2018</xref>). Both CPM and OA serve as experimental measures used to assess endogenous pain modulation, but they are not identical. In addition to their different psychophysical properties, where CPM relies on a secondary painful stimulus (Nir and Yarnitsky <xref rid="ejp70231-bib-0037" ref-type="bibr">2015</xref>) and OA responds to changes in the intensity of a single painful stimulus (Ligato et al. <xref rid="ejp70231-bib-0029" ref-type="bibr">2018</xref>), a variance in the central mechanisms involved in each paradigm has been suggested (Nahman‐Averbuch et al. <xref rid="ejp70231-bib-0032" ref-type="bibr">2014</xref>).</p><p>CPM refers to the reduction in perceived pain of an ongoing painful stimulus following the application of a separate conditioning noxious stimulus. This process heavily involves descending inhibitory pathways originating in the PAG and RVM, which release endogenous opioids and serotonin to dampen spinal‐level pain signalling (Sprenger et al. <xref rid="ejp70231-bib-0052" ref-type="bibr">2011</xref>). Although CPM engages higher‐order regions such as the ACC and PFC, its primary mechanism for inhibiting pain relies predominantly on brainstem‐driven descending modulation. Cortical areas contribute by providing some attentional and emotional modulation (Nahman‐Averbuch and Timmers <xref rid="ejp70231-bib-0034" ref-type="bibr">2023</xref>). However, these cortical influences are less critical to the main inhibitory effect of CPM (Ossipov et al. <xref rid="ejp70231-bib-0042" ref-type="bibr">2010</xref>). Accordingly, CPM provides more sustained modulation in the presence of the conditioning stimulus. This gradual effect persists with the secondary stimulus, reflecting the slower, steady nature of descending inhibition.</p><p>OA, in contrast, is triggered by a minor decrease in the intensity of a single painful stimulus, leading to a disproportionately large reduction in perceived pain. Although this response engages brainstem regions such as the PAG and RVM, it is particularly sensitive to dynamic changes in pain intensity. This process relies more strongly on cortical regions, including the ACC, PFC and insula, which rapidly detect subtle stimulus changes and recalibrate pain perception through a combination of top‐down and sensory mechanisms (Nahman‐Averbuch et al. <xref rid="ejp70231-bib-0032" ref-type="bibr">2014</xref>; Yelle et al. <xref rid="ejp70231-bib-0061" ref-type="bibr">2008</xref>). Thus, OA produces a rapid and short‐lived analgesic effect that occurs almost immediately after a reduction in stimulus intensity. These findings suggest that OA is not a sustained descending inhibitory response but rather a quick recalibration involving cortical integration.</p><p>Various pharmacological studies have indicated differences between the two paradigms. For example, in patients with diabetic polyneuropathy, opioid agonists increase CPM effectiveness (Niesters et al. <xref rid="ejp70231-bib-0036" ref-type="bibr">2014</xref>). In contrast, neither opioid agonists nor antagonists had any effect on OA in individuals experiencing opioid‐induced hyperalgesia (Martucci et al. <xref rid="ejp70231-bib-0030" ref-type="bibr">2012</xref>). Furthermore, administering an SNRI enhances CPM in patients with diabetic neuropathies (Yarnitsky et al. <xref rid="ejp70231-bib-0060" ref-type="bibr">2012</xref>), whereas a drug from the same class does not affect OA in healthy individuals (Olesen et al. <xref rid="ejp70231-bib-0041" ref-type="bibr">2018</xref>). Moreover, a recent study from our group revealed that the psychoactive cannabinoid component Δ9‐tetrahydrocannabinol (THC) exerts differential effects on these two pain modulation paradigms in FMS, as it enhanced OA but did not significantly alter CPM, further supporting the interpretation that OA and CPM could rely on partially distinct underlying mechanisms (Agbaria et al. <xref rid="ejp70231-bib-0001" ref-type="bibr">2025</xref>). These variations may help to further clarify the distinctions between the paradigms, although the research remains inconclusive (France et al. <xref rid="ejp70231-bib-0012" ref-type="bibr">2016</xref>; Okkerse et al. <xref rid="ejp70231-bib-0040" ref-type="bibr">2017</xref>).</p><p>Importantly, the short‐term discontinuation of centrally acting medications before testing may have influenced CPM and OA in this study. On one hand, medication withdrawal may have reduced any direct pharmacological enhancement or suppression of descending pain modulation. On the other hand, early discontinuation or rebound effects may have transiently altered pain sensitivity, arousal, mood and sleep‐related factors. These changes could, in turn, affect psychophysical pain paradigms and increase between‐subject variability.</p><p>This issue is particularly relevant for SNRIs, as discontinuation symptoms can emerge within days of cessation. Accordingly, a 48‐h washout may not fully eliminate pharmacologic exposure for all compounds and may, in some individuals, bias CPM and OA estimates toward reduced apparent inhibitory capacity and/or greater variability. However, because only six FMS patients discontinued such medications (four of whom used SNRIs), any impact on group‐level conclusions is likely limited. Future studies should consider longer, compound‐specific washout periods or fully medication‐free cohorts when feasible.</p><p>We observed a significant positive association between CPM and OA in the healthy cohort, indicating that participants who exhibited stronger CPM inhibition also tended to show a greater OA effect (i.e., greater pain reduction following offset). This pattern is consistent with the notion that while CPM and OA reflect partially distinct dimensions of endogenous modulation (spatial vs. temporal filtering), they may still share overlapping inhibitory components at the individual‐differences level (Honigman et al. <xref rid="ejp70231-bib-0020" ref-type="bibr">2013</xref>; Nahman‐Averbuch et al. <xref rid="ejp70231-bib-0032" ref-type="bibr">2014</xref>).</p><p>Our findings are in line with those of Honigman et al. (<xref rid="ejp70231-bib-0020" ref-type="bibr">2013</xref>), who reported a significant positive correlation between OA and CPM magnitudes in healthy volunteers. However, these findings differ from those of Nahman‐Averbuch et al. (<xref rid="ejp70231-bib-0032" ref-type="bibr">2014</xref>), who reported that the magnitude of pain reduction elicited by CPM was not correlated with that elicited by OA across healthy individuals. This discrepancy across healthy cohort studies may reflect methodological differences that are known to influence CPM and OA estimates, including stimulus site and modality, calibration procedures, choice of OA/CPM summary metric (e.g., peak OA window vs. broader averaging) and limited sample sizes‐factors that can alter both effect size and interindividual rank ordering of responses. Furthermore, Honigman et al. (<xref rid="ejp70231-bib-0020" ref-type="bibr">2013</xref>) showed that in healthy participants, the pain‐relieving effect of OA can be enhanced by combining a CPM paradigm, further suggesting an additive effect for these neurobiological phenomena. These findings could indicate that healthy participants with normally functioning descending inhibitory pathways are able to effectively manage experimental pain through various neurobiological mechanisms (Huynh et al. <xref rid="ejp70231-bib-0022" ref-type="bibr">2022</xref>), supporting a broad‐based capacity for pain inhibition.</p><p>In contrast, FMS patients presented the opposite pattern, characterised by a negative correlation between CPM and OA. Moreover, we stratified the FMS cohort into CPM responders and nonresponders, reflecting inhibitory and noninhibitory CPM profiles, respectively, and examined the correlation of both subgroups with OA. The correlation between OA and CPM was significant only in the nonresponder group. Importantly, the lack of a CPM‐OA correlation in CPM responders does not necessarily imply that responders are equivalent to healthy controls. Even when CPM appears ‘preserved’, FMS responders may still differ from controls in other state and trait level factors (ongoing pain, hypervigilance, fatigue and affective or cognitive load) that can disrupt the coupling between spatial (CPM) and temporal (OA) inhibitory processes. One explanation is a ‘range restriction’ effect: by definition, CPM responders cluster toward inhibitory values, which can reduce between‐subject variability and attenuate correlations with OA, particularly in modest sample sizes. In addition, an inhibitory CPM score in a chronic pain context may arise via partially different contributions of descending inhibition versus contextual or attentional modulation compared with pain‐free controls, yielding similar CPM magnitudes but weaker covariance with OA. Furthermore, this pattern of correlation suggests a potential compensatory dissociation between sustained (tonic) and dynamic (phasic) pain inhibitory mechanisms. Specifically, in patients with impaired descending inhibition (nonresponders to CPM), the OA system may become upregulated or overutilized, potentially serving as a short‐term compensatory mechanism to mitigate ongoing nociceptive input. Finally, stratifying the sample reduces statistical power, and the absence of a detectable association in the responder subgroup may reflect limited sensitivity rather than a true absence of shared mechanisms.</p><p>Consistent with this, studies directly assessing both paradigms in the same individuals report that OA and CPM are not necessarily tightly coupled, supporting the interpretation that preserved OA with impaired CPM (or vice versa) can occur depending on which neural or cognitive processes are most affected (Agbaria et al. <xref rid="ejp70231-bib-0001" ref-type="bibr">2025</xref>; Hermans et al. <xref rid="ejp70231-bib-0018" ref-type="bibr">2016</xref>; Vollert et al. <xref rid="ejp70231-bib-0056" ref-type="bibr">2022</xref>). In FMS, this divergence is biologically plausible. Impairments in CPM are commonly interpreted as reflecting reduced efficacy of descending inhibitory control, representing an altered balance between inhibition and facilitation. In contrast, OA may be more sensitive to perceptual gain or contrast mechanisms, which can be amplified in states of central sensitization or hypervigilance. Under such conditions, an apparently ‘enhanced’ OA response may reflect heightened responsiveness to changes in noxious input rather than more efficient inhibitory modulation.</p><p>Taken together, our findings, along with broader evidence demonstrating that OA and CPM can be differentially modulated across chronic pain conditions and experimental contexts, support the view that OA and CPM provide complementary information about pain modulation. These paradigms may therefore aid in stratifying patients into subgroups with distinct dominant alterations. For example, some patients may show impaired spatial inhibitory control, whereas others may exhibit altered temporal contrast processing. This approach is consistent with the increasing emphasis on mechanism‐informed patient stratification, rather than presuming a uniform deficit in descending inhibitory function across all chronic pain populations (Hermans et al. <xref rid="ejp70231-bib-0018" ref-type="bibr">2016</xref>).</p><p>In the present study, we detected abnormalities in the CPM response in FMS patients that positively correlated with abnormalities in FIQ and McGill scores. However, we also present novel evidence for a correlation between these disease‐specific scores and OA in FMS. Accordingly, OA may similarly be used to estimate disease load and possibly to categorise patients into endophenotypes that may characterise pathophysiologic profiles or predict response and prognosis. Further studies are needed to examine the applicability and validity of using OA for these aims.</p><p>To examine whether the associations between the clinical measures and the two pain‐modulation paradigms were driven primarily by patients with relatively high versus low CPM inhibition, we tested the correlation between OA and symptom severity in both the CPM responder and nonresponder groups. Notably, a significant negative correlation between OA and symptom severity was observed exclusively in CPM nonresponders, whereas CPM responders showed no significant relationship between these two pain modulation paradigms.</p><p>Conversely, in CPM responders, OA responses appear to operate independently and are not tied to clinical symptomatology. This finding may indicate that the relative contributions of OA and CPM to overall pain modulation vary depending on the degree of descending inhibition. In the absence of effective CPM, the nervous system might rely more heavily on phasic inhibitory processes such as OA. However, this compensation may be inadequate and thus clinically ineffective, particularly in the face of chronic pain, as it reflects reliance on short‐lived inhibition rather than sustained regulatory control. In this case, this exaggerated response could reflect an underlying maladaptive attempt to manage high baseline pain levels, where the brain overuses any pain relief mechanism available, including OA, owing to the lack of efficacy in other pain modulation systems, such as CPM. Accordingly, disease severity, as reflected by McGill and FIQ scores, was positively correlated with CPM, as expected based on previous research (Nahman‐Averbuch et al. <xref rid="ejp70231-bib-0033" ref-type="bibr">2016</xref>; Naugle and Riley <xref rid="ejp70231-bib-0035" ref-type="bibr">2014</xref>). An alternative explanation may be that this effect relies on psychological factors, such as high alertness to pain changes, which may lead patients with severe symptoms to overrespond to pain reduction, resulting in better OA performance. If this is the case, better OA in patients with severe FMS could reflect heightened general pain sensitivity rather than effective pain modulation. In this context, ‘better’ OA might not indicate more effective modulation but rather reflect a more pronounced response to pain in general and attest to the degree of central sensitization.</p><p>The findings of this study underscore the potential clinical significance of CPM and OA measures in chronic pain patients, as their divergent patterns in FMS may help identify subgroups of patients with different modulatory profiles. Such distinctions could be clinically valuable for patient phenotyping and classification and may guide the development of personalised treatment strategies targeting specific deficits in central pain modulation. For example, patients with impaired CPM but preserved OA may benefit from therapies aimed at restoring tonic descending inhibition (e.g., certain antidepressants or exercise‐based interventions), whereas others may require broader neuromodulatory approaches.</p><p>Future studies should integrate both OA and CPM within the same experimental framework to investigate whether individual differences in these pain modulation processes predict treatment response over time. These findings may provide deeper insights into the distinct roles of CPM and OA in FMS and other chronic pain conditions. Moreover, future studies involving pharmacological manipulations of both CPM and OA could be highly valuable for advancing our understanding of the mechanisms underlying these paradigms.</p></sec><sec id="ejp70231-sec-0021"><label>5</label><title>Limitations</title><p>This study has limitations that should be acknowledged. First, the presence of peripheral neuropathic pain was not objectively verified in this study and was instead based on participant self‐reports, which may be incomplete or inaccurate and could have introduced misclassification and additional variability in the psychophysical test outcomes. Furthermore, pain and FMS‐specific questionnaires were administered only to the FMS group; although controls were screened to be free of chronic pain, collecting a harmonised questionnaire set in controls would have enabled more direct group comparability and clearer interpretation of potential floor effects. Another limitation is missing data for some questionnaires, which could have reduced the effective sample size for questionnaire‐based analyses. A further limitation is that CPM was assessed via a parallel design (test stimulus delivered during conditioning). CPM practice recommendations note that simultaneous presentation may recruit attentional/cognitive modulation, potentially limiting interpretation as purely descending inhibition. Finally, the relatively small sample size (<italic toggle="yes">N</italic> = 27 per group) also restricts the statistical power and may limit the generalizability of the findings to larger or more diverse populations.</p></sec><sec id="ejp70231-sec-0022"><title>Author Contributions</title><p>Yara Agbaria: This author helped with the study design, recruitment, data collection, data analysis, data interpretation and manuscript writing. Giris Jacob: This author helped with the study design, recruitment, data interpretation and manuscript writing. Raz Preger: This author helped with data collection and data analysis. Jacob N. Ablin: This author helped with the study design, recruitment, data interpretation and manuscript writing. Valerie Aloush: This author helped with the study design and recruitment. Haggai Sharon: This author helped with the study design, recruitment, data interpretation and manuscript writing.</p></sec><sec id="ejp70231-sec-0023"><title>Funding</title><p>This work was funded by the Tel Aviv Sourasky Medical Center [250–416].</p></sec><sec sec-type="COI-statement" id="ejp70231-sec-0024"><title>Disclosure</title><p>Artificial Intelligence Statement: All the authors confirm that no artificial intelligence tools were used in this work.</p></sec><sec sec-type="COI-statement" id="ejp70231-sec-0025"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="ejp70231-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Table S1:</bold> A detailed explanation of the number of FMS patients who completed each questionnaire and psychophysical tests.</p><p>
+<bold>Table S2:</bold> Group effect represents the difference between FMS and healthy controls. Adjusted model includes baseline test‐stimulus pain (TS_alone) as a covariate.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="EJP-30-0-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><sec sec-type="data-availability" id="ejp70231-sec-0027"><title>Data Availability Statement</title><p>The datasets generated during and/or analysed during the current study are available from the corresponding author upon reasonable request that support the findings of this study, which are available from the corresponding author upon reasonable request.</p></sec><ref-list content-type="cited-references" id="ejp70231-bibl-0001"><title>References</title><ref id="ejp70231-bib-0001"><mixed-citation publication-type="journal" id="ejp70231-cit-0001">
+<string-name name-style="western">
+<surname>Agbaria</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Preger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Aloush</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. N.</given-names>
+<surname>Ablin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Sharon</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Jacob</surname>
+</string-name>. <year>2025</year>. “<article-title>The Impact of Tetrahydrocannabinol on Central Pain Modulation in Chronic Pain: A Randomized Clinical Comparative Study of Offset Analgesia and Conditioned Pain Modulation in Fibromyalgia</article-title>.” <source>Journal of Cannabis Research</source>
+<volume>7</volume>: <elocation-id>86</elocation-id>.<pub-id pub-id-type="pmid">41199355</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s42238-025-00348-x</pub-id><pub-id pub-id-type="pmcid">PMC12590702</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0004"><mixed-citation publication-type="book" id="ejp70231-cit-0004">
+<string-name name-style="western">
+<surname>Arendt‐Nielsen</surname>, <given-names>L.</given-names>
+</string-name>
+<year>2015</year>. “<part-title>Central Sensitization in Humans: Assessment and Pharmacology</part-title>.” In <source>Pain Control</source>, edited by <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>H.‐G.</given-names>
+<surname>Schaible</surname>
+</string-name>
+</person-group>, <fpage>79</fpage>–<lpage>102</lpage>. <publisher-name>Springer</publisher-name>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-3-662-46450-2_5</pub-id><pub-id pub-id-type="pmid">25846615</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0006"><mixed-citation publication-type="journal" id="ejp70231-cit-0006">
+<string-name name-style="western">
+<surname>Burckhardt</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. R.</given-names>
+<surname>Clark</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. M.</given-names>
+<surname>Bennett</surname>
+</string-name>. <year>1991</year>. “<article-title>The Fibromyalgia Impact Questionnaire: Development and Validation</article-title>.” <source>Journal of Rheumatology</source>
+<volume>18</volume>: <fpage>728</fpage>–<lpage>733</lpage>.<pub-id pub-id-type="pmid">1865419</pub-id>
+</mixed-citation></ref><ref id="ejp70231-bib-0007"><mixed-citation publication-type="journal" id="ejp70231-cit-0007">
+<string-name name-style="western">
+<surname>Buskila</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Neumann</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Hazanov</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Carmi</surname>
+</string-name>. <year>1996</year>. “<article-title>Familial Aggregation in the Fihromyalgia Syndrome</article-title>.” <source>Seminars in Arthritis and Rheumatism</source>
+<volume>26</volume>: <fpage>605</fpage>–<lpage>611</lpage>.<pub-id pub-id-type="pmid">8989805</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0049-0172(96)80011-4</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0008"><mixed-citation publication-type="journal" id="ejp70231-cit-0008">
+<string-name name-style="western">
+<surname>Clauw</surname>, <given-names>D. J.</given-names>
+</string-name>
+<year>2009</year>. “<article-title>Fibromyalgia: An Overview</article-title>.” <source>American Journal of Medicine</source>
+<volume>122</volume>: <fpage>S3</fpage>–<lpage>S13</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.amjmed.2009.09.006</pub-id><pub-id pub-id-type="pmid">19962494</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0009"><mixed-citation publication-type="journal" id="ejp70231-cit-0009">
+<string-name name-style="western">
+<surname>Di Carlo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Farah</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Bazzichi</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>Fibromyalgia Severity According to Age Categories: Results of a Cross‐Sectional Study From a Large National Database</article-title>.” <source>Clinical and Experimental Rheumatology</source>
+<volume>80</volume>: <fpage>1389</fpage>–<lpage>1390</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.55563/clinexprheumatol/od40pa</pub-id><pub-id pub-id-type="pmid">35383567</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0010"><mixed-citation publication-type="journal" id="ejp70231-cit-0010">
+<string-name name-style="western">
+<surname>DiCiccio</surname>, <given-names>T. J.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Efron</surname>
+</string-name>. <year>1996</year>. “<article-title>Bootstrap Confidence Intervals</article-title>.” <source>Statistical Science</source>
+<volume>11</volume>, no. <issue>3</issue>: <fpage>189</fpage>–<lpage>228</lpage>.</mixed-citation></ref><ref id="ejp70231-bib-0011"><mixed-citation publication-type="journal" id="ejp70231-cit-0011">
+<string-name name-style="western">
+<surname>Fitzcharles</surname>, <given-names>M.‐A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. P.</given-names>
+<surname>Cohen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Clauw</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Littlejohn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Usui</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Häuser</surname>
+</string-name>. <year>2021</year>. “<article-title>Nociplastic Pain: Toward an Understanding of Prevalent Pain Conditions</article-title>.” <source>Lancet</source>
+<volume>397</volume>: <fpage>2098</fpage>–<lpage>2110</lpage>.<pub-id pub-id-type="pmid">34062144</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(21)00392-5</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0012"><mixed-citation publication-type="journal" id="ejp70231-cit-0012">
+<string-name name-style="western">
+<surname>France</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Burns</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. K.</given-names>
+<surname>Gupta</surname>
+</string-name>, et al. <year>2016</year>. “<article-title>Expectancy Effects on Conditioned Pain Modulation Are Not Influenced by Naloxone or Morphine</article-title>.” <source>Annals of Behavioral Medicine</source>
+<volume>50</volume>: <fpage>497</fpage>–<lpage>505</lpage>.<pub-id pub-id-type="pmid">26809850</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12160-016-9775-y</pub-id><pub-id pub-id-type="pmcid">PMC4935576</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0013"><mixed-citation publication-type="journal" id="ejp70231-cit-0013">
+<string-name name-style="western">
+<surname>Granot</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Granovsky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Sprecher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.‐R.</given-names>
+<surname>Nir</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Yarnitsky</surname>
+</string-name>. <year>2006</year>. “<article-title>Contact Heat‐Evoked Temporal Summation: Tonic Versus Repetitive‐Phasic Stimulation</article-title>.” <source>Pain</source>
+<volume>122</volume>: <fpage>295</fpage>–<lpage>305</lpage>.<pub-id pub-id-type="pmid">16540248</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pain.2006.02.003</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0014"><mixed-citation publication-type="journal" id="ejp70231-cit-0014">
+<string-name name-style="western">
+<surname>Harper</surname>, <given-names>D. E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ichesco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Schrepf</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>Resting Functional Connectivity of the Periaqueductal Gray Is Associated With Normal Inhibition and Pathological Facilitation in Conditioned Pain Modulation</article-title>.” <source>Journal of Pain</source>
+<volume>19</volume>: <fpage>635.e1</fpage>–<lpage>635.e15</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jpain.2018.01.001</pub-id><pub-id pub-id-type="pmcid">PMC5972067</pub-id><pub-id pub-id-type="pmid">29360608</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0017"><mixed-citation publication-type="journal" id="ejp70231-cit-0017">
+<string-name name-style="western">
+<surname>Hedman‐Lagerlöf</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Gasslander</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Ahnlund Hoffmann</surname>
+</string-name>, et al. <year>2024</year>. “<article-title>Effect of Exposure‐Based vs Traditional Cognitive Behavior Therapy for Fibromyalgia: A Two‐Site Single‐Blind Randomized Controlled Trial</article-title>.” <source>Pain</source>
+<volume>165</volume>: <fpage>1278</fpage>–<lpage>1288</lpage>.<pub-id pub-id-type="pmid">38131181</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/j.pain.0000000000003128</pub-id><pub-id pub-id-type="pmcid">PMC11090030</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0018"><mixed-citation publication-type="journal" id="ejp70231-cit-0018">
+<string-name name-style="western">
+<surname>Hermans</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Calders</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Van Oosterwijck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Verschelde</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Bertel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Meeus</surname>
+</string-name>. <year>2016</year>. “<article-title>An Overview of Offset Analgesia and the Comparison With Conditioned Pain Modulation: A Systematic Literature Review</article-title>.” <source>Pain Physician</source>
+<volume>19</volume>: <fpage>307</fpage>–<lpage>326</lpage>.<pub-id pub-id-type="pmid">27454261</pub-id>
+</mixed-citation></ref><ref id="ejp70231-bib-0019"><mixed-citation publication-type="journal" id="ejp70231-cit-0019">
+<string-name name-style="western">
+<surname>Hoegh</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D. A.</given-names>
+<surname>Seminowicz</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Graven‐Nielsen</surname>
+</string-name>. <year>2019</year>. “<article-title>Delayed Effects of Attention on Pain Sensitivity and Conditioned Pain Modulation</article-title>.” <source>European Journal of Pain</source>
+<volume>23</volume>: <fpage>1850</fpage>–<lpage>1862</lpage>.<pub-id pub-id-type="pmid">31343803</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejp.1458</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0020"><mixed-citation publication-type="journal" id="ejp70231-cit-0020">
+<string-name name-style="western">
+<surname>Honigman</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Yarnitsky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Sprecher</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Weissman‐Fogel</surname>
+</string-name>. <year>2013</year>. “<article-title>Psychophysical Testing of Spatial and Temporal Dimensions of Endogenous Analgesia: Conditioned Pain Modulation and Offset Analgesia</article-title>.” <source>Experimental Brain Research</source>
+<volume>228</volume>: <fpage>493</fpage>–<lpage>501</lpage>.<pub-id pub-id-type="pmid">23712686</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00221-013-3580-7</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0022"><mixed-citation publication-type="journal" id="ejp70231-cit-0022">
+<string-name name-style="western">
+<surname>Huynh</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Lütolf</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Rosner</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Descending Pain Modulatory Efficiency in Healthy Subjects Is Related to Structure and Resting Connectivity of Brain Regions</article-title>.” <source>NeuroImage</source>
+<volume>247</volume>: <elocation-id>118742</elocation-id>.<pub-id pub-id-type="pmid">34863962</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neuroimage.2021.118742</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0023"><mixed-citation publication-type="journal" id="ejp70231-cit-0023">
+<string-name name-style="western">
+<surname>Julien</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Goffaux</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Arsenault</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Marchand</surname>
+</string-name>. <year>2005</year>. “<article-title>Widespread Pain in Fibromyalgia Is Related to a Deficit of Endogenous Pain Inhibition</article-title>.” <source>Pain</source>
+<volume>114</volume>: <fpage>295</fpage>–<lpage>302</lpage>.<pub-id pub-id-type="pmid">15733656</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pain.2004.12.032</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0024"><mixed-citation publication-type="journal" id="ejp70231-cit-0024">
+<string-name name-style="western">
+<surname>Kashikar‐Zuck</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Cunningham</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sil</surname>
+</string-name>, et al. <year>2014</year>. “<article-title>Long‐Term Outcomes of Adolescents With Juvenile‐Onset Fibromyalgia in Early Adulthood</article-title>.” <source>Pediatrics</source>
+<volume>133</volume>: <fpage>e592</fpage>–<lpage>e600</lpage>.<pub-id pub-id-type="pmid">24567017</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1542/peds.2013-2220</pub-id><pub-id pub-id-type="pmcid">PMC3934334</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0025"><mixed-citation publication-type="journal" id="ejp70231-cit-0025">
+<string-name name-style="western">
+<surname>Kobinata</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ikeda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Makita</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kurata</surname>
+</string-name>. <year>2017</year>. “<article-title>Disrupted Offset Analgesia Distinguishes Patients With Chronic Pain From Healthy Controls</article-title>.” <source>Pain</source>
+<volume>158</volume>: <fpage>1951</fpage>–<lpage>1959</lpage>.<pub-id pub-id-type="pmid">28746077</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/j.pain.0000000000000989</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0027"><mixed-citation publication-type="journal" id="ejp70231-cit-0027">
+<string-name name-style="western">
+<surname>Lewis</surname>, <given-names>G. N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D. A.</given-names>
+<surname>Rice</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>McNair</surname>
+</string-name>. <year>2012</year>. “<article-title>Conditioned Pain Modulation in Populations With Chronic Pain: A Systematic Review and Meta‐Analysis</article-title>.” <source>Journal of Pain</source>
+<volume>13</volume>: <fpage>936</fpage>–<lpage>944</lpage>.<pub-id pub-id-type="pmid">22981090</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jpain.2012.07.005</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0028"><mixed-citation publication-type="journal" id="ejp70231-cit-0028">
+<string-name name-style="western">
+<surname>Li</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ikeda</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kobinata</surname>
+</string-name>. <year>2022</year>. “<article-title>Functional Connectivity Modulations During Offset Analgesia in Chronic Pain Patients: An fMRI Study</article-title>.” <source>Brain Imaging and Behavior</source>
+<volume>16</volume>: <fpage>1794</fpage>–<lpage>1802</lpage>.<pub-id pub-id-type="pmid">35314949</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11682-022-00652-7</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0029"><mixed-citation publication-type="journal" id="ejp70231-cit-0029">
+<string-name name-style="western">
+<surname>Ligato</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K. K.</given-names>
+<surname>Petersen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. D.</given-names>
+<surname>Mørch</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Arendt‐Nielsen</surname>
+</string-name>. <year>2018</year>. “<article-title>Offset Analgesia: The Role of Peripheral and Central Mechanisms</article-title>.” <source>European Journal of Pain</source>
+<volume>22</volume>: <fpage>142</fpage>–<lpage>149</lpage>.<pub-id pub-id-type="pmid">28898500</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejp.1110</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0030"><mixed-citation publication-type="journal" id="ejp70231-cit-0030">
+<string-name name-style="western">
+<surname>Martucci</surname>, <given-names>K. T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Eisenach</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Tong</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>Coghill</surname>
+</string-name>. <year>2012</year>. “<article-title>Opioid‐Independent Mechanisms Supporting Offset Analgesia and Temporal Sharpening of Nociceptive Information</article-title>.” <source>Pain</source>
+<volume>153</volume>: <fpage>1232</fpage>–<lpage>1243</lpage>.<pub-id pub-id-type="pmid">22503222</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pain.2012.02.035</pub-id><pub-id pub-id-type="pmcid">PMC3358522</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0031"><mixed-citation publication-type="journal" id="ejp70231-cit-0031">
+<string-name name-style="western">
+<surname>Melzack</surname>, <given-names>R.</given-names>
+</string-name>
+<year>1987</year>. “<article-title>The Short‐Form McGill Pain Questionnaire</article-title>.” <source>Pain</source>
+<volume>30</volume>: <fpage>191</fpage>–<lpage>197</lpage>.<pub-id pub-id-type="pmid">3670870</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0304-3959(87)91074-8</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0032"><mixed-citation publication-type="journal" id="ejp70231-cit-0032">
+<string-name name-style="western">
+<surname>Nahman‐Averbuch</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K. T.</given-names>
+<surname>Martucci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Granovsky</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Weissman‐Fogel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Yarnitsky</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>Coghill</surname>
+</string-name>. <year>2014</year>. “<article-title>Distinct Brain Mechanisms Support Spatial vs Temporal Filtering of Nociceptive Information</article-title>.” <source>Pain</source>
+<volume>155</volume>: <fpage>2491</fpage>–<lpage>2501</lpage>.<pub-id pub-id-type="pmid">25047783</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pain.2014.07.008</pub-id><pub-id pub-id-type="pmcid">PMC4250429</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0033"><mixed-citation publication-type="journal" id="ejp70231-cit-0033">
+<string-name name-style="western">
+<surname>Nahman‐Averbuch</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.‐R.</given-names>
+<surname>Nir</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Sprecher</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Yarnitsky</surname>
+</string-name>. <year>2016</year>. “<article-title>Psychological Factors and Conditioned Pain Modulation: A Meta‐Analysis</article-title>.” <source>Clinical Journal of Pain</source>
+<volume>32</volume>: <fpage>541</fpage>–<lpage>554</lpage>.<pub-id pub-id-type="pmid">26340657</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/AJP.0000000000000296</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0034"><mixed-citation publication-type="journal" id="ejp70231-cit-0034">
+<string-name name-style="western">
+<surname>Nahman‐Averbuch</surname>, <given-names>H.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Timmers</surname>
+</string-name>. <year>2023</year>. “<article-title>Neural Mechanisms Underlying the Conditioned Pain Modulation Response: A Narrative Review of Neuroimaging Studies</article-title>.” <source>Pain</source>
+<volume>164</volume>: <fpage>e25</fpage>–<lpage>e46</lpage>.<pub-id pub-id-type="pmid">36017881</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/j.pain.0000000000002716</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0035"><mixed-citation publication-type="journal" id="ejp70231-cit-0035">
+<string-name name-style="western">
+<surname>Naugle</surname>, <given-names>K. M.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Riley</surname>
+</string-name>. <year>2014</year>. “<article-title>Self‐Reported Physical Activity Predicts Pain Inhibitory and Facilitatory Function</article-title>.” <source>Medicine and Science in Sports and Exercise</source>
+<volume>46</volume>: <fpage>622</fpage>–<lpage>629</lpage>.<pub-id pub-id-type="pmid">23899890</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1249/MSS.0b013e3182a69cf1</pub-id><pub-id pub-id-type="pmcid">PMC3906218</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0036"><mixed-citation publication-type="journal" id="ejp70231-cit-0036">
+<string-name name-style="western">
+<surname>Niesters</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P. L.</given-names>
+<surname>Proto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Aarts</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. Y.</given-names>
+<surname>Sarton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Drewes</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Dahan</surname>
+</string-name>. <year>2014</year>. “<article-title>Tapentadol Potentiates Descending Pain Inhibition in Chronic Pain Patients With Diabetic Polyneuropathy</article-title>.” <source>British Journal of Anaesthesia</source>
+<volume>113</volume>: <fpage>148</fpage>–<lpage>156</lpage>.<pub-id pub-id-type="pmid">24713310</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bja/aeu056</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0037"><mixed-citation publication-type="journal" id="ejp70231-cit-0037">
+<string-name name-style="western">
+<surname>Nir</surname>, <given-names>R.‐R.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Yarnitsky</surname>
+</string-name>. <year>2015</year>. “<article-title>Conditioned Pain Modulation</article-title>.” <source>Current Opinion in Supportive and Palliative Care</source>
+<volume>9</volume>: <fpage>131</fpage>–<lpage>137</lpage>.<pub-id pub-id-type="pmid">25699686</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/SPC.0000000000000126</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0038"><mixed-citation publication-type="journal" id="ejp70231-cit-0038">
+<string-name name-style="western">
+<surname>Nuwailati</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Bobos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Drangsholt</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Curatolo</surname>
+</string-name>. <year>2022</year>. “<article-title>Reliability of Conditioned Pain Modulation in Healthy Individuals and Chronic Pain Patients: A Systematic Review and Meta‐Analysis</article-title>.” <source>Scandinavian Journal of Pain</source>
+<volume>22</volume>: <fpage>262</fpage>–<lpage>278</lpage>.<pub-id pub-id-type="pmid">35142147</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1515/sjpain-2021-0149</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0040"><mixed-citation publication-type="journal" id="ejp70231-cit-0040">
+<string-name name-style="western">
+<surname>Okkerse</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Van Amerongen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>De Kam</surname>
+</string-name>, et al. <year>2017</year>. “<article-title>The Use of a Battery of Pain Models to Detect Analgesic Properties of Compounds: A Two‐Part Four‐Way Crossover Study</article-title>.” <source>British Journal of Clinical Pharmacology</source>
+<volume>83</volume>: <fpage>976</fpage>–<lpage>990</lpage>.<pub-id pub-id-type="pmid">27862179</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bcp.13183</pub-id><pub-id pub-id-type="pmcid">PMC5401986</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0041"><mixed-citation publication-type="journal" id="ejp70231-cit-0041">
+<string-name name-style="western">
+<surname>Olesen</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>T. D.</given-names>
+<surname>Nissen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Nilsson</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>Offset Analgesia and the Impact of Treatment With Oxycodone and Venlafaxine: A Placebo‐Controlled, Randomized Trial in Healthy Volunteers</article-title>.” <source>Basic &amp; Clinical Pharmacology &amp; Toxicology</source>
+<volume>123</volume>: <fpage>727</fpage>–<lpage>731</lpage>.<pub-id pub-id-type="pmid">29938898</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bcpt.13078</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0042"><mixed-citation publication-type="journal" id="ejp70231-cit-0042">
+<string-name name-style="western">
+<surname>Ossipov</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G. O.</given-names>
+<surname>Dussor</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Porreca</surname>
+</string-name>. <year>2010</year>. “<article-title>Central Modulation of Pain</article-title>.” <source>Journal of Clinical Investigation</source>
+<volume>120</volume>: <fpage>3779</fpage>–<lpage>3787</lpage>.<pub-id pub-id-type="pmid">21041960</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1172/JCI43766</pub-id><pub-id pub-id-type="pmcid">PMC2964993</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0043"><mixed-citation publication-type="journal" id="ejp70231-cit-0043">
+<string-name name-style="western">
+<surname>Oudejans</surname>, <given-names>L. C. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Smit</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Van Velzen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Dahan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Niesters</surname>
+</string-name>. <year>2015</year>. “<article-title>The Influence of Offset Analgesia on the Onset and Offset of Pain in Patients With Fibromyalgia</article-title>.” <source>Pain</source>
+<volume>156</volume>: <fpage>2521</fpage>–<lpage>2527</lpage>.<pub-id pub-id-type="pmid">26270589</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/j.pain.0000000000000321</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0044"><mixed-citation publication-type="journal" id="ejp70231-cit-0044">
+<string-name name-style="western">
+<surname>Pomares</surname>, <given-names>F. B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Funck</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. A.</given-names>
+<surname>Feier</surname>
+</string-name>, et al. <year>2017</year>. “<article-title>Histological Underpinnings of Gray Matter Changes in Fibromyalgia Investigated Using Multimodal Brain Imaging</article-title>.” <source>Journal of Neuroscience</source>
+<volume>37</volume>: <fpage>1090</fpage>–<lpage>1101</lpage>.<pub-id pub-id-type="pmid">27986927</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1523/JNEUROSCI.2619-16.2016</pub-id><pub-id pub-id-type="pmcid">PMC6596849</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0045"><mixed-citation publication-type="journal" id="ejp70231-cit-0045">
+<string-name name-style="western">
+<surname>Potvin</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Marchand</surname>
+</string-name>. <year>2016</year>. “<article-title>Pain Facilitation and Pain Inhibition During Conditioned Pain Modulation in Fibromyalgia and in Healthy Controls</article-title>.” <source>Pain</source>
+<volume>157</volume>: <fpage>1704</fpage>–<lpage>1710</lpage>.<pub-id pub-id-type="pmid">27045524</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/j.pain.0000000000000573</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0046"><mixed-citation publication-type="journal" id="ejp70231-cit-0046">
+<string-name name-style="western">
+<surname>Pud</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Sprecher</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Yarnitsky</surname>
+</string-name>. <year>2005</year>. “<article-title>Homotopic and Heterotopic Effects of Endogenous Analgesia in Healthy Volunteers</article-title>.” <source>Neuroscience Letters</source>
+<volume>380</volume>: <fpage>209</fpage>–<lpage>213</lpage>.<pub-id pub-id-type="pmid">15862887</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.neulet.2005.01.037</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0047"><mixed-citation publication-type="journal" id="ejp70231-cit-0047">
+<string-name name-style="western">
+<surname>Puth</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Neuhäuser</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G. D.</given-names>
+<surname>Ruxton</surname>
+</string-name>. <year>2015</year>. “<article-title>On the Variety of Methods for Calculating Confidence Intervals by Bootstrapping</article-title>.” <source>Journal of Animal Ecology</source>
+<volume>84</volume>: <fpage>892</fpage>–<lpage>897</lpage>.<pub-id pub-id-type="pmid">26074184</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/1365-2656.12382</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0048"><mixed-citation publication-type="journal" id="ejp70231-cit-0048">
+<string-name name-style="western">
+<surname>Ruschak</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Montesó‐Curto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Rosselló</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Aguilar Martín</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Sánchez‐Montesó</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Toussaint</surname>
+</string-name>. <year>2023</year>. “<article-title>Fibromyalgia Syndrome Pain in Men and Women: A Scoping Review</article-title>.” <source>Healthcare (Basel)</source>
+<volume>11</volume>: <elocation-id>223</elocation-id>.<pub-id pub-id-type="pmid">36673591</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/healthcare11020223</pub-id><pub-id pub-id-type="pmcid">PMC9859454</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0050"><mixed-citation publication-type="journal" id="ejp70231-cit-0050">
+<string-name name-style="western">
+<surname>Shaver</surname>, <given-names>J. L.</given-names>
+</string-name>
+<year>2004</year>. “<article-title>Fibromyalgia Syndrome in Women</article-title>.” <source>Nursing Clinics of North America</source>
+<volume>39</volume>: <fpage>195</fpage>–<lpage>204</lpage>.<pub-id pub-id-type="pmid">15062736</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cnur.2003.11.012</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0051"><mixed-citation publication-type="journal" id="ejp70231-cit-0051">
+<string-name name-style="western">
+<surname>Sloman</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Rosen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Rom</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Shir</surname>
+</string-name>. <year>2005</year>. “<article-title>Nurses' Assessment of Pain in Surgical Patients</article-title>.” <source>Journal of Advanced Nursing</source>
+<volume>52</volume>: <fpage>125</fpage>–<lpage>132</lpage>.<pub-id pub-id-type="pmid">16164473</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2648.2005.03573.x</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0052"><mixed-citation publication-type="journal" id="ejp70231-cit-0052">
+<string-name name-style="western">
+<surname>Sprenger</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Bingel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Büchel</surname>
+</string-name>. <year>2011</year>. “<article-title>Treating Pain With Pain: Supraspinal Mechanisms of Endogenous Analgesia Elicited by Heterotopic Noxious Conditioning Stimulation</article-title>.” <source>Pain</source>
+<volume>152</volume>: <fpage>428</fpage>–<lpage>439</lpage>.<pub-id pub-id-type="pmid">21196078</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pain.2010.11.018</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0053"><mixed-citation publication-type="journal" id="ejp70231-cit-0053">
+<string-name name-style="western">
+<surname>Szikszay</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>W. M.</given-names>
+<surname>Adamczyk</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hoegner</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Woermann</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Luedtke</surname>
+</string-name>. <year>2021</year>. “<article-title>The Effect of Acute‐Experimental Pain Models on Offset Analgesia</article-title>.” <source>European Journal of Pain</source>
+<volume>25</volume>: <fpage>1150</fpage>–<lpage>1161</lpage>.<pub-id pub-id-type="pmid">33533139</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejp.1740</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0054"><mixed-citation publication-type="journal" id="ejp70231-cit-0054">
+<string-name name-style="western">
+<surname>Szikszay</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>W. M.</given-names>
+<surname>Adamczyk</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Luedtke</surname>
+</string-name>. <year>2019</year>. “<article-title>The Magnitude of Offset Analgesia as a Measure of Endogenous Pain Modulation in Healthy Participants and Patients With Chronic Pain: A Systematic Review and Meta‐Analysis</article-title>.” <source>Clinical Journal of Pain</source>
+<volume>35</volume>: <fpage>189</fpage>–<lpage>204</lpage>.<pub-id pub-id-type="pmid">30247198</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/AJP.0000000000000657</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0056"><mixed-citation publication-type="journal" id="ejp70231-cit-0056">
+<string-name name-style="western">
+<surname>Vollert</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Trewartha</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Kemkowski</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Conditioned Pain Modulation and Offset Analgesia: Influence of Sex, Sex Hormone Levels and Menstrual Cycle on the Magnitude and Retest Reliability in Healthy Participants</article-title>.” <source>European Journal of Pain</source>
+<volume>26</volume>: <fpage>1938</fpage>–<lpage>1949</lpage>.<pub-id pub-id-type="pmid">35856832</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejp.2014</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0057"><mixed-citation publication-type="journal" id="ejp70231-cit-0057">
+<string-name name-style="western">
+<surname>Woolf</surname>, <given-names>C. J.</given-names>
+</string-name>
+<year>2011</year>. “<article-title>Central Sensitization: Implications for the Diagnosis and Treatment of Pain</article-title>.” <source>Pain</source>
+<volume>152</volume>: <fpage>S2</fpage>–<lpage>S15</lpage>.<pub-id pub-id-type="pmid">20961685</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pain.2010.09.030</pub-id><pub-id pub-id-type="pmcid">PMC3268359</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0058"><mixed-citation publication-type="journal" id="ejp70231-cit-0058">
+<string-name name-style="western">
+<surname>Yarnitsky</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Bouhassira</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Drewes</surname>
+</string-name>, et al. <year>2015</year>. “<article-title>Recommendations on Practice of Conditioned Pain Modulation (CPM) Testing</article-title>.” <source>European Journal of Pain</source>
+<volume>19</volume>: <fpage>805</fpage>–<lpage>806</lpage>.<pub-id pub-id-type="pmid">25330039</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejp.605</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0059"><mixed-citation publication-type="journal" id="ejp70231-cit-0059">
+<string-name name-style="western">
+<surname>Yarnitsky</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Crispel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Eisenberg</surname>
+</string-name>, et al. <year>2008</year>. “<article-title>Prediction of Chronic Postoperative Pain: Preoperative DNIC Testing Identifies Patients at Risk</article-title>.” <source>Pain</source>
+<volume>138</volume>: <fpage>22</fpage>–<lpage>28</lpage>.<pub-id pub-id-type="pmid">18079062</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pain.2007.10.033</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0060"><mixed-citation publication-type="journal" id="ejp70231-cit-0060">
+<string-name name-style="western">
+<surname>Yarnitsky</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Granot</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Nahman‐Averbuch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Khamaisi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Granovsky</surname>
+</string-name>. <year>2012</year>. “<article-title>Conditioned Pain Modulation Predicts Duloxetine Efficacy in Painful Diabetic Neuropathy</article-title>.” <source>Pain</source>
+<volume>153</volume>: <fpage>1193</fpage>–<lpage>1198</lpage>.<pub-id pub-id-type="pmid">22480803</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pain.2012.02.021</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0061"><mixed-citation publication-type="journal" id="ejp70231-cit-0061">
+<string-name name-style="western">
+<surname>Yelle</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Rogers</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. C.</given-names>
+<surname>Coghill</surname>
+</string-name>. <year>2008</year>. “<article-title>Offset Analgesia: A Temporal Contrast Mechanism for Nociceptive Information</article-title>.” <source>Pain</source>
+<volume>134</volume>: <fpage>174</fpage>–<lpage>186</lpage>.<pub-id pub-id-type="pmid">17533118</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pain.2007.04.014</pub-id><pub-id pub-id-type="pmcid">PMC2213795</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0062"><mixed-citation publication-type="journal" id="ejp70231-cit-0062">
+<string-name name-style="western">
+<surname>Yunus</surname>, <given-names>M. B.</given-names>
+</string-name>
+<year>2002</year>. “<article-title>A Comprehensive Medical Evaluation of Patients With Fibromyalgia Syndrome</article-title>.” <source>Rheumatic Disease Clinics of North America</source>
+<volume>28</volume>: <fpage>201</fpage>–<lpage>217</lpage>.<pub-id pub-id-type="pmid">12122914</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0889-857x(01)00002-3</pub-id></mixed-citation></ref><ref id="ejp70231-bib-0063"><mixed-citation publication-type="journal" id="ejp70231-cit-0063">
+<string-name name-style="western">
+<surname>Zhang</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kobinata</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Ikeda</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Ota</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kurata</surname>
+</string-name>. <year>2018</year>. “<article-title>Attenuation of Offset Analgesia Is Associated With Suppression of Descending Pain Modulatory and Reward Systems in Patients With Chronic Pain</article-title>.” <source>Molecular Pain</source>
+<volume>14</volume>: <elocation-id>1744806918767512</elocation-id>.<pub-id pub-id-type="pmid">29592786</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1177/1744806918767512</pub-id><pub-id pub-id-type="pmcid">PMC5882045</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

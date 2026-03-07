@@ -1,0 +1,197 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="ases70270" xml:lang="en" article-type="case-study" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Asian J Endosc Surg</journal-id><journal-id journal-id-type="iso-abbrev">Asian J Endosc Surg</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">ASES</journal-id><journal-title-group><journal-title>Asian Journal of Endoscopic Surgery</journal-title></journal-title-group><issn pub-type="ppub">1758-5902</issn><issn pub-type="epub">1758-5910</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12962058</article-id><article-id pub-id-type="pmcid-ver">PMC12962058.1</article-id><article-id pub-id-type="pmcaid">12962058</article-id><article-id pub-id-type="pmcaiid">12962058</article-id><article-id pub-id-type="pmid">41784297</article-id><article-id pub-id-type="doi">10.1111/ases.70270</article-id><article-id pub-id-type="publisher-id">ASES70270</article-id><article-id pub-id-type="other">ASES-2025-0367.R1</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Case Report</subject></subj-group><subj-group subj-group-type="heading"><subject>Case Report</subject></subj-group></article-categories><title-group><article-title>Robot‐Assisted Ileocecal Resection Using the Saroa Surgical System</article-title></title-group><contrib-group><contrib id="ases70270-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Maeda</surname><given-names initials="H">Hiromichi</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7694-8082</contrib-id><xref rid="ases70270-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>hmaeda@kochi-u.ac.jp</email></address></contrib><contrib id="ases70270-cr-0002" contrib-type="author"><name name-style="western"><surname>Yamaguchi</surname><given-names initials="S">Sachi</given-names></name><xref rid="ases70270-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ases70270-cr-0003" contrib-type="author"><name name-style="western"><surname>Maeda</surname><given-names initials="M">Masahiro</given-names></name><xref rid="ases70270-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ases70270-cr-0004" contrib-type="author"><name name-style="western"><surname>Marui</surname><given-names initials="A">Akira</given-names></name><xref rid="ases70270-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ases70270-cr-0005" contrib-type="author"><name name-style="western"><surname>Kawanishi</surname><given-names initials="Y">Yasuhiro</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2330-7323</contrib-id><xref rid="ases70270-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ases70270-cr-0006" contrib-type="author"><name name-style="western"><surname>Fujisawa</surname><given-names initials="K">Kazune</given-names></name><xref rid="ases70270-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ases70270-cr-0007" contrib-type="author"><name name-style="western"><surname>Kitagawa</surname><given-names initials="H">Hiroyuki</given-names></name><xref rid="ases70270-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ases70270-cr-0008" contrib-type="author"><name name-style="western"><surname>Namikawa</surname><given-names initials="T">Tsutomu</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8971-404X</contrib-id><xref rid="ases70270-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="ases70270-cr-0009" contrib-type="author"><name name-style="western"><surname>Oki</surname><given-names initials="Y">Yusuke</given-names></name><xref rid="ases70270-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ases70270-cr-0010" contrib-type="author"><name name-style="western"><surname>Miyachi</surname><given-names initials="H">Hideyuki</given-names></name><xref rid="ases70270-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="ases70270-cr-0011" contrib-type="author"><name name-style="western"><surname>Seo</surname><given-names initials="S">Satoru</given-names></name><xref rid="ases70270-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ases70270-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Surgery</named-content>
+<institution>Kochi Medical School, Kochi University</institution>
+<city>Nankoku</city>
+<country country="JP">Japan</country>
+</aff><aff id="ases70270-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Gastroenterology and Hepatology</named-content>
+<institution>Kochi Medical School, Kochi University</institution>
+<city>Nankoku</city>
+<country country="JP">Japan</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Hiromichi Maeda (<email>hmaeda@kochi-u.ac.jp</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>3</month><year>2026</year></pub-date><pub-date pub-type="ppub"><season>Jan-Dec</season><year>2026</year></pub-date><volume>19</volume><issue seq="11">1</issue><issue-id pub-id-type="pmc-issue-id">508872</issue-id><issue-id pub-id-type="doi">10.1111/ases.v19.1</issue-id><elocation-id>e70270</elocation-id><history><date date-type="rev-recd"><day>11</day><month>2</month><year>2026</year></date><date date-type="received"><day>13</day><month>10</month><year>2025</year></date><date date-type="accepted"><day>19</day><month>2</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>05</day><month>03</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>06</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-06 14:25:12.897"><day>06</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Asian Journal of Endoscopic Surgery</italic> published by Asia Endosurgery Task Force and Japan Society of Endoscopic Surgery and John Wiley &amp; Sons Australia, Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ASES-19-e70270.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ASES-19-e70270.pdf"/><abstract><title>ABSTRACT</title><p>Saroa is a novel robotic surgical system that can estimate the gripping forces of robotic forceps and convey this information to the console surgeon via a remote‐control interface. A patient with a polyp located adjacent to the Bauhin valve was diagnosed with adenocarcinoma with submucosal and vascular invasion after endoscopic resection and subsequently underwent additional surgical resection. Port placement was modified twice intraoperatively due to the limited range of motion of the robotic arms. During the first setting, the ileocolic artery and vein were resected, and the ascending colon was mobilized. During the second setting, the hepatic flexure was mobilized. Further studies are needed to determine whether sensory feedback improves surgical safety and shortens the learning curve compared with other robotic platforms.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ases70270-kwd-0001">cancer</kwd><kwd id="ases70270-kwd-0002">colectomy</kwd><kwd id="ases70270-kwd-0003">Saroa</kwd></kwd-group><counts><fig-count count="2"/><table-count count="0"/><page-count count="4"/><word-count count="2300"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January/December 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:05.03.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="ases70270-body-0001"><sec id="ases70270-sec-0001"><label>1</label><title>Introduction</title><p>Robotic surgery may improve short‐term outcomes and oncological efficacy compared with laparoscopic surgery [<xref rid="ases70270-bib-0001" ref-type="bibr">1</xref>]. However, robot‐specific intraoperative complications, including accidental organ injury and mechanical malfunction, have been reported [<xref rid="ases70270-bib-0002" ref-type="bibr">2</xref>], highlighting the need to improve the robot–human interface, instrument robustness, and surgeon training.</p><p>Excessive force from robotic arms can cause tissue injury, a risk exacerbated by the lack of haptic feedback [<xref rid="ases70270-bib-0003" ref-type="bibr">3</xref>], which may partly explain limited improvement in surgical outcomes despite increased accuracy and dexterity [<xref rid="ases70270-bib-0004" ref-type="bibr">4</xref>]. Although robotic arms reduced pancreatic compression time during gastrectomy, a risk factor for leakage, complication rates did not decrease, and excessive instrument force was implicated [<xref rid="ases70270-bib-0005" ref-type="bibr">5</xref>].</p><p>Saroa (RIVERFIELD Inc., Tokyo, Japan) is a novel robotic surgical system available in Japan for gastrointestinal, urological, thoracic (excluding cardiovascular), and gynecological procedures. It provides grip‐force feedback, and brief training improves force‐controlled grasping [<xref rid="ases70270-bib-0006" ref-type="bibr">6</xref>], potentially enabling gentler tissue handling. Furthermore, Saroa has three arms and requires no port docking; however, its fewer arms relative to the da Vinci system necessitate close assistant cooperation. Although Saroa has been clinically applied in urologic and thoracic surgery, its use in gastrointestinal cancer remains limited. Herein, we report a case of ileocecal resection using Saroa.</p></sec><sec id="ases70270-sec-0002"><label>2</label><title>Case Presentation</title><p>A man in his late 70s with a history of appendectomy presented with hematochezia. Colonoscopy identified multiple polyps, which were resected endoscopically. Histopathologic examination revealed submucosal and vascular invasion in a lesion adjacent to the Bauhin valve (0‐Ip, Tub1, submucosal invasion of 4000 μm, v1). The patient and his family were counseled regarding the risk of lymph node metastasis and offered two management options: additional surgical resection or surveillance. The patient elected robot‐assisted surgery. Preoperative contrast‐enhanced computed tomography showed no lymphadenopathy or distant metastases, and tumor marker levels were within normal limits. Ileocecal resection with D2 lymph node dissection was planned. Robotic surgery was performed following the 2024 Japanese Society for Cancer of the Colon and Rectum guidelines [<xref rid="ases70270-bib-0007" ref-type="bibr">7</xref>], relevant academic society guidelines, and institutional regulations. Under the general consent policy, the patient agreed to the anonymous use of clinical data for academic purposes.</p><sec id="ases70270-sec-0003"><label>2.1</label><title>Port Placement Plan and Devices</title><p>Saroa was used for robotic surgery. Optimal forceps manipulation was achieved within a 16 × 9 cm<sup>2</sup> area extending approximately 9 cm anterior to the camera port (Figure <xref rid="ases70270-supitem-0001" ref-type="supplementary-material">S1</xref>). Therefore, the robotic setup was repositioned twice intraoperatively. Five ports were placed at the umbilicus and left upper, left lateral, left lower, and right lower abdomen (Figure <xref rid="ases70270-supitem-0001" ref-type="supplementary-material">S2</xref>). The left lateral abdominal port (initial camera port) was positioned approximately 4.5 cm lateral and slightly caudal to the umbilicus. The left upper, left lateral, and left lower abdominal ports were used to access the cecum and mid‐ascending colon (Figure <xref rid="ases70270-fig-0001" ref-type="fig">1A</xref>), whereas the right lower abdominal, umbilical, and left upper abdominal ports were used to access the hepatic flexure (Figure <xref rid="ases70270-fig-0001" ref-type="fig">1B</xref>). A 3D flexible scope with enabled sensory feedback and a 5:1 motion scale was used. Pneumoperitoneum was maintained using the AirSeal system with a 12‐mm access port (CONMED, Largo, FL) in the right lower abdomen. A Kii balloon blunt‐tip access system (Applied Medical, Rancho Santa Margarita, CA) was used at the umbilical port, and VersaOne 12‐mm trocars (Medtronic plc, Dublin, Ireland) were used at the remaining sites to facilitate smooth robotic arm movement.</p><fig position="float" fig-type="FIGURE" id="ases70270-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Port placement and setting. (A) Three ports in the left abdomen were initially used for the Saroa robot arms to manipulate blood vessels and mobilize the cecum and part of the ascending colon. The green and yellow circles indicate the optimal range for port insertion for each robot arm; ideally, port locations should fall within the green circle. (B) Ports at the left upper abdomen, umbilicus, and right lower abdomen were used for the Saroa robot arms. Red dots: 12 mm ports. L, left arm; R, right arm; S, scope.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ASES-19-e70270-g001.jpg"/></fig></sec><sec id="ases70270-sec-0004"><label>2.2</label><title>First Setting of Saroa Arms</title><p>An assistant was positioned caudally to the patient's right side. The ileocolic artery (ICA) and vein (ICV) were retracted ventrally with fenestrated grasping forceps, and the mesentery was incised. Central serosal incision over the vessels exposed the anterior surface of the superior mesenteric vein and the ICV root (Figure <xref rid="ases70270-fig-0002" ref-type="fig">2A</xref>), which were clipped and divided. After exposure of the duodenum and anterior pancreatic surface, the ICA root was clipped and divided (Figure <xref rid="ases70270-fig-0002" ref-type="fig">2B</xref>).</p><fig position="float" fig-type="FIGURE" id="ases70270-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Resection of the ileocecal artery and vein. (A) Root of the ileocecal vein. The scissors behind the vein were in Saroa's right arm. (B) The root of the ileocecal artery is shown. ICA, ileocolic artery; ICV, ileocolic vein; SMV, superior mesenteric vein.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ASES-19-e70270-g002.jpg"/></fig><p>Subsequently, the assistant applied ventral and outward traction to the peripheral ICA, while a second assistant retracted the central mesentery ventrally. The surgeon grasped the dorsal membrane to mobilize the ascending colon. During the lateral peritoneal incision, the first assistant introduced fenestrated forceps from the right lower abdomen to grasp and retract the adipose tissue of the ascending colon medially. The second assistant retracted the ileocolic folds from the umbilical port, while the left Saroa arm retracted the peritoneum laterally to the ascending colon.</p></sec><sec id="ases70270-sec-0005"><label>2.3</label><title>Second Setting of Saroa Arms</title><p>To mobilize the hepatic flexure, the camera arm was inserted through the umbilical port, the right Saroa arm through the left upper abdominal port, and the left Saroa arm through the right lower abdominal port. To minimize instrument interference, the right arm was occasionally repositioned to the left lateral abdominal port. The assistant primarily retracted the colon toward the own port, while the surgeon's left hand provided lateral countertraction to facilitate incision and dissection. After mobilization, the colon containing the lesion was exteriorized through a mini‐laparotomy, resected, and reconstructed with a functional end‐to‐end anastomosis.</p><p>The total operative time was 351 min, including a console time of 182 min, with an estimated blood loss of 60 mL. The first bowel movement occurred on postoperative Day (POD) 5. However, paralytic ileus developed, as confirmed by physical examination and computed tomography. The ileus resolved with conservative management, oral intake resumed on POD 11, and the patient was discharged on POD 14. Pathologic examination demonstrated no residual tumor or lymph node metastasis among 11 retrieved lymph nodes.</p></sec></sec><sec sec-type="discussion" id="ases70270-sec-0006"><label>3</label><title>Discussion</title><p>The Saroa surgical system provides haptic (grip) feedback, enabling delicate tissue manipulation. A preclinical study evaluated whether sensory feedback improves material stiffness estimation and grip force regulation [<xref rid="ases70270-bib-0006" ref-type="bibr">6</xref>]. Although force feedback did not significantly improve stiffness estimation, brief training to calibrate a 3‐N grip force resulted in superior force control under feedback‐enabled conditions [<xref rid="ases70270-bib-0006" ref-type="bibr">6</xref>]. In the present case, the surgeon's extensive experience with other robotic platforms may explain the lack of apparent benefit of sensory feedback. However, with more cases, Saroa's haptic feedback may reduce the risk of mesenteric injury from excessive grasping force and help shorten the learning curve for less experienced robotic surgeons.</p><p>Because Saroa is limited to three arms, the assistant plays a critical role. In contrast, da Vinci systems utilize a fourth arm (e.g., a Tip‐Up Fenestrated Grasper) for operative field stabilization. Therefore, with Saroa, effective assistant traction and close surgeon‐assistant coordination are essential. In addition to technical skill and anatomical knowledge, surgeons must account for the limited range of motion of assistant forceps and potential collisions with robotic arms. Thus, future improvements may include optimized port placement, addition of a robotic arm, or effective use of an internal organ retractor [<xref rid="ases70270-bib-0008" ref-type="bibr">8</xref>]. Another limitation is the narrow workspace in which the Saroa arms can operate smoothly, necessitating two robotic setups (Figure <xref rid="ases70270-fig-0001" ref-type="fig">1</xref>). Despite this adjustment, hepatic flexure mobilization remained challenging. Laparoscopic observation was required in the final phase to confirm organ integrity, and additional incisions were selectively made where mobilization was insufficient. A hybrid approach combining robotic precision for vascular manipulation with laparoscopic mobilization may shorten operative time.</p><p>Through this surgery, several areas requiring improvement in the Saroa system were identified. Saroa adopts a nondocking mechanism between ports and arms, similar to the Hinotori system (Medicaroid Co., Kobe, Hyogo, Japan) [<xref rid="ases70270-bib-0009" ref-type="bibr">9</xref>], which may cause port‐arm friction and intermittent motion, warranting further refinement. Limited availability of energy devices necessitates precise dissection with an electric scalpel, potentially prolonging surgical time and hemostasis. Furthermore, Saroa lacks traction force and shaft compression feedback, features available in the da Vinci 5 system (Intuitive Surgical, Sunnyvale, CA) [<xref rid="ases70270-bib-0010" ref-type="bibr">10</xref>], representing important targets for future development.</p><p>Saroa is relatively affordable and lightweight, often eliminating the need for operating room reinforcement for load‐bearing capacity. Although exact costs are undetermined, running costs are estimated to be lower than those of other systems. These factors are particularly important in Japan, where sustaining robotic surgery is economically challenging under the current reimbursement structure [<xref rid="ases70270-bib-0011" ref-type="bibr">11</xref>]. Comparative studies evaluating economic burden are warranted, considering operative time, postoperative complications, and the requirement of experienced assistance. Given the potential advantages, we expect that the use of Saloa will be expanded to other colorectal cancer surgeries, beyond sigmoidectomy [<xref rid="ases70270-bib-0012" ref-type="bibr">12</xref>] and ileocecal resection, and benign conditions such as rectal prolapse upon addressing the listed issuers.</p><p>In conclusion, we report a case of ileocolic resection using the Saroa surgical system. Further studies are needed to determine whether sensory feedback improves procedural safety and shortens the learning curve.</p></sec><sec id="ases70270-sec-0009"><title>Ethics Statement</title><p>The patient has consented to the use of the clinical information.</p></sec><sec sec-type="COI-statement" id="ases70270-sec-0008"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="ases70270-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S1:</bold> Working area for the surgery. The Saroa arms achieved the most precise movements when the tips of the arms were within the blue area. L, left arm; R, right arm; S, scope.</p><p>
+<bold>Figure S2:</bold> Port placement. Five ports were placed for this surgery; the Kii balloon blunt‐tip access system (Applied Medical) for umbilicus, and VersaOne 12 mm trocars (Covidien Japan) for other sites.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ASES-19-e70270-s001.pptx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="ases70270-sec-0007"><title>Acknowledgments</title><p>A part of this case report was presented at the 52nd Kochi Prefectural Branch Meeting of the Japan Surgical Association. Supporting Figure <xref rid="ases70270-fig-0001" ref-type="fig">1</xref> was provided by RiverField with permission to modify, and was edited by the authors for Figure <xref rid="ases70270-fig-0001" ref-type="fig">1</xref>. English language proofreading was performed using Editage services.</p></ack><sec sec-type="data-availability" id="ases70270-sec-0011"><title>Data Availability Statement</title><p>Research data are not shared.</p></sec><ref-list content-type="cited-references" id="ases70270-bibl-0001"><title>References</title><ref id="ases70270-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ases70270-cit-0001">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hanaoka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kagawa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Igarashi</surname>
+</string-name>, et al., “<article-title>Short‐ and Long‐Term Outcomes of Open, Laparoscopic, and Robot‐Assisted Surgery for Rectal Cancer</article-title>,” <source>Ann Gastroenterol Surg</source>
+<volume>9</volume> (<year>2025</year>): <fpage>1017</fpage>–<lpage>1028</lpage>.<pub-id pub-id-type="pmid">40922920</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ags3.70024</pub-id><pub-id pub-id-type="pmcid">PMC12414592</pub-id></mixed-citation></ref><ref id="ases70270-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ases70270-cit-0002">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Alemzadeh</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Raman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Leveson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Kalbarczyk</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. K.</given-names>
+<surname>Iyer</surname>
+</string-name>, “<article-title>Adverse Events in Robotic Surgery: A Retrospective Study of 14 Years of FDA Data</article-title>,” <source>PLoS One</source>
+<volume>11</volume> (<year>2016</year>): <elocation-id>e0151470</elocation-id>.<pub-id pub-id-type="pmid">27097160</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0151470</pub-id><pub-id pub-id-type="pmcid">PMC4838256</pub-id></mixed-citation></ref><ref id="ases70270-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ases70270-cit-0003">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Cao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. L.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. M.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y. W.</given-names>
+<surname>Zheng</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Ohkohchi</surname>
+</string-name>, “<article-title>Current Trends in Three‐Dimensional Visualization and Real‐Time Navigation as Well as Robot‐Assisted Technologies in Hepatobiliary Surgery</article-title>,” <source>World Journal of Gastrointestinal Surgery</source>
+<volume>13</volume> (<year>2021</year>): <fpage>904</fpage>–<lpage>922</lpage>.<pub-id pub-id-type="pmid">34621469</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.4240/wjgs.v13.i9.904</pub-id><pub-id pub-id-type="pmcid">PMC8462083</pub-id></mixed-citation></ref><ref id="ases70270-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ases70270-cit-0004">
+<string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Okamura</surname>
+</string-name>, “<article-title>Haptic Feedback in Robot‐Assisted Minimally Invasive Surgery</article-title>,” <source>Current Opinion in Urology</source>
+<volume>19</volume> (<year>2009</year>): <fpage>102</fpage>–<lpage>107</lpage>.<pub-id pub-id-type="pmid">19057225</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MOU.0b013e32831a478c</pub-id><pub-id pub-id-type="pmcid">PMC2701448</pub-id></mixed-citation></ref><ref id="ases70270-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ases70270-cit-0005">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Itamoto</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hikage</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Fujiya</surname>
+</string-name>, et al., “<article-title>The Impact of Pancreas Compression Time During Minimally Invasive Gastrectomy on the Postoperative Complications in Gastric Cancer</article-title>,” <source>Annals of Gastroenterological Surgery</source>
+<volume>5</volume> (<year>2021</year>): <fpage>785</fpage>–<lpage>793</lpage>.<pub-id pub-id-type="pmid">34755010</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ags3.12488</pub-id><pub-id pub-id-type="pmcid">PMC8560619</pub-id></mixed-citation></ref><ref id="ases70270-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ases70270-cit-0006">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Sakai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Tokunaga</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yamasaki</surname>
+</string-name>, et al., “<article-title>Evaluating the Benefit of Contact‐Force Feedback in Robotic Surgery Using the Saroa Surgical System: A Preclinical Study</article-title>,” <source>Asian Journal of Endoscopic Surgery</source>
+<volume>17</volume> (<year>2024</year>): <elocation-id>e13395</elocation-id>.<pub-id pub-id-type="pmid">39396817</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/ases.13395</pub-id></mixed-citation></ref><ref id="ases70270-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ases70270-cit-0007">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Kinugasa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Uehara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Yamaguchi</surname>
+</string-name>, et al., “<article-title>Japanese Society for Cancer of the Colon and Rectum (JSCCR) Guidelines 2024 for the Treatment of Colorectal Cancer</article-title>,” <source>International Journal of Clinical Oncology</source>
+<volume>30</volume> (<year>2025</year>): <fpage>2410</fpage>–<lpage>2463</lpage>.<pub-id pub-id-type="pmid">41186794</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10147-025-02899-8</pub-id><pub-id pub-id-type="pmcid">PMC12644182</pub-id></mixed-citation></ref><ref id="ases70270-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ases70270-cit-0008">
+<string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Tominaga</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Nonaka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Wakata</surname>
+</string-name>, et al., “<article-title>Single‐Incision Laparoscopic Ileocecal Resection Using an Organ Retractor</article-title>,” <source>International Journal of Surgery Case Reports</source>
+<volume>33</volume> (<year>2017</year>): <fpage>84</fpage>–<lpage>88</lpage>.<pub-id pub-id-type="pmid">28285210</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijscr.2017.02.046</pub-id><pub-id pub-id-type="pmcid">PMC5350497</pub-id></mixed-citation></ref><ref id="ases70270-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ases70270-cit-0009">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Hinata</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Yamaguchi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Kusuhara</surname>
+</string-name>, et al., “<article-title>Hinotori Surgical Robot System, a Novel Robot‐Assisted Surgical Platform: Preclinical and Clinical Evaluation</article-title>,” <source>International Journal of Urology</source>
+<volume>29</volume> (<year>2022</year>): <fpage>1213</fpage>–<lpage>1220</lpage>.<pub-id pub-id-type="pmid">35851692</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/iju.14973</pub-id></mixed-citation></ref><ref id="ases70270-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ases70270-cit-0010">
+<string-name name-style="western">
+<given-names>S. K.</given-names>
+<surname>Reddy</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Covas Moschovas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Saikali</surname>
+</string-name>, et al., “<article-title>Perioperative Outcomes Comparing the DaVinci 5 With DaVinci Xi in Patients Undergoing Robotic‐Assisted Radical Prostatectomy</article-title>,” <source>Prostate Cancer and Prostatic Diseases</source> (<year>2025</year>), <pub-id pub-id-type="doi">10.1038/s41391-025-01025-z</pub-id>.<pub-id pub-id-type="pmid">40987853</pub-id></mixed-citation></ref><ref id="ases70270-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ases70270-cit-0011">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Sakai</surname>
+</string-name> and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Morishita</surname>
+</string-name>, “<article-title>The Financial Impact of Robotic Surgery on Hospital Gross Profits in Japan Compared to Laparoscopic Surgery</article-title>,” <source>Asian Journal of Endoscopic Surgery</source>
+<volume>18</volume> (<year>2025</year>): <elocation-id>e13410</elocation-id>.<pub-id pub-id-type="pmid">39582262</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/ases.13410</pub-id></mixed-citation></ref><ref id="ases70270-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ases70270-cit-0012">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hanaoka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Kinugasa</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Sakai</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Tokunaga</surname>
+</string-name>, “<article-title>World's First Report of Sigmoidectomy for Sigmoid Cancer Using the Saroa Surgical System With Tactile Feedback</article-title>,” <source>Updates in Surgery</source>
+<volume>75</volume> (<year>2023</year>): <fpage>2395</fpage>–<lpage>2401</lpage>.<pub-id pub-id-type="pmid">37840105</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s13304-023-01659-5</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

@@ -1,0 +1,515 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="cam471651" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="pmc-domain-id">1974</journal-id><journal-id journal-id-type="pmc-domain">canmed</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12960283</article-id><article-id pub-id-type="pmcid-ver">PMC12960283.1</article-id><article-id pub-id-type="pmcaid">12960283</article-id><article-id pub-id-type="pmcaiid">12960283</article-id><article-id pub-id-type="pmid">41782019</article-id><article-id pub-id-type="doi">10.1002/cam4.71651</article-id><article-id pub-id-type="publisher-id">CAM471651</article-id><article-id pub-id-type="other">CAM4-2025-08-4713</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Imeglimin Exerts Anti‐Tumor Activity in Multiple Myeloma Through Affecting Energy Metabolism and Downregulating <styled-content style="fixed-case" toggle="no">IL</styled-content>‐16 Expression</article-title></title-group><contrib-group><contrib id="cam471651-cr-0001" contrib-type="author"><name name-style="western"><surname>Jiang</surname><given-names initials="J">Jifeng</given-names></name><xref rid="cam471651-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="cam471651-cr-0002" contrib-type="author"><name name-style="western"><surname>Ren</surname><given-names initials="L">Liang</given-names></name><xref rid="cam471651-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cam471651-cr-0003" contrib-type="author"><name name-style="western"><surname>Sun</surname><given-names initials="Y">Yifeng</given-names></name><xref rid="cam471651-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="cam471651-cr-0004" contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="J">Jing</given-names></name><xref rid="cam471651-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cam471651-cr-0005" contrib-type="author"><name name-style="western"><surname>Xu</surname><given-names initials="J">Jiadai</given-names></name><xref rid="cam471651-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="cam471651-cr-0006" contrib-type="author"><name name-style="western"><surname>Maihemaiti</surname><given-names initials="A">Aziguli</given-names></name><xref rid="cam471651-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="cam471651-cr-0007" contrib-type="author" corresp="yes"><name name-style="western"><surname>Liu</surname><given-names initials="P">Peng</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9639-6606</contrib-id><xref rid="cam471651-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>liu.peng@zs-hospital.sh.cn</email></address></contrib></contrib-group><aff id="cam471651-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>Huadong Hospital, Fudan University</institution>
+<city>Shanghai</city>
+<country country="CN">China</country>
+</aff><aff id="cam471651-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>Zhongshan Hospital, Fudan University</institution>
+<city>Shanghai</city>
+<country country="CN">China</country>
+</aff><aff id="cam471651-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Hematology</named-content>
+<institution>Shanghai Ninth People's Hospital, Shanghai JiaoTong University School of Medicine</institution>
+<city>Shanghai</city>
+<country country="CN">China</country>
+</aff><aff id="cam471651-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Lymphoma</named-content>
+<institution>The Affiliated Cancer Hospital of Xinjiang Medical University</institution>
+<city>Urumqi</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Peng Liu (<email>liu.peng@zs-hospital.sh.cn</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>3</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2026</year></pub-date><volume>15</volume><issue seq="1130">3</issue><issue-id pub-id-type="pmc-issue-id">508007</issue-id><issue-id pub-id-type="doi">10.1002/cam4.v15.3</issue-id><elocation-id>e71651</elocation-id><history><date date-type="rev-recd"><day>01</day><month>12</month><year>2025</year></date><date date-type="received"><day>12</day><month>9</month><year>2025</year></date><date date-type="accepted"><day>09</day><month>2</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>04</day><month>03</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>06</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-06 00:25:15.280"><day>06</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Cancer Medicine</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CAM4-15-e71651.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CAM4-15-e71651.pdf"/><abstract><title>ABSTRACT</title><sec id="cam471651-sec-1001"><title>Background</title><p>Imeglimin (IME) is a novel oral anti‐diabetic agent with a similar chemical structure to metformin, which has shown broad‐spectrum anti‐tumor activity. However, the activity of imeglimin on tumor cells remains unclear. This study investigated the effects of IME on multiple myeloma (MM) cells and explored the underlying mechanisms.</p></sec><sec id="cam471651-sec-2001"><title>Methods</title><p>The effects of IME on MM cell proliferation were evaluated in vitro using MM cell lines and in MM cell‐derived xenograft (CDX) models. Seahorse metabolic analyses and RNA‐Seq were performed in IME‐treated and control MM cell lines. Single‐cell transcriptomic data were further analyzed to assess the role of IL‐16 in the bone marrow microenvironment.</p></sec><sec id="cam471651-sec-3001"><title>Results</title><p>IME inhibited MM cell proliferation and tumor growth in MM cell‐derived xenograft (CDX) models by inducing G1/G0 cell cycle arrest. IME suppressed oxidative phosphorylation and promoted glycolysis. IL‐16 mRNA expression was downregulated, and multiple cytokine–cytokine receptor interaction pathways were altered following IME treatment. The anti‐MM effect of IME was partly mediated by increased lactate production and decreased IL‐16 expression. Single‐cell transcriptomic data further demonstrated that IL‐16 plays an important role in the bone marrow microenvironment of MM.</p></sec><sec id="cam471651-sec-4001"><title>Conclusions</title><p>These findings suggest that IME may represent a novel approach for targeting IL‐16 and energy metabolism in the treatment of MM.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cam471651-kwd-0001">energy metabolism</kwd><kwd id="cam471651-kwd-0002">IL‐16</kwd><kwd id="cam471651-kwd-0003">imeglimin</kwd><kwd id="cam471651-kwd-0004">multiple myeloma</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Natural Science Foundation of Shanghai</institution></institution-wrap>
+</funding-source><award-id>22ZR1411400</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>National Natural Science Foundation of China</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap>
+</funding-source><award-id>82100216</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>Shanghai Science and Technology Commission Yangfan Program Project</institution></institution-wrap>
+</funding-source><award-id>21YF1406200</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="13"/><word-count count="5800"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:04.03.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="cam471651-body-0001"><sec id="cam471651-sec-0001"><label>1</label><title>Introduction</title><p>Multiple myeloma (MM) is the second most common hematologic malignancy characterized by the clonal proliferation of plasma cells in the bone marrow. The introduction of proteasome inhibitors, immunomodulatory agents, and monoclonal antibodies has substantially improved patient outcomes; however, MM remains incurable. Due to the tumor heterogeneity of MM, some patients may be refractory to initial therapies or experience disease progression and relapse [<xref rid="cam471651-bib-0001" ref-type="bibr">1</xref>]. Consequently, there is a continued and urgent need for new therapeutic strategies, particularly for patients with relapsed or refractory MM.</p><p>Imeglimin (IME) is an oral hypoglycemic agent approved for the treatment of type 2 diabetes (T2DM) and is structurally related to metformin (MET), although its mechanisms of action differ substantially from those of MET [<xref rid="cam471651-bib-0002" ref-type="bibr">2</xref>]. MET has been extensively reported to exert broad‐spectrum anti‐tumor activity across multiple malignancies; however, whether IME possesses similar anti‐cancer properties remains largely unexplored. In metabolic studies using T2DM models, IME has been shown to modulate mitochondrial function, such as enhancing ATP generation and increasing NAD<sup>+</sup> levels [<xref rid="cam471651-bib-0003" ref-type="bibr">3</xref>]. It has also been investigated that IME can regulate expression of cytokine [<xref rid="cam471651-bib-0004" ref-type="bibr">4</xref>]. These findings suggest that IME may affect cellular bioenergetics and inflammatory signaling, raising the possibility that it could exert previously unrecognized effects on tumor biology.</p><p>A variety of cytokines play critical roles in the pathogenesis and progression of MM, including IL‐6 and VEGF [<xref rid="cam471651-bib-0005" ref-type="bibr">5</xref>]. It has been previously demonstrated that IL‐16 is overexpressed in MM patients and is associated with poor prognosis. Knockdown of IL‐16 by small interfering RNA or blockade with anti‐IL‐16 antibody inhibits cell proliferation in MM cell lines [<xref rid="cam471651-bib-0006" ref-type="bibr">6</xref>]. Moreover, recent single‐cell RNA sequencing analyses also found that the activation of IL‐16 signaling pathways in MM rapid progressors [<xref rid="cam471651-bib-0007" ref-type="bibr">7</xref>], further highlighting its biological and clinical relevance. This study aimed to evaluate the anti‐myeloma effects of imeglimin, elucidate its impact on energy metabolism and IL‐16 expression and evaluate its potential role in MM therapy.</p></sec><sec sec-type="materials-and-methods" id="cam471651-sec-0002"><label>2</label><title>Material and Methods</title><sec id="cam471651-sec-0003"><label>2.1</label><title>Cell Culture, Reagents and Antibodies</title><p>Human myeloma cell lines (RPMI8226, H929 and MM.1S) were obtained from American Type Culture Collection (ATCC, VA, USA). All cell lines used in this study were authenticated by short tandem repeat (STR) profiling analysis and confirmed to be free of mycoplasma contamination. Cells were cultivated in RPMI1640 medium (Hyclone, UT, USA), supplemented with 10% fetal bovine serum (Gibco, NY, USA) at 37°C humidified atmosphere containing 5% CO<sub>2</sub>. IME (Imeglimin hydrochloride, HY‐14771A/CS‐2121; MedChemExpress, NJ, USA) was dissolved in phosphate‐buffered saline (PBS, Hyclone) as a stock solution of 100 mM and stored at −80°C. Recombinant human interleukin‐16 was from R&amp;D Systems (MN, USA), which was processed into a stock solution of 50 μg/mL by sterile water. L(+)‐lactic acid was purchased from J&amp;K Scientific (Beijing, China). The antibodies for Ki‐67, Cyclin D3 antibody (CCND3), CDK4, p27, and p21 were purchased from Cell Signaling Technology (CST, MA, USA).</p></sec><sec id="cam471651-sec-0004"><label>2.2</label><title>Cell Viability and Proliferation Assays</title><p>Cells viability was assessed with Cell Counting Kit‐8 (CCK‐8, Biosharp, Guangzhou, China). Briefly, myeloma cells were seeded in 96‐well plates (10<sup>4</sup>/well) and incubated without or with IME at indicated contractions at incubators for 48 h, then 10 μL CCK‐8 reagent was added and the cells viability was measured based on the manufacturer's instruction after 2 h.</p></sec><sec id="cam471651-sec-0005"><label>2.3</label><title>
+<styled-content style="fixed-case" toggle="no">EdU</styled-content> Staining and Immunofluorescence</title><p>RPMI 8226 and MM.1S cell lines were treated with IME for 24 h. Samples were cultured with 10 μM 5‐ethynyl‐2′‐deoxyuridine (Thermo Fisher Scientific, NY, USA) for 2 h, fixed in 4% paraformaldehyde for 15 min, and then washed in PBS (Hyclone). The cells were subsequently permeabilized with 0.5% Triton X‐100 (Beyotime, Haimen, China) for 15 min. Finally, the cells were incubated with 200 μL of staining solution following the manufacturer's instructions. The nucleus was stained with DAPI (Beyotime). The results were visualized using a Nikon Eclipse CiL immunofluorescence microscope (Nikon, Tokyo, Japan) at 100× magnification.</p></sec><sec id="cam471651-sec-0006"><label>2.4</label><title>Cell Line‐Derived Xenograft (<styled-content style="fixed-case" toggle="no">CDX</styled-content>) Model</title><p>B‐NDG (NOD.CB17‐PrkdcscidIl2rgtm1/Bcgen) mice were purchased from Biocytogen (Beijing, China). The animal experiment has been granted ethical approval from the Ethics Committee of Fudan University‐affiliated Zhongshan Hospital. Five to eight weeks old female mice were used for tumor transplantation. 0.5 × 10<sup>6</sup> cells/100 μL RPMI 8226 cells were implanted subcutaneously. Using the formula volume (mm<sup>3</sup>) = (length) × (width)<sup>2</sup>/2, the tumor volume was calculated every 3 days. When the tumor volume reached approximately 100 mm<sup>3</sup>, mice were randomly assigned to control and treatment groups based on similar average tumor volumes to ensure balanced distribution. Mice in the treatment group were gavaged with 200 mg/kg/day IME. Once the mouse with the smallest tumor burden first reached a tumor length of 1.5 cm, all mice in both groups were euthanized.</p></sec><sec id="cam471651-sec-0007"><label>2.5</label><title>Immunohistochemistry</title><p>The mice tumor tissues were fixed with 4% paraformaldehyde and embedded in paraffin. 2 μm‐thick paraffin‐embedded sections were stained with hematoxylin and eosin (HE) and immunohistochemical staining. The sections were incubated with ki‐67 antibody (CST) overnight at 4°C. After three washings with PBS, the sections were incubated for 50 min at room temperature with horseradish peroxidase‐coupled secondary antibody. Dako REAL EnVision Detection System, Peroxidase/DAB+, Rabbit/Mouse (DAKO, Glostrup, Denmark) was used for detecting the sections. Images of the immunohistochemical sections were observed using a COIC XSP‐204 microscope (COIC, Chongqing, China) at 10× magnification.</p></sec><sec id="cam471651-sec-0008"><label>2.6</label><title>Cell Cycle Assay</title><p>RPMI 8226 and MM.1S cells were selected for the cell‐cycle‐arrest experiments because they exhibited higher sensitivity and more consistent responses to IME in the CCK‐8 assays, making them suitable models for assessing IME‐induced cell‐cycle regulation. MM cells were starved for 24 h then incubated without or with IME at indicated concentrations for 48 h in 6‐wells plate. MM cells were harvested and fixed with pre‐cooled 75% ethanol at 4°C. The cell cycle was determined using the Cell Cycle Kit (BD Biosciences, CA, USA) following the manufacturer's instructions. Subsequently, the samples were then analyzed by flow cytometry.</p></sec><sec id="cam471651-sec-0009"><label>2.7</label><title>Western Blot Analysis</title><p>MM cells were lysed in RIPA and quantified by a bicinchoninic acid assay (Beyotime). Protein extracts were separated on 10% sodium dodecyl sulfate‐polyacrylamide gel electrophoresis (SDS‐PAGE), then transferred to a polyvinylidene difluoride (PVDF, Millipor‐esigma, MA, USA) membrane, after blocking with 5% non‐fat milk, incubating with the appropriate primary antibody followed by HRP‐conjugated secondary antibodies incubation. Last, protein signals were then detected with an ECF Western blotting kit.</p></sec><sec id="cam471651-sec-0010"><label>2.8</label><title>Measurement of Oxygen Consumption Rate (<styled-content style="fixed-case" toggle="no">OCR</styled-content>) and Extracellular Acidification Rate (<styled-content style="fixed-case" toggle="no">ECAR</styled-content>)</title><p>The extracellular acidification rate (ECAR) and cellular oxygen consumption rate (OCR) were measured using a Seahorse XF96 Extracellular Flux Bioanalyzer (Seahorse Bioscience, MA, USA). RPMI‐8226 and MM.1S cell lines were treated with IME (1 mM) for 24 h. Cells were collected and 7.5–15 × 10<sup>4</sup> cells/well seeded in XFp Cell Culture miniplates. Cell Mito Stress Test kit (Agilent, CA, USA) was used to measure the OCR. Oligomycin (1 μM) was injected following basal OCR measurements followed by injection of FCCP (1 μM), and finally by injection of a mixture of rotenone (1 μM) and antimycin A (1 μM). For ECAR, using the Seahorse XF Glycolysis Stress Test Kit, sequentially injected glucose (10 mM), Oligomycin A (1 μM), and 2‐deoxyglucose (2‐DG; inhibitor of glycolysis; final concentration, 50 mM) into each well.</p></sec><sec id="cam471651-sec-0011"><label>2.9</label><title>
+<styled-content style="fixed-case" toggle="no">RNA</styled-content>‐Sequence</title><p>Myeloma cells (RPMI 8226) treated with or without IME (5 mM) were harvested for RNA‐seq. The whole process of RNA‐seq was performed by Shanghai OE Biotech. Genes picked by cutoff with |log<sub>2</sub>(FoldChange)| &gt; 1.5 and <italic toggle="yes">q</italic> &lt; 0.01 were assigned as differentially significantly expressed.</p></sec><sec id="cam471651-sec-0012"><label>2.10</label><title>Measurement of Lactic Acid in Cell Culture Supernatants and Serum of Mice</title><p>Lactic acid level in cell culture supernatants was determined by Lactic Acid assay kit (Nanjing Jiancheng Bioengineering Institute, Nanjing, China) according to the manufacturer's protocol. Lactic acid in serum of mice was measured by Hitachi 3500 automatic analyzer (Hitachi, Tokyo, Japan).</p></sec><sec id="cam471651-sec-0013"><label>2.11</label><title>Quantitative Real‐Time <styled-content style="fixed-case" toggle="no">PCR</styled-content> Analysis</title><p>Total RNA was extracted from treated myeloma cells using the RNA Purification Kit (EZBioscience, MN, USA) according to the manufacturer's protocol. Total RNA (500 ng) was reverse transcribed using the Reverse Transcription kit (Takara Biomedical Technology, Beijing, China). Each cDNA sample was amplified by SYBR qPCR MasterMix (Takara Biomedical Technology). Primers for β‐actin and IL‐16 quantification were obtained from Generay (Shanghai, China). β‐actin: Forward: AAGGAGCCCCACGAGAAAAAT, Reverse: ACCGAACTTGCATTGATTCCAG; IL‐16: Forward: TTGGACACAGGGTTCTCGCTCA, Reverse: AGCAGGGAGATAACGGACTGAC.</p></sec><sec id="cam471651-sec-0014"><label>2.12</label><title>Single Cell <styled-content style="fixed-case" toggle="no">RNA</styled-content>‐Sequence Analysis</title><p>Four healthy subjects from GEO database referred to as control sample (accession number <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:entrez-geo" xlink:href="GSE223060">GSE223060</ext-link>), five newly diagnosed MM samples were from CNGB Sequence Archive (CNSA) of China National GeneBank DataBase (CNGBdb, accession number CNP0002345). Single‐cell RNA sequencing was performed using bone marrow mononuclear cells collected from MM patients. The experimental workflow followed the procedures described by Li et al. [<xref rid="cam471651-bib-0008" ref-type="bibr">8</xref>]. Briefly, freshly isolated bone marrow aspirates were processed to obtain mononuclear cells, which were loaded onto the 10× Genomics Chromium platform for droplet‐based single‐cell encapsulation and barcoding. cDNA library preparation and sequencing were performed according to the manufacturer's protocol. Downstream bioinformatic analyses methodology can be found in our previously published paper by Ren et al. [<xref rid="cam471651-bib-0009" ref-type="bibr">9</xref>]. This study was performed in line with the principles of the Declaration of Helsinki and approved by the Clinical Research Ethics Committee of Fudan University‐affiliated Zhongshan Hospital. Informed consent was obtained from all patients for being included in the study.</p></sec><sec id="cam471651-sec-0015"><label>2.13</label><title>Statistical Analysis</title><p>Each vitro experiment was performed in triplicate, and the results expressed as the mean ± standard deviation (SD). A two‐sided <italic toggle="yes">p</italic> values &lt; 0.05 were considered statistically significant. The version 8.0.2 GraphPad prism software (San Diego, CA, USA) and The R software version 4.0.5 were used for statistical analyses.</p></sec></sec><sec sec-type="results" id="cam471651-sec-0016"><label>3</label><title>Results</title><sec id="cam471651-sec-0017"><label>3.1</label><title>
+<styled-content style="fixed-case" toggle="no">IME</styled-content> Exerts Anti‐<styled-content style="fixed-case" toggle="no">MM</styled-content> Activity In Vitro and In Vivo</title><p>RPMI 8226, MM.1S and NCI‐H929 multiple myeloma cells were treated with increasing concentrations of IME for 48 h. CCK‐8 assays demonstrated a dose‐dependent reduction in cell viability, with statistically significant differences compared with the control group (<italic toggle="yes">p</italic> &lt; 0.005, Figure <xref rid="cam471651-fig-0001" ref-type="fig">1A</xref>). EdU fluorescence staining further confirmed the inhibitory effect of IME on cell proliferation (Figure <xref rid="cam471651-fig-0001" ref-type="fig">1B</xref>). The in vivo efficacy of IME was further evaluated in CDX model (<italic toggle="yes">n</italic> = 5). IME‐treated tumors displayed a significantly slower growth trend compared with controls over the entire monitoring period (<italic toggle="yes">p</italic> &lt; 0.001, Figure <xref rid="cam471651-fig-0001" ref-type="fig">1C</xref>), whereas final tumor volumes and weights at the experimental endpoint were also significantly reduced (<italic toggle="yes">p</italic> &lt; 0.005, Figure <xref rid="cam471651-fig-0001" ref-type="fig">1D,E</xref>). IHC staining showed that the expression of Ki‐67 in tumor tissues of IME group was decreased (Figure <xref rid="cam471651-fig-0001" ref-type="fig">1F</xref>).</p><fig position="float" fig-type="FIGURE" id="cam471651-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>IME inhibits multiple myeloma cell proliferation and tumor growth in vivo. (A) RPMI 8226, MM.1S, and NCI‐H929 cells were treated with 0.5, 1, 2, or 5 mM IME for 48 h, and cell viability was assessed by the CCK‐8 assay (<italic toggle="yes">n</italic> = 3). (B) RPMI 8226 and MM.1S cells were subjected to EdU staining after treatment with 2 or 5 mM IME for 48 h (scale bar: 50 μm). (C) Tumor volume in the CDX model was measured over time after IME treatment (<italic toggle="yes">n</italic> = 5). (D, E) Tumor weight and tumor volume at the experimental endpoint. (F) Immunohistochemical staining of Ki‐67 expression in mice tumor tissues (scale bar: 50 μm). Data are presented as mean ± SD, with ***<italic toggle="yes">p</italic> &lt; 0.005, ****<italic toggle="yes">p</italic> &lt; 0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CAM4-15-e71651-g006.jpg"/></fig></sec><sec id="cam471651-sec-0018"><label>3.2</label><title>
+<styled-content style="fixed-case" toggle="no">IME</styled-content> Induces <styled-content style="fixed-case" toggle="no">G1</styled-content>/<styled-content style="fixed-case" toggle="no">G0</styled-content> Cell Cycle Arrest and Regulates the Expression of Cell Cycle‐Related Proteins in <styled-content style="fixed-case" toggle="no">MM</styled-content> Cells</title><p>Using flow cytometry, we examined the proportion of each cell cycle phase in RPMI 8226 and MM.1S cell line treated with different concentrations of IME. The proportion of MM cell lines in G1/G0 phase increased (<italic toggle="yes">n</italic> = 3, <italic toggle="yes">p</italic> &lt; 0.005) and S phase decreased with the increase of IME concentration. These results were consistent with the CCK‐8 assays, as MM.1S was more sensitive to IME than RPMI 8226 cell line (Figure <xref rid="cam471651-fig-0002" ref-type="fig">2A,B</xref>). To further confirm that the effects of IME on cell cycle, we performed Western blot to detect cell cycle protein expression levels. The results demonstrated a dose‐dependent effect of IME on cell‐cycle regulators, with CCND1 and CDK4 decreased and p21 increased, and significant differences observed at 5 mM compared with controls (<italic toggle="yes">p</italic> &lt; 0.01) (Figure <xref rid="cam471651-fig-0002" ref-type="fig">2C,D</xref>). These findings suggest that IME may be associated with G1 arrest in MM cells through modulation of CCND1, CDK4, and p21.</p><fig position="float" fig-type="FIGURE" id="cam471651-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>IME induces G1/G0 cell cycle arrest and regulates the expression of cell cycle‐related proteins in MM cells. (A) Following the treatment with 1, 2 or 5 mM IME for 48 h, cell cycle phases was then detected by PI staining using flow cytometry. Quantitative cell‐cycle data were obtained from three independent biological experiments, and the plots shown represent typical reproducible results. (B) Quantitation of cells at different cell cycle phases (<italic toggle="yes">n</italic> = 3). (C) Western blot analysis of cell cycle regulatory proteins in RPMI‐8226 after treatment with IME. (D) Quantification of Western blot. Data are presented as mean ± SD, with *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.005.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CAM4-15-e71651-g005.jpg"/></fig></sec><sec id="cam471651-sec-0019"><label>3.3</label><title>
+<styled-content style="fixed-case" toggle="no">IME</styled-content> Inhibites Oxidative Phosphorylation (<styled-content style="fixed-case" toggle="no">OXPHOS</styled-content>) and Promotes Glycolysis in <styled-content style="fixed-case" toggle="no">MM</styled-content> Cells</title><p>We hypothesized that the inhibitory effects of IME on MM cell proliferation and cell‐cycle progression may be associated with altered energy metabolism. Using the Seahorse XF analyzer, we evaluated mitochondrial respiration and glycolytic activity in MM cells. IME treatment significantly reduced basal OCR, ATP‐linked OCR and maximal OCR in both RPMI 8226 and MM.1S cells (<italic toggle="yes">p</italic> &lt; 0.005, Figure <xref rid="cam471651-fig-0003" ref-type="fig">3A–D</xref>). In addition, IME treatment significantly enhanced glycolytic activity, as reflected by increased ECAR (<italic toggle="yes">p</italic> &lt; 0.001, Figure <xref rid="cam471651-fig-0003" ref-type="fig">3E,F</xref>). These findings indicate that IME suppresses OXPHOS while promoting glycolysis.</p><fig position="float" fig-type="FIGURE" id="cam471651-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>IME inhibits oxidative phosphorylation (OXPHOS) and promotes glycolysis in MM cells. (A–D) Oxygen consumption rate (OCR) measurements in MM cells treated with 1 mM IME for 24 h, showing changes in basal respiration, ATP‐linked OCR, and maximal respiration (<italic toggle="yes">n</italic> = 3). (E, F) Extracellular acidification rate (ECAR) measurements following IME treatment (<italic toggle="yes">n</italic> = 3). Data are presented as mean ± SD, with ***<italic toggle="yes">p</italic> &lt; 0.005, ****<italic toggle="yes">p</italic> &lt; 0.001.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="CAM4-15-e71651-g001.jpg"/></fig></sec><sec id="cam471651-sec-0020"><label>3.4</label><title>
+<styled-content style="fixed-case" toggle="no">IME</styled-content> Regulates <styled-content style="fixed-case" toggle="no">IL</styled-content>‐16 Expression and Cytokine‐Cytokine Receptor Pathway</title><p>To further elucidate the mechanism by which IME inhibited the proliferation of MM cell lines, we performed RNA‐Seq on IME‐treated cells and control cells. The results suggested that a variety of genes were differentially expressed in IME‐treated MM cell lines (<italic toggle="yes">n</italic> = 3, Figure <xref rid="cam471651-fig-0004" ref-type="fig">4A</xref>). Sorting of differential expression genes as described in the method section, the top 3 upregulated genes by <italic toggle="yes">p</italic>‐value included ESRP1, NUPR1 and DDIT3. The top 3 downregulated genes included UCP2, TLN2 and IL‐16. We conducted enrichment analysis including GO, KEGG and GSEA three approaches, and revealed that these genes were involved in pathways including cytokine‐ pathway (Figure <xref rid="cam471651-fig-0004" ref-type="fig">4B–D</xref>). The most significantly enriched pathways were cytokine−cytokine receptor interaction in both KEGG and GSEA analyses and the third most significant pathway, cellular response to cytokine stimulus, in GO analyses. Taken together the above results, we consider that the downregulation of IL‐16 could partly explain the mechanism responsible for the anti‐MM effect of IME.</p><fig position="float" fig-type="FIGURE" id="cam471651-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>IME regulates IL‐16 expression and cytokine‐cytokine receptor pathway. (A) Volcano plot showing the distribution of differentially expressed genes (DEGs) following IME treatment. (B) KEGG analysis of DEGs. (C) GSEA analysis of DEGs. (D) GO analysis of DEGs.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="CAM4-15-e71651-g003.jpg"/></fig></sec><sec id="cam471651-sec-0021"><label>3.5</label><title>High Concentrations of Extracellular Lactate Inhibites <styled-content style="fixed-case" toggle="no">IL</styled-content>‐16 Expression and Recombinant <styled-content style="fixed-case" toggle="no">IL</styled-content>‐16 Could Reverse the Anti‐Proliferative Effect of <styled-content style="fixed-case" toggle="no">IME</styled-content>
+</title><p>It has been reported that lactate can inhibit the expression of inflammatory cytokines [<xref rid="cam471651-bib-0010" ref-type="bibr">10</xref>]. We observed that lactate levels were significantly increased in the cell culture supernatants in cell line (<italic toggle="yes">n</italic> = 3, <italic toggle="yes">p</italic> &lt; 0.05) and mouse serum (<italic toggle="yes">n</italic> = 5, <italic toggle="yes">p</italic> &lt; 0.01) after IME treatment (Figure <xref rid="cam471651-fig-0005" ref-type="fig">5A–C</xref>). Based on these findings, we hypothesized that elevated lactate levels might contribute to the downregulation of IL‐16. Consistent with this hypothesis, culturing MM cells in media supplemented with exogenous lactate resulted in a reduction in IL‐16 mRNA expression (Figure <xref rid="cam471651-fig-0005" ref-type="fig">5D,E</xref>). To further determine whether reduced IL‐16 expression mediates the anti‐MM activity of IME, we conducted rescue experiments using recombinant IL‐16. RPMI‐8226 and MM.1S cells were pretreated with recombinant IL‐16 before exposure to IME. CCK‐8 assays demonstrated that recombinant IL‐16 partially restored cell viability in a dose‐dependent manner. Treatment with 0.5 μg/mL recombinant IL‐16 produced a modest but statistically significant increase in viability (<italic toggle="yes">p</italic> &lt; 0.05), whereas the 1 μg/mL dose provided a more substantial rescue effect (<italic toggle="yes">p</italic> &lt; 0.005, Figure <xref rid="cam471651-fig-0005" ref-type="fig">5F,G</xref>). Collectively, these findings indicate that the anti‐proliferative effects of IME are at least partially mediated through increased lactate production and the subsequent suppression of IL‐16 expression.</p><fig position="float" fig-type="FIGURE" id="cam471651-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>High concentrations of extracellular lactic acid inhibit IL‐16 expression and recombinant IL‐16 could reverse the anti‐proliferative effect of IME. (A, B) Lactate levels in cell culture supernatants of RPMI‐8226 and MM.1S cells. (C) Lactate levels in mouse serum after IME treatment. (D, E) IL‐16 mRNA expression in RPMI‐8226 and MM.1S cells treated with different concentrations of lactic acid. (F, G) Recombinant IL‐16 (0.5 or 1 μg/mL) was added to the culture medium before RPMI‐8226 and MM.1S cells were treated with 2 or 5 mM IME for 48 h. Cell viability was assessed by CCK‐8 assay. Data are presented as mean ± SD, with *<italic toggle="yes">p</italic> &lt; 0.05, **<italic toggle="yes">p</italic> &lt; 0.01, ***<italic toggle="yes">p</italic> &lt; 0.005, <sup>##</sup>
+<italic toggle="yes">p</italic> &lt; 0.01, <sup>###</sup>
+<italic toggle="yes">p</italic> &lt; 0.005.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="CAM4-15-e71651-g004.jpg"/></fig></sec><sec id="cam471651-sec-0022"><label>3.6</label><title>
+<styled-content style="fixed-case" toggle="no">IL</styled-content>‐16 Plays an Important Role Within the Bone Marrow (<styled-content style="fixed-case" toggle="no">BM</styled-content>) Microenvironment of <styled-content style="fixed-case" toggle="no">MM</styled-content>.</title><p>To explore the function of IL‐16 in the pathogenesis of MM, we analyzed single‐cell data from GEO database and CNGBdb database. 9 BM samples (5 MM patients and 4 healthy donors) were subject to single cell RNA‐sequence. After quality control, 45,843 cells were grouped into 10 cell types based on known gene markers (Figure <xref rid="cam471651-fig-0006" ref-type="fig">6A</xref>). These cell types were distributed at varying proportions across these samples, unveiling inter‐tumoral heterogeneity in cellular compositions within MM (Figure <xref rid="cam471651-fig-0006" ref-type="fig">6B</xref>). The comprehensive analysis of cell type interactions revealed a heightened level of interplay in the context of MM, as evidenced by both an increased quantity and enhanced interaction strength in MM compared to that observed in healthy subjects (Figure <xref rid="cam471651-fig-0006" ref-type="fig">6C</xref>). IL‐16 signal pathways network were more active on MM BM ecosystems compared to healthy donors (Figure <xref rid="cam471651-fig-0006" ref-type="fig">6D</xref>). The macrophages stand out prominently among these entities. Upon the introduction of MM cells, macrophages augmented their interactions with diverse immune cell populations via the IL‐16‐mediated signaling pathway (Figure <xref rid="cam471651-fig-0006" ref-type="fig">6E</xref>). We found an increased signaling of IL‐16‐CD4 in MM between plasma cells and macrophages or monocytes (Figure <xref rid="cam471651-fig-0006" ref-type="fig">6F</xref>).</p><fig position="float" fig-type="FIGURE" id="cam471651-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>IL‐16 plays an important role within the bone marrow microenvironment of MM. (A) UMAP plot showing identification of 45,843 single cells colored by cell types (left) and cell origins from MM or healthy donors by color (right). (B) Cell type proportion of all samples. (C) Ligand–receptor interactions between cell types in MM and healthy samples. (D) Overall signaling patterns in MM and healthy samples. (E) IL16‐related signaling pathway networks in MM and healthy samples. (F) Ligand–receptor pairs in MM and healthy samples.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="CAM4-15-e71651-g002.jpg"/></fig></sec></sec><sec id="cam471651-sec-0023"><label>4</label><title>Discussion and Conclusion</title><p>MM remains currently an incurable hematologic malignancy, searching for agents with different mechanisms of action is of great significance. As a classic medication for the treatment of T2DM, MET exerted a variety of anti‐tumor effects and reduced the risk of development and progression in various malignant tumor types [<xref rid="cam471651-bib-0011" ref-type="bibr">11</xref>, <xref rid="cam471651-bib-0012" ref-type="bibr">12</xref>]. Previous study has demonstrated that taking MET was associated with a decreased risk of progression of MGUS to multiple myeloma [<xref rid="cam471651-bib-0013" ref-type="bibr">13</xref>]. MET also displayed anti‐MM activity through multiple mechanisms in vitro and in vivo [<xref rid="cam471651-bib-0014" ref-type="bibr">14</xref>, <xref rid="cam471651-bib-0015" ref-type="bibr">15</xref>, <xref rid="cam471651-bib-0016" ref-type="bibr">16</xref>]. IME as a novel derivative of MET, has been approved for treatment of T2DM in Japan [<xref rid="cam471651-bib-0017" ref-type="bibr">17</xref>]. However, IME and MET differ in several biological effects and underlying mechanisms of action [<xref rid="cam471651-bib-0002" ref-type="bibr">2</xref>]. Whether IME has a similar anti‐tumor activity has not been reported yet.</p><p>In this study, we observed that IME inhibited the proliferation of MM cells and suppressed tumor growth in a MM CDX model. The expression of Ki‐67 in tumor tissues from IME‐treated mice was significantly decreased. Together, these results showed that IME displays antitumor activity in vitro and vivo (Figure <xref rid="cam471651-fig-0001" ref-type="fig">1</xref>). We also found IME induced G0/G1 cell cycle arrest in a dose‐dependent manner (Figure <xref rid="cam471651-fig-0002" ref-type="fig">2</xref>). Wang et al. reported that MET induces autophagy and G0/G1 phase cell cycle arrest in myeloma, with this effect being associated with activation of the AMPK/mTORC1 and mTORC2 pathways [<xref rid="cam471651-bib-0016" ref-type="bibr">16</xref>]. In our study, the IC50 value of IME in RPMI‐8226 cells was slightly lower than that reported for MET in the same cell line, suggesting that MM cells may exhibit greater sensitivity to IME [<xref rid="cam471651-bib-0016" ref-type="bibr">16</xref>]. Recently, other research illustrated that the sensitivity of prostate cancer cells to MET was related to cell cycle reactivation and metabolic reprogramming [<xref rid="cam471651-bib-0018" ref-type="bibr">18</xref>]. This finding indicates MET affects cellular energy metabolism and cell cycle‐related pathways in cancer cells; a similar mode of action can be expected for IME.</p><p>To assess whether the effect of IME was related to its regulation of cell energy metabolism, we analyzed OXPHOS and glycolysis in MM cells. The results showed that OXPHOS was inhibited by IME, whereas glycolysis was increased (Figure <xref rid="cam471651-fig-0003" ref-type="fig">3</xref>). It has been reported that both IME and MET have an inhibitory effect on OXPHOS [<xref rid="cam471651-bib-0019" ref-type="bibr">19</xref>, <xref rid="cam471651-bib-0020" ref-type="bibr">20</xref>]. According to the Warburg effect, many cancers rely predominantly on glycolysis for energy production. However, in certain malignancies, including leukemias and lymphomas, OXPHOS can be upregulated and play an important role in supporting tumor cell proliferation [<xref rid="cam471651-bib-0021" ref-type="bibr">21</xref>, <xref rid="cam471651-bib-0022" ref-type="bibr">22</xref>]. OXPHOS is also increased in MM, and its activation has been shown to promote tumorigenesis [<xref rid="cam471651-bib-0023" ref-type="bibr">23</xref>]. MET as an OXPHOS inhibitor has been reported to induce cell cycle arrest in pancreatic cancer [<xref rid="cam471651-bib-0024" ref-type="bibr">24</xref>]. Based on these results, we suggest that the anti‐MM effect of IME was related to the inhibition of OXPHOS. However, Bloedjes et al. [<xref rid="cam471651-bib-0025" ref-type="bibr">25</xref>] observed that the survival and proliferation of MM rely primarily on glycolysis. Therefore, the direct effect of elevated glycolysis cannot explain the inhibition of MM cell proliferation in our study. We hypothesize that the enhanced glycolysis can lead to changes in gene expression and signaling pathways that indirectly affect MM cell proliferation.</p><p>Cytokines play essential roles in the pathogenesis of MM [<xref rid="cam471651-bib-0005" ref-type="bibr">5</xref>]. IL‐6 is the most important growth factor in MM, promoting MM cell survival, homing, bone destruction and drug resistance [<xref rid="cam471651-bib-0026" ref-type="bibr">26</xref>, <xref rid="cam471651-bib-0027" ref-type="bibr">27</xref>]. VEGF is another cytokine that has a significant impact on MM for its role in the survival, proliferation, and diffusion of tumor cells [<xref rid="cam471651-bib-0028" ref-type="bibr">28</xref>]. However, the therapeutic strategies using monoclonal antibodies targeting cytokines have failed in MM [<xref rid="cam471651-bib-0028" ref-type="bibr">28</xref>, <xref rid="cam471651-bib-0029" ref-type="bibr">29</xref>]. Intriguingly, MET has been shown to inhibit IL‐6 signaling by downregulating IL‐6R expression on MM cells [<xref rid="cam471651-bib-0030" ref-type="bibr">30</xref>]. This sheds new light on targeting cytokines and their signaling pathways. Our RNA‐Seq data indicated that mRNA expression of IL‐16 in MM cells was decreased following the IME treatment (Figure <xref rid="cam471651-fig-0004" ref-type="fig">4A</xref>). Enrichment analysis also showed that various differentially expressed genes involved in the cytokine−cytokine receptor pathway were regulated by IME (Figure <xref rid="cam471651-fig-0004" ref-type="fig">4B–D</xref>). In the context of its antidiabetic activity, IME has been shown to improve mitochondrial and endoplasmic reticulum function, which may be associated with reduced expression of inflammatory cytokines [<xref rid="cam471651-bib-0004" ref-type="bibr">4</xref>]. However, there are few reports on the expression of specific cytokines regulated by IME. Currently, one study reported that IME suppresses proinflammatory cytokines production of IL‐1β in high‐glucose‐stimulated mouse microglia [<xref rid="cam471651-bib-0031" ref-type="bibr">31</xref>]. Our RNA‐Seq data also provides some information on cytokines expression regulated by IME.</p><p>It has been found that lactic acid production has a regulatory role on cytokines secreted by immune cells [<xref rid="cam471651-bib-0032" ref-type="bibr">32</xref>]. The glycolysis promoted by IME led to an increased production of lactic acid (Figure <xref rid="cam471651-fig-0005" ref-type="fig">5A–C</xref>). Therefore, we speculate that the expression of IL‐16 in MM cells could be influenced by the level of extracellular lactic acid. Consistent with our expectation, IL‐16 mRNA levels were reduced following lactic acid treatment, in a concentration‐dependent manner (Figure <xref rid="cam471651-fig-0005" ref-type="fig">5D,E</xref>). Brand et al. [<xref rid="cam471651-bib-0010" ref-type="bibr">10</xref>] observed that lactic acid suppresses IL‐2 and IFN‐γ expression in CD8+ T cells and NK cells and promotes apoptosis. The downregulation of cytokines' expression was attributed to impaired NFAT activation [<xref rid="cam471651-bib-0010" ref-type="bibr">10</xref>]. IL‐16 exerts a direct regulatory effect on MM cells. Knockdown of IL‐16 inhibits the proliferation of MM cells, and this effect can be rescued by the addition of recombinant IL‐16 peptide [<xref rid="cam471651-bib-0033" ref-type="bibr">33</xref>]. Using recombinant IL‐16, we found that the suppression of cell proliferation induced by IME was reversed (Figure <xref rid="cam471651-fig-0005" ref-type="fig">5F,G</xref>). These results indicate that the inhibitory effects of IME on proliferation and G0/G1 arrest were partially mediated by the downregulation of IL‐16. However, the addition of exogenous IL‐16 did not further enhance MM cell proliferation (<xref rid="cam471651-supitem-0004" ref-type="supplementary-material">Supporting Information</xref>). This may be due to the pro‐proliferative effects of IL‐16 reaching a saturation level in MM cells. Based on the above research, we suggest that IME inhibited IL‐16 expression by increasing glycolysis and lactate production.</p><p>IL‐16 was initially identified as a T‐cell growth factor and has been implicated in infections, autoimmune diseases, and cancers [<xref rid="cam471651-bib-0033" ref-type="bibr">33</xref>, <xref rid="cam471651-bib-0034" ref-type="bibr">34</xref>]. Activation of IL‐16 signaling was associated with the progression of multiple tumors [<xref rid="cam471651-bib-0033" ref-type="bibr">33</xref>]. Recently, Guan et al. [<xref rid="cam471651-bib-0035" ref-type="bibr">35</xref>] reported that IL‐16 regulates the pro‐tumor microenvironment in the activated B cell‐like subtype of diffuse large B‐cell lymphoma. IL‐16 was also significantly overexpressed in MM bone marrow samples compared with healthy donors, and IL‐16 signaling pathways were activated in the MM rapid progressors [<xref rid="cam471651-bib-0006" ref-type="bibr">6</xref>, <xref rid="cam471651-bib-0007" ref-type="bibr">7</xref>]. The analysis of single‐cell RNA sequencing data revealed that IL‐16 signaling pathways were enhanced in MM patients and that various immune cells, particularly macrophages, interact with MM cells through IL‐16 related signaling networks (Figure <xref rid="cam471651-fig-0006" ref-type="fig">6</xref>). These findings demonstrate that IL‐16 plays an important role in shaping the bone marrow immune microenvironment in MM patients.</p><p>This study has several limitations. First, although IME reduced IL‐16 expression and inhibited MM cell proliferation, the downstream signaling pathways linking IL‐16 to cell‐cycle regulation were not fully delineated, and IL‐16 overexpression or knockdown experiments were not performed. These approaches will be necessary to clarify the mechanistic role of IL‐16 more directly. Second, although the in vivo dose of IME was selected based on previously reported safe ranges, our safety evaluation was limited to monitoring body weight and did not include serum biochemical or hematological assessments. These mechanistic and toxicological aspects will be further addressed in subsequent studies.</p><p>In summary, our study revealed that IME exerts an anti‐proliferative effect in MM cells by inducing G0/G1 cell cycle arrest through modulating energy metabolism and downregulating IL‐16 expression. In addition, IME regulates other cytokines' expression and associated signaling pathways. IL‐16 plays an important role in the immune microenvironment of bone marrow in MM patients. These findings indicate that IME may represent a novel approach for targeting energy metabolism and IL‐16 for the treatment of MM and other IL‐16‐mediated disorders.</p></sec><sec id="cam471651-sec-0024"><title>Author Contributions</title><p>Peng Liu contributed to the conception and design of the study and revised the manuscript. Jifeng Jiang, Liang Ren, and Yifeng Sun conducted the experiments, analyzed the data, and wrote the manuscript. Jing Li and Jiadai Xu collected the patient specimens and performed single‐cell RNA sequencing experiments. Aziguli maihemaiti also performed the experiments.</p></sec><sec id="cam471651-sec-0026"><title>Ethics Statement</title><p>This study was approved by the Clinical Research Ethics Committee of Fudan University‐affiliated Zhongshan Hospital. Informed consent was obtained from all patients for being included in the study.</p></sec><sec sec-type="COI-statement" id="cam471651-sec-0027"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="cam471651-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S1:</bold> cam471651‐sup‐0001‐FigureS1.jpg.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-15-e71651-s003.jpg" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="cam471651-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S2:</bold> cam471651‐sup‐0002‐FigureS2.jpg.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-15-e71651-s002.jpg" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="cam471651-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S3:</bold> cam471651‐sup‐0003‐FigureS3.jpg.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-15-e71651-s004.jpg" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="cam471651-supitem-0004" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Data S1:</bold> cam471651‐sup‐0004‐Supinfo.zip.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CAM4-15-e71651-s001.zip" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="cam471651-sec-0025"><title>Acknowledgments</title><p>This study was supported by the Natural Science Foundation of Shanghai (22ZR1411400), National Natural Science Foundation of China (82100216), and Shanghai Science and Technology Commission Yangfan Program Project (21YF1406200).</p></ack><sec sec-type="data-availability" id="cam471651-sec-0029"><title>Data Availability Statement</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list content-type="cited-references" id="cam471651-bibl-0001"><title>References</title><ref id="cam471651-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam471651-cit-0001">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Malard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Neri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. J.</given-names>
+<surname>Bahlis</surname>
+</string-name>, et al., “<article-title>Multiple Myeloma</article-title>,” <source>Nature Reviews. Disease Primers</source>
+<volume>10</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>45</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41572-024-00529-7</pub-id><pub-id pub-id-type="pmid">38937492</pub-id></mixed-citation></ref><ref id="cam471651-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam471651-cit-0002">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Yendapally</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Sikazwe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Kim</surname>
+</string-name>, et al., “<article-title>A Review of Phenformin, Metformin, and Imeglimin</article-title>,” <source>Drug Development Research</source>
+<volume>81</volume>, no. <issue>4</issue> (<year>2020</year>): <fpage>390</fpage>–<lpage>401</lpage>.<pub-id pub-id-type="pmid">31916629</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ddr.21636</pub-id></mixed-citation></ref><ref id="cam471651-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cam471651-cit-0003">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hallakou‐Bozec</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Vial</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Kergoat</surname>
+</string-name>, et al., “<article-title>Mechanism of Action of Imeglimin: A Novel Therapeutic Agent for Type 2 Diabetes</article-title>,” <source>Diabetes, Obesity &amp; Metabolism</source>
+<volume>23</volume>, no. <issue>3</issue> (<year>2021</year>): <fpage>664</fpage>–<lpage>673</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/dom.14277</pub-id><pub-id pub-id-type="pmcid">PMC8049051</pub-id><pub-id pub-id-type="pmid">33269554</pub-id></mixed-citation></ref><ref id="cam471651-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam471651-cit-0004">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Yanai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Adachi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Hakoshima</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Katsuyama</surname>
+</string-name>, “<article-title>Glucose‐Lowering Effects of Imeglimin and Its Possible Beneficial Effects on Diabetic Complications</article-title>,” <source>Biology‐Basel</source>
+<volume>12</volume>, no. <issue>5</issue> (<year>2023</year>): <elocation-id>726</elocation-id>.<pub-id pub-id-type="pmid">37237539</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/biology12050726</pub-id><pub-id pub-id-type="pmcid">PMC10215333</pub-id></mixed-citation></ref><ref id="cam471651-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam471651-cit-0005">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Akhtar</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. A.</given-names>
+<surname>Ali</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Faiyaz</surname>
+</string-name>, et al., “<article-title>Cytokine‐Mediated Dysregulation of Signaling Pathways in the Pathogenesis of Multiple Myeloma</article-title>,” <source>International Journal of Molecular Sciences</source>
+<volume>21</volume>, no. <issue>14</issue> (<year>2020</year>): <elocation-id>5002</elocation-id>.<pub-id pub-id-type="pmid">32679860</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms21145002</pub-id><pub-id pub-id-type="pmcid">PMC7403981</pub-id></mixed-citation></ref><ref id="cam471651-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam471651-cit-0006">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Atanackovic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Hildebrandt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Templin</surname>
+</string-name>, et al., “<article-title>Role of Interleukin 16 in Multiple Myeloma</article-title>,” <source>Journal of the National Cancer Institute</source>
+<volume>104</volume>, no. <issue>13</issue> (<year>2012</year>): <fpage>1005</fpage>–<lpage>1020</lpage>.<pub-id pub-id-type="pmid">22745469</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jnci/djs257</pub-id></mixed-citation></ref><ref id="cam471651-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam471651-cit-0007">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Pilcher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. E.</given-names>
+<surname>Thomas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Bhasin</surname>
+</string-name>, et al., “<article-title>Cross Center Single‐Cell RNA Sequencing Study of the Immune Microenvironment in Rapid Progressing Multiple Myeloma</article-title>,” <source>NPJ Genomic Medicine</source>
+<volume>8</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>3</fpage>.<pub-id pub-id-type="pmid">36702834</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41525-022-00340-x</pub-id><pub-id pub-id-type="pmcid">PMC9879959</pub-id></mixed-citation></ref><ref id="cam471651-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam471651-cit-0008">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, et al., “<article-title>Single‐Cell Atlas of the Immune Microenvironment Reveals Macrophage Reprogramming and the Potential Dual Macrophage‐Targeted Strategy in Multiple Myeloma</article-title>,” <source>British Journal of Haematology</source>
+<volume>201</volume>, no. <issue>5</issue> (<year>2023</year>): <fpage>917</fpage>–<lpage>934</lpage>.<pub-id pub-id-type="pmid">36852636</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bjh.18708</pub-id></mixed-citation></ref><ref id="cam471651-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam471651-cit-0009">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Ren</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Xu</surname>
+</string-name>, et al., “<article-title>A Machine Learning Model to Predict Survival and Therapeutic Responses in Multiple Myeloma</article-title>,” <source>International Journal of Molecular Sciences</source>
+<volume>24</volume>, no. <issue>7</issue> (<year>2023</year>): <elocation-id>6683</elocation-id>.<pub-id pub-id-type="pmid">37047654</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/ijms24076683</pub-id><pub-id pub-id-type="pmcid">PMC10095137</pub-id></mixed-citation></ref><ref id="cam471651-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam471651-cit-0010">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Brand</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Singer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. E.</given-names>
+<surname>Koehl</surname>
+</string-name>, et al., “<article-title>LDHA‐Associated Lactic Acid Production Blunts Tumor Immunosurveillance by T and NK Cells</article-title>,” <source>Cell Metabolism</source>
+<volume>24</volume>, no. <issue>5</issue> (<year>2016</year>): <fpage>657</fpage>–<lpage>671</lpage>.<pub-id pub-id-type="pmid">27641098</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cmet.2016.08.011</pub-id></mixed-citation></ref><ref id="cam471651-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam471651-cit-0011">
+<string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Mu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Feng</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Qu</surname>
+</string-name>, “<article-title>Metformin: A Promising Antidiabetic Medication for Cancer Treatment</article-title>,” <source>Current Drug Targets</source>
+<volume>24</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>41</fpage>–<lpage>54</lpage>.<pub-id pub-id-type="pmid">36336804</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/1389450124666221104094918</pub-id></mixed-citation></ref><ref id="cam471651-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam471651-cit-0012">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Foretz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Guigas</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Viollet</surname>
+</string-name>, “<article-title>Metformin: Update on Mechanisms of Action and Repurposing Potential</article-title>,” <source>Nature Reviews. Endocrinology</source>
+<volume>19</volume>, no. <issue>8</issue> (<year>2023</year>): <fpage>460</fpage>–<lpage>476</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41574-023-00833-4</pub-id><pub-id pub-id-type="pmcid">PMC10153049</pub-id><pub-id pub-id-type="pmid">37130947</pub-id></mixed-citation></ref><ref id="cam471651-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam471651-cit-0013">
+<string-name name-style="western">
+<given-names>S. H.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Luo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. K.</given-names>
+<surname>O'Brian</surname>
+</string-name>, et al., “<article-title>Association Between Metformin Use and Progression of Monoclonal Gammopathy of Undetermined Significance to Multiple Myeloma in US Veterans With Diabetes Mellitus: A Population‐Based Retrospective Cohort Study</article-title>,” <source>Lancet Haematology</source>
+<volume>2</volume>, no. <issue>1</issue> (<year>2015</year>): <fpage>e30</fpage>–<lpage>e36</lpage>.<pub-id pub-id-type="pmid">26034780</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S2352-3026(14)00037-4</pub-id><pub-id pub-id-type="pmcid">PMC4448731</pub-id></mixed-citation></ref><ref id="cam471651-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam471651-cit-0014">
+<string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. Q.</given-names>
+<surname>Huang</surname>
+</string-name>, et al., “<article-title>Metformin Attenuates Multiple Myeloma Cell Proliferation and Encourages Apoptosis by Suppressing METTL3‐Mediated m6A Methylation of THRAP3, RBM25, and USP4</article-title>,” <source>Cell Cycle</source>
+<volume>22</volume>, no. <issue>8</issue> (<year>2023</year>): <fpage>986</fpage>–<lpage>1004</lpage>.<pub-id pub-id-type="pmid">36762777</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/15384101.2023.2170521</pub-id><pub-id pub-id-type="pmcid">PMC10054227</pub-id></mixed-citation></ref><ref id="cam471651-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam471651-cit-0015">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Lv</surname>
+</string-name>, et al., “<article-title>Metformin and FTY720 Synergistically Induce Apoptosis in Multiple Myeloma Cells</article-title>,” <source>Cellular Physiology and Biochemistry</source>
+<volume>48</volume>, no. <issue>2</issue> (<year>2018</year>): <fpage>785</fpage>–<lpage>800</lpage>.<pub-id pub-id-type="pmid">30032136</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000491908</pub-id></mixed-citation></ref><ref id="cam471651-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam471651-cit-0016">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Yan</surname>
+</string-name>, et al., “<article-title>Metformin Induces Autophagy and G0/G1 Phase Cell Cycle Arrest in Myeloma by Targeting the AMPK/mTORC1 and mTORC2 Pathways</article-title>,” <source>Journal of Experimental &amp; Clinical Cancer Research</source>
+<volume>37</volume>, no. <issue>1</issue> (<year>2018</year>): <fpage>63</fpage>.<pub-id pub-id-type="pmid">29554968</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13046-018-0731-5</pub-id><pub-id pub-id-type="pmcid">PMC5859411</pub-id></mixed-citation></ref><ref id="cam471651-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam471651-cit-0017">
+<string-name name-style="western">
+<given-names>Y. N.</given-names>
+<surname>Lamb</surname>
+</string-name>, “<article-title>Imeglimin Hydrochloride: First Approval</article-title>,” <source>Drugs</source>
+<volume>81</volume>, no. <issue>14</issue> (<year>2021</year>): <fpage>1683</fpage>–<lpage>1690</lpage>.<pub-id pub-id-type="pmid">34472031</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40265-021-01589-9</pub-id></mixed-citation></ref><ref id="cam471651-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam471651-cit-0018">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Feng</surname>
+</string-name>, et al., “<article-title>Metformin Escape in Prostate Cancer by Activating the PTGR1 Transcriptional Program Through a Novel Super‐Enhancer</article-title>,” <source>Signal Transduction and Targeted Therapy</source>
+<volume>8</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>303</elocation-id>.<pub-id pub-id-type="pmid">37582751</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41392-023-01516-2</pub-id><pub-id pub-id-type="pmcid">PMC10427640</pub-id></mixed-citation></ref><ref id="cam471651-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam471651-cit-0019">
+<string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hozumi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Sugawara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Ishihara</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Ishihara</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Ogawa</surname>
+</string-name>, “<article-title>Effects of Imeglimin on Mitochondrial Function, AMPK Activity, and Gene Expression in Hepatocytes</article-title>,” <source>Scientific Reports</source>
+<volume>13</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>746</elocation-id>.<pub-id pub-id-type="pmid">36639407</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-023-27689-y</pub-id><pub-id pub-id-type="pmcid">PMC9839736</pub-id></mixed-citation></ref><ref id="cam471651-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam471651-cit-0020">
+<string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Tarry‐Adkins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I. G.</given-names>
+<surname>Robinson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. C.</given-names>
+<surname>Pantaleão</surname>
+</string-name>, et al., “<article-title>The Metabolic Response of Human Trophoblasts Derived From Term Placentas to Metformin</article-title>,” <source>Diabetologia</source>
+<volume>66</volume>, no. <issue>12</issue> (<year>2023</year>): <fpage>2320</fpage>–<lpage>2331</lpage>.<pub-id pub-id-type="pmid">37670017</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00125-023-05996-3</pub-id><pub-id pub-id-type="pmcid">PMC10627909</pub-id></mixed-citation></ref><ref id="cam471651-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam471651-cit-0021">
+<string-name name-style="western">
+<given-names>T. M.</given-names>
+<surname>Ashton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. G.</given-names>
+<surname>McKenna</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. A.</given-names>
+<surname>Kunz‐Schughart</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>G. S.</given-names>
+<surname>Higgins</surname>
+</string-name>, “<article-title>Oxidative Phosphorylation as an Emerging Target in Cancer Therapy</article-title>,” <source>Clinical Cancer Research</source>
+<volume>24</volume>, no. <issue>11</issue> (<year>2018</year>): <fpage>2482</fpage>–<lpage>2490</lpage>.<pub-id pub-id-type="pmid">29420223</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1158/1078-0432.CCR-17-3070</pub-id></mixed-citation></ref><ref id="cam471651-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam471651-cit-0022">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Greene</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Segaran</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Lord</surname>
+</string-name>, “<article-title>Targeting OXPHOS and the Electron Transport Chain in Cancer; Molecular and Therapeutic Implications</article-title>,” <source>Seminars in Cancer Biology</source>
+<volume>86</volume>, no. <issue>Pt 2</issue> (<year>2022</year>): <fpage>851</fpage>–<lpage>859</lpage>.<pub-id pub-id-type="pmid">35122973</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.semcancer.2022.02.002</pub-id></mixed-citation></ref><ref id="cam471651-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam471651-cit-0023">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Jia</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Liu</surname>
+</string-name>, et al., “<article-title>PRMT1 Methylation of WTAP Promotes Multiple Myeloma Tumorigenesis by Activating Oxidative Phosphorylation via m6A Modification of NDUFS6</article-title>,” <source>Cell Death &amp; Disease</source>
+<volume>14</volume>, no. <issue>8</issue> (<year>2023</year>): <fpage>512</fpage>.<pub-id pub-id-type="pmid">37558663</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41419-023-06036-z</pub-id><pub-id pub-id-type="pmcid">PMC10412649</pub-id></mixed-citation></ref><ref id="cam471651-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam471651-cit-0024">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Zheng</surname>
+</string-name>, et al., “<article-title>Oncogenic HSP60 Regulates Mitochondrial Oxidative Phosphorylation to Support Erk1/2 Activation During Pancreatic Cancer Cell Growth</article-title>,” <source>Cell Death &amp; Disease</source>
+<volume>9</volume>, no. <issue>2</issue> (<year>2018</year>): <fpage>161</fpage>.<pub-id pub-id-type="pmid">29415987</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41419-017-0196-z</pub-id><pub-id pub-id-type="pmcid">PMC5833694</pub-id></mixed-citation></ref><ref id="cam471651-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam471651-cit-0025">
+<string-name name-style="western">
+<given-names>T. A.</given-names>
+<surname>Bloedjes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>de Wilde</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. H.</given-names>
+<surname>Khan</surname>
+</string-name>, et al., “<article-title>AKT Supports the Metabolic Fitness of Multiple Myeloma Cells by Restricting FOXO Activity</article-title>,” <source>Blood Advances</source>
+<volume>7</volume>, no. <issue>9</issue> (<year>2023</year>): <fpage>1697</fpage>–<lpage>1712</lpage>.<pub-id pub-id-type="pmid">36322819</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/bloodadvances.2022007383</pub-id><pub-id pub-id-type="pmcid">PMC10182179</pub-id></mixed-citation></ref><ref id="cam471651-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam471651-cit-0026">
+<string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Klein</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X. G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. Y.</given-names>
+<surname>Lu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Bataille</surname>
+</string-name>, “<article-title>Interleukin‐6 in Human Multiple Myeloma</article-title>,” <source>Blood</source>
+<volume>85</volume>, no. <issue>4</issue> (<year>1995</year>): <fpage>863</fpage>–<lpage>872</lpage>.<pub-id pub-id-type="pmid">7849308</pub-id>
+</mixed-citation></ref><ref id="cam471651-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam471651-cit-0027">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Harmer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Falank</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. R.</given-names>
+<surname>Reagan</surname>
+</string-name>, “<article-title>Interleukin‐6 Interweaves the Bone Marrow Microenvironment, Bone Loss, and Multiple Myeloma</article-title>,” <source>Frontiers in Endocrinology (Lausanne)</source>
+<volume>9</volume> (<year>2018</year>): <elocation-id>788</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fendo.2018.00788</pub-id><pub-id pub-id-type="pmcid">PMC6333051</pub-id><pub-id pub-id-type="pmid">30671025</pub-id></mixed-citation></ref><ref id="cam471651-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam471651-cit-0028">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Ria</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Melaccio</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Racanelli</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Vacca</surname>
+</string-name>, “<article-title>Anti‐VEGF Drugs in the Treatment of Multiple Myeloma Patients</article-title>,” <source>Journal of Clinical Medicine</source>
+<volume>9</volume>, no. <issue>6</issue> (<year>2020</year>): <elocation-id>1765</elocation-id>.<pub-id pub-id-type="pmid">32517267</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/jcm9061765</pub-id><pub-id pub-id-type="pmcid">PMC7355441</pub-id></mixed-citation></ref><ref id="cam471651-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam471651-cit-0029">
+<string-name name-style="western">
+<given-names>N. C.</given-names>
+<surname>Kampan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. D.</given-names>
+<surname>Xiang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O. M.</given-names>
+<surname>McNally</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. N.</given-names>
+<surname>Stephens</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Quinn</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Plebanski</surname>
+</string-name>, “<article-title>Immunotherapeutic Interleukin‐6 or Interleukin‐6 Receptor Blockade in Cancer: Challenges and Opportunities</article-title>,” <source>Current Medicinal Chemistry</source>
+<volume>25</volume>, no. <issue>36</issue> (<year>2018</year>): <fpage>4785</fpage>–<lpage>4806</lpage>.<pub-id pub-id-type="pmid">28707587</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.2174/0929867324666170712160621</pub-id></mixed-citation></ref><ref id="cam471651-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam471651-cit-0030">
+<string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Mishra</surname>
+</string-name> and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Dingli</surname>
+</string-name>, “<article-title>Metformin Inhibits IL‐6 Signaling by Decreasing IL‐6R Expression on Multiple Myeloma Cells</article-title>,” <source>Leukemia</source>
+<volume>33</volume>, no. <issue>11</issue> (<year>2019</year>): <fpage>2695</fpage>–<lpage>2709</lpage>.<pub-id pub-id-type="pmid">30988378</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41375-019-0470-4</pub-id></mixed-citation></ref><ref id="cam471651-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cam471651-cit-0031">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Kato</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Iwashita</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Iwasa</surname>
+</string-name>, et al., “<article-title>Imeglimin Exhibits Novel Anti‐Inflammatory Effects on High‐Glucose‐Stimulated Mouse Microglia Through ULK1‐Mediated Suppression of the TXNIP‐NLRP3 Axis</article-title>,” <source>Cells</source>
+<volume>13</volume>, no. <issue>3</issue> (<year>2024</year>): <elocation-id>284</elocation-id>.<pub-id pub-id-type="pmid">38334676</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/cells13030284</pub-id><pub-id pub-id-type="pmcid">PMC10854746</pub-id></mixed-citation></ref><ref id="cam471651-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cam471651-cit-0032">
+<string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Ye</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Jiang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Zhang</surname>
+</string-name>, “<article-title>Crosstalk Between Glucose Metabolism, Lactate Production and Immune Response Modulation</article-title>,” <source>Cytokine &amp; Growth Factor Reviews</source>
+<volume>68</volume> (<year>2022</year>): <fpage>81</fpage>–<lpage>92</lpage>.<pub-id pub-id-type="pmid">36376165</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cytogfr.2022.11.001</pub-id></mixed-citation></ref><ref id="cam471651-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cam471651-cit-0033">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Richmond</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Tuzova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Cruikshank</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Center</surname>
+</string-name>, “<article-title>Regulation of Cellular Processes by Interleukin‐16 in Homeostasis and Cancer</article-title>,” <source>Journal of Cellular Physiology</source>
+<volume>229</volume>, no. <issue>2</issue> (<year>2014</year>): <fpage>139</fpage>–<lpage>147</lpage>.<pub-id pub-id-type="pmid">23893766</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/jcp.24441</pub-id></mixed-citation></ref><ref id="cam471651-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cam471651-cit-0034">
+<string-name name-style="western">
+<given-names>W. G.</given-names>
+<surname>Glass</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. T.</given-names>
+<surname>Sarisky</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Vecchio</surname>
+</string-name>, “<article-title>Not‐So‐Sweet Sixteen: The Role of IL‐16 in Infectious and Immune‐Mediated Inflammatory Diseases</article-title>,” <source>Journal of Interferon &amp; Cytokine Research</source>
+<volume>26</volume>, no. <issue>8</issue> (<year>2006</year>): <fpage>511</fpage>–<lpage>520</lpage>.<pub-id pub-id-type="pmid">16881862</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1089/jir.2006.26.511</pub-id></mixed-citation></ref><ref id="cam471651-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cam471651-cit-0035">
+<string-name name-style="western">
+<given-names>X.</given-names>
+<surname>Guan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Fang</surname>
+</string-name>, et al., “<article-title>Lymphoma Cell‐Driven IL‐16 Is Expressed in Activated B‐Cell‐Like Diffuse Large B‐Cell Lymphomas and Regulates the Pro‐Tumor Microenvironment</article-title>,” <source>Haematologica</source>
+<volume>110</volume>, no. <issue>2</issue> (<year>2025</year>): <fpage>425</fpage>–<lpage>438</lpage>.<pub-id pub-id-type="pmid">39323416</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3324/haematol.2024.285304</pub-id><pub-id pub-id-type="pmcid">PMC11788625</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

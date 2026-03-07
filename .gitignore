@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment and secrets
+.env
+.env.*
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and local outputs
+*.log
+logs/
+
+# Project data artifacts (generated)
+data/processed_chunks/
+data/synthetic_pairs/
+data/splits/
+
+# Training / retrieval artifacts
+models/
+checkpoints/
+artifacts/
+*.faiss
+*.index

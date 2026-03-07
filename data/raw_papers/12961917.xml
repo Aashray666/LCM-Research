@@ -1,0 +1,814 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="jorc70055" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Ren Care</journal-id><journal-id journal-id-type="iso-abbrev">J Ren Care</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">JORC</journal-id><journal-title-group><journal-title>Journal of Renal Care</journal-title></journal-title-group><issn pub-type="ppub">1755-6678</issn><issn pub-type="epub">1755-6686</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12961917</article-id><article-id pub-id-type="pmcid-ver">PMC12961917.1</article-id><article-id pub-id-type="pmcaid">12961917</article-id><article-id pub-id-type="pmcaiid">12961917</article-id><article-id pub-id-type="pmid">41784301</article-id><article-id pub-id-type="doi">10.1111/jorc.70055</article-id><article-id pub-id-type="publisher-id">JORC70055</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>“Understanding Chronic Kidney Disease Self‐Management Barriers and Facilitators: A Consumer‐Led Qualitative Study”</article-title></title-group><contrib-group><contrib id="jorc70055-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Lunardi</surname><given-names initials="LE">Laura E.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0689-3300</contrib-id><xref rid="jorc70055-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jorc70055-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>laura.lunardi@sa.gov.au</email></address></contrib><contrib id="jorc70055-cr-0002" contrib-type="author"><name name-style="western"><surname>Matricciani</surname><given-names initials="LA">Lisa A.</given-names></name><xref rid="jorc70055-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="jorc70055-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jorc70055-cr-0003" contrib-type="author"><name name-style="western"><surname>Le Leu</surname><given-names initials="RK">Richard K.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4704-4943</contrib-id><xref rid="jorc70055-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jorc70055-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jorc70055-cr-0004" contrib-type="author"><name name-style="western"><surname>Bastin</surname><given-names initials="R">Richard</given-names></name><xref rid="jorc70055-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="jorc70055-cr-0005" contrib-type="author"><name name-style="western"><surname>Myers</surname><given-names initials="D">David</given-names></name><xref rid="jorc70055-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="jorc70055-cr-0006" contrib-type="author"><name name-style="western"><surname>Bradbrook</surname><given-names initials="M">Merrilyn</given-names></name><xref rid="jorc70055-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="jorc70055-cr-0007" contrib-type="author"><name name-style="western"><surname>Bradbrook</surname><given-names initials="D">David</given-names></name><xref rid="jorc70055-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="jorc70055-cr-0008" contrib-type="author"><name name-style="western"><surname>Lester</surname><given-names initials="R">Rhanee</given-names></name><xref rid="jorc70055-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="jorc70055-cr-0009" contrib-type="author"><name name-style="western"><surname>Johns</surname><given-names initials="E">Effie</given-names></name><xref rid="jorc70055-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="jorc70055-cr-0010" contrib-type="author"><name name-style="western"><surname>Britton</surname><given-names initials="A">Anne</given-names></name><xref rid="jorc70055-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jorc70055-cr-0011" contrib-type="author"><name name-style="western"><surname>Jesudason</surname><given-names initials="S">Shilpanjali</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9695-0761</contrib-id><xref rid="jorc70055-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="jorc70055-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jorc70055-cr-0012" contrib-type="author"><name name-style="western"><surname>Muthuramalingam</surname><given-names initials="S">Shyamsundar</given-names></name><xref rid="jorc70055-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jorc70055-cr-0013" contrib-type="author"><name name-style="western"><surname>Dumuid</surname><given-names initials="D">Dorothea</given-names></name><xref rid="jorc70055-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jorc70055-cr-0014" contrib-type="author"><name name-style="western"><surname>Bennett</surname><given-names initials="PN">Paul N.</given-names></name><xref rid="jorc70055-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib></contrib-group><aff id="jorc70055-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Central Northern Adelaide Renal and Transplantation Service, Central Northern Adelaide Renal and Transplantation Service (CNARTS)</named-content>
+<institution>Royal Adelaide Hospital</institution>
+<city>Adelaide</city>
+<named-content content-type="country-part">South Australia</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jorc70055-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">College of Health</named-content>
+<institution>Adelaide University</institution>
+<city>Adelaide</city>
+<named-content content-type="country-part">South Australia</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jorc70055-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Alliance for Research in Exercise Nutrition and Activity (ARENA), College of Health</named-content>
+<institution>Adelaide University</institution>
+<city>Adelaide</city>
+<named-content content-type="country-part">South Australia</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jorc70055-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">School of Psychology, College of Education, Behavioural and Social Sciences</named-content>
+<institution>Adelaide University</institution>
+<city>Adelaide</city>
+<named-content content-type="country-part">South Australia</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jorc70055-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Central Adelaide Local Health Network (CALHN)</named-content>
+<institution>CNARTS, Consumer Reference Group</institution>
+<city>Adelaide</city>
+<named-content content-type="country-part">South Australia</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="jorc70055-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">School of Nursing and Midwifery</named-content>
+<institution>Griffith University</institution>
+<named-content content-type="country-part">Queensland</named-content>
+<country country="AU">Australia</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Laura E. Lunardi (<email>laura.lunardi@sa.gov.au</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>3</month><year>2026</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2026</year></pub-date><volume>52</volume><issue seq="20">1</issue><issue-id pub-id-type="pmc-issue-id">508872</issue-id><issue-id pub-id-type="doi">10.1111/jorc.v52.1</issue-id><elocation-id>e70055</elocation-id><history><date date-type="rev-recd"><day>03</day><month>2</month><year>2026</year></date><date date-type="received"><day>05</day><month>10</month><year>2025</year></date><date date-type="accepted"><day>23</day><month>2</month><year>2026</year></date></history><pub-history><event event-type="pmc-release"><date><day>05</day><month>03</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>06</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-06 14:25:12.897"><day>06</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">Journal of Renal Care</italic> published by John Wiley &amp; Sons Ltd on behalf of European Dialysis &amp; Transplant Nurses Association/European Renal Care Association.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JORC-52-0.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JORC-52-0.pdf"/><abstract><title>ABSTRACT</title><sec id="jorc70055-sec-0010"><title>Background</title><p>Although self‐management is essential for slowing the progression of chronic kidney disease and improving quality of life, patients continue to face substantial and varied challenges in managing their condition. Existing research has identified barriers to self‐management but less is known about the barriers and facilitators experienced by patients with advanced chronic kidney disease not yet receiving kidney replacement therapy (dialysis and transplantation). Furthermore, few studies have been consumer‐led or have integrated clinician and patient perspectives in a shared discussion environment.</p></sec><sec id="jorc70055-sec-0020"><title>Aim</title><p>To explore the barriers to, and facilitators of, chronic kidney disease self‐management from the perspectives of key stakeholders, using a consumer‐led qualitative approach.</p></sec><sec id="jorc70055-sec-0030"><title>Methods</title><p>Patients with chronic kidney disease and clinicians were purposively sampled from a large renal service in South Australia to participate in a focus group interview, co‐facilitated by a person living with chronic kidney disease. Three, 2‐h focus group interviews involving 11 renal consumers and six renal clinicians were undertaken following a semi‐structured interview guide that was co‐developed with renal consumers and transcribed verbatim. Transcripts were coded and analysed using inductive thematic analysis.</p></sec><sec id="jorc70055-sec-0040"><title>Results</title><p>Six themes emerged: patient individuality, information and education resources, disease and treatment burden, healthcare team services, patient‐clinician relationships, and teaching and learning strategies. Identified barriers included patient passivity, limited chronic kidney disease awareness, fragmented care, impersonal clinical approaches, and physical/emotional distress. Facilitators included positive attitudes, goal setting, trust and satisfaction with clinicians, effective communication, shared decision‐making, person‐centred care and caregiver support.</p></sec><sec id="jorc70055-sec-0050"><title>Conclusion</title><p>This study identified that chronic kidney disease self‐management is influenced by interacting personal factors, relational factors and systemic factors. These qualitative insights demonstrate that patients' ability to self‐manage is shaped not only by knowledge, but by emotional burden, confidence, and the quality of relationships within the healthcare system. Consumer‐led approaches that reflect these lived experiences may enhance the relevance and acceptability of future self‐management support.</p></sec></abstract><kwd-group><kwd id="jorc70055-kwd-0001">chronic kidney disease</kwd><kwd id="jorc70055-kwd-0002">qualitative research</kwd><kwd id="jorc70055-kwd-0003">self‐management</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>The Hospital Research Foundation</institution><institution-id institution-id-type="doi">10.13039/100009727</institution-id></institution-wrap>
+</funding-source><award-id>My IP 19251</award-id></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Australian Research Council (ARC) Discovery Early Career Award</institution></institution-wrap>
+</funding-source><award-id>DE230101174</award-id></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>National Health and Medical Research Council</institution><institution-id institution-id-type="doi">10.13039/501100000925</institution-id></institution-wrap>
+</funding-source><award-id>GNT2042383</award-id></award-group></funding-group><counts><fig-count count="1"/><table-count count="2"/><page-count count="19"/><word-count count="11810"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:05.03.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="jorc70055-sec-0060"><label>1</label><title>Introduction and Background</title><p>Chronic kidney disease (CKD) is a major global health condition affecting a growing proportion of the population and is among the leading causes of mortality and morbidity worldwide, with substantial implications for health systems, health‐related quality of life and long‐term care needs (Deng et al. <xref rid="jorc70055-bib-0010" ref-type="bibr">2025</xref>; Evans et al. <xref rid="jorc70055-bib-0015" ref-type="bibr">2022</xref>; Kidney Health Australia <xref rid="jorc70055-bib-0028" ref-type="bibr">2020</xref>; Stenvinkel et al. <xref rid="jorc70055-bib-0043" ref-type="bibr">2020</xref>). In Australia, CKD represents a significant and growing burden on individuals and health services, reflected in rising referrals to specialist renal care and rising demand for long‐term management prior to the initiation of kidney replacement therapies (KRT). The condition imposes a significant day‐to‐day burden on individuals, disrupting daily routines, employment, interpersonal relationships, and emotional wellbeing. As a result, effective self‐management is essential for supporting patient autonomy and enabling individuals to adapt to the ongoing physical and psychosocial challenges associated with CKD (Chen et al. <xref rid="jorc70055-bib-0009" ref-type="bibr">2011</xref>; Devins et al. <xref rid="jorc70055-bib-0011" ref-type="bibr">2003</xref>; Havas et al. <xref rid="jorc70055-bib-0021" ref-type="bibr">2017</xref>).</p><p>Self‐management in CKD involves patients' ability to effectively manage symptoms, adhere to prescribed treatment regimes, implement lifestyle adjustments, and better navigate the psychosocial consequences associated with chronic illness (Donald et al. <xref rid="jorc70055-bib-0013" ref-type="bibr">2018</xref>; Lightfoot et al. <xref rid="jorc70055-bib-0031" ref-type="bibr">2022</xref>). Effective self‐management extends beyond access to information and requires the development of knowledge, skills and confidence needed to apply health information in daily life, maintain treatment adherence, and respond appropriately to changes in health status (Dineen‐Griffin et al. <xref rid="jorc70055-bib-0012" ref-type="bibr">2019</xref>; Lightfoot et al. <xref rid="jorc70055-bib-0031" ref-type="bibr">2022</xref>; Lunardi et al. <xref rid="jorc70055-bib-0034" ref-type="bibr">2023</xref>). These attributes, conceptualised as components of patient activation, enable individuals to engage more actively with their healthcare and adapt to the ongoing demands of living with CKD (Lightfoot et al. <xref rid="jorc70055-bib-0031" ref-type="bibr">2022</xref>). Evidence indicates that higher levels of patient activation are associated with improved treatment adherence, more effective symptom monitoring, and delayed disease progression, whereas low activation is linked to poorer health outcomes, often reflecting a reduced capacity to recognise and respond to early signs of health deterioration (Hussein et al. <xref rid="jorc70055-bib-0026" ref-type="bibr">2021</xref>; Lightfoot et al. <xref rid="jorc70055-bib-0031" ref-type="bibr">2022</xref>; Lunardi et al. <xref rid="jorc70055-bib-0035" ref-type="bibr">2024</xref>).</p><p>Existing studies identify several barriers that limit patients' engagement in CKD self‐management. These barriers include patients' lack of CKD knowledge and awareness, passive attitude, socio‐economic disadvantage, influence of comorbidities and insufficient patient‐physician communication (Lo et al. <xref rid="jorc70055-bib-0032" ref-type="bibr">2016</xref>; Lopez‐Vargas et al. <xref rid="jorc70055-bib-0033" ref-type="bibr">2014</xref>; Schrauben et al. <xref rid="jorc70055-bib-0042" ref-type="bibr">2022</xref>). Facilitators include trust, good communication and satisfaction with the physician, and family support (Lo et al. <xref rid="jorc70055-bib-0032" ref-type="bibr">2016</xref>; Lopez‐Vargas et al. <xref rid="jorc70055-bib-0033" ref-type="bibr">2014</xref>; Schrauben et al. <xref rid="jorc70055-bib-0042" ref-type="bibr">2022</xref>; Tong et al. <xref rid="jorc70055-bib-0044" ref-type="bibr">2008</xref>). Despite this growing body of evidence, much of the existing research has been externally led and has focused predominantly on the dialysis population. Consequently, there remains limited research exploring what enables and hinders patients not yet receiving KRT to develop their knowledge, skills and confidence required for effective CKD self‐management. In particular, little is known about how individuals in the earlier stages of CKD perceive their self‐management needs or which supports they find most meaningful.</p><p>Involving patients living with CKD in research is vital for ensuring relevance, applicability and meaningful translation into practice (Cazzolli et al. <xref rid="jorc70055-bib-0008" ref-type="bibr">2024</xref>; Tong et al. <xref rid="jorc70055-bib-0044" ref-type="bibr">2008</xref>). Engaging consumers with lived experience helps bridge the gap between research and real‐word practice, ultimately improving care and outcomes (Scholes‐Robertson et al. <xref rid="jorc70055-bib-0040" ref-type="bibr">2024</xref>; Tong et al. <xref rid="jorc70055-bib-0044" ref-type="bibr">2008</xref>). Although consumer involvement in CKD research is increasing, patients' perspectives are still not consistently prioritised in the design and conduct of research (Scholes‐Robertson et al. <xref rid="jorc70055-bib-0040" ref-type="bibr">2024</xref>). Qualitative approaches can provide an in‐depth understanding of patients' perceptions and what they consider helpful for promoting healthy CKD self‐management (Guha et al. <xref rid="jorc70055-bib-0020" ref-type="bibr">2021</xref>; Tong et al. <xref rid="jorc70055-bib-0044" ref-type="bibr">2008</xref>). Given the identified gaps, this consumer‐led qualitative study was conducted in collaboration with a Consumer Advisory Group of six people living with CKD who participated in all stages of the research process, from the study design to data analysis and interpretation. It was conducted in South Australia, where renal services are delivered across metropolitan tertiary services and regional settings, with variable access to multidisciplinary and psychosocial support, particularly for patients in earlier stages of CKD (Health A. I. o. and Welfare <xref rid="jorc70055-bib-0022" ref-type="bibr">2024</xref>). Understanding how patients navigate self‐management within this specific health system context is therefore critical to informing locally relevant and transferable care strategies. By integrating consumer and clinician perspectives, this study sought to explore the personal, relational, and organisational factors shaping self‐management capability and to identify gaps in renal care within a tertiary renal service in South Australia.</p></sec><sec sec-type="methods" id="jorc70055-sec-0070"><label>2</label><title>Methodology</title><sec id="jorc70055-sec-0080"><label>2.1</label><title>Study Design and Participants</title><p>This study employed an exploratory qualitative design, which allowed a broad investigation through discussion with patients with lived experience of CKD and treating clinicians. An exploratory qualitative design using reflexive thematic analysis (Byrne <xref rid="jorc70055-bib-0005" ref-type="bibr">2022</xref>) was chosen to generate rich, experience‐based insights into CKD self‐management to enable an examination of shared meanings, group dynamics, and the interaction between individual and system‐level factors influencing CKD self‐management. This design was appropriate because the study aimed to explore experiences and perceptions rather than generate theory (as in grounded theory) or focus on lived experience at an individual level (as in phenomenology). A qualitative exploratory approach allowed participants to generate discussion collectively and identify issues that may not emerge in individual interviews.</p><p>The term ‘consumer‐led’ we adopted in this study refers to the involvement of members of a Renal Consumer Advisory Group acting as co‐investigators who contributed directly to the study design, refinement of the interview guide, recruitment and co‐facilitation of focus groups. Their involvement ensured that the research questions and interpretations remained grounded in‐patient experience rather than solely in the researcher or clinician perspective. We involved six Consumer Advisory Group members from the Central Adelaide Local Health Network (CALHN) Consumer Partnering and Community Engagement in South Australia, who acted as co‐investigators. This Consumer Advisory Group assisted in the design, recruitment and development of the in‐depth semi‐structured interview guide (Supporting Information <xref rid="jorc70055-suppl-0002" ref-type="supplementary-material">S1</xref>: Supplementary Material) to conduct three, 2‐h focus group interviews (FG1, FG2, FG3). Consumer co‐facilitation was employed to help minimise any power imbalances and ensure that authentic consumer priorities informed the process. The Consolidated Criteria for Reporting Qualitative Research (COREQ) was used to guide transparent and clear reporting (Supporting Information <xref rid="jorc70055-suppl-0001" ref-type="supplementary-material">S1</xref>: Supplementary Material for the COREQ checklist) (Tong et al. <xref rid="jorc70055-bib-0045" ref-type="bibr">2007</xref>).</p><p>Focus group interviews were conducted from July to September 2024. A purposive sampling method was used aiming to recruit up to 12 renal consumers and six renal clinicians from the largest renal service in South Australia. This focus groups size was considered sufficient to capture diverse perspectives across age, socio‐demographic characteristics and kidney replacement modality consistent with qualitative research standards where depth of insight is prioritised over breadth. The planned sample size (approximately 12 consumers and 6 clinicians) was informed by qualitative methodological guidance indicating that focus groups of four to six participants allow for rich interactional data while enabling diverse viewpoints (Hennink and Kaiser <xref rid="jorc70055-bib-0023" ref-type="bibr">2022</xref>).</p><p>Eligible participants were adult English‐speaking with lived experience of CKD and all from a large tertiary Renal and Transplantation unit within South Australia. To ensure diversity, we reviewed participant's characteristics to purposely sample participants with varied age, sex, educational level and stage of their CKD, with or without experience of dialysis and kidney transplant. Renal clinicians were invited to participate from the 60 renal clinicians working with this cohort of patients. Each focus group interview included one Consumer Advisory Group member as a co‐facilitator, four renal consumers and two renal clinicians.</p></sec><sec id="jorc70055-sec-0090"><label>2.2</label><title>Setting</title><p>The focus group interviews were conducted at a tertiary hospital in a metropolitan area, with a video link offered to participants who were unable to attend in person. Consumers who attended the focus groups received refreshments and were reimbursed for time as per the SA Health reimbursement policy with a $35 gift card.</p></sec><sec id="jorc70055-sec-0100"><label>2.3</label><title>Interviews and Data Collection</title><p>Focus groups were conducted using a semi‐structured interview guide (Supporting Information <xref rid="jorc70055-suppl-0002" ref-type="supplementary-material">S2</xref>: Supporting Material) co‐developed by the Consumer Advisory Group, in collaboration with the research team, to ensure questions were relevant and respectful to participants. The interview guide elicited participants' experiences of living with CKD, including factors that helped and hindered self‐management. Prompts were used to elicit more details and seek clarification. Each focus group was facilitated by researchers (P.B., L.M.) and co‐facilitated by consumer partners (R.B., D.M., E.J.) with four renal consumers and two renal clinicians. Mixed focus groups were intentionally used to allow consumers and clinicians to reflect on one another's perspectives and discuss shared system‐level issues. To minimise potential power imbalances and encourage open sharing, several strategies were employed: co‐facilitators with lived experience led the opening discussion; seating was arranged in a circle without hierarchical positioning; group agreements emphasised confidentiality and respectful listening; and consumer participants were provided with opportunities to speak first during sensitive topics. These strategies aimed to reduce social desirability bias and support psychological safety. To address potential confirmation bias associated with a patient‐centred approach, reflexivity strategies were embedded throughout the study. Data collection and analysis involved both consumers and clinician researchers, enabling peer debriefing and critical reflection on assumptions. Ongoing team discussions were used to challenge interpretations and ensure balanced representation of consumers and clinician perspectives.</p><p>No patient‐clinician relationship existed between the interviewer and participants before the study commencement. Each focus group lasted 120 min and was facilitated by researchers (P.B., L.M.) and co‐facilitated by consumers partners (R.B., D.M., E.J.). Lead researcher also took field notes during and immediately after each focus group. These notes captured contextual observations, points of emphasis, and nonverbal dynamics, and were used to support interpretation during coding and theme development. Participant demographic characteristics were recorded.</p></sec><sec id="jorc70055-sec-0110"><label>2.4</label><title>Data Analysis</title><p>A reflexive approach was adopted throughout analysis. Research team members documented assumptions and engaged in regular peer debriefing to discuss how their professional backgrounds (e.g., nephrology research, clinical practice, consumer lived experience) might influence interpretation. These practices supported transparency and helped mitigate potential confirmation bias.</p><p>Focus group discussions were audio‐recorded and then transcribed verbatim. Transcripts were de‐identified before analysis and entered into QSR NVivo 14 (QSR International Pty Ltd., Victoria, Australia) before being analysed. NVivo 14 was used to support data management and facilitate comparison of coding across researchers.</p><p>A codebook was developed (L.L., P.B., L.M.), who then analysed the transcripts line‐by‐line separately to identify each coherent idea. Analysis was undertaken by following the six stages of thematic analysis (Braun and Clarke <xref rid="jorc70055-bib-0004" ref-type="bibr">2019</xref>). After familiarising with the transcript, the first level coding was independently generated and analysed by L.L. and P.B. (transcripts 1 and 3), and L.L. and L.M. (transcript 2) using an inductive approach. Initial codes were grouped and collapsed into preliminary second‐level coding (subthemes) and refined until agreed upon by L.L., P.B. and L.M. After reading the analysis, all researchers discussed and compared the coding until full agreement was reached and dominant themes developed. Two researchers independently coded 100% of Transcripts 1 and 2, and a third researcher cross‐checked Transcript 3. Coding discrepancies were addressed through interpretive discussion to develop shared reflexive understanding, consistent with a reflexive thematic analysis approach rather than inter‐rater reliability testing.</p><p>Member checking was conducted by participants who reviewed theme summaries and commented on accuracy, resonance, and completeness. Consumers confirmed the overall thematic structure and provided clarifications that refined theme wording and interpretive emphasis.</p><p>Data sufficiency was monitored iteratively throughout analysis. Saturation was considered reached when no new conceptual insights, codes, or subthemes emerged across the focus group discussions, and when subsequent data repeated previously identified patterns. This decision was made collectively by the analysis team. Descriptive statistics (mean, median and frequency) were used to report demographic characteristics of the study population.</p><p>The Lincoln and Guba's criteria (Ahmed <xref rid="jorc70055-bib-0001" ref-type="bibr">2024</xref>) was used to enhance trustworthiness. Credibility was supported through prolonged engagement with participants from the Consumer Advisory Group, mixed focus groups including renal consumers and clinicians, triangulation of consumer and clinician perspectives, and member checking of theme summaries. A transparent audit trail, which includes documented analytic decisions, iterative team discussions, and use of NVivo to manage data systematically was strengthens dependability. Confirmability was supported through reflexive practices, peer debriefing, and the involvement of researchers with diverse disciplinary and lived‐experience backgrounds, ensuring interpretations were grounded in the data rather than individual assumptions. Transferability was addressed through comprehensive descriptions of the study context, participants, and analytic process, enabling readers to judge relevance to other settings.</p></sec><sec id="jorc70055-sec-0120"><label>2.5</label><title>Ethical Considerations</title><p>Before data collection commenced, potential participants were approached in‐person during clinic attendance, over the phone or via e‐mail by the study investigator or clinical staff. Those who expressed interest to participate were then approached by the principal investigator, who informed the study's aims and provided with a participant information sheet for review. All participants provided written informed consent. Participants were explicitly advised of their right to withdraw from the study at any time without any negative consequences. The study was conducted in accordance with the National Statement on the Ethical Conduct of Human (National Statement on Ethical Conduct in Human Research <xref rid="jorc70055-bib-0038" ref-type="bibr">2023</xref>).</p></sec></sec><sec sec-type="results" id="jorc70055-sec-0130"><label>3</label><title>Results</title><p>Eleven renal consumers (C) and six renal clinicians (CL) participated in the study. Only one potential participant withdrew prior to participation due to scheduling constraints. Table <xref rid="jorc70055-tbl-0001" ref-type="table">1</xref> outlines the demographic characteristics of the renal consumers participating in the focus group. Most consumers were receiving KRT (dialysis or transplant), with one participant not receiving KRT.</p><table-wrap position="float" id="jorc70055-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Characteristics of renal consumers participants (<italic toggle="yes">N</italic> = 11).</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Variables of renal consumers (<italic toggle="yes">N</italic> = 11)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="yes">n</italic> (%)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, year</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Median (range)</td><td align="center" valign="top" rowspan="1" colspan="1">46 (33 to 78 years)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Female</td><td align="center" valign="top" rowspan="1" colspan="1">4 (36)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ethnicity</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Australian Indigenous</td><td align="center" valign="top" rowspan="1" colspan="1">1 (9)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Australian non‐indigenous</td><td align="center" valign="top" rowspan="1" colspan="1">8 (73)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Others (England &amp; Bosnia/Herzegovina)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (18)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Current living situation</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">With family</td><td align="center" valign="top" rowspan="1" colspan="1">9 (82)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Alone</td><td align="center" valign="top" rowspan="1" colspan="1">2 (18)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Education</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Below high school</td><td align="center" valign="top" rowspan="1" colspan="1">1 (9)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Completed high school</td><td align="center" valign="top" rowspan="1" colspan="1">5 (45.5)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Higher than high school (diploma/master)</td><td align="center" valign="top" rowspan="1" colspan="1">5 (45.5)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Current kidney treatment modality</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Kidney Transplant</td><td align="center" valign="top" rowspan="1" colspan="1">6 (54)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Home Therapies</td><td align="center" valign="top" rowspan="1" colspan="1">1 (9)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Haemodialysis in centre</td><td align="center" valign="top" rowspan="1" colspan="1">3 (27)</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">CKD – not receiving KRT</td><td align="center" valign="top" rowspan="1" colspan="1">1 (9)</td></tr></tbody></table><table-wrap-foot><fn id="jorc70055-tbl1-note-0001"><p>Abbreviations: CKD, chronic kidney disease; KRT, kidney replacement therapy.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>Of the six participating renal clinicians, there were two nephrologists, two nephrology nurse practitioners, one CKD nurse and one renal dietitian. They had all been working in kidney care for more than 10 years.</p><p>As shown in Figure <xref rid="jorc70055-fig-0001" ref-type="fig">1</xref>, six themes and 18 subthemes were identified to describe what helped and hindered patients in the self‐management of their CKD. These themes capture interacting personal, relational and system‐level influences on self‐management. The themes identified were patient individuality, information and education resources, disease and treatment burden, healthcare team services, patient‐clinician relationship, and teaching and learning strategies. Direct quotes are included to exemplify each theme and subtheme and are summarised in Table <xref rid="jorc70055-tbl-0002" ref-type="table">2</xref>.</p><fig position="float" fig-type="Figure" id="jorc70055-fig-0001" orientation="portrait"><label>Figure 1</label><caption><p>Key themes in CKD management.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JORC-52-0-g001.jpg"/></fig><table-wrap position="float" id="jorc70055-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>Barriers and facilitators of self‐management of chronic kidney disease with exemplar quotes.</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" colspan="2" valign="bottom" rowspan="1">Themes and definition</th><th align="center" valign="bottom" rowspan="1" colspan="1">Barriers</th><th align="center" valign="bottom" rowspan="1" colspan="1">Facilitators</th><th align="center" valign="bottom" rowspan="1" colspan="1">Subtheme and quote exemplars</th></tr></thead><tbody valign="top"><tr><td valign="middle" rowspan="10" align="left" colspan="1">Patient individuality</td><td valign="middle" rowspan="10" align="left" colspan="1">Patient intrinsic factors influencing their behaviours to take an active role to self‐manage their CKD effectively.</td><td valign="middle" rowspan="10" align="center" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Health literacy differences</p></list-item><list-item><p>Lack of motivation</p></list-item><list-item><p>Passive attitude</p></list-item><list-item><p>Limited knowledge and awareness of CKD</p></list-item><list-item><p>Printed handout alone</p></list-item></list>
+</p>
+</td><td valign="middle" rowspan="10" align="center" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Positive mindset</p></list-item><list-item><p>Being in control</p></list-item><list-item><p>Personal competence</p></list-item><list-item><p>Experiential learning</p></list-item><list-item><p>Combined learning materials (app + pamphlet)</p></list-item><list-item><p>Caregiver support</p></list-item><list-item><p>In‐person education</p></list-item></list>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Patient characteristics</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>‘I attribute my good health to a positive attitude and doing what you're told’</p></list-item><list-item><p>‘You just have to think how much information you give contextualising with all of the other backgrounds of everyone's individual health literacy, their age, their other health conditions’</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Being in control</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>‘going down a dialysis path, you've got the whole dialysis team that you can have that back and forth communication but earlier on in that process it's dependent on the doctor to refer you to the dietitian or refer you to different services to get some education’</p></list-item><list-item><p>‘When I had a transplant, I was in control’</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Disease acceptance</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>‘the more you look after yourself, the easier it goes for you’</p></list-item><list-item><p>‘…people have bad experiences, and that could be part of the reason that they're being put off and not engaged because they don't want to front up to that’</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Patient learning style</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>‘Doctors first said to me, oh, don't eat chocolate, you can't eat chocolate. And I was like, ah, what do they know? I'll have some chocolate. Ended up in ED. I didn't realise how serious eating chocolate was’</p></list-item><list-item><p>‘App's are good in between time if you've got your nephrologist appointment in two weeks’ time but you've got a bit of a question that isn't an emergency situation, you could get a little bit of information around it and then flag it within nephrologist’</p></list-item><list-item><p>‘I couldn't have learned that from a pamphlet’</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Caregivers support network</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">‘</italic>Your family, the people you care for are great motivators to keep you on the track’</p></list-item><list-item><p>‘I pretty much self‐manage it all on my own. It would be nice to have family close by, but I don't have that option unfortunately’</p></list-item></list>
+</p>
+</td></tr><tr><td valign="middle" rowspan="8" align="left" colspan="1">Information and education resources</td><td valign="middle" rowspan="8" align="left" colspan="1">Learning, teaching, and research materials in any format and medium in the public domain that influence patients' knowledge of kidney disease</td><td valign="middle" rowspan="8" align="center" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Unrelievable information (outdated)</p></list-item><list-item><p>Lack of community understanding of CKD</p></list-item><list-item><p>Impersonalised approach</p></list-item></list>
+</p>
+</td><td valign="middle" rowspan="8" align="center" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Kidney consumer website</p></list-item><list-item><p>Online peer support</p></list-item></list>
+</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Patient education resource</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>‘I think pamphlets and stuff a bit of a waste, whereas even if it's just in the email, you can always get back through an email, even if it's months ago you can search up kidney health and it would come up in your search results, whereas if you have a pamphlet and you put it anywhere, it's just going to go in the bin eventually’.</p></list-item><list-item><p>‘That folder has sat in the cupboard, and I've never got it out since. I don't want to read this black and white folder that's cheaply printed, and I get it, everyone's time constraint, but that's just wasting their time and my time’</p></list-item></list>
+</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Internet peer information</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>‘I did a bit of self‐discovery with Instagram and once you filter through what's real and what's not and I've ended up connecting to about a thousand people. And most of the talk is less physical and more how are you coping’</p></list-item></list>
+</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Internet general information</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>‘Kidney Health Australia or Transplant Australia, I think are quite useful’</p></list-item><list-item><p>‘Some of the nutrition information, for example, is quite outdated’</p></list-item></list>
+</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Community understanding of CKD</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">‘people look diabetes, and hypertension is big in the community. Yeah. That's huge. But we don't get much information about kidney health’</italic>
+</td></tr><tr><td valign="middle" rowspan="8" align="left" colspan="1">Disease and treatment burden</td><td valign="middle" rowspan="8" align="left" colspan="1">Disease‐related factors inherent to CKD progression to influence self‐management and health activities</td><td valign="middle" rowspan="8" align="center" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Disease effect on physical wellbeing</p></list-item><list-item><p>Psychological stress to cope with CKD progression</p></list-item><list-item><p>Adverse effect of medications</p></list-item><list-item><p>Overwhelming effect of diet/fluid restriction</p></list-item><list-item><p>Cost of treatment</p></list-item><list-item><p>Perceived lack of financial support by the health services</p></list-item></list>
+</p>
+</td><td rowspan="8" align="center" valign="top" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Disease physical health burden</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">‘</italic>Before I was on dialysis, I was a sponsored athlete. Kidney disease has taken it away from me. If it's not with the fistula in the arm, it was the catheter in the chest and then it's not being able to sleep for nights. Then negative damage my legs. So now I can't run at all even to save my own life. I had to pretty much rediscover hobbies because it took every one of my lifestyles away’.</p></list-item></list>
+</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Disease mental health burden</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">‘I'd be driving to work some days going, that's a song they're going to play at my funeral. That's, that's the type of emotion that I had’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">‘you're in your own sense of suffering, you're more aware of it, you're aware of another layer, which is less medical and more mental’</italic>.</p></list-item></list>
+</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Disease treatment medication burden (medication, diet, fluid allowance)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">‘</italic>…<italic toggle="yes">the side effects still with the drugs that you have to use cause neuropathy. I can't really walk as far as you see, which cause me a lot of frustration’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">‘When I was first in hospital, they measured how much I drank in a day, and I drank six litres of water and that was a normal day for me. And then they cut me down to a litre and a half. Then, I've had a few instances where my potassium's been sky high, you think you can eat something and it's one of those things that I ate just last week so I can eat it again and then, I end up in ed’</italic>
+</p></list-item></list>
+</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Patient treatment costs</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">‘There's a high‐cost burden with all the dialysis and the associated medications and stuff and transport and car parking’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">‘Medication finances is a really big thing, and I believe that the doctors and the politicians should give a healthcare card to those that have got chronic illnesses and have lots of medications and everything. And then you would probably find that the compliance of tablets will be more forthcoming.’</italic>
+</p></list-item></list>
+</p>
+</td></tr><tr><td valign="middle" rowspan="4" align="left" colspan="1">Healthcare team services</td><td valign="middle" rowspan="4" align="left" colspan="1">Patients' extrinsic factors caused by healthcare services and clinicians with distinct roles.</td><td valign="middle" rowspan="4" align="center" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Incoordination of care</p></list-item><list-item><p>Fragmented healthcare service</p></list-item><list-item><p>Lack of mental health support in CKD</p></list-item></list>
+</p>
+</td><td rowspan="4" align="center" valign="top" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">Interdisciplinary and cross‐sector integration</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">‘it is quite uncoordinated from a patient point of view at times, like it is a bit disconnected’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">‘oh my God, none of you guys talked to each other, it's hilarious’</italic>
+</p></list-item><list-item><p>‘<italic toggle="yes">the only thing I found frustrating in the whole thing is the disconnect between the private health system and the public health system</italic>
+</p></list-item></list>
+</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Mental health support</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">‘prioritizing my kidney health and mental health, which are kind of connected’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">‘I've had several different episodes throughout my kidney disease pathway. It would've been useful for health professionals to actually talk about the mental health side of things, but it was not’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">‘there's not necessarily a focus on mental health’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">‘maybe you needed more referrals for emotional support maybe or that type of counselling that’</italic>.</p></list-item></list>
+</p>
+</td></tr><tr><td valign="middle" rowspan="8" align="left" colspan="1">Patient–clinician relationship</td><td valign="middle" rowspan="8" align="left" colspan="1">Influencing factors that affect clinicians‐patient communication, rapport and trust positively or negatively</td><td valign="middle" rowspan="8" align="center" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Inefficient patient‐clinician communication</p></list-item><list-item><p>Clinician empathy</p></list-item><list-item><p>Didactic health advice</p></list-item><list-item><p>Inconsistent information</p></list-item></list>
+</p>
+</td><td valign="middle" rowspan="8" align="center" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Patient satisfaction/trust in clinicians</p></list-item><list-item><p>Effective communication</p></list-item><list-item><p>Person‐centred care approach</p></list-item><list-item><p>Clinician availability</p></list-item></list>
+</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Patient–clinician relationship</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">‘Self‐management and making sure someone feel empowered is all about shared decision making’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">‘If they said to me, go and stand in that corner for 20 min after every meal, I go and stand in the corner for 20 min. You got to trust that the people around you that are giving you professional advice’</italic>
+</p></list-item></list>
+</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Person‐centred care</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">‘They care about me as the person, not me as a patient’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">‘what worked for me might be completely opposite for someone else’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">‘Some of them are just so dry and it's hard to have a genuine conversation’</italic>
+</p></list-item></list>
+</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Clinical teaching style</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">‘it's how we can give that consistent message to help support people through that journey is probably one thing that I see’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">‘a lot of the patients get bit dazzled with all the jargon and they need to ask what all this means’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">‘this person's just telling me not giving me an opportunity to explain, speak and questions’</italic>
+</p></list-item></list>
+</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Incorporating patient goals</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">‘and having patients bringing their expertise, which is what your life goals and values are, and then working with doctors and health professionals who have expertise in evidence‐based medicine and working together to get the best outcome’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">‘It makes people feel in control of whatever decision they come to; that's much more effective than sort of the old school way of telling people what to do’</italic>
+</p></list-item></list>
+</p>
+</td></tr><tr><td valign="middle" rowspan="4" align="left" colspan="1">Teaching and learning strategies</td><td valign="middle" rowspan="4" align="left" colspan="1">Patients' perception of clinician influencing factors that promote critical and reflective thinking, skills and confidence to self‐manage their CKD</td><td valign="middle" rowspan="4" align="center" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Clinician lack of time</p></list-item><list-item><p>Clinician lack of responsiveness</p></list-item><list-item><p>Use of jargon</p></list-item><list-item><p>Feeling overwhelmed with information</p></list-item></list>
+</p>
+</td><td valign="middle" rowspan="4" align="center" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>Including patients’ healthcare goals</p></list-item><list-item><p>Individualised approach</p></list-item><list-item><p>Breaking down barriers</p></list-item><list-item><p>Tailored education</p></list-item><list-item><p>Interacting with peers</p></list-item><list-item><p>Staff competence</p></list-item></list>
+</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Identifying small steps and goals</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">‘when they can break it down to a level that I understand, that's when I found my outcomes become a lot better’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">‘One of the things that I've learned to do or make a point of doing is asking people what's important to them’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">‘Just going out and doing things that I like doing, like going movies or going out with friends’</italic>
+</p></list-item></list>
+</p>
+</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">Learning from peers with kidney disease</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">
+<p>
+<list list-type="bullet"><list-item><p>
+<italic toggle="yes">‘…it's not another brochure, it's got to be a real‐life story, it's got to feel real and authentic’</italic>
+</p></list-item><list-item><p>
+<italic toggle="yes">because I would've had someone else to talk to bounce, you know exactly what you're saying’</italic>
+</p></list-item></list>
+</p>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder></permissions></table-wrap><p>The results are presented using a consistent qualitative analytic structure, with each theme defined, supported by illustrative data excerpts, and followed by analytical commentary explaining how the data demonstrate the identified findings.</p><sec id="jorc70055-sec-0140"><label>3.1</label><title>Theme 1: Patient Individuality</title><p>Patient individuality refers to a person's intrinsic factors influencing their behaviours to take an active role to self‐manage their CKD effectively. This theme highlights how patients' attitudes, experiences, learning preferences and social support shape their capacity to manage CKD. Five subthemes were identified: patient characteristics, being in control, disease acceptance, patient learning style, and caregiver support network.</p><sec id="jorc70055-sec-0150"><label>3.1.1</label><title>Patient Characteristics</title><p>Some participants expressed the importance of a positive mindset to help self‐manage their kidney disease and maintain their well‐being avoiding negative thoughts ‘I attribute my good health to a positive attitude and doing what you're told’ (C3‐FG2) and ‘…not focused on too much of the bad things’ (C3‐FG1) were examples of this. These accounts suggest that optimism and acceptance may support ongoing engagement with health behaviours. One clinician highlighted the importance of tailoring information to patient demographics, health literacy and clinical characteristics by stating ‘You just have to think how much information you give contextualising with all of the other backgrounds of everyone's individual health literacy, their age, their other health conditions’ (C1‐FG3). Clinicians often framed individuality in terms of health literacy, comorbidities, and information‐processing capacity, whereas consumers described individuality more in terms of personal mindset and emotional coping. This contrast shaped how each group understood the barriers to self‐management.</p></sec><sec id="jorc70055-sec-0160"><label>3.1.2</label><title>Being in Control</title><p>The theme of being in control of one's health involved the participants' proactive choices and actions to maintain or improve a healthy lifestyle. However, patients noted that opportunities to exercise control varied depending on their stage of kidney disease and treatment modality. Those receiving KRT described having more opportunities for being in control and communication with the healthcare team compared with those not yet receiving KRT <italic toggle="yes">‘…</italic>going down a dialysis path, you've got the whole dialysis team that you can have that back and forth communication but earlier on in that process it's dependent on the doctor to refer you to the dietitian or refer you to different services to get some education<italic toggle="yes">’</italic> (C1‐FG3). These accounts demonstrate that perceived control was strongly linked to treatment modality and service structure. Patients on KRT described regular interactions with staff that increased their confidence and sense of agency, whereas those earlier in their CKD journey reported limited access to multidisciplinary support, shaping a reduced sense of control. In contrast, another patient expressed ‘<italic toggle="yes">When I had a transplant, I was in control</italic>’ (C4‐FG1) as the only time he felt truly in control of his health.</p></sec><sec id="jorc70055-sec-0170"><label>3.1.3</label><title>Disease Acceptance</title><p>Disease acceptance involves adapting to their kidney disease, acknowledging its limitations, and finding ways to integrate their CKD into their life while maintaining a positive attitude. Many participants shared that living with CKD over time helped them better manage the condition and come to terms with its limitations. All participants recognised that self‐management is crucial to maintain or improve their well‐being ‘the more you look after yourself, the easier it goes for you’ (C1‐FG3). However, several participants explained their lack of knowledge of their CKD trajectory and its limitations, which often led to negative thoughts and emotions hindering them from engaging in self‐management behaviour ‘…people have bad experiences, and that could be part of the reason that they're being put off and not engaged because they don't want to front up to that’ (C3‐FG2). This suggests that emotional readiness and understanding are critical components of effective self‐management.</p></sec><sec id="jorc70055-sec-0180"><label>3.1.4</label><title>Patient Learning Style</title><p>Patients have different ways to learn how to look after their health; some participants did not like printed handouts ‘I couldn't have learned that from a pamphlet’ (C3‐FG1) while others prefer the use of apps “…apps are good in between time if you've got your nephrologist appointment but you've got a bit of a question that isn't an emergency situation, you could get a little bit of information around it and then flag it within nephrologist” (C3‐FG3). Some learnt the importance to self‐management of their health through a life‐threatening experience ‘doctors first said to me, oh, don't eat chocolate, you can't eat chocolate. I'll have some chocolate. Ended up in ED. I didn't realise how serious eating chocolate was’ (C3‐FG3). These findings indicate that flexible, multimodal education approaches are needed to accommodate individual learning styles.</p></sec><sec id="jorc70055-sec-0190"><label>3.1.5</label><title>Caregiver Support Network</title><p>Patients expressed the valuable emotional and psychological support from their caregivers (family/friends) in helping and motivating them to manage their health. Their support and supervision helped patients solve their health problems that arose during the illness trajectory ‘your family, the people you care for are great motivators to keep you on the track’ (C1, FG2). The absence of social support hindered them from self‐managing their healthcare: ‘I pretty much self‐manage it all on my own. It would be nice to have family close by, but I don't have that option unfortunately’ (C3‐FG3). This underscores the role of social support in sustaining self‐management behaviours.</p></sec></sec><sec id="jorc70055-sec-0200"><label>3.2</label><title>Theme 2: Information and Education Resources</title><p>Information and education resources refer to learning, teaching, and research materials in any format and medium in the public domain that influence patients' knowledge of kidney disease. This theme describes how patients and clinicians evaluate the availability, usefulness, and personal relevance of CKD information. It reflects how resource format, clarity, currency, and accessibility shape patients' ability to understand and act on health advice. This theme comprised four subthemes or categories: patient education resources, internet peer information, internet general information, and community understanding of CKD.</p><sec id="jorc70055-sec-0210"><label>3.2.1</label><title>Patient Education Resources</title><p>Participants expressed that paper‐based information itself is not helpful in self‐managing their CKD ‘I think pamphlets and stuff are a bit of a waste, whereas even if it's just in the email, you can always get back through an email, even if it's months ago you can search up kidney health and it would come up in your search results, whereas if you have a pamphlet and you put it anywhere, it's just going to go in the bin eventually<italic toggle="yes">’</italic> (C3‐FG3) and ‘That folder has sat in the cupboard, and I've never got it out since. I don't want to read this black and white folder that's cheaply printed, and I get it, everyone's time constraint, but that's just wasting their time and my time' (C3‐FG1) are examples of this. These findings indicate a mismatch between educational delivery methods and patient preferences.</p></sec><sec id="jorc70055-sec-0220"><label>3.2.2</label><title>Internet Peer Information</title><p>Participants reported that social networks help because they can learn from the lived experiences of others, especially in terms of coping mechanisms. However, there are biases because patients have a different lived experience with CKD ‘I did a bit of self‐discovery with Instagram and once you filter through what's real and what's not and I've ended up connecting to about a thousand people. And most of the talk is less physical and more how are you coping’ (C4‐FG1). While peer information was supportive, participants acknowledged variability in experiences, highlighting both the value and limitations of informal online networks.</p></sec><sec id="jorc70055-sec-0230"><label>3.2.3</label><title>Internet General Information</title><p>Kidney health online resources were discussed as relevant educational materials ‘Kidney Health Australia or Transplant Australia, I think are quite useful’ (C1, FG1). Those materials are useful and easy to access wherever the patients are, but they are not personalised and can sometimes be obsolete, as remarked by a clinician: ‘Some of the nutrition information, for example, is quite outdated’ (CL2, FG2). This suggests that while online resources are accessible, they require regular updating and contextualisation.</p></sec><sec id="jorc70055-sec-0240"><label>3.2.4</label><title>Community Understanding of CKD</title><p>Participants expressed that the understanding of kidney disease in the community is often limited, especially in disadvantaged communities such as First Nations people where CKD is highly prevalent. This sentiment was capture in the following statement: ‘…people look diabetes and hypertension is big in the community. That's huge. But we don't get much information about kidney health’ (C1‐FG1) These accounts point to broader social factors influencing self‐management.</p></sec></sec><sec id="jorc70055-sec-0250"><label>3.3</label><title>Theme 3: Disease and Treatment Burden</title><p>Disease and treatment burden refers to disease‐related factors inherent to disease progression as a barrier to engaging in healthy activities. This theme captures the physical, psychological, and practical impacts of CKD and its treatments that inhibit patients' capacity to self‐manage. Burden was described not only as symptom‐related but as an accumulation of disruptions across daily life, identity, work, finances, and relationships. Four overarching subthemes were found: disease physical health burden, disease mental health burden, disease treatment burden (medication, diet, fluid allowance) and patient treatment costs.</p><sec id="jorc70055-sec-0260"><label>3.3.1</label><title>Disease Physical Health Burden</title><p>Participants perceived CKD physical symptoms negatively impacted their daily activities hindering them from self‐managing their health and making them feel like they were losing their autonomy. This sentiment is captured in the following statement: ‘Before I was on dialysis, I was a sponsored athlete. Kidney disease has taken it away from me. If it's not with the fistula in the arm, it was the catheter in the chest and then it's not being able to sleep for nights. Then negative damage my legs. So now I can't run at all even to save my own life. I had to pretty much rediscover hobbies because it took every one of my lifestyles away’ (C3‐FG3). These experiences illustrate how declining physical capacity can undermine self‐management.</p></sec><sec id="jorc70055-sec-0270"><label>3.3.2</label><title>Disease Mental Health Burden</title><p>Participants reported the effect of dialysis initiation making them feel overwhelmed by emotions such as denial, anger, depression, frustration and fear of the unknown. This was echoed in the following quotes: ‘I'd be driving to work some days going, that's a song they're going to play at my funeral. That's, that's the type of emotion that I had’ (C3‐FG1) and ‘…you are in your own sense of suffering, you're more aware of it, you're aware of another layer, which is less medical and more mental’ (C4‐FG1). These findings emphasise the close relationship between mental health and self‐management capacity.</p></sec><sec id="jorc70055-sec-0280"><label>3.3.3</label><title>Disease Treatment Burden (Medication, Diet, Fluid Allowance)</title><p>A patient's ability to manage their symptoms is more effective when the symptoms are better controlled; however, the adverse effect of some medications or difficulties in adjusting the diet and fluid allowance can negatively aggravate or add new symptoms, negatively impacting their daily activities and hindering them from self‐managing their health ‘…the side effects still with the drugs that you have to use cause neuropathy. I can't really walk as far as you see, which cause me a lot of frustration’ (C2‐FG3). ‘When I was first in hospital, they measured how much I drank, and I drank six litres of water and that was a normal day for me. And then they cut me down to a litre and a half. Then, I've had a few instances where my potassium's been sky high, you think you can eat something and it's one of those things that I ate just last week so I can eat it again and then, I ended up in ED<italic toggle="yes">’</italic> (C3‐FG3). Participants recounted frustration and adverse events resulting from treatment complexity, illustrating how treatment demands can compound disease burden and hinder self‐management.</p></sec><sec id="jorc70055-sec-0290"><label>3.3.4</label><title>Patient Treatment Costs</title><p>Treatment costs related to CKD were a barrier to adhering to medical recommendations among patients ‘There's a high‐cost burden with all the dialysis and the associated medications and transport and car parking’ (CL1‐FG3) as expressed by an interviewed clinician. While a patient expressed ‘Medication finances is a really big thing, and I believe that the doctors and the politicians should give a healthcare card to those that have got chronic illnesses and have lots of medications and everything. And then you would probably find that the compliance of tablets will be more forthcoming’ (C1‐FG3). Participants suggested that financial support could improve adherence and outcomes.</p></sec></sec><sec id="jorc70055-sec-0300"><label>3.4</label><title>Theme 4: Healthcare Team Services</title><p>Healthcare team services refer to healthcare service factors that help or hinder patients' self‐management behaviours. This theme describes how the organisation, coordination, and responsiveness of healthcare services influence patients' ability to self‐manage. It reflects both consumer experiences of fragmentation and clinician recognition of system constraints. This theme comprised two subthemes: interdisciplinary and cross‐sector integration, and mental health support.</p><sec id="jorc70055-sec-0310"><label>3.4.1</label><title>Interdisciplinary and Cross‐Sector Integration</title><p>Ineffective communication between clinicians and patients emerged as a key factor that hindered patients from trusting the health system and engaging with them to take more proactive action to self‐management their CKD. This point is echoed in the following quotes: ‘It is quite uncoordinated from a patient point of view at times, like it is a bit disconnected’ (C1‐FG1) and ‘…oh my God, none of you guys talked to each other, it's hilarious’ (C4‐FG1). A lack of coordination and unresponsiveness within the healthcare system was reflected in this quote ‘I found frustrating the disconnection between the private health system and the public health system’ (C3‐FG2). These accounts highlight how lack of coordination undermines confidence and continuity of care.</p></sec><sec id="jorc70055-sec-0320"><label>3.4.2</label><title>Mental Health Support</title><p>Participants expressed the detrimental effect of their CKD progression and dialysis initiation on mental health and the lack of mental health support. Participants remarked on the importance of prioritising mental health support and for renal services to routinely monitor the mental status of their patients, ‘Prioritising my kidney health and mental health, which are kind of connected’ (C4‐FG1). But the mental health support received in the renal service is limited I've had several different episodes throughout my kidney disease pathway. It would've been useful for health professionals to actually talk about the mental health side of things, but it was not’ (C3‐FG1). This indicates a gap in routine service provision.</p></sec></sec><sec id="jorc70055-sec-0330"><label>3.5</label><title>Theme 5: Patient–Clinician Relationship</title><p>Patient‐clinician relationship refers to influencing factors that affect health professional‐patient communication, rapport and trust positively or negatively. This theme highlights relational factors shaping communication, trust and engagement. This theme comprised four subthemes: patient‐clinician relationship, person‐centred care, clinical teaching style and incorporating patient goals.</p><sec id="jorc70055-sec-0340"><label>3.5.1</label><title>Patient–Clinician Relationship</title><p>The patient–clinician relationship, built on respect, trust, and open communication, was described as crucial for engaging patients in more positive self‐care behaviour. This is illustrated by the following quotes: ‘Self‐management and making sure someone feel empowered is all about shared decision making’ (CL1‐FG1) and ‘If they said to me, go and stand in that corner for 20 min after every meal, I go and stand in the corner for 20 min. You're going to trust that the people around you that are giving you professional advice’ (C3‐FG2). Both clinicians and consumers described trust and shared decision‐making as central to effective self‐management, underscoring the influence of relational trust.</p></sec><sec id="jorc70055-sec-0350"><label>3.5.2</label><title>Person‐Centred Care</title><p>Participants described the importance of person‐centred care to enable self‐management of their CKD ‘They care about me as the person, not me as a patient’ (C2‐FG1). However, this approach needs to be tailored to the patient's characteristics and needs ‘What worked for me might be completely opposite for someone else’ (C3‐FG3). Patients also expressed frustration when clinicians do not show empathy or listen to the patients ‘Some of them are just so dry and it's hard to have a genuine conversation’ (C3‐FG3). Consumers emphasised the emotional qualities of the relationship (feeling heard, respected), while clinicians focused on communication consistency and clarity. This divergence reflects different priorities, but both recognise the relational foundation of effective self‐management support.</p></sec><sec id="jorc70055-sec-0360"><label>3.5.3</label><title>Clinician Teaching Style</title><p>A clinician's teaching style focuses on the practical, real‐world application of knowledge and skills to enable patients to understand their disease and its symptoms, self‐manage their condition, and when to seek medical advice. To enable patient active engagement in their healthcare, there is a need to provide clear and consistent instructions ‘…it's how we can give that consistent message to help support people through that journey is probably one thing that I see’ (CL1‐FG3) and ‘A lot of the patients get a bit dazzled with all the jargon and they need to ask what all this means’ (C2‐FG3) are examples of this. However, a lack of responsiveness from some clinicians hinders patients to engage in the learning process ‘This person's just telling me not giving me an opportunity to explain, speak and questions’ (C1‐FG1). These accounts illustrate how complex language and unresponsive communication can hinder learning and self‐management.</p></sec><sec id="jorc70055-sec-0370"><label>3.5.4</label><title>Incorporating Patient Goals</title><p>Setting clear goals, developing effective strategies and engaging patients in problem solving are crucial to engage patients to take control of their health. This approach was acknowledged by patients and clinicians from participating in this study ‘<italic toggle="yes">…</italic>and having patients bringing their expertise, which is what your life goals and values are, and then working with health professionals who have expertise in evidence‐based medicine and working together to get the best outcome’ (CL1‐FG1) and ‘It makes people feel in control of whatever decision they come to; that's much more effective than sort of the old school way of telling people what to do’ (CL2‐FG1). Both consumer and clinicians emphasised the importance of aligning care with patients' personal goals, describing goal setting as empowering and more effective than directive approaches.</p></sec></sec><sec id="jorc70055-sec-0380"><label>3.6</label><title>Theme 6: Teaching and Learning Strategies</title><p>Teaching and learning strategies refer to influencing factors that promote critical and reflective thinking and skills, helping patients take positive action to protect, enhance, and advocate for their healthcare and well‐being. While Theme 1 focuses on individual readiness and Theme 2 on informational resources, this theme addresses how learning is facilitated through approaches such as breaking information into manageable steps, tailoring advice, and using peer learning. This theme comprised two subthemes: identifying small steps and patients' goals and learning from peers with kidney disease.</p><sec id="jorc70055-sec-0390"><label>3.6.1</label><title>Identifying Small Steps and Patient's Goals</title><p>Clinicians and patients can agree on small, realistic steps toward healthier behaviours, helping to avoid overwhelming patients and to set them up to succeed ‘when they can break it down to a level that I understand, that's when I found my outcomes become a lot better” is an example of this’ (C2, FG1) illustrated this. Clinicians also described asking what matters to patients ‘One of the things that I've learned to do or make a point of doing is asking people what's important to them’ (CL2‐FG2). A consumer described motivation linked to maintaining valued activities ‘Just going out and doing things that I like doing, like going movies or going out with friends’ was expressed by a consumer' (C3‐FG1). These accounts show how breaking behaviours into manageable steps and aligning care with individual goals can reduce feelings of being overwhelmed and support sustained engagement.</p></sec><sec id="jorc70055-sec-0400"><label>3.6.2</label><title>Learning from Peers With Kidney Disease</title><p>Participants expressed the positive impact of peer support on improving their knowledge and skills to self‐manage their CKD: ‘…it's not another brochure, it's going to be a real life story, it's going to feel real and authentic’ (C4, FG1) and ‘<italic toggle="yes">…</italic>because I would've had someone else to talk to bounce, you know exactly what you're saying’ (C2, FG1). Peer learning was described as authentic, relatable and emotionally supportive. Participants described valuing learning from others with lived experience rather than formal educational materials alone.</p><p>Together, these themes demonstrate that CKD self‐management is shaped by interacting personal, relational and system‐level factors, providing the foundation for the interpretive discussion that follows.</p></sec></sec></sec><sec sec-type="discussion" id="jorc70055-sec-0410"><label>4</label><title>Discussion</title><p>This study aimed to explore barriers and facilitators to CKD self‐management by bringing together the perspectives of patients and clinicians in a consumer‐led, mixed‐stakeholder focus group format. The findings reveal how individual, relational, and systemic factors interact to influence patients' knowledge, skills, and confidence, core components of patient activation. While previous research has identified a range of barriers and facilitators to CKD self‐management, less is known about how consumers and clinicians jointly understand and negotiate these influences within routine renal services, as informed by participants' retrospective reflections on earlier stages of their CKD journey when they were not yet receiving KRT. In the Australian context, where access to multidisciplinary and psychosocial supports can vary, this consumer‐led, mixed‐stakeholder approach provides new insight into how system structures, communication practices, and patient readiness interact to shape self‐management capability.</p><p>Focus groups, facilitated by consumer researchers demonstrated that CKD self‐management is shaped by interacting facilitators and barriers across emotional, informational, relational, and system‐level domains. Key facilitators included a positive mindset, a sense of control, caregiver support, patient satisfaction and trust in clinicians, effective communication, a patient‐centred care approach, and tailored education. Key barriers included limited knowledge and awareness of CKD, passive attitudes, the burden of disease and treatment, psychological distress related to disease progression, uncoordinated care, lack of mental health support, and ineffective communication with clinicians. Importantly, participants described these influences as dynamic and mutually reinforcing rather than isolated factors. By adopting a consumer‐led qualitative approach where consumers informed the development and delivery of questions to participants, this research treated patients as partners in knowledge generation, straightening relevance and applicability of findings for clinical practice.</p><p>Our study provides insight into the perspectives of patients with advanced CKD, their information priorities and reasons underpinning their preferences to improve their knowledge, skills and confidence (patient activation components) to optimise their self‐management. Patient individuality, for example, aligns with the activation domains of knowledge, skills, and confidence, where low health literacy or passive attitudes indicate limited activation, while a positive mindset, perceived control and experiential learning reflect higher activation. Similarly, barriers such as treatment burden and fragmented care can be understood as factors that interfere CKD patients' ability to translate knowledge into confident self‐management behaviours. Conversely, facilitators such as shared decision‐making and person‐centred communication are strategies that might enhance activation by increasing patients' perception of empowerment and control over their healthcare. Explicitly situating each theme within the patient activation approach highlights that interventions need not only to address surface‐level barriers but also to build the underlying capacity required for sustained self‐management behaviour.</p><p>We found that recognising and responding to patient individuality via tailored self‐management programs is important to facilitate active engagement in CKD care. This has also been demonstrated in prior studies that show that personalised approaches are needed to enable patients to take an active and effective role in their healthcare (Lightfoot et al. <xref rid="jorc70055-bib-0031" ref-type="bibr">2022</xref>). Such tailoring is especially important for patients who have a passive attitude towards their health management, as is often observed among older or vulnerable populations (Fracso et al. <xref rid="jorc70055-bib-0016" ref-type="bibr">2022</xref>). Our study highlighted passivity as a key barrier that limits patients' acquisition of the knowledge and skills necessary for self‐management, consistent with previous research (Hwang et al. <xref rid="jorc70055-bib-0027" ref-type="bibr">2020</xref>; Lopez‐Vargas et al. <xref rid="jorc70055-bib-0033" ref-type="bibr">2014</xref>). An individualised strategy should begin by assessing a patient's level of engagement and, where necessary, focus on increasing their activation and capacity for self‐management. An individualised approach also needs to recognise the extent to which patients feel overwhelmed by the cumulative burden of symptoms, treatments, and appointments, as well as understanding the availability and strength of social support systems (family/friends). Tailoring care to these characteristics can help bridge support gaps or leverage existing networks to encourage and sustain patient self‐management. Participants described self‐management as a dynamic and relational process shaped by personal readiness, emotional regulation, system navigation, and clinician communication. A notable and somewhat unexpected finding was how strongly treatment modality and service structure shaped participants' sense of control, with consumers describing substantially more access to education and support after commencing KRT than earlier in their CKD journey.</p><p>Emotional burden emerged as a central influence on self‐management capability, with fear, grief, and uncertainty reducing cognitive capacity to process information or adopt recommended behaviours. This supports growing evidence that psychological distress undermines self‐management and highlights the need to integrate mental health support within CKD models of care rather than treating it as an adjunct (Cardol et al. <xref rid="jorc70055-bib-0007" ref-type="bibr">2023</xref>; Escudero‐Lopez et al. <xref rid="jorc70055-bib-0014" ref-type="bibr">2024</xref>; Schmill et al. <xref rid="jorc70055-bib-0039" ref-type="bibr">2025</xref>). Consistent with recent studies, caregiver support was described as alleviating distress and enhancing patients' capacity to adhere to self‐management behaviours, reinforcing the importance of recognising patients' social context when designing interventions (Escudero‐Lopez et al. <xref rid="jorc70055-bib-0014" ref-type="bibr">2024</xref>; Gao et al. <xref rid="jorc70055-bib-0017" ref-type="bibr">2025</xref>). These findings highlight the importance of recognising each patient's unique circumstances throughout their CKD self‐management journey.</p><p>Our study found that the availability of information and resources about CKD was identified as another important factor influencing patient self‐management. Participants expressed limited availability of CKD prevention information within the community, noting that both paper‐based and online information are not always up to date and often fail to consider individual characteristics such as educational level, age, or health literacy. These concerns align with those reported in previous studies which similarly identified a lack of practical tailored education that builds patients' confidence and skills in managing their condition (Griva et al. <xref rid="jorc70055-bib-0018" ref-type="bibr">2013</xref>; Lee et al. <xref rid="jorc70055-bib-0030" ref-type="bibr">2021</xref>; Lightfoot et al. <xref rid="jorc70055-bib-0031" ref-type="bibr">2022</xref>). Our findings also revealed an overlap between this issue and the broader theme of patient individuality, in that the overload of generic, paper‐based information fails to consider the diverse needs of patients. While some participants found paper‐based materials and websites helpful for improving kidney‐related knowledge, they maintained that many of these are not appropriate for populations with limited health or digital literacy and are not tailored to individual needs to self‐manage their CKD. These insights reinforce the need for tailored self‐management education and ongoing support that responds to each patient's capabilities and context based on the patient's preferences, rather than relying solely on standardised materials (Escudero‐Lopez et al. <xref rid="jorc70055-bib-0014" ref-type="bibr">2024</xref>; Lunardi et al. <xref rid="jorc70055-bib-0034" ref-type="bibr">2023</xref>).</p><p>Our finding that disease and treatment burden can significantly hinder a patient's ability to self‐manage their CKD aligns with previous research, which highlights that patients with advanced CKD commonly experience substantial physical, particularly fatigue, and mental health burdens (Guerra et al. <xref rid="jorc70055-bib-0019" ref-type="bibr">2021</xref>; Lopez‐Vargas et al. <xref rid="jorc70055-bib-0033" ref-type="bibr">2014</xref>). Hence, it is vital to differentiate CKD patients' passive attitudes, disease acceptance or physical/mental health burden that require a more urgent assessment and treatment. Mental health burden was identified in the present study as one of the most common barriers to active self‐management. The emotional burden associated with CKD progression is not always diagnosed and managed in a timely manner by clinicians (Gao et al. <xref rid="jorc70055-bib-0017" ref-type="bibr">2025</xref>; Lopez‐Vargas et al. <xref rid="jorc70055-bib-0033" ref-type="bibr">2014</xref>). Findings from our study highlighted the adverse effect of suffering from advanced CKD, changing nearly every aspect of daily living, including employment, social life, diet and exercise, while at the same time adding an extra financial burden (income and insurance), often causing emotional distress. Our findings are consistent with prior studies highlighting the risk of mental health deterioration due to the overwhelming life changes imposed by CKD (Guerra et al. <xref rid="jorc70055-bib-0019" ref-type="bibr">2021</xref>; Lightfoot et al. <xref rid="jorc70055-bib-0031" ref-type="bibr">2022</xref>; Lopez‐Vargas et al. <xref rid="jorc70055-bib-0033" ref-type="bibr">2014</xref>). Addressing disease and treatment burden holistically is thus crucial to supporting patients' capacity to engage in self‐management.</p><p>Access to healthcare team services, particularly mental health and allied health support, emerged as another key theme influencing CKD self‐management. Participants who had not yet commenced KRT reported fewer interactions with allied health professionals, such as dietitians, pharmacists, and psychologists, and identified a notable gap in mental health support. This finding is consistent with previous research indicating that patients not yet on dialysis often receive less structured and coordinated care, despite experiencing substantial disease burden (Guerra et al. <xref rid="jorc70055-bib-0019" ref-type="bibr">2021</xref>; Hong et al. <xref rid="jorc70055-bib-0025" ref-type="bibr">2017</xref>; Lightfoot et al. <xref rid="jorc70055-bib-0031" ref-type="bibr">2022</xref>; Majeed‐Ariss et al. <xref rid="jorc70055-bib-0037" ref-type="bibr">2017</xref>). The substantial physical and psychological burden of CKD and its treatments can reduce patients’ motivation and capacity to self‐manage their condition, potentially contributing to the onset or exacerbation of psychological distress, particularly in the absence of appropriate healthcare support (Gao et al. <xref rid="jorc70055-bib-0017" ref-type="bibr">2025</xref>; Lightfoot et al. <xref rid="jorc70055-bib-0031" ref-type="bibr">2022</xref>; Lopez‐Vargas et al. <xref rid="jorc70055-bib-0033" ref-type="bibr">2014</xref>; Magadi et al. <xref rid="jorc70055-bib-0036" ref-type="bibr">2022</xref>). If effective healthcare can alleviate symptom burden, patients may feel more able to undertake self‐management tasks (Allen et al. <xref rid="jorc70055-bib-0002" ref-type="bibr">2024</xref>; Magadi et al. <xref rid="jorc70055-bib-0036" ref-type="bibr">2022</xref>; Schrauben et al. <xref rid="jorc70055-bib-0041" ref-type="bibr">2018</xref>). While a recent systematic review has highlighted the importance of tailored psychological interventions before dialysis initiation though a patient‐centred care approach (Byrne et al. <xref rid="jorc70055-bib-0006" ref-type="bibr">2023</xref>), our findings highlight that such support is not routinely available. Participants and clinicians alike recognised that effective symptom management and psychosocial support can enhance patients' motivation and capacity to engage in self‐management tasks. A further key theme identified in our study was the importance of a patient‐clinician relationship that encompasses both emotional and informational components, including mutual trust, empathy, respect and acceptance for effective communication. Participants emphasised the value of long‐term relationships with clinicians, where trust, empathy and respect had been established over time. Conversely, ineffective communication, especially the use of jargon, was seen as hindering patients from participating in the shared decision‐making process and self‐managing their CKD. The patient‐clinician relationship is central to patient‐centred care, fostering trust, mutual respect and shared decision‐making, as well as an understanding of the patient's healthcare needs and preferences (Lightfoot et al. <xref rid="jorc70055-bib-0031" ref-type="bibr">2022</xref>). Although clinicians recognised the importance of relational care, they also described structural and time‐based constraints that limited their ability to consistently provide personalised support. This divergence highlights the need for system‐level changes, alongside communication training, to support meaningful clinician‐patient engagement.</p><p>Clinician teaching strategies that promote critical and reflective thinking, skills and confidence for patients to learn how to effectively self‐manage their CKD was the final key theme identified as essential for effective self‐management in our study. This aligns with previous research suggesting that patients who possess the skills and confidence to shape more productive interactions can achieve effective communication with their clinicians and are more adept at getting their healthcare providers to be responsive to their needs (Lightfoot et al. <xref rid="jorc70055-bib-0031" ref-type="bibr">2022</xref>). These findings align with evidence demonstrating that education, coaching, and/or counselling can enhance activation and self‐management behaviours in CKD (Allen et al. <xref rid="jorc70055-bib-0002" ref-type="bibr">2024</xref>; Lightfoot et al. <xref rid="jorc70055-bib-0031" ref-type="bibr">2022</xref>; Lunardi et al. <xref rid="jorc70055-bib-0035" ref-type="bibr">2024</xref>).</p><p>Patients with CKD require accessible and responsive clinicians who can offer clear, personalised guidance, not only to educate them about their illness but also to motivate and support them, particularly during periods of emotional distress, demotivation, frustration or mental health decline (Escudero‐Lopez et al. <xref rid="jorc70055-bib-0014" ref-type="bibr">2024</xref>; Lunardi et al. <xref rid="jorc70055-bib-0035" ref-type="bibr">2024</xref>). This finding aligns with previous systematic reviews highlighting the critical role of clinicians in building patients' capacity and equipping them with the necessary resources to overcome self‐managing barriers (Escudero‐Lopez et al. <xref rid="jorc70055-bib-0014" ref-type="bibr">2024</xref>). Effective self‐management of CKD is grounded in a dynamic partnership, where both patient and clinician contribute their respective expertise (lived experience and clinical knowledge) to collaboratively navigate health challenges (Griva et al. <xref rid="jorc70055-bib-0018" ref-type="bibr">2013</xref>). However, systemic barriers such as clinician shortages, time constraints, and insufficient training in behaviour change strategies or motivational interviewing can significantly limit the support patients receive (Årestedt et al. <xref rid="jorc70055-bib-0003" ref-type="bibr">2020</xref>; Hong et al. <xref rid="jorc70055-bib-0025" ref-type="bibr">2017</xref>; Lo et al. <xref rid="jorc70055-bib-0032" ref-type="bibr">2016</xref>). Consistent with existing literature, our study found that poor clinician‐patient relationships undermine shared decision‐making, reduce patient trust in the healthcare system, and diminish motivation to adhere to clinician recommendations (Escudero‐Lopez et al. <xref rid="jorc70055-bib-0014" ref-type="bibr">2024</xref>; Ladin et al. <xref rid="jorc70055-bib-0029" ref-type="bibr">2017</xref>). Incorporating routine assessment of patient activation in clinical settings may help identify patients who would benefit most from targeted, patient‐centred interventions. A tailored, activation‐guided self‐management program could provide a scalable, effective approach to addressing systemic limitations and improving CKD outcomes.</p></sec><sec id="jorc70055-sec-0420"><label>5</label><title>Implications for Clinical Practice</title><p>Our findings point to several practical opportunities to strengthen support for CKD self‐management. First, routinely assessment of patient readiness and activation (e.g., confidence, information needs, emotional burden) could enable education to be better tailored, rather than relying primarily on standardised printed resources. Second, earlier and stage‐appropriate access to multidisciplinary input (dietician/pharmacist and psychosocial support) may help address perceived gaps in guidance prior to KRT initiation. Third, fostering relational care by minimising jargon, using teach‐back, and incorporating patient goals into shared decision‐making may strengthen trust and patients' perceived control. Finally, embedding routine screening and referral pathways for distress may address the emotional burden which can otherwise reducethe capacity to engage in self‐management behavior.</p></sec><sec id="jorc70055-sec-0430"><label>6</label><title>Strengths and Limitations</title><p>A key strength of this study is its consumer‐led design, with people living with CKD involved throughout the research process. This enhanced cultural authenticity and ensured that findings reflected lived experience. Additional strengths include the use of mixed consumer–clinician focus groups, which enabled exploration of shared and divergent perspectives, and the use of reflexive thematic analysis supported by a multi‐disciplinary team. Additionally, the diversity of participants in terms of age and socio‐economic background further enriched the findings. Limitations include the composition of the consumer sample. Only one participant was not yet receiving KRT at the time of data collection, all other participants had progressed to receiving KRT therapy. As such, insights relating to pre‐KRT self‐management are primarily retrospective and should be interpreted cautiously. Future research should prioritise the inclusion of patients currently in earlier stages of CKD to more fully capture prospective pre‐KRT self‐management needs. Additional limitations include the single‐site South Australian context, which may limit transferability to regions with different service structures. Mixed groups (consumer and clinician) may have introduced some degree of social desirability bias, although this was mitigated by consumer co‐facilitators and explicit group agreements. While the sample captured variation in CKD stage and background, men were over‐represented, and very late‐stage CKD participants were under‐represented, which may limit insight into advanced‐stage experiences. As with all qualitative research, findings reflect interpretive co‐construction between participants and researchers, although this was strengthened by member checking and reflexive practice.</p></sec><sec sec-type="conclusions" id="jorc70055-sec-0440"><label>7</label><title>Conclusion</title><p>This study identified six themes to describe what helped and hindered patients from actively engaging in CKD self‐management, informed by participants' retrospective reflections on earlier stages of their CKD journey. Within these themes, participants identified several enablers including a positive mindset to overcome the health changes associated with their CKD progression and the importance of having the caregiver's support. Conversely, effective communication between clinician ‐patient using a person‐centred care approach based on trust and good communication emerged as essential to empower patients to take a more effective role to self‐manage their CKD. Key patient barriers identified in this study included the mental, physical and treatment burden associated with the CKD journey and insufficient communication with didactic advice by clinicians. This study provides new insights into the emotional, informational, relational, and system‐level factors shaping CKD self‐management among adults not yet receiving KRT. A consumer‐led approach revealed how personal readiness, emotional burden, service fragmentation, and the quality of patient–clinician relationships influence patients' ability to manage their condition. Improving self‐management support will require tailored education, integrated psychosocial care, and organisational changes that strengthen relational and communication‐based practices.</p></sec><sec id="jorc70055-sec-0450"><title>Author Contributions</title><p>L.E.L. conceived the study and designed it in collaboration with M.B., D.B., R.B., D.M., R.L., E.J., renal consumers with over 20 years of CKD lived experience, and P.N.B., L.A.M., R.K.L.L., and S.M., highly qualified. R.B., E.J., D.M., P.N.B. and L.A.M. conducted the interview. L.E.L. and R.L. transcribed the interviews. L.E.L., P.N.B. and L.A.M. coded the data and R.L. reviewed the data. Initial drafts of the manuscript were written by L.E.L., which was reviewed and edited by L.A.M., P.N.B., R.L., D.D., A.B. and S.J. All authors contributed to the study and approved the final manuscript.</p></sec><sec id="jorc70055-sec-0470"><title>Ethics Statement</title><p>The study protocol was approved by the CALHN research committee (reference number 19031) and the institutional review board at the University of South Australia (Human Research Ethics Application ID 206246). This study was registered with the Australian New Zealand Clinical Trials Registry (ANZCRT) # 12625000136404.</p></sec><sec sec-type="COI-statement" id="jorc70055-sec-0480"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jorc70055-suppl-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Supplementary Material 1.</bold> Consolidated Criteria for Reporting Qualitative Research (COREQ) Checklist.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JORC-52-0-s001.docx" position="float" orientation="portrait"/></supplementary-material><supplementary-material id="jorc70055-suppl-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>Supplementary_Material_Interview_Guide.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JORC-52-0-s002.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="jorc70055-sec-0460"><title>Acknowledgements</title><p>The authors would like to thank the study participants for their time and input. This project was funded by The Hospital Research Foundation (My IP 19251). DD was funded by an Australian Research Council (ARC) Discovery Early Career Award (DECRA) DE230101174 and the National Health and Medical Research Council (GNT2042383). Open access publishing facilitated by Adelaide University, as part of the Wiley ‐ Adelaide University agreement via the Council of Australasian University Librarians.</p></ack><sec sec-type="data-availability" id="jorc70055-sec-0500"><title>Data Availability Statement</title><p>The data supporting the findings of this study are available from the corresponding author upon reasonable request. The data are not publicly available due to privacy or ethical restrictions.</p></sec><ref-list content-type="cited-references" id="jorc70055-bibl-0001"><title>References</title><ref id="jorc70055-bib-0001"><mixed-citation publication-type="journal" id="jorc70055-cit-0001">
+<string-name name-style="western">
+<surname>Ahmed</surname>, <given-names>S. K.</given-names>
+</string-name>
+<year>2024</year>. “<article-title>The Pillars of Trustworthiness in Qualitative Research</article-title>.” <source>Journal of Medicine, Surgery, and Public Health</source>
+<volume>2</volume>: <elocation-id>100051</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.glmedi.2024.100051</pub-id>.</mixed-citation></ref><ref id="jorc70055-bib-0002"><mixed-citation publication-type="journal" id="jorc70055-cit-0002">
+<string-name name-style="western">
+<surname>Allen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Nakonechnyi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Phan</surname>
+</string-name>, et al. <year>2024</year>. “<article-title>Exploring Patient Needs and Preferences in CKD Education: A Cross‐Sectional Survey Study</article-title>.” <source>Kidney</source>
+<volume>360</volume>, no. <issue>5</issue>: <fpage>3</fpage>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://journals.lww.com/kidney360/fulltext/2024/03000/exploring_patient_needs_and_preferences_in_ckd.3.aspx" ext-link-type="uri">https://journals.lww.com/kidney360/fulltext/2024/03000/exploring_patient_needs_and_preferences_in_ckd.3.aspx</ext-link>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.34067/KID.0000000000000369</pub-id><pub-id pub-id-type="pmcid">PMC11000739</pub-id><pub-id pub-id-type="pmid">38270895</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0003"><mixed-citation publication-type="journal" id="jorc70055-cit-0003">
+<string-name name-style="western">
+<surname>Årestedt</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Martinsson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Hjelm</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Uhlin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Eldh</surname>
+</string-name>. <year>2020</year>. “<article-title>Context Factors Facilitating and Hindering Patient Participation in Dialysis Care: A Focus Group Study With Patients and Staff</article-title>.” <source>Worldviews on Evidence‐Based Nursing</source>
+<volume>17</volume>, no. <issue>6</issue>: <fpage>457</fpage>–<lpage>464</lpage>. <pub-id pub-id-type="doi">10.1111/wvn.12452</pub-id>.<pub-id pub-id-type="pmid">32696513</pub-id>
+</mixed-citation></ref><ref id="jorc70055-bib-0004"><mixed-citation publication-type="journal" id="jorc70055-cit-0004">
+<string-name name-style="western">
+<surname>Braun</surname>, <given-names>V.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Clarke</surname>
+</string-name>. <year>2019</year>. “<article-title>Reflecting on Reflexive Thematic Analysis</article-title>.” <source>Qualitative Research in Sport, Exercise and Health</source>
+<volume>11</volume>: <fpage>589</fpage>–<lpage>597</lpage>.</mixed-citation></ref><ref id="jorc70055-bib-0005"><mixed-citation publication-type="journal" id="jorc70055-cit-0005">
+<string-name name-style="western">
+<surname>Byrne</surname>, <given-names>D.</given-names>
+</string-name>
+<year>2022</year>. “<article-title>A Worked Example of Braun and Clarke's Approach to Reflexive Thematic Analysis</article-title>.” <source>Quality &amp; Quantity</source>
+<volume>56</volume>, no. <issue>3</issue>: <fpage>1391</fpage>–<lpage>1412</lpage>. <pub-id pub-id-type="doi">10.1007/s11135-021-01182-y</pub-id>.</mixed-citation></ref><ref id="jorc70055-bib-0006"><mixed-citation publication-type="journal" id="jorc70055-cit-0006">
+<string-name name-style="western">
+<surname>Byrne</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R. K. J.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Wu</surname>
+</string-name>, et al. <year>2023</year>. “<article-title>Prosocial Interventions and Health Outcomes: A Systematic Review and Meta‐Analysis</article-title>.” <source>JAMA Network Open</source>
+<volume>6</volume>, no. <issue>12</issue>: <elocation-id>e2346789</elocation-id>. <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2023.46789</pub-id>.<pub-id pub-id-type="pmid">38064214</pub-id>
+<pub-id pub-id-type="pmcid">PMC10709779</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0007"><mixed-citation publication-type="journal" id="jorc70055-cit-0007">
+<string-name name-style="western">
+<surname>Cardol</surname>, <given-names>C. K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Meuleman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>van Middendorp</surname>
+</string-name>, et al. <year>2023</year>. “<article-title>Psychological Distress and Self‐Management in CKD: A Cross‐Sectional Study</article-title>.” <source>Kidney Medicine</source>
+<volume>5</volume>, no. <issue>10</issue>: <elocation-id>100712</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.xkme.2023.100712</pub-id>.<pub-id pub-id-type="pmid">37753249</pub-id>
+<pub-id pub-id-type="pmcid">PMC10518713</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0008"><mixed-citation publication-type="journal" id="jorc70055-cit-0008">
+<string-name name-style="western">
+<surname>Cazzolli</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Sluiter</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Bateman</surname>
+</string-name>, et al. <year>2024</year>. “<article-title>Improving Diverse and Equitable Involvement of Patients and Caregivers in Research in CKD: Report of a Better Evidence and Translation‐Chronic Kidney Disease (BEAT‐CKD) Workshop</article-title>.” <source>American Journal of Kidney Diseases</source>
+<volume>84</volume>, no. <issue>4</issue>: <fpage>482</fpage>–<lpage>494</lpage>. <pub-id pub-id-type="doi">10.1053/j.ajkd.2024.03.026</pub-id>.<pub-id pub-id-type="pmid">38810688</pub-id>
+</mixed-citation></ref><ref id="jorc70055-bib-0009"><mixed-citation publication-type="journal" id="jorc70055-cit-0009">
+<string-name name-style="western">
+<surname>Chen</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y. F.</given-names>
+<surname>Tsai</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I. W.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. C.</given-names>
+<surname>Lee</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. S.</given-names>
+<surname>Wu</surname>
+</string-name>. <year>2011</year>. “<article-title>The Impact of Self‐Management Support on the Progression of Chronic Kidney Disease—A Prospective Randomized Controlled Trial</article-title>.” <source>Nephrology Dialysis Transplantation</source>
+<volume>26</volume>, no. <issue>11</issue>: <fpage>3560</fpage>–<lpage>3566</lpage>. <pub-id pub-id-type="doi">10.1093/ndt/gfr047</pub-id>.<pub-id pub-id-type="pmid">21414969</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0010"><mixed-citation publication-type="journal" id="jorc70055-cit-0010">
+<string-name name-style="western">
+<surname>Deng</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Guo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Liu</surname>
+</string-name>, et al. <year>2025</year>. “<article-title>Global, Regional, and National Burden of Chronic Kidney Disease and Its Underlying Etiologies From 1990 to 2021: A Systematic Analysis for the Global Burden of Disease Study 2021</article-title>.” <source>BMC Public Health</source>
+<volume>25</volume>, no. <issue>1</issue>: <fpage>636</fpage>. <pub-id pub-id-type="doi">10.1186/s12889-025-21851-z</pub-id>.<pub-id pub-id-type="pmid">39962443</pub-id>
+<pub-id pub-id-type="pmcid">PMC11831764</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0011"><mixed-citation publication-type="journal" id="jorc70055-cit-0011">
+<string-name name-style="western">
+<surname>Devins</surname>, <given-names>G. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D. C.</given-names>
+<surname>Mendelssohn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. E.</given-names>
+<surname>Barré</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y. M.</given-names>
+<surname>Binik</surname>
+</string-name>. <year>2003</year>. “<article-title>Predialysis Psychoeducational Intervention and Coping Styles Influence Time to Dialysis in Chronic Kidney Disease</article-title>.” <source>American Journal of Kidney Diseases</source>
+<volume>42</volume>, no. <issue>4</issue>: <fpage>693</fpage>–<lpage>703</lpage>. <pub-id pub-id-type="doi">10.1016/s0272-6386(03)00835-7</pub-id>.<pub-id pub-id-type="pmid">14520619</pub-id>
+</mixed-citation></ref><ref id="jorc70055-bib-0012"><mixed-citation publication-type="journal" id="jorc70055-cit-0012">
+<string-name name-style="western">
+<surname>Dineen‐Griffin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Garcia‐Cardenas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Williams</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. I.</given-names>
+<surname>Benrimoj</surname>
+</string-name>. <year>2019</year>. “<article-title>Helping Patients Help Themselves: A Systematic Review of Self‐Management Support Strategies in Primary Health Care Practice</article-title>.” <source>PLoS One</source>
+<volume>14</volume>, no. <issue>8</issue>: <elocation-id>e0220116</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0220116</pub-id>.<pub-id pub-id-type="pmid">31369582</pub-id>
+<pub-id pub-id-type="pmcid">PMC6675068</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0013"><mixed-citation publication-type="journal" id="jorc70055-cit-0013">
+<string-name name-style="western">
+<surname>Donald</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B. K.</given-names>
+<surname>Kahlon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Beanlands</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>Self‐Management Interventions for Adults With Chronic Kidney Disease: A Scoping Review</article-title>.” <source>BMJ Open</source>
+<volume>8</volume>, no. <issue>3</issue>: <elocation-id>e019814</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjopen-2017-019814</pub-id>.<pub-id pub-id-type="pmcid">PMC5875600</pub-id><pub-id pub-id-type="pmid">29567848</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0014"><mixed-citation publication-type="journal" id="jorc70055-cit-0014">
+<string-name name-style="western">
+<surname>Escudero‐Lopez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Martinez‐Andres</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Marcilla‐Toribio</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Moratalla‐Cebrian</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Perez‐Moreno</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Bartolome‐Gutierrez</surname>
+</string-name>. <year>2024</year>. “<article-title>Barriers and Facilitators in Self‐Care and Management of Chronic Kidney Disease in Dialysis Patients: A Systematic Review of Qualitative Studies</article-title>.” <source>Journal of Clinical Nursing</source>
+<volume>33</volume>, no. <issue>10</issue>: <fpage>3815</fpage>–<lpage>3830</lpage>. <pub-id pub-id-type="doi">10.1111/jocn.17193</pub-id>.<pub-id pub-id-type="pmid">38716807</pub-id>
+</mixed-citation></ref><ref id="jorc70055-bib-0015"><mixed-citation publication-type="journal" id="jorc70055-cit-0015">
+<string-name name-style="western">
+<surname>Evans</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R. D.</given-names>
+<surname>Lewis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. R.</given-names>
+<surname>Morgan</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>A Narrative Review of Chronic Kidney Disease in Clinical Practice: Current Challenges and Future Perspectives</article-title>.” <source>Advances in Therapy</source>
+<volume>39</volume>, no. <issue>1</issue>: <fpage>33</fpage>–<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1007/s12325-021-01927-z</pub-id>.<pub-id pub-id-type="pmid">34739697</pub-id>
+<pub-id pub-id-type="pmcid">PMC8569052</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0016"><mixed-citation publication-type="journal" id="jorc70055-cit-0016">
+<string-name name-style="western">
+<surname>Fracso</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Bourrel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Jorgensen</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>The Chronic Disease Self‐Management Programme: A Phenomenological Study for Empowering Vulnerable Patients With Chronic Diseases Included in the EFFICHRONIC Project</article-title>.” <source>Health Expectations</source>
+<volume>25</volume>, no. <issue>3</issue>: <fpage>947</fpage>–<lpage>958</lpage>. <pub-id pub-id-type="doi">10.1111/hex.13430</pub-id>.<pub-id pub-id-type="pmid">35014112</pub-id>
+<pub-id pub-id-type="pmcid">PMC9122418</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0017"><mixed-citation publication-type="journal" id="jorc70055-cit-0017">
+<string-name name-style="western">
+<surname>Gao</surname>, <given-names>Y. L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. X.</given-names>
+<surname>Shen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>X. M.</given-names>
+<surname>Hou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. P.</given-names>
+<surname>Si</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. H.</given-names>
+<surname>Zhu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Z. L.</given-names>
+<surname>Shi</surname>
+</string-name>. <year>2025</year>. “<article-title>The Factors Influencing Self‐Management in Patients With Depression: A Qualitative Research From China</article-title>.” <source>BMC Psychiatry</source>
+<volume>25</volume>, no. <issue>1</issue>: <fpage>48</fpage>. <pub-id pub-id-type="doi">10.1186/s12888-025-06489-w</pub-id>.<pub-id pub-id-type="pmid">39825246</pub-id>
+<pub-id pub-id-type="pmcid">PMC11742202</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0018"><mixed-citation publication-type="journal" id="jorc70055-cit-0018">
+<string-name name-style="western">
+<surname>Griva</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H. J.</given-names>
+<surname>Ng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Loei</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Mooppil</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>McBain</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. P.</given-names>
+<surname>Newman</surname>
+</string-name>. <year>2013</year>. “<article-title>Managing Treatment for End‐Stage Renal Disease‐‐A Qualitative Study Exploring Cultural Perspectives on Facilitators and Barriers to Treatment Adherence</article-title>.” <source>Psychology &amp; Health</source>
+<volume>28</volume>, no. <issue>1</issue>: <fpage>13</fpage>–<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1080/08870446.2012.703670</pub-id>.<pub-id pub-id-type="pmid">22780853</pub-id>
+</mixed-citation></ref><ref id="jorc70055-bib-0019"><mixed-citation publication-type="journal" id="jorc70055-cit-0019">
+<string-name name-style="western">
+<surname>Guerra</surname>, <given-names>F.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Di Giacomo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ranieri</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Tunno</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Piscitani</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Ferri</surname>
+</string-name>. <year>2021</year>. “<article-title>Chronic Kidney Disease and Its Relationship With Mental Health: Allostatic Load Perspective for Integrated Care</article-title>.” <source>Journal of Personalized Medicine</source>
+<volume>11</volume>, no. <issue>12</issue>: <elocation-id>1367</elocation-id>. <pub-id pub-id-type="doi">10.3390/jpm11121367</pub-id>.<pub-id pub-id-type="pmid">34945839</pub-id>
+<pub-id pub-id-type="pmcid">PMC8705378</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0020"><mixed-citation publication-type="journal" id="jorc70055-cit-0020">
+<string-name name-style="western">
+<surname>Guha</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Viecelli</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Wong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Manera</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Tong</surname>
+</string-name>. <year>2021</year>. “<article-title>Qualitative Research Methods and Its Application in Nephrology</article-title>.” <source>Nephrology</source>
+<volume>26</volume>, no. <issue>10</issue>: <fpage>755</fpage>–<lpage>762</lpage>. <pub-id pub-id-type="doi">10.1111/nep.13888</pub-id>.<pub-id pub-id-type="pmid">33951266</pub-id>
+</mixed-citation></ref><ref id="jorc70055-bib-0021"><mixed-citation publication-type="journal" id="jorc70055-cit-0021">
+<string-name name-style="western">
+<surname>Havas</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Douglas</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bonner</surname>
+</string-name>. <year>2017</year>. “<article-title>Person‐Centred Care in Chronic Kidney Disease: A Cross‐Sectional Study of Patients' Desires for Self‐Management Support</article-title>.” <source>BMC Nephrology</source>
+<volume>18</volume>, no. <issue>1</issue>: <fpage>17</fpage>. <pub-id pub-id-type="doi">10.1186/s12882-016-0416-2</pub-id>.<pub-id pub-id-type="pmid">28086812</pub-id>
+<pub-id pub-id-type="pmcid">PMC5237219</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0022"><mixed-citation publication-type="miscellaneous" id="jorc70055-cit-0022">
+<collab collab-type="authors">Health, A. I. o., and Welfare</collab>
+. <year>2024</year>. “Chronic Kidney Disease: Australian Facts.” <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.aihw.gov.au/reports/chronic-kidney-disease/chronic-kidney-disease" ext-link-type="uri">https://www.aihw.gov.au/reports/chronic-kidney-disease/chronic-kidney-disease</ext-link>.</mixed-citation></ref><ref id="jorc70055-bib-0023"><mixed-citation publication-type="journal" id="jorc70055-cit-0023">
+<string-name name-style="western">
+<surname>Hennink</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>B. N.</given-names>
+<surname>Kaiser</surname>
+</string-name>. <year>2022</year>. “<article-title>Sample Sizes for Saturation in Qualitative Research: A Systematic Review of Empirical Tests</article-title>.” <source>Social Science &amp; Medicine (1982)</source>
+<volume>292</volume>: <elocation-id>114523</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.socscimed.2021.114523</pub-id>.<pub-id pub-id-type="pmid">34785096</pub-id>
+</mixed-citation></ref><ref id="jorc70055-bib-0025"><mixed-citation publication-type="journal" id="jorc70055-cit-0025">
+<string-name name-style="western">
+<surname>Hong</surname>, <given-names>L. I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. Y.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Mohamed</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H. C.</given-names>
+<surname>Chen</surname>
+</string-name>. <year>2017</year>. “<article-title>Dietary and Fluid Restriction Perceptions of Patients Undergoing Haemodialysis: An Exploratory Study</article-title>.” <source>Journal of Clinical Nursing</source>
+<volume>26</volume>, no. <issue>21–22</issue>: <fpage>3664</fpage>–<lpage>3676</lpage>. <pub-id pub-id-type="doi">10.1111/jocn.13739</pub-id>.<pub-id pub-id-type="pmid">28122399</pub-id>
+</mixed-citation></ref><ref id="jorc70055-bib-0026"><mixed-citation publication-type="journal" id="jorc70055-cit-0026">
+<string-name name-style="western">
+<surname>Hussein</surname>, <given-names>W. F.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P. N.</given-names>
+<surname>Bennett</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Abra</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Watson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Schiller</surname>
+</string-name>. <year>2022</year>. “<article-title>Integrating Patient Activation Into Dialysis Care</article-title>.” <source>American Journal of Kidney Diseases</source>
+<volume>79</volume>: <fpage>105</fpage>–<lpage>112</lpage>. <pub-id pub-id-type="doi">10.1053/j.ajkd.2021.07.015</pub-id>.<pub-id pub-id-type="pmid">34461165</pub-id>
+</mixed-citation></ref><ref id="jorc70055-bib-0027"><mixed-citation publication-type="journal" id="jorc70055-cit-0027">
+<string-name name-style="western">
+<surname>Hwang</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N. C.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Yoon</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>Perceived Barriers and Facilitators to Chronic Kidney Disease Care Among Patients in Singapore: A Qualitative Study</article-title>.” <source>BMJ Open</source>
+<volume>10</volume>, no. <issue>10</issue>: <elocation-id>e041788</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmjopen-2020-041788</pub-id>.<pub-id pub-id-type="pmcid">PMC7569996</pub-id><pub-id pub-id-type="pmid">33067304</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0028"><mixed-citation publication-type="miscellaneous" id="jorc70055-cit-0028">
+<collab collab-type="authors">Kidney Health Australia</collab>
+. <year>2020</year>. <italic toggle="yes">Chronic Kidney Disease (CKD) Management in Primary Care</italic>, <edition>4th ed</edition>.</mixed-citation></ref><ref id="jorc70055-bib-0029"><mixed-citation publication-type="journal" id="jorc70055-cit-0029">
+<string-name name-style="western">
+<surname>Ladin</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Hahn</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Koch‐Weser</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Weiner</surname>
+</string-name>. <year>2017</year>. “<article-title>Engagement in Decision‐Making and Patient Satisfaction: A Qualitative Study of Older Patients' Perceptions of Dialysis Initiation and Modality Decisions</article-title>.” <source>Nephrology Dialysis Transplantation</source>
+<volume>32</volume>, no. <issue>8</issue>: <fpage>1394</fpage>–<lpage>1401</lpage>. <pub-id pub-id-type="doi">10.1093/ndt/gfw307</pub-id>.<pub-id pub-id-type="pmcid">PMC5837335</pub-id><pub-id pub-id-type="pmid">27576590</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0030"><mixed-citation publication-type="journal" id="jorc70055-cit-0030">
+<string-name name-style="western">
+<surname>Lee</surname>, <given-names>E. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. K.</given-names>
+<surname>Chang</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>Y. C.</given-names>
+<surname>Chung</surname>
+</string-name>. <year>2021</year>. “<article-title>Socioecological Factors Affecting Fluid Restriction Adherence Among Korean Patients Receiving Hemodialysis: A Qualitative Study</article-title>.” <source>Journal of Transcultural Nursing</source>
+<volume>32</volume>, no. <issue>3</issue>: <fpage>239</fpage>–<lpage>247</lpage>. <pub-id pub-id-type="doi">10.1177/1043659620919162</pub-id>.<pub-id pub-id-type="pmid">32384013</pub-id>
+</mixed-citation></ref><ref id="jorc70055-bib-0031"><mixed-citation publication-type="journal" id="jorc70055-cit-0031">
+<string-name name-style="western">
+<surname>Lightfoot</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Nair</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. N.</given-names>
+<surname>Bennett</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Patient Activation: The Cornerstone of Effective Self‐Management in Chronic Kidney Disease?</article-title>” <source>Kidney and Dialysis</source>
+<volume>2</volume>, no. <issue>1</issue>: <fpage>91</fpage>–<lpage>105</lpage>. <pub-id pub-id-type="doi">10.3390/kidneydial2010012</pub-id>.<pub-id pub-id-type="pmid">37101653</pub-id>
+<pub-id pub-id-type="pmcid">PMC10127536</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0032"><mixed-citation publication-type="journal" id="jorc70055-cit-0032">
+<string-name name-style="western">
+<surname>Lo</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Ilic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Teede</surname>
+</string-name>, et al. <year>2016</year>. “<article-title>The Perspectives of Patients on Health‐Care for Co‐Morbid Diabetes and Chronic Kidney Disease: A Qualitative Study</article-title>.” <source>PLoS One</source>
+<volume>11</volume>, no. <issue>1</issue>: <elocation-id>e0146615</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0146615</pub-id>.<pub-id pub-id-type="pmid">26730708</pub-id>
+<pub-id pub-id-type="pmcid">PMC4701448</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0033"><mixed-citation publication-type="journal" id="jorc70055-cit-0033">
+<string-name name-style="western">
+<surname>Lopez‐Vargas</surname>, <given-names>P. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Tong</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R. K.</given-names>
+<surname>Phoon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Chadban</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Shen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Craig</surname>
+</string-name>. <year>2014</year>. “<article-title>Knowledge Deficit of Patients With Stage 1‐4 CKD: A Focus Group Study</article-title>.” <source>Nephrology</source>
+<volume>19</volume>, no. <issue>4</issue>: <fpage>234</fpage>–<lpage>243</lpage>. <pub-id pub-id-type="doi">10.1111/nep.12206</pub-id>.<pub-id pub-id-type="pmid">24428274</pub-id>
+</mixed-citation></ref><ref id="jorc70055-bib-0034"><mixed-citation publication-type="journal" id="jorc70055-cit-0034">
+<string-name name-style="western">
+<surname>Lunardi</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hill</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Xu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Le Leu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. N.</given-names>
+<surname>Bennett</surname>
+</string-name>. <year>2023</year>. “<article-title>The Effectiveness of Patient Activation Interventions in Adults With Chronic Kidney Disease: A Systematic Review and Meta‐Analysis</article-title>.” <source>Worldviews on Evidence‐Based Nursing</source>
+<volume>20</volume>, no. <issue>3</issue>: <fpage>238</fpage>–<lpage>258</lpage>. <pub-id pub-id-type="doi">10.1111/wvn.12634</pub-id>.<pub-id pub-id-type="pmid">36906914</pub-id>
+</mixed-citation></ref><ref id="jorc70055-bib-0035"><mixed-citation publication-type="journal" id="jorc70055-cit-0035">
+<string-name name-style="western">
+<surname>Lunardi</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>K. Le Leu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. A.</given-names>
+<surname>Matricciani</surname>
+</string-name>, et al. <year>2024</year>. “<article-title>Patient Activation in Advanced Chronic Kidney Disease: A Cross‐Sectional Study</article-title>.” <source>Journal of Nephrology</source>
+<volume>37</volume>, no. <issue>2</issue>: <fpage>343</fpage>–<lpage>352</lpage>. <pub-id pub-id-type="doi">10.1007/s40620-023-01847-x</pub-id>.<pub-id pub-id-type="pmid">38345687</pub-id>
+<pub-id pub-id-type="pmcid">PMC11043190</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0036"><mixed-citation publication-type="journal" id="jorc70055-cit-0036">
+<string-name name-style="western">
+<surname>Magadi</surname>, <given-names>W.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C. J.</given-names>
+<surname>Lightfoot</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. E.</given-names>
+<surname>Memory</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Patient Activation and Its Association With Symptom Burden and Quality of Life Across the Spectrum of Chronic Kidney Disease Stages in England</article-title>.” <source>BMC Nephrology</source>
+<volume>23</volume>, no. <issue>1</issue>: <fpage>45</fpage>. <pub-id pub-id-type="doi">10.1186/s12882-022-02679-w</pub-id>.<pub-id pub-id-type="pmid">35081904</pub-id>
+<pub-id pub-id-type="pmcid">PMC8793272</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0037"><mixed-citation publication-type="journal" id="jorc70055-cit-0037">
+<string-name name-style="western">
+<surname>Majeed‐Ariss</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Jayanti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Schulz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Wearden</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mitra</surname>
+</string-name>. <year>2017</year>. “<article-title>The Anticipated and the Lived Experience of Home and In‐Centre Haemodialysis: Is There a Disconnect?</article-title>” <source>Journal of Health Psychology</source>
+<volume>22</volume>, no. <issue>12</issue>: <fpage>1524</fpage>–<lpage>1533</lpage>. <pub-id pub-id-type="doi">10.1177/1359105316630135</pub-id>.<pub-id pub-id-type="pmid">26962130</pub-id>
+</mixed-citation></ref><ref id="jorc70055-bib-0038"><mixed-citation publication-type="miscellaneous" id="jorc70055-cit-0038">
+<collab collab-type="authors">National Statement on Ethical Conduct in Human Research</collab>
+. <year>2023</year>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.nhmrc.gov.au/sites/default/files/documents/attachments/publications/National-Statement-Ethical-Conduct-Human-Research-2023.pdf" ext-link-type="uri">https://www.nhmrc.gov.au/sites/default/files/documents/attachments/publications/National-Statement-Ethical-Conduct-Human-Research-2023.pdf</ext-link>.</mixed-citation></ref><ref id="jorc70055-bib-0039"><mixed-citation publication-type="journal" id="jorc70055-cit-0039">
+<string-name name-style="western">
+<surname>Schmill</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Seaton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Greenwood</surname>
+</string-name>, et al. <year>2025</year>. “<article-title>Do Psycho‐Behavioural Interventions Improve Mental and Physical Health in Chronic Kidney Disease? A Systematic Review of Randomised Controlled Trials</article-title>.” <source>Journal of Nephrology</source>
+<volume>38</volume>, no. <issue>8</issue>: <fpage>2155</fpage>–<lpage>2171</lpage>. <pub-id pub-id-type="doi">10.1007/s40620-025-02372-9</pub-id>.<pub-id pub-id-type="pmid">40928635</pub-id>
+<pub-id pub-id-type="pmcid">PMC12630261</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0040"><mixed-citation publication-type="journal" id="jorc70055-cit-0040">
+<string-name name-style="western">
+<surname>Scholes‐Robertson</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Guha</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Gutman</surname>
+</string-name>, et al. <year>2024</year>. “<article-title>Consumer Involvement in the Development and Dissemination of Chronic Kidney Disease Guidelines: A Summary of a Meaningful and Sustainable Approach Developed by Caring for Australians and New Zealanders With Kidney Impairment Guidelines</article-title>.” <source>Journal of Clinical Epidemiology</source>
+<volume>170</volume>: <elocation-id>111330</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.jclinepi.2024.111330</pub-id>.<pub-id pub-id-type="pmid">38537911</pub-id>
+</mixed-citation></ref><ref id="jorc70055-bib-0041"><mixed-citation publication-type="journal" id="jorc70055-cit-0041">
+<string-name name-style="western">
+<surname>Schrauben</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. Y.</given-names>
+<surname>Hsu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. E.</given-names>
+<surname>Rosas</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>CKD Self‐Management: Phenotypes and Associations With Clinical Outcomes</article-title>.” <source>American Journal of Kidney Diseases</source>
+<volume>72</volume>, no. <issue>3</issue>: <fpage>360</fpage>–<lpage>370</lpage>. <pub-id pub-id-type="doi">10.1053/j.ajkd.2018.01.047</pub-id>.<pub-id pub-id-type="pmid">29580660</pub-id>
+<pub-id pub-id-type="pmcid">PMC6109611</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0042"><mixed-citation publication-type="journal" id="jorc70055-cit-0042">
+<string-name name-style="western">
+<surname>Schrauben</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Rivera</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Bocage</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>A Qualitative Study of Facilitators and Barriers to Self‐Management of CKD</article-title>.” <source>Kidney International Reports</source>
+<volume>7</volume>, no. <issue>1</issue>: <fpage>46</fpage>–<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1016/j.ekir.2021.10.021</pub-id>.<pub-id pub-id-type="pmid">35005313</pub-id>
+<pub-id pub-id-type="pmcid">PMC8720654</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0043"><mixed-citation publication-type="journal" id="jorc70055-cit-0043">
+<string-name name-style="western">
+<surname>Stenvinkel</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Fouque</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Wanner</surname>
+</string-name>. <year>2020</year>. “<article-title>Life/2020—the Future of Kidney Disease</article-title>.” Supplement, <source>Nephrology Dialysis Transplantation</source>
+<volume>35</volume>, no. <issue>S2</issue>: <fpage>ii1</fpage>–<lpage>ii3</lpage>. <pub-id pub-id-type="doi">10.1093/ndt/gfaa028</pub-id>.</mixed-citation></ref><ref id="jorc70055-bib-0044"><mixed-citation publication-type="journal" id="jorc70055-cit-0044">
+<string-name name-style="western">
+<surname>Tong</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Sainsbury</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Carter</surname>
+</string-name>, et al. <year>2008</year>. “<article-title>Patients' Priorities for Health Research: Focus Group Study of Patients With Chronic Kidney Disease</article-title>.” <source>Nephrology Dialysis Transplantation</source>
+<volume>23</volume>, no. <issue>10</issue>: <fpage>3206</fpage>–<lpage>3214</lpage>. <pub-id pub-id-type="doi">10.1093/ndt/gfn207</pub-id>.<pub-id pub-id-type="pmid">18445638</pub-id></mixed-citation></ref><ref id="jorc70055-bib-0045"><mixed-citation publication-type="journal" id="jorc70055-cit-0045">
+<string-name name-style="western">
+<surname>Tong</surname>, <given-names>A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Sainsbury</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Craig</surname>
+</string-name>. <year>2007</year>. “<article-title>Consolidated Criteria for Reporting Qualitative Research (COREQ): A 32‐Item Checklist for Interviews and Focus Groups</article-title>.” <source>International Journal for Quality in Health Care</source>
+<volume>19</volume>, no. <issue>6</issue>: <fpage>349</fpage>–<lpage>357</lpage>. <pub-id pub-id-type="doi">10.1093/intqhc/mzm042</pub-id>.<pub-id pub-id-type="pmid">17872937</pub-id>
+</mixed-citation></ref></ref-list></back></article></pmc-articleset>
