@@ -45,9 +45,7 @@ Both use the **OpenAI-compatible** `/chat/completions` endpoint via raw `request
 
 ---
 
-## Risks from Pipeline SVG
-
-The [lcm_research_pipeline.svg](file:///c:/Users/aashr/Desktop/Projects/LCM-Research/lcm_research_pipeline.svg) identifies these risks:
+## Risks Identified During Design
 
 | Risk | Severity | Description | Status in Notebook |
 |------|----------|-------------|-------------------|
