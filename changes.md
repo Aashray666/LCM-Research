@@ -9,7 +9,7 @@ This document tracks what the current pipeline run achieved, what its limitation
 | Parameter | Current Value | Problem |
 |---|---|---|
 | Training epochs | **1** | Model has not converged — 1 epoch is insufficient |
-| Training pairs | **1,998** | Only ~8% of available chunks used for training |
+| Training pairs | **6,000** | Target reached. Previously 1,998 (~8% of chunks). |
 | Random seeds tested | **1** (seed 42 only) | Single run — no variance estimate |
 | Training device | **CPU** | Slow; no GPU acceleration used |
 | External benchmark | **Skipped** | BEIR/NFCorpus not evaluated |
@@ -149,7 +149,7 @@ These ablations can be run in parallel and form the ablation table in the paper.
 
 ## Summary Checklist
 
-- [/] **Generate 6,000 training pairs** (currently 1,998) — CONFIG updated, re-run Cell 9 to resume generation
+- [x] **Generate 6,000 training pairs** (currently 1,998) — 6000 train / 793 test pairs generated
 - [ ] **Train for 3 epochs** (currently 1) — change CONFIG, re-run Cell 11
 - [ ] **Run 3 seeds** — run Cells 11–13 with seeds 42, 43, 44, report mean ± std
 - [ ] **Run external BEIR benchmark** — set `run_external_benchmark_evaluation: True`, run Cell 14
