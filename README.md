@@ -8,14 +8,13 @@ The primary notebook is **[biomedical_embedding_pipeline_ayan_v1.ipynb](biomedic
 
 ## 📊 Key Results
 
-Fine-tuning `all-MiniLM-L6-v2` on LLM-generated biomedical triplets **outperforms both BioBERT and PubMedBERT** across all query types:
+Fine-tuning `all-MiniLM-L6-v2` on 6,000 LLM-generated biomedical triplets over 3 epochs **outperforms both BioBERT and PubMedBERT** across all query types. Multi-seed stability results (mean ± std over seeds 42, 43, 44):
 
 | Model | Avg MRR | Avg NDCG@10 | Avg Recall@10 |
 |---|---|---|---|
-| **fine_tuned (ours)** | **0.709** | **0.757** | **0.918** |
-| general_baseline (MiniLM) | 0.636 | 0.686 | 0.860 |
-| PubMedBERT | 0.631 | 0.689 | 0.883 |
-| BioBERT | 0.614 | 0.667 | 0.851 |
+| **fine_tuned (ours, multi-seed)** | **0.7669 ± 0.0018** | **0.8099 ± 0.0022** | **0.9492 ± 0.0029** |
+| PubMedBERT | 0.6476 | 0.7051 | 0.8975 |
+| general_baseline (MiniLM) | 0.6473 | 0.6961 | 0.8637 |
 
 ---
 
@@ -57,7 +56,7 @@ The pipeline will:
 - Fine-tune `all-MiniLM-L6-v2` with `MultipleNegativesRankingLoss`
 - Evaluate against BioBERT and PubMedBERT baselines
 
-> **Rate limits:** NVIDIA NIM free tier is ~40 RPM. With 5-chunk batching, ~2,000 training pairs ≈ 2–3 hours of generation. The pipeline checkpoints every 25 pairs and **resumes automatically** if interrupted.
+> **Rate limits:** NVIDIA NIM free tier is ~40 RPM. With 5-chunk batching, ~6,000 training pairs takes several hours of generation. The pipeline checkpoints every 25 pairs and **resumes automatically** if interrupted.
 
 ---
 
@@ -96,7 +95,7 @@ LCM-Research/
 │   ├── raw_papers/          # 297 source PMC XML papers
 │   ├── processed_chunks/    # chunks.csv — 24,166 extracted passages
 │   ├── splits/              # paper_split.json — train/test paper IDs
-│   └── synthetic_pairs/     # train_pairs.csv (1,998) + test_pairs.csv (498)
+│   └── synthetic_pairs/     # train_pairs.csv (6,000) + test_pairs.csv (800)
 ├── models/
 │   ├── all-MiniLM-L6-v2/           # Base model (cached locally)
 │   ├── BioBERT-sentence-baseline/  # BioBERT baseline (cached)

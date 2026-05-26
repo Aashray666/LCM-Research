@@ -59,8 +59,8 @@ This design isolates the effect of domain adaptation from architecture differenc
 
 | Split | Pairs | Method |
 |---|---|---|
-| Train | 1,998 | LLM (5 chunks/call), 4 personas, TF-IDF hard negatives |
-| Test | 498 | Same method, held-out papers only |
+| Train | 6,000 | LLM (5 chunks/call), 4 personas, TF-IDF hard negatives, 3 epochs |
+| Test | 800 | Same method, held-out papers only |
 
 Query personas: **Factual, Conversational, Keyword Search, Multi-Hop** (balanced).
 
@@ -91,30 +91,28 @@ The experiment runs through a 16-step Jupyter Notebook (`biomedical_embedding_pi
 
 ## 7. Results ✅
 
-### Average Retrieval Metrics (498 test queries, 4 query types)
+### Average Retrieval Metrics (800 test queries, 4 query types, multi-seed)
 
 | Model | Avg MRR | Avg NDCG@10 | Avg Recall@10 |
 |---|---|---|---|
-| **fine_tuned (ours)** | **0.709** | **0.757** | **0.918** |
-| general_baseline | 0.636 | 0.686 | 0.860 |
-| PubMedBERT | 0.631 | 0.689 | 0.883 |
-| BioBERT | 0.614 | 0.667 | 0.851 |
+| **fine_tuned (ours, multi-seed)** | **0.7669 ± 0.0018** | **0.8099 ± 0.0022** | **0.9492 ± 0.0029** |
+| PubMedBERT | 0.6476 | 0.7051 | 0.8975 |
+| general_baseline | 0.6473 | 0.6961 | 0.8637 |
 
-### Per-Query-Type MRR
+### Per-Query-Type MRR (Fine-Tuned vs PubMedBERT vs General Baseline)
 
-| Model | Factual | Conversational | Keyword | Multi-Hop |
+| Model | Factual | Conversational | Keyword Search | Multi-Hop |
 |---|---|---|---|---|
-| **fine_tuned** | **0.704** | **0.712** | **0.627** | **0.792** |
-| general_baseline | 0.617 | 0.627 | 0.603 | 0.695 |
-| PubMedBERT | 0.593 | 0.631 | 0.604 | 0.697 |
-| BioBERT | 0.566 | 0.612 | 0.574 | 0.704 |
+| **fine_tuned** | **0.7800** | **0.7470** | **0.6998** | **0.8456** |
+| PubMedBERT | 0.5869 | 0.6606 | 0.6070 | 0.7390 |
+| general_baseline | 0.6357 | 0.6257 | 0.6019 | 0.7260 |
 
 ### Key Findings
 
-- The fine-tuned model outperforms the general baseline by **+11.5% MRR** on average
-- The fine-tuned model outperforms PubMedBERT by **+12.4%** and BioBERT by **+15.5%**
-- The largest gains appear on **Factual (+24% over BioBERT)** and **Multi-Hop** queries
-- **Recall@10 exceeds 86%** across all query types for the fine-tuned model
+- The fine-tuned model outperforms the general baseline by **+18.4% MRR** on average (0.7669 vs 0.6473)
+- The fine-tuned model outperforms PubMedBERT by **+18.4% MRR** on average (0.7669 vs 0.6476)
+- The largest gains appear on **Factual (+32.9% over PubMedBERT)** and **Multi-Hop** queries
+- **Recall@10 approaches or exceeds 93%** across all query types for the fine-tuned model
 
 ---
 

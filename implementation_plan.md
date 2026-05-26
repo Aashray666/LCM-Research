@@ -72,7 +72,7 @@ All issues were identified in `biomedical_embedding_pipeline_ayan_v1.ipynb` and 
 
 ---
 
-## ✅ Completed Run — Full Scale (May 2026)
+## ✅ Completed Run — Full Scale (V2 Pipeline, May 2026)
 
 ### Data Produced
 
@@ -81,18 +81,18 @@ All issues were identified in `biomedical_embedding_pipeline_ayan_v1.ipynb` and 
 | Papers processed | 297 PMC XML papers |
 | Chunks extracted | 24,166 (800-char, 150-char overlap) |
 | Train/test split | 238 train papers / 59 test papers |
-| Train pairs | 1,998 triplets |
-| Test pairs | 498 triplets |
+| Train pairs | 6,000 triplets (trained over 3 epochs) |
+| Test pairs | 800 triplets |
 | Generation method | NVIDIA NIM, 5 chunks/call (batched) |
+| Multi-Seed Eval | 3 independent runs (Seeds 42, 43, 44) |
 
-### Evaluation Results (MRR, higher = better)
+### Evaluation Results (Multi-Seed Average)
 
 | Model | Avg MRR | vs Fine-Tuned |
 |---|---|---|
-| **fine_tuned** | **0.709** | — |
-| general_baseline | 0.636 | -10.3% |
-| PubMedBERT | 0.631 | -11.0% |
-| BioBERT | 0.614 | -13.4% |
+| **fine_tuned (multi-seed)** | **0.7669 ± 0.0018** | — |
+| PubMedBERT | 0.6476 | -15.5% |
+| general_baseline | 0.6473 | -15.6% |
 
 ### Output Files Produced
 
@@ -100,11 +100,12 @@ All issues were identified in `biomedical_embedding_pipeline_ayan_v1.ipynb` and 
 |---|---|
 | `data/processed_chunks/chunks.csv` | 24,166 text chunks |
 | `data/splits/paper_split.json` | 238/59 paper split |
-| `data/synthetic_pairs/train_pairs.csv` | 1,998 training triplets |
-| `data/synthetic_pairs/test_pairs.csv` | 498 test triplets |
-| `models/biomedical_embedding_ft/` | Fine-tuned MiniLM checkpoint |
-| `artifacts/biomedical_pipeline/evaluation_results.csv` | Overall metrics |
-| `artifacts/biomedical_pipeline/evaluation_by_query_type.csv` | Per-persona metrics |
-| `artifacts/biomedical_pipeline/biomedical_term_similarity.csv` | Cosine similarity shifts |
-| `artifacts/biomedical_pipeline/umap_baseline_vs_ft.png` | UMAP visualization |
-| `artifacts/biomedical_pipeline/*.index` | FAISS retrieval indices |
+| `data/synthetic_pairs/train_pairs.csv` | 6,000 training triplets |
+| `data/synthetic_pairs/test_pairs.csv` | 800 test triplets |
+| `models/biomedical_embedding_ft_v2/` | Fine-tuned MiniLM checkpoint |
+| `artifacts/biomedical_pipeline_v2/evaluation_results.csv` | Overall metrics |
+| `artifacts/biomedical_pipeline_v2/evaluation_by_query_type.csv` | Per-persona metrics |
+| `artifacts/biomedical_pipeline_v2/biomedical_term_similarity.csv` | Cosine similarity shifts |
+| `artifacts/biomedical_pipeline_v2/umap_baseline_vs_ft.png` | UMAP visualization |
+| `artifacts/biomedical_pipeline_v2/multi_seed_*.csv` | Multi-seed stability metrics |
+| `artifacts/biomedical_pipeline_v2/second_run_detailed_facts.md` | Detailed extracted facts |
